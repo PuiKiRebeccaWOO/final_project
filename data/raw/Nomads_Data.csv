@@ -1,0 +1,1369 @@
+rank;city;country;overall;cost;internet;safety
+1;Bangkok;Thailand;4.0;5.0;2.0;4.0
+2;Da Nang;Vietnam;4.0;5.0;1.0;4.0
+3;Kuala Lumpur;Malaysia;4.0;5.0;2.0;4.0
+4;Cape Town;South Africa;4.0;4.0;1.0;1.0
+5;Buenos Aires;Argentina;3.0;5.0;2.0;3.0
+6;Canggu, Bali;Indonesia;3.0;5.0;2.0;5.0
+7;Melbourne;Australia;3.0;3.0;2.0;5.0
+8;Chiang Mai;Thailand;3.0;5.0;2.0;4.0
+9;Ericeira;Portugal;3.0;3.0;5.0;5.0
+10;Asuncion;Paraguay;3.0;5.0;1.0;3.0
+11;Phuket;Thailand;3.0;5.0;2.0;4.0
+12;Mexico City;Mexico;3.0;5.0;1.0;2.0
+13;Auckland;New Zealand;3.0;3.0;2.0;5.0
+14;Tokyo;Japan;3.0;3.0;2.0;5.0
+15;Weligama;Sri Lanka;3.0;5.0;2.0;4.0
+16;Timisoara;Romania;3.0;4.0;3.0;4.0
+18;Tbilisi;Georgia;3.0;4.0;2.0;4.0
+19;Ljubljana;Slovenia;3.0;3.0;3.0;4.0
+20;Portimao;Portugal;3.0;4.0;2.0;5.0
+21;Ploiesti;Romania;3.0;5.0;3.0;4.0
+22;Lisbon;Portugal;3.0;3.0;2.0;5.0
+23;Hong Kong;Hong Kong;3.0;3.0;5.0;5.0
+24;Seoul;South Korea;3.0;4.0;3.0;5.0
+25;Naha, Okinawa;Japan;3.0;4.0;2.0;5.0
+26;Aveiro;Portugal;3.0;4.0;2.0;5.0
+27;Coimbra;Portugal;3.0;4.0;2.0;5.0
+28;Rio de Janeiro;Brazil;3.0;4.0;1.0;2.0
+29;Athens;Greece;3.0;4.0;1.0;5.0
+30;Valencia;Spain;3.0;3.0;3.0;5.0
+31;Rijeka;Croatia;3.0;5.0;2.0;5.0
+32;Helsinki;Finland;3.0;3.0;2.0;4.0
+33;Wrocaw;Poland;3.0;4.0;2.0;5.0
+34;Tallinn;Estonia;3.0;4.0;3.0;4.0
+35;Singapore;Singapore;3.0;2.0;5.0;5.0
+36;Pokhara;Nepal;3.0;5.0;2.0;4.0
+37;Denver, CO;United States;3.0;2.0;5.0;3.0
+38;Krakow;Poland;3.0;4.0;3.0;5.0
+39;Warsaw;Poland;3.0;4.0;2.0;5.0
+40;Berlin;Germany;3.0;3.0;2.0;5.0
+41;Nis;Serbia;3.0;5.0;4.0;4.0
+42;Munich;Germany;3.0;2.0;2.0;5.0
+43;Daejeon;South Korea;3.0;5.0;3.0;5.0
+44;Sydney;Australia;3.0;3.0;2.0;5.0
+45;Ko Pha Ngan;Thailand;3.0;4.0;2.0;4.0
+46;Zadar;Croatia;3.0;4.0;2.0;5.0
+47;Alicante;Spain;3.0;3.0;2.0;5.0
+48;Varna;Bulgaria;3.0;4.0;2.0;4.0
+49;Christchurch;New Zealand;3.0;3.0;2.0;5.0
+50;Lodz;Poland;3.0;4.0;3.0;5.0
+51;Split;Croatia;3.0;4.0;2.0;4.0
+52;Wellington;New Zealand;3.0;3.0;2.0;5.0
+53;Krabi;Thailand;3.0;5.0;2.0;4.0
+54;Prague;Czechia;3.0;3.0;2.0;5.0
+55;Tampere;Finland;3.0;3.0;2.0;4.0
+56;Lublin;Poland;3.0;4.0;2.0;5.0
+57;Vilnius;Lithuania;3.0;4.0;4.0;4.0
+58;Aachen;Germany;3.0;3.0;2.0;5.0
+59;Recife;Brazil;3.0;5.0;1.0;2.0
+60;Dubrovnik;Croatia;3.0;5.0;2.0;5.0
+61;Kota Kinabalu;Malaysia;3.0;5.0;2.0;4.0
+62;Novi Sad;Serbia;3.0;4.0;2.0;4.0
+63;Nuremberg;Germany;3.0;3.0;2.0;5.0
+64;Copenhagen;Denmark;3.0;1.0;3.0;5.0
+65;Cancun;Mexico;3.0;4.0;1.0;2.0
+66;Austin, TX;United States;3.0;2.0;5.0;4.0
+67;Barcelona;Spain;3.0;1.0;3.0;5.0
+68;Suva;Fiji;3.0;4.0;1.0;4.0
+69;Burgas;Bulgaria;3.0;4.0;2.0;4.0
+70;Poznan;Poland;3.0;4.0;2.0;5.0
+71;Zagreb;Croatia;3.0;5.0;2.0;5.0
+72;Matara;Sri Lanka;3.0;5.0;2.0;4.0
+73;Tunis;Tunisia;3.0;5.0;1.0;4.0
+74;Hanoi;Vietnam;3.0;5.0;1.0;4.0
+75;Penang;Malaysia;3.0;5.0;2.0;4.0
+76;Stockholm;Sweden;3.0;3.0;3.0;4.0
+77;Dallas, TX;United States;3.0;2.0;5.0;4.0
+78;Patras;Greece;3.0;3.0;2.0;5.0
+79;Cuenca;Ecuador;3.0;5.0;1.0;3.0
+80;Curitiba;Brazil;3.0;5.0;2.0;2.0
+81;Sanur, Bali;Indonesia;3.0;5.0;1.0;5.0
+82;Antigua;Guatemala;3.0;4.0;1.0;2.0
+83;Kosice;Slovakia;3.0;4.0;2.0;4.0
+84;La Union;Philippines;3.0;5.0;1.0;3.0
+85;Tartu;Estonia;3.0;4.0;3.0;4.0
+86;Goiania;Brazil;3.0;5.0;1.0;2.0
+87;Nakhon Ratchasima;Thailand;3.0;5.0;5.0;4.0
+88;Alexandria;Egypt;3.0;5.0;1.0;4.0
+89;Mostar;Bosnia;3.0;4.0;1.0;4.0
+90;Kingston;Jamaica;3.0;4.0;1.0;2.0
+91;Cordoba;Argentina;3.0;5.0;1.0;3.0
+92;Sofia;Bulgaria;3.0;4.0;2.0;4.0
+93;Taipei;Taiwan;3.0;4.0;2.0;5.0
+94;La Paz;Bolivia;3.0;5.0;1.0;3.0
+95;Makassar;Indonesia;3.0;5.0;1.0;4.0
+96;Budapest;Hungary;3.0;4.0;3.0;4.0
+97;Tashkent;Uzbekistan;3.0;5.0;1.0;4.0
+98;Busan;South Korea;3.0;5.0;3.0;5.0
+99;Andorra la Vella;Andorra;3.0;2.0;5.0;5.0
+100;Porto;Portugal;3.0;4.0;2.0;5.0
+101;Faro;Portugal;3.0;4.0;3.0;5.0
+102;Bengaluru;India;3.0;5.0;2.0;4.0
+103;Ko Lanta;Thailand;3.0;5.0;2.0;4.0
+104;Karlsruhe;Germany;3.0;3.0;2.0;5.0
+105;Salta;Argentina;3.0;5.0;1.0;3.0
+106;Riga;Latvia;3.0;4.0;2.0;4.0
+107;Columbus, OH;United States;3.0;3.0;5.0;4.0
+108;Montevideo;Uruguay;3.0;4.0;2.0;3.0
+109;Kaohsiung;Taiwan;3.0;5.0;2.0;5.0
+110;Pisa;Italy;3.0;3.0;2.0;5.0
+111;Grenoble;France;3.0;3.0;2.0;4.0
+112;Cochabamba;Bolivia;3.0;5.0;1.0;3.0
+113;Sarajevo;Bosnia;3.0;4.0;1.0;4.0
+114;Durban;South Africa;3.0;4.0;1.0;1.0
+115;Jodhpur;India;3.0;5.0;1.0;4.0
+116;Baku;Azerbaijan;3.0;5.0;1.0;4.0
+117;Johannesburg;South Africa;3.0;4.0;1.0;1.0
+118;Muscat;Oman;3.0;4.0;1.0;4.0
+119;Ogden, UT;United States;3.0;3.0;5.0;4.0
+120;Rhodes;Greece;3.0;3.0;2.0;5.0
+121;Vitoria;Brazil;3.0;5.0;1.0;2.0
+122;Sulaymaniyah;Kurdistan;3.0;4.0;1.0;3.0
+123;Denpasar, Bali;Indonesia;3.0;5.0;1.0;5.0
+124;Fuerteventura, Canary Islands;Spain;3.0;4.0;2.0;5.0
+125;Bar;Montenegro;3.0;5.0;2.0;4.0
+126;Abuja;Nigeria;3.0;5.0;1.0;3.0
+127;Winnipeg;Canada;3.0;3.0;2.0;4.0
+128;Cebu;Philippines;3.0;5.0;1.0;4.0
+129;Kyoto;Japan;3.0;3.0;2.0;5.0
+130;San Antonio, TX;United States;3.0;3.0;3.0;3.0
+131;Adana;Turkey;3.0;5.0;1.0;4.0
+132;Jaipur;India;3.0;5.0;1.0;4.0
+133;Amman;Jordan;3.0;5.0;1.0;4.0
+134;Ho Chi Minh City;Vietnam;3.0;5.0;1.0;4.0
+135;Queenstown;New Zealand;3.0;1.0;3.0;5.0
+136;Chiang Rai;Thailand;3.0;5.0;2.0;4.0
+137;Ubud, Bali;Indonesia;3.0;5.0;2.0;5.0
+138;Amarillo, TX;United States;3.0;4.0;3.0;3.0
+139;San Juan;Puerto Rico;3.0;2.0;2.0;3.0
+140;Queretaro;Mexico;3.0;5.0;1.0;2.0
+141;Chongqing;China;3.0;5.0;1.0;5.0
+142;Senggigi, Lombok;Indonesia;3.0;5.0;1.0;5.0
+143;Oranjestad;Aruba;3.0;2.0;2.0;4.0
+144;Cannes;France;3.0;2.0;2.0;4.0
+145;Montego Bay;Jamaica;3.0;3.0;2.0;2.0
+146;Rennes;France;3.0;3.0;2.0;4.0
+147;Memphis, TN;United States;3.0;3.0;5.0;3.0
+148;Hiroshima;Japan;3.0;4.0;2.0;5.0
+149;Hangzhou;China;3.0;5.0;1.0;5.0
+150;Liberia;Costa Rica;3.0;4.0;1.0;2.0
+151;Nottingham;United Kingdom;3.0;3.0;2.0;4.0
+152;The Hague;Netherlands;3.0;2.0;2.0;5.0
+153;Medan, Sumatra;Indonesia;3.0;5.0;1.0;5.0
+154;London;United Kingdom;3.0;1.0;2.0;4.0
+155;Yangshuo;China;3.0;5.0;1.0;5.0
+156;Seminyak, Bali;Indonesia;3.0;5.0;1.0;5.0
+157;Cairns;Australia;3.0;3.0;2.0;5.0
+158;Salzburg;Austria;3.0;2.0;2.0;5.0
+159;Utrecht;Netherlands;3.0;2.0;3.0;5.0
+160;Las Vegas, NV;United States;3.0;2.0;5.0;3.0
+161;Kathmandu;Nepal;3.0;5.0;1.0;4.0
+162;Semarang;Indonesia;3.0;5.0;1.0;4.0
+163;Ningbo;China;3.0;5.0;1.0;5.0
+164;Lusaka;Zambia;3.0;5.0;1.0;3.0
+165;Pittsburgh, PA;United States;3.0;2.0;5.0;4.0
+166;Nice;France;3.0;2.0;2.0;4.0
+167;Bristol;United Kingdom;3.0;2.0;2.0;4.0
+168;Bremen;Germany;3.0;3.0;2.0;5.0
+169;Port Harcourt;Nigeria;3.0;5.0;1.0;3.0
+170;New York City, NY;United States;3.0;1.0;2.0;4.0
+171;Costa da Caparica;Portugal;3.0;3.0;3.0;5.0
+172;Rethymno;Greece;3.0;3.0;2.0;5.0
+173;Battle Creek, MI;United States;3.0;3.0;5.0;4.0
+174;Alanya;Turkey;3.0;5.0;1.0;4.0
+175;Innsbruck;Austria;3.0;2.0;2.0;5.0
+176;Chattanooga, TN;United States;3.0;3.0;5.0;3.0
+177;Des Moines, IA;United States;3.0;3.0;5.0;4.0
+178;A Coruna;Spain;3.0;3.0;2.0;5.0
+179;Thessaloniki;Greece;3.0;3.0;2.0;5.0
+180;Seattle, WA;United States;3.0;1.0;5.0;4.0
+181;Mendoza;Argentina;3.0;5.0;1.0;3.0
+182;Medellin;Colombia;3.0;5.0;1.0;2.0
+183;Osaka;Japan;3.0;4.0;2.0;5.0
+184;Caye Caulker;Belize;3.0;3.0;1.0;2.0
+185;Lake Balaton;Hungary;3.0;4.0;4.0;4.0
+186;Rovaniemi;Finland;3.0;2.0;3.0;4.0
+187;Cadiz;Spain;3.0;3.0;4.0;5.0
+188;Norwich;United Kingdom;3.0;2.0;2.0;5.0
+189;Providence, RI;United States;3.0;2.0;3.0;4.0
+190;Groningen;Netherlands;3.0;2.0;3.0;5.0
+191;Leeds;United Kingdom;3.0;2.0;2.0;4.0
+192;Ipoh;Malaysia;3.0;5.0;2.0;4.0
+193;Astana;Kazakhstan;3.0;5.0;2.0;4.0
+194;Lahore;Pakistan;3.0;5.0;1.0;3.0
+195;Cabarete;Dominican Republic;3.0;4.0;1.0;3.0
+196;Lagos, Algarve;Portugal;3.0;4.0;2.0;5.0
+197;Kitchener;Canada;3.0;3.0;2.0;4.0
+198;Honolulu, Hawaii;United States;3.0;1.0;2.0;4.0
+199;Tampa, FL;United States;3.0;1.0;5.0;4.0
+200;Agadir;Morocco;3.0;5.0;1.0;4.0
+201;Vadodara;India;3.0;5.0;1.0;4.0
+202;Datong;China;3.0;4.0;1.0;5.0
+203;Fukuoka;Japan;3.0;3.0;2.0;5.0
+204;Chicago, IL;United States;3.0;2.0;5.0;4.0
+205;Madrid;Spain;3.0;3.0;3.0;5.0
+206;Nanjing;China;3.0;5.0;1.0;5.0
+207;Greeley, CO;United States;3.0;3.0;4.0;4.0
+208;Leon;Nicaragua;3.0;5.0;1.0;2.0
+209;Oxnard, CA;United States;3.0;2.0;5.0;4.0
+210;Saskatoon;Canada;3.0;3.0;2.0;4.0
+211;Catania;Italy;3.0;3.0;2.0;5.0
+212;Vina del Mar;Chile;3.0;4.0;2.0;4.0
+213;Fresno, CA;United States;3.0;3.0;5.0;3.0
+214;Dubai;United Arab Emirates;3.0;3.0;1.0;5.0
+215;Ko Chang;Thailand;3.0;5.0;2.0;4.0
+216;Puerto Viejo;Costa Rica;3.0;3.0;1.0;2.0
+217;Hof;Germany;3.0;3.0;4.0;5.0
+218;Asheville, NC;United States;3.0;2.0;5.0;4.0
+219;Oxford;United Kingdom;3.0;2.0;2.0;4.0
+220;Grand Rapids, MI;United States;3.0;2.0;5.0;4.0
+221;Windsor;Canada;3.0;3.0;2.0;4.0
+222;Strasbourg;France;3.0;3.0;2.0;4.0
+223;Oklahoma City, OK;United States;3.0;2.0;5.0;3.0
+224;Fes;Morocco;3.0;5.0;1.0;4.0
+225;Kobe;Japan;3.0;3.0;2.0;5.0
+226;Nagpur;India;3.0;5.0;1.0;4.0
+227;Erie, PA;United States;3.0;3.0;3.0;4.0
+228;Gaborone;Botswana;3.0;4.0;1.0;2.0
+229;Cincinnati, OH;United States;3.0;3.0;3.0;4.0
+230;Halifax;Canada;3.0;2.0;2.0;4.0
+231;Virginia Beach, VA;United States;3.0;2.0;5.0;4.0
+232;Colorado Springs, CO;United States;3.0;3.0;3.0;3.0
+233;Sharjah;United Arab Emirates;3.0;4.0;1.0;5.0
+234;Belgrade;Serbia;3.0;4.0;3.0;4.0
+235;Punta del Este;Uruguay;3.0;2.0;2.0;4.0
+236;Peniche;Portugal;3.0;4.0;4.0;5.0
+237;Bend, OR;United States;3.0;3.0;3.0;4.0
+238;Hoi An;Vietnam;3.0;5.0;1.0;4.0
+239;Darmstadt;Germany;3.0;3.0;2.0;5.0
+240;Brasov;Romania;3.0;4.0;3.0;4.0
+241;Newcastle Upon Tyne;United Kingdom;3.0;2.0;2.0;4.0
+242;Venice;Italy;3.0;2.0;2.0;5.0
+243;New Orleans, LA;United States;3.0;1.0;5.0;3.0
+244;Bucaramanga;Colombia;3.0;5.0;1.0;2.0
+245;Nashik;India;3.0;5.0;1.0;4.0
+246;Brisbane;Australia;3.0;2.0;2.0;5.0
+247;Mykonos;Greece;3.0;2.0;2.0;5.0
+248;Annecy;France;3.0;3.0;3.0;4.0
+249;Rouen;France;3.0;2.0;3.0;4.0
+250;Buffalo, NY;United States;3.0;2.0;2.0;4.0
+251;Tucson, AZ;United States;3.0;2.0;5.0;3.0
+252;Hannover;Germany;3.0;2.0;2.0;5.0
+253;Tenerife, Canary Islands;Spain;3.0;3.0;3.0;5.0
+254;Monterrey;Mexico;3.0;4.0;1.0;2.0
+255;Mumbai;India;3.0;5.0;1.0;4.0
+256;San Juan del Sur;Nicaragua;3.0;4.0;1.0;2.0
+257;McLeod Ganj;India;3.0;5.0;3.0;4.0
+258;Ko Samui;Thailand;3.0;5.0;2.0;4.0
+259;Chania, Crete;Greece;3.0;3.0;2.0;5.0
+260;Erlangen;Germany;3.0;3.0;2.0;5.0
+261;Siargao;Philippines;3.0;5.0;1.0;3.0
+262;Santa Rosa, CA;United States;3.0;2.0;5.0;4.0
+263;Bournemouth;United Kingdom;3.0;2.0;2.0;5.0
+264;Pristina;Kosovo;3.0;3.0;2.0;4.0
+265;Boise, ID;United States;3.0;2.0;5.0;4.0
+266;Lille;France;3.0;3.0;2.0;4.0
+267;Boston, MA;United States;3.0;1.0;3.0;4.0
+268;Handan;China;3.0;5.0;2.0;5.0
+269;Gaziantep;Turkey;3.0;5.0;1.0;4.0
+270;Tainan;Taiwan;3.0;5.0;2.0;5.0
+271;Patna;India;3.0;5.0;1.0;4.0
+272;Leiden;Netherlands;3.0;1.0;3.0;5.0
+273;Willemstad;Curacao;3.0;1.0;1.0;3.0
+274;Oaxaca;Mexico;3.0;5.0;1.0;2.0
+275;Torreon;Mexico;3.0;5.0;1.0;2.0
+276;Visakhapatnam;India;3.0;5.0;1.0;4.0
+277;Aurangabad;India;3.0;5.0;1.0;4.0
+278;Almaty;Kazakhstan;3.0;5.0;1.0;4.0
+279;Davao;Philippines;3.0;5.0;1.0;4.0
+280;Salento;Colombia;3.0;5.0;1.0;2.0
+281;Bansko;Bulgaria;3.0;4.0;2.0;4.0
+282;Hagatna;Guam;3.0;2.0;1.0;2.0
+283;Bellingham, WA;United States;3.0;2.0;5.0;4.0
+284;Dayton, OH;United States;3.0;2.0;5.0;4.0
+285;Pamplona;Spain;3.0;2.0;3.0;5.0
+286;San Salvador;El Salvador;3.0;4.0;1.0;1.0
+287;Porto Alegre;Brazil;3.0;5.0;1.0;2.0
+288;Bursa;Turkey;3.0;5.0;1.0;4.0
+289;Hyderabad;India;3.0;5.0;1.0;4.0
+290;Javea;Spain;3.0;3.0;2.0;5.0
+291;Phu Quoc;Vietnam;3.0;5.0;1.0;4.0
+292;Cluj;Romania;3.0;4.0;3.0;4.0
+293;Antalya;Turkey;3.0;5.0;1.0;4.0
+294;Wanaka;New Zealand;3.0;1.0;2.0;4.0
+295;Braga;Portugal;3.0;4.0;2.0;5.0
+296;Oakland, CA;United States;3.0;1.0;5.0;3.0
+297;Kochi;India;3.0;5.0;1.0;4.0
+298;Sargodha;Pakistan;3.0;5.0;1.0;3.0
+299;Baoding;China;3.0;5.0;2.0;5.0
+300;Marrakesh;Morocco;3.0;3.0;1.0;4.0
+301;Islamabad;Pakistan;3.0;5.0;1.0;3.0
+302;Yerevan;Armenia;3.0;4.0;1.0;4.0
+303;Ulaanbaatar;Mongolia;3.0;5.0;1.0;3.0
+304;Paris;France;3.0;1.0;2.0;4.0
+305;Chennai;India;3.0;5.0;1.0;4.0
+306;Gili Air;Indonesia;3.0;4.0;1.0;4.0
+307;Palo Alto, CA;United States;3.0;1.0;5.0;4.0
+308;Lake Como;Italy;3.0;3.0;2.0;5.0
+309;Redding, CA;United States;3.0;2.0;2.0;3.0
+310;Rishikesh;India;3.0;5.0;1.0;4.0
+311;Boulder, CO;United States;3.0;1.0;5.0;4.0
+312;Rimini;Italy;3.0;3.0;2.0;5.0
+313;Santa Marta;Colombia;3.0;5.0;1.0;2.0
+314;Gdansk;Poland;3.0;4.0;2.0;5.0
+315;Puebla;Mexico;3.0;4.0;1.0;2.0
+316;Brasilia;Brazil;3.0;5.0;1.0;2.0
+317;Guangzhou;China;3.0;5.0;1.0;5.0
+318;Bodrum;Turkey;3.0;4.0;1.0;4.0
+319;Reykjavik;Iceland;3.0;1.0;2.0;5.0
+320;Montgomery, AL;United States;3.0;2.0;3.0;3.0
+321;Bari;Italy;3.0;2.0;2.0;4.0
+322;Yaounde;Cameroon;3.0;5.0;1.0;3.0
+323;Kolkata;India;3.0;5.0;1.0;4.0
+324;Hvar;Croatia;3.0;3.0;2.0;4.0
+325;Deventer;Netherlands;3.0;3.0;3.0;5.0
+326;Miami, FL;United States;3.0;1.0;3.0;3.0
+327;St. George, UT;United States;3.0;1.0;5.0;4.0
+328;Santa Barbara, CA;United States;3.0;1.0;5.0;4.0
+329;Cork;Ireland;3.0;1.0;2.0;5.0
+330;Heidelberg;Germany;3.0;2.0;2.0;5.0
+331;Rzeszow;Poland;3.0;3.0;2.0;5.0
+332;Luton;United Kingdom;3.0;2.0;2.0;5.0
+333;Sheffield;United Kingdom;3.0;2.0;2.0;5.0
+334;Louisville, KY;United States;3.0;1.0;5.0;4.0
+335;Santorini;Greece;3.0;1.0;2.0;5.0
+336;Coeur d'Alene, ID;United States;3.0;2.0;4.0;4.0
+337;Avignon;France;3.0;2.0;2.0;4.0
+338;Nanaimo;Canada;3.0;2.0;2.0;4.0
+339;Salt Lake City, UT;United States;3.0;3.0;5.0;3.0
+340;Ghent;Belgium;3.0;2.0;3.0;4.0
+341;Brno;Czechia;3.0;4.0;2.0;5.0
+342;Minneapolis, MN;United States;3.0;2.0;5.0;4.0
+343;Toronto;Canada;3.0;2.0;2.0;4.0
+344;Istanbul;Turkey;3.0;5.0;1.0;4.0
+345;Santa Fe, NM;United States;3.0;2.0;2.0;4.0
+346;Podgorica;Montenegro;3.0;5.0;2.0;4.0
+347;Reno, NV;United States;3.0;1.0;5.0;3.0
+348;Florianopolis;Brazil;3.0;5.0;1.0;2.0
+349;Toledo, OH;United States;3.0;2.0;3.0;4.0
+350;Cardiff;United Kingdom;3.0;1.0;2.0;4.0
+351;Zurich;Switzerland;3.0;1.0;3.0;5.0
+352;Lyon;France;3.0;3.0;2.0;4.0
+353;Nashville, TN;United States;3.0;2.0;5.0;3.0
+354;Srinagar;India;3.0;5.0;1.0;4.0
+355;Perth;Australia;3.0;2.0;2.0;5.0
+356;Montanita;Ecuador;3.0;3.0;2.0;3.0
+357;Bocas del Toro;Panama;3.0;3.0;1.0;2.0
+358;Biarritz;France;3.0;2.0;3.0;4.0
+359;Jarabacoa;Dominican Republic;3.0;3.0;1.0;3.0
+360;Napa, CA;United States;3.0;1.0;5.0;3.0
+361;Fort Collins, CO;United States;3.0;1.0;5.0;4.0
+362;Trieste;Italy;3.0;2.0;2.0;5.0
+363;Florence;Italy;3.0;2.0;2.0;4.0
+364;Bratislava;Slovakia;3.0;4.0;2.0;5.0
+365;Jeju Island;South Korea;3.0;4.0;3.0;5.0
+366;Amsterdam;Netherlands;3.0;1.0;2.0;5.0
+367;Chengdu;China;3.0;5.0;1.0;5.0
+368;Beijing;China;3.0;4.0;1.0;5.0
+369;Victoria;Seychelles;3.0;2.0;1.0;3.0
+370;Victoria;Canada;3.0;2.0;2.0;4.0
+371;Newport Beach, CA;United States;3.0;1.0;4.0;4.0
+372;Madeira;Portugal;3.0;4.0;2.0;5.0
+373;Siem Reap;Cambodia;3.0;5.0;1.0;4.0
+374;Plovdiv;Bulgaria;3.0;5.0;2.0;4.0
+375;Edinburgh;United Kingdom;3.0;1.0;2.0;5.0
+376;Bath;United Kingdom;3.0;1.0;2.0;5.0
+377;Oslo;Norway;3.0;1.0;3.0;5.0
+378;Frankfurt;Germany;3.0;3.0;2.0;5.0
+379;Lima;Peru;3.0;5.0;1.0;3.0
+380;Tamarindo;Costa Rica;3.0;2.0;1.0;3.0
+381;El Gouna;Egypt;3.0;3.0;1.0;4.0
+382;Lanzarote, Canary Islands;Spain;3.0;2.0;2.0;5.0
+383;Azores;Portugal;3.0;4.0;2.0;5.0
+384;Manchester, NH;United States;3.0;1.0;5.0;4.0
+385;Bordeaux;France;3.0;3.0;2.0;4.0
+386;Nassau;The Bahamas;3.0;1.0;1.0;3.0
+387;Anchorage, AK;United States;3.0;1.0;5.0;3.0
+388;Sinuiju;North Korea;3.0;5.0;1.0;3.0
+389;Ottawa;Canada;3.0;3.0;2.0;4.0
+390;Bishkek;Kyrgyzstan;3.0;5.0;1.0;3.0
+391;Hamburg;Germany;3.0;3.0;2.0;5.0
+392;Leeuwarden;Netherlands;3.0;2.0;3.0;5.0
+393;Playa del Carmen;Mexico;3.0;4.0;1.0;2.0
+394;Basel;Switzerland;3.0;1.0;3.0;5.0
+395;Gran Canaria, Canary Islands;Spain;3.0;5.0;2.0;5.0
+396;Quebec City;Canada;3.0;2.0;2.0;4.0
+397;Skopje;North Macedonia;3.0;5.0;2.0;4.0
+398;Dusseldorf;Germany;3.0;3.0;2.0;5.0
+399;Shanghai;China;3.0;5.0;1.0;5.0
+400;Sliema;Malta;3.0;3.0;2.0;5.0
+401;Lausanne;Switzerland;3.0;1.0;3.0;5.0
+402;Nantes;France;3.0;3.0;2.0;4.0
+403;Kaunas;Lithuania;3.0;4.0;3.0;3.0
+404;Mallorca;Spain;3.0;4.0;3.0;5.0
+405;Atlanta, GA;United States;3.0;2.0;3.0;4.0
+406;Gold Coast;Australia;3.0;1.0;2.0;5.0
+407;Montreal;Canada;3.0;3.0;2.0;4.0
+408;Lake Tahoe, CA;United States;3.0;1.0;2.0;4.0
+409;Uluwatu, Bali;Indonesia;3.0;4.0;1.0;5.0
+410;George Town;Cayman Islands;3.0;1.0;2.0;3.0
+411;Paphos;Cyprus;3.0;3.0;1.0;4.0
+412;Worcester, MA;United States;3.0;2.0;2.0;3.0
+413;Malmo;Sweden;3.0;2.0;3.0;4.0
+414;Belfast;United Kingdom;3.0;2.0;2.0;4.0
+415;Jundiai;Brazil;3.0;3.0;1.0;2.0
+416;Makati;Philippines;3.0;5.0;1.0;4.0
+417;San Francisco, CA;United States;3.0;1.0;5.0;3.0
+418;Riyadh;Saudi Arabia;3.0;4.0;1.0;4.0
+419;Pai;Thailand;2.0;5.0;2.0;4.0
+420;Lucca;Italy;2.0;2.0;2.0;5.0
+421;Hartford, CT;United States;2.0;1.0;5.0;4.0
+422;Port Louis;Mauritius;2.0;4.0;1.0;4.0
+423;Montpellier;France;2.0;3.0;2.0;4.0
+424;Gothenburg;Sweden;2.0;3.0;2.0;4.0
+425;Los Angeles, CA;United States;2.0;1.0;5.0;3.0
+426;Ko Phi Phi;Thailand;2.0;3.0;2.0;4.0
+427;Cemagi, Bali;Indonesia;2.0;5.0;2.0;5.0
+428;Texel;Netherlands;2.0;1.0;3.0;5.0
+429;Puerto Escondido;Mexico;2.0;5.0;2.0;2.0
+430;Daytona Beach, FL;United States;2.0;1.0;2.0;4.0
+431;Palermo;Italy;2.0;3.0;2.0;5.0
+432;Haikou;China;2.0;5.0;1.0;5.0
+433;Bogota;Colombia;2.0;5.0;1.0;1.0
+434;Sao Paulo;Brazil;2.0;5.0;2.0;2.0
+435;Portland, ME;United States;2.0;1.0;3.0;4.0
+436;Bruges;Belgium;2.0;1.0;3.0;4.0
+437;Okinawa City, Okinawa;Japan;2.0;4.0;5.0;5.0
+438;Santiago;Chile;2.0;4.0;2.0;4.0
+439;Basse-Terre;Guadeloupe;2.0;3.0;1.0;3.0
+440;Essaouira;Morocco;2.0;4.0;1.0;4.0
+441;Szczecin;Poland;2.0;4.0;2.0;5.0
+442;Cologne;Germany;2.0;2.0;2.0;5.0
+443;Belo Horizonte;Brazil;2.0;5.0;2.0;2.0
+444;San Miguel de Allende;Mexico;2.0;3.0;1.0;2.0
+445;Da Lat;Vietnam;2.0;5.0;1.0;4.0
+446;Port Moresby;Papua New Guinea;2.0;3.0;1.0;3.0
+447;San Pedro;Belize;2.0;2.0;1.0;2.0
+448;Tirana;Albania;2.0;4.0;1.0;4.0
+449;Jeddah;Saudi Arabia;2.0;4.0;1.0;4.0
+450;Langkawi;Malaysia;2.0;5.0;2.0;4.0
+451;Bay Islands;Honduras;2.0;3.0;1.0;1.0
+452;Batumi;Georgia;2.0;4.0;1.0;4.0
+453;San Sebastian;Spain;2.0;2.0;3.0;4.0
+454;Granada;Spain;2.0;4.0;2.0;5.0
+455;Mombasa;Kenya;2.0;4.0;1.0;3.0
+456;Phnom Penh;Cambodia;2.0;5.0;1.0;4.0
+457;Jakarta;Indonesia;2.0;5.0;1.0;5.0
+458;Interlaken;Switzerland;2.0;1.0;2.0;5.0
+459;Galle;Sri Lanka;2.0;5.0;1.0;4.0
+460;Hue;Vietnam;2.0;5.0;1.0;4.0
+461;Banff;Canada;2.0;1.0;3.0;4.0
+462;Geneva;Switzerland;2.0;1.0;3.0;5.0
+463;Craiova;Romania;2.0;5.0;3.0;4.0
+464;Chisinau;Moldova;2.0;5.0;2.0;4.0
+465;Vienna;Austria;2.0;3.0;2.0;4.0
+466;Delhi;India;2.0;5.0;1.0;4.0
+467;Palawan;Philippines;2.0;5.0;1.0;3.0
+468;Mancora;Peru;2.0;4.0;1.0;3.0
+469;Aberdeen;United Kingdom;2.0;2.0;2.0;4.0
+470;Iasi;Romania;2.0;4.0;3.0;4.0
+471;Malaga;Spain;2.0;4.0;2.0;5.0
+472;Libreville;Gabon;2.0;3.0;1.0;3.0
+473;Pattaya;Thailand;2.0;5.0;2.0;4.0
+474;Paramaribo;Suriname;2.0;5.0;1.0;2.0
+475;Vancouver;Canada;2.0;2.0;2.0;4.0
+476;Jimbaran, Bali;Indonesia;2.0;5.0;2.0;5.0
+477;Larnaca;Cyprus;2.0;3.0;1.0;4.0
+478;Amalfi;Italy;2.0;1.0;2.0;5.0
+479;Thimphu;Bhutan;2.0;5.0;1.0;4.0
+480;Natal;Brazil;2.0;5.0;2.0;2.0
+481;Daegu;South Korea;2.0;4.0;3.0;5.0
+482;Lagos;Nigeria;2.0;5.0;1.0;3.0
+483;Taghazout;Morocco;2.0;4.0;1.0;4.0
+484;Livingstone;Zambia;2.0;5.0;1.0;3.0
+485;Colombo;Sri Lanka;2.0;5.0;1.0;4.0
+486;Ko Tao;Thailand;2.0;5.0;2.0;4.0
+487;Chamonix;France;2.0;1.0;2.0;4.0
+488;Ushuaia;Argentina;2.0;5.0;1.0;3.0
+489;Osijek;Croatia;2.0;5.0;2.0;4.0
+490;Turku;Finland;2.0;3.0;2.0;4.0
+491;Dresden;Germany;2.0;3.0;2.0;5.0
+492;Stuttgart;Germany;2.0;3.0;2.0;5.0
+493;Santa Cruz;Bolivia;2.0;5.0;1.0;3.0
+494;Nicosia;Cyprus;2.0;4.0;1.0;4.0
+495;Bandung;Indonesia;2.0;5.0;1.0;5.0
+496;Panama City;Panama;2.0;4.0;1.0;2.0
+497;Bariloche;Argentina;2.0;5.0;1.0;4.0
+498;Arugam Bay;Sri Lanka;2.0;5.0;1.0;4.0
+499;Kuta (Lombok), Lombok;Indonesia;2.0;5.0;1.0;5.0
+500;Joao Pessoa;Brazil;2.0;5.0;1.0;2.0
+501;Rome;Italy;2.0;1.0;2.0;5.0
+502;Shenzhen;China;2.0;5.0;1.0;5.0
+503;Gili Trawangan;Indonesia;2.0;5.0;1.0;5.0
+504;Katowice;Poland;2.0;4.0;2.0;5.0
+505;Naples;Italy;2.0;3.0;2.0;5.0
+506;Salvador;Brazil;2.0;5.0;1.0;2.0
+507;Surabaya;Indonesia;2.0;5.0;1.0;5.0
+508;Luang Prabang;Laos;2.0;5.0;1.0;4.0
+509;Kandy;Sri Lanka;2.0;5.0;2.0;4.0
+510;Klaipeda;Lithuania;2.0;4.0;2.0;3.0
+511;Itajai;Brazil;2.0;5.0;2.0;2.0
+512;Kuching;Malaysia;2.0;5.0;2.0;4.0
+513;Johor Bahru;Malaysia;2.0;5.0;2.0;4.0
+514;Suwon;South Korea;2.0;5.0;3.0;5.0
+515;Harare;Zimbabwe;2.0;4.0;1.0;3.0
+516;Nagoya;Japan;2.0;4.0;2.0;5.0
+517;Amed, Bali;Indonesia;2.0;5.0;1.0;5.0
+518;Belem;Brazil;2.0;5.0;1.0;2.0
+519;Espoo;Finland;2.0;2.0;2.0;4.0
+520;Pretoria;South Africa;2.0;5.0;1.0;2.0
+521;Luanda;Angola;2.0;5.0;1.0;3.0
+522;San Pedro de Atacama;Chile;2.0;1.0;2.0;4.0
+523;Gori;Georgia;2.0;5.0;2.0;4.0
+524;Fort Lauderdale, FL;United States;2.0;1.0;2.0;3.0
+525;Banja Luka;Bosnia;2.0;5.0;1.0;4.0
+526;Graz;Austria;2.0;3.0;2.0;5.0
+527;Cusco;Peru;2.0;5.0;1.0;3.0
+528;Djibouti;Djibouti;2.0;3.0;1.0;3.0
+529;General Santos;Philippines;2.0;5.0;1.0;3.0
+530;Manila;Philippines;2.0;5.0;1.0;3.0
+531;Izmir;Turkey;2.0;5.0;1.0;4.0
+532;Hobart;Australia;2.0;3.0;2.0;5.0
+533;Rotterdam;Netherlands;2.0;2.0;3.0;5.0
+534;Campinas;Brazil;2.0;5.0;1.0;2.0
+535;Changzhou;China;2.0;5.0;1.0;5.0
+536;Bucharest;Romania;2.0;5.0;4.0;4.0
+537;Guayaquil;Ecuador;2.0;5.0;1.0;3.0
+538;Xi An;China;2.0;5.0;1.0;5.0
+539;Sa Pa;Vietnam;2.0;5.0;1.0;4.0
+540;Trancoso;Brazil;2.0;4.0;3.0;2.0
+541;Brussels;Belgium;2.0;3.0;3.0;4.0
+542;St. Louis, MO;United States;2.0;2.0;5.0;4.0
+543;Liverpool;United Kingdom;2.0;3.0;2.0;4.0
+544;Rabat;Morocco;2.0;4.0;1.0;4.0
+545;Khulna;Bangladesh;2.0;5.0;1.0;4.0
+546;Arequipa;Peru;2.0;5.0;1.0;3.0
+547;Fuzhou;China;2.0;5.0;1.0;5.0
+548;Huainan;China;2.0;5.0;1.0;5.0
+549;Gwangju;South Korea;2.0;5.0;3.0;5.0
+550;Goa;India;2.0;4.0;1.0;4.0
+551;Menorca, Menorca;Spain;2.0;4.0;2.0;5.0
+552;Apia;Samoa;2.0;4.0;1.0;4.0
+553;Marbella;Spain;2.0;3.0;3.0;5.0
+554;Ninh Binh;Vietnam;2.0;5.0;1.0;4.0
+555;Puerto Vallarta;Mexico;2.0;4.0;1.0;2.0
+556;Manchester;United Kingdom;2.0;2.0;2.0;4.0
+557;Leipzig;Germany;2.0;3.0;2.0;5.0
+558;Portland, OR;United States;2.0;1.0;5.0;4.0
+559;Santo Domingo;Dominican Republic;2.0;5.0;1.0;2.0
+560;Houston, TX;United States;2.0;2.0;5.0;4.0
+561;Chittagong;Bangladesh;2.0;5.0;1.0;4.0
+562;Guiyang;China;2.0;5.0;1.0;5.0
+563;Cairo;Egypt;2.0;5.0;1.0;4.0
+564;Wuhan;China;2.0;5.0;1.0;5.0
+565;Sao Vicente;Cape Verde;2.0;4.0;1.0;3.0
+566;Toulouse;France;2.0;3.0;2.0;4.0
+567;Seville;Spain;2.0;2.0;3.0;5.0
+568;Malang;Indonesia;2.0;5.0;1.0;4.0
+569;Corfu;Greece;2.0;5.0;2.0;5.0
+570;Alesund;Norway;2.0;3.0;5.0;5.0
+571;Dunedin;New Zealand;2.0;2.0;2.0;5.0
+572;Dijon;France;2.0;3.0;3.0;4.0
+573;Manama;Bahrain;2.0;4.0;1.0;5.0
+574;Washington, DC;United States;2.0;1.0;5.0;4.0
+575;Port Elizabeth;South Africa;2.0;4.0;1.0;2.0
+576;Amritsar;India;2.0;5.0;1.0;4.0
+577;Guatemala City;Guatemala;2.0;5.0;1.0;2.0
+578;Changshu;China;2.0;5.0;1.0;5.0
+579;Hefei;China;2.0;5.0;1.0;5.0
+580;Giza;Egypt;2.0;5.0;1.0;4.0
+581;Qingdao;China;2.0;5.0;1.0;5.0
+582;Kunming;China;2.0;5.0;1.0;5.0
+583;Mui Ne;Vietnam;2.0;5.0;1.0;4.0
+584;Bandar Seri Begawan;Brunei;2.0;5.0;1.0;5.0
+585;St. George's;Grenada;2.0;3.0;3.0;3.0
+586;Jonesboro, AR;United States;2.0;4.0;3.0;4.0
+587;Yuma, AZ;United States;2.0;3.0;3.0;4.0
+588;Kinmen;Taiwan;2.0;4.0;2.0;5.0
+589;Nijmegen;Netherlands;2.0;1.0;3.0;5.0
+590;Kassel;Germany;2.0;3.0;5.0;4.0
+591;Mamaia;Romania;2.0;3.0;4.0;4.0
+592;Tulsa, OK;United States;2.0;3.0;3.0;3.0
+593;La Plata;Argentina;2.0;5.0;2.0;3.0
+594;Dublin;Ireland;2.0;1.0;3.0;5.0
+595;Indianapolis, IN;United States;2.0;2.0;5.0;3.0
+596;Rosario;Argentina;2.0;5.0;1.0;3.0
+597;Yiwu;China;2.0;5.0;1.0;5.0
+598;Glasgow;United Kingdom;2.0;2.0;2.0;4.0
+599;Cixi;China;2.0;5.0;1.0;5.0
+600;Thane;India;2.0;5.0;1.0;4.0
+601;Benin City;Nigeria;2.0;5.0;1.0;3.0
+602;Ibadan;Nigeria;2.0;5.0;1.0;3.0
+603;Surat;India;2.0;5.0;1.0;4.0
+604;Sumperk;Czechia;2.0;3.0;4.0;5.0
+605;Monaco;Monaco;2.0;1.0;5.0;5.0
+606;Conroe, TX;United States;2.0;3.0;3.0;4.0
+607;Tyler, TX;United States;2.0;3.0;5.0;4.0
+608;Praia;Cape Verde;2.0;4.0;1.0;3.0
+609;Brownsville, TX;United States;2.0;4.0;3.0;4.0
+610;Madison, WI;United States;2.0;3.0;5.0;4.0
+611;Cirebon;Indonesia;2.0;5.0;1.0;5.0
+612;Baguio;Philippines;2.0;5.0;1.0;3.0
+613;Kansas City, MO;United States;2.0;2.0;5.0;3.0
+614;Luxor;Egypt;2.0;5.0;1.0;4.0
+615;Abu Dhabi;United Arab Emirates;2.0;2.0;1.0;5.0
+616;Merida;Mexico;2.0;5.0;1.0;2.0
+617;Pekanbaru, Sumatra;Indonesia;2.0;5.0;1.0;4.0
+618;Turin;Italy;2.0;3.0;2.0;4.0
+619;Managua;Nicaragua;2.0;5.0;1.0;2.0
+620;Sendai;Japan;2.0;4.0;2.0;5.0
+621;Kaduna;Nigeria;2.0;5.0;1.0;3.0
+622;Tianjin;China;2.0;5.0;1.0;5.0
+623;Lethbridge;Canada;2.0;3.0;2.0;4.0
+624;Roanoke, VA;United States;2.0;3.0;5.0;4.0
+625;Kelowna;Canada;2.0;3.0;2.0;4.0
+626;McAllen, TX;United States;2.0;3.0;4.0;4.0
+627;Winston, NC;United States;2.0;3.0;5.0;4.0
+628;Noida;India;2.0;5.0;1.0;4.0
+629;El Alto;Bolivia;2.0;5.0;1.0;3.0
+630;Huaibei;China;2.0;5.0;1.0;5.0
+631;Anyang;China;2.0;5.0;1.0;5.0
+632;Agra;India;2.0;5.0;1.0;4.0
+633;San Diego, CA;United States;2.0;1.0;5.0;4.0
+634;Baotou;China;2.0;5.0;1.0;5.0
+635;Manaus;Brazil;2.0;5.0;1.0;1.0
+636;Nairobi;Kenya;2.0;5.0;1.0;3.0
+637;Albufeira;Portugal;2.0;3.0;3.0;5.0
+638;Reading, PA;United States;2.0;3.0;4.0;4.0
+639;Cambridge;United Kingdom;2.0;1.0;2.0;5.0
+640;Killeen, TX;United States;2.0;3.0;4.0;3.0
+641;Gurgaon;India;2.0;5.0;1.0;4.0
+642;Eindhoven;Netherlands;2.0;2.0;3.0;5.0
+643;Constanta;Romania;2.0;4.0;3.0;4.0
+644;Yogyakarta;Indonesia;2.0;5.0;1.0;5.0
+645;Mar del Plata;Argentina;2.0;5.0;2.0;3.0
+646;Sao Jose dos Campos;Brazil;2.0;5.0;1.0;2.0
+647;Macau;China;2.0;2.0;5.0;5.0
+648;Fortaleza;Brazil;2.0;5.0;2.0;2.0
+649;Malacca;Malaysia;2.0;5.0;2.0;4.0
+650;Barranquilla;Colombia;2.0;5.0;1.0;2.0
+651;Urumqi;China;2.0;5.0;2.0;5.0
+652;Shijiazhuang;China;2.0;5.0;2.0;5.0
+653;Pune;India;2.0;5.0;1.0;4.0
+654;Yokohama;Japan;2.0;4.0;2.0;5.0
+655;Harbin;China;2.0;5.0;1.0;5.0
+656;Pipa;Brazil;2.0;5.0;2.0;1.0
+657;Isla Mujeres;Mexico;2.0;4.0;2.0;2.0
+658;Bedford, OH;United States;2.0;3.0;4.0;4.0
+659;Oregon City, OR;United States;2.0;3.0;5.0;4.0
+660;Bossier City, LA;United States;2.0;3.0;3.0;3.0
+661;Enterprise, NV;United States;2.0;2.0;5.0;4.0
+662;Abbotsford;Canada;2.0;3.0;2.0;4.0
+663;Regina;Canada;2.0;4.0;2.0;4.0
+664;Laredo, TX;United States;2.0;3.0;3.0;4.0
+665;Hull;United Kingdom;2.0;3.0;2.0;5.0
+666;Windhoek;Namibia;2.0;4.0;1.0;3.0
+667;Cordoba;Spain;2.0;3.0;3.0;4.0
+668;Cleveland, OH;United States;2.0;3.0;5.0;4.0
+669;Mataram, Lombok;Indonesia;2.0;5.0;1.0;4.0
+670;Surakarta;Indonesia;2.0;5.0;1.0;4.0
+671;Jiangmen;China;2.0;5.0;1.0;5.0
+672;Sorocaba;Brazil;2.0;5.0;1.0;2.0
+673;Huizhou;China;2.0;5.0;1.0;5.0
+674;Taizhou;China;2.0;5.0;1.0;5.0
+675;Kunshan;China;2.0;4.0;1.0;5.0
+676;Freetown;Sierra Leone;2.0;5.0;1.0;3.0
+677;Edmonton;Canada;2.0;3.0;2.0;4.0
+678;Huai'an;China;2.0;5.0;1.0;5.0
+679;Calgary;Canada;2.0;3.0;2.0;4.0
+680;Tijuana;Mexico;2.0;4.0;1.0;2.0
+681;Palembang, Sumatra;Indonesia;2.0;5.0;1.0;4.0
+682;Brazzaville;Congo;2.0;5.0;1.0;2.0
+683;Nanchang;China;2.0;5.0;1.0;5.0
+684;Cali;Colombia;2.0;5.0;1.0;1.0
+685;Algiers;Algeria;2.0;5.0;1.0;3.0
+686;Hohhot;China;2.0;5.0;1.0;5.0
+687;Shenyang;China;2.0;5.0;1.0;5.0
+688;Dongguan;China;2.0;5.0;1.0;5.0
+689;Galapagos Islands;Ecuador;2.0;5.0;2.0;3.0
+690;Warner Robins, GA;United States;2.0;3.0;3.0;3.0
+691;Chico, CA;United States;2.0;3.0;5.0;3.0
+692;Noumea;New Caledonia;2.0;1.0;1.0;4.0
+693;Jena;Germany;2.0;4.0;2.0;5.0
+694;Syracuse, NY;United States;2.0;3.0;3.0;4.0
+695;Hagen;Germany;2.0;3.0;2.0;5.0
+696;Oulu;Finland;2.0;3.0;2.0;4.0
+697;La Serena;Chile;2.0;5.0;2.0;4.0
+698;Aarhus;Denmark;2.0;1.0;2.0;5.0
+699;Nagasaki;Japan;2.0;4.0;3.0;5.0
+700;Kagoshima;Japan;2.0;4.0;2.0;5.0
+701;Lilongwe;Malawi;2.0;5.0;1.0;4.0
+702;Lianyungang;China;2.0;5.0;1.0;5.0
+703;Constantine;Algeria;2.0;5.0;1.0;4.0
+704;Jiamusi;China;2.0;5.0;1.0;5.0
+705;Jacksonville, FL;United States;2.0;2.0;5.0;3.0
+706;Kisangani;DR Congo;2.0;5.0;1.0;2.0
+707;Antananarivo;Madagascar;2.0;5.0;2.0;5.0
+708;Fushun;China;2.0;5.0;1.0;5.0
+709;Ouagadougou;Burkina Faso;2.0;5.0;1.0;4.0
+710;Kampala;Uganda;2.0;5.0;1.0;2.0
+711;Jinan;China;2.0;5.0;1.0;5.0
+712;Changchun;China;2.0;5.0;1.0;5.0
+713;Itapema;Brazil;2.0;5.0;1.0;2.0
+714;Scranton, PA;United States;2.0;3.0;5.0;4.0
+715;Hoover, AL;United States;2.0;3.0;4.0;4.0
+716;Evansville, IN;United States;2.0;3.0;5.0;4.0
+717;Fargo, ND;United States;2.0;3.0;5.0;4.0
+718;Macon, GA;United States;2.0;3.0;3.0;3.0
+719;Lafayette, LA;United States;2.0;3.0;3.0;3.0
+720;Salem, OR;United States;2.0;3.0;5.0;4.0
+721;Trondheim;Norway;2.0;2.0;3.0;5.0
+722;Modena;Italy;2.0;3.0;2.0;5.0
+723;Knoxville, TN;United States;2.0;3.0;5.0;3.0
+724;Columbus, GA;United States;2.0;3.0;2.0;3.0
+725;La Paz;Mexico;2.0;5.0;2.0;2.0
+726;Duhok;Kurdistan;2.0;4.0;1.0;4.0
+727;Sacramento, CA;United States;2.0;2.0;5.0;4.0
+728;Antwerp;Belgium;2.0;2.0;3.0;4.0
+729;Albuquerque, NM;United States;2.0;3.0;3.0;3.0
+730;Genoa;Italy;2.0;3.0;2.0;5.0
+731;Chandigarh;India;2.0;5.0;1.0;4.0
+732;Marseille;France;2.0;3.0;2.0;4.0
+733;Sao Luis;Brazil;2.0;5.0;1.0;2.0
+734;Liuzhou;China;2.0;5.0;1.0;5.0
+735;Suzhou;China;2.0;5.0;1.0;5.0
+736;Taiyuan;China;2.0;5.0;1.0;5.0
+737;Guanajuato;Mexico;2.0;4.0;1.0;2.0
+738;Minca;Colombia;2.0;4.0;2.0;1.0
+739;Gibraltar;Gibraltar;2.0;2.0;2.0;4.0
+740;Boumerdas;Algeria;2.0;5.0;1.0;4.0
+741;Kingsport, TN;United States;2.0;3.0;3.0;4.0
+742;Owensboro, KY;United States;2.0;3.0;3.0;4.0
+743;Harlingen, TX;United States;2.0;3.0;3.0;4.0
+744;North Little Rock, AR;United States;2.0;3.0;3.0;3.0
+745;Dothan, AL;United States;2.0;3.0;3.0;3.0
+746;Limassol;Cyprus;2.0;3.0;1.0;4.0
+747;San Cristobal de las Casas;Mexico;2.0;5.0;2.0;2.0
+748;Foz do Iguacu;Brazil;2.0;5.0;2.0;2.0
+749;Valparaiso;Chile;2.0;4.0;2.0;4.0
+750;Bielefeld;Germany;2.0;3.0;2.0;5.0
+751;Brampton;Canada;2.0;3.0;2.0;4.0
+752;Dongying;China;2.0;5.0;1.0;5.0
+753;Birmingham;United Kingdom;2.0;2.0;2.0;4.0
+754;Jilin;China;2.0;5.0;1.0;5.0
+755;Dalian;China;2.0;5.0;1.0;5.0
+756;Zhengzhou;China;2.0;5.0;1.0;5.0
+757;Sarande;Albania;2.0;4.0;1.0;3.0
+758;Banjul;Gambia;2.0;5.0;1.0;3.0
+759;Grande Prairie;Canada;2.0;3.0;2.0;4.0
+760;Valdosta, GA;United States;2.0;3.0;4.0;4.0
+761;Idaho Falls, ID;United States;2.0;3.0;3.0;4.0
+762;Youngstown, OH;United States;2.0;3.0;3.0;4.0
+763;Victoria, TX;United States;2.0;3.0;3.0;3.0
+764;Eau Claire, WI;United States;2.0;3.0;3.0;4.0
+765;Bethlehem, PA;United States;2.0;2.0;4.0;4.0
+766;Springdale, AR;United States;2.0;3.0;4.0;4.0
+767;Longview, TX;United States;2.0;3.0;3.0;3.0
+768;Sioux City, IA;United States;2.0;3.0;3.0;4.0
+769;Las Cruces, NM;United States;2.0;3.0;3.0;4.0
+770;Elgin, IL;United States;2.0;2.0;4.0;4.0
+771;Fayetteville, NC;United States;2.0;3.0;3.0;4.0
+772;Dortmund;Germany;2.0;2.0;2.0;5.0
+773;Foshan;China;2.0;5.0;1.0;5.0
+774;Zhuhai;China;2.0;5.0;1.0;5.0
+775;Tangier;Morocco;2.0;4.0;1.0;4.0
+776;Dakar;Senegal;2.0;3.0;1.0;4.0
+777;Tegucigalpa;Honduras;2.0;5.0;1.0;1.0
+778;Shantou;China;2.0;5.0;2.0;5.0
+779;Kumasi;Ghana;2.0;5.0;1.0;4.0
+780;Lubumbashi;DR Congo;2.0;5.0;1.0;2.0
+781;Sapporo;Japan;2.0;3.0;2.0;5.0
+782;Quanzhou;China;2.0;5.0;1.0;5.0
+783;Panajachel;Guatemala;2.0;4.0;1.0;2.0
+784;Burlington, NC;United States;2.0;3.0;4.0;4.0
+785;Casper, WY;United States;2.0;3.0;3.0;4.0
+786;Tromso;Norway;2.0;1.0;3.0;5.0
+787;St. Joseph, MO;United States;2.0;3.0;5.0;3.0
+788;Mission, TX;United States;2.0;3.0;2.0;4.0
+789;Provo, UT;United States;2.0;3.0;5.0;4.0
+790;Victorville, CA;United States;2.0;3.0;5.0;4.0
+791;Visalia, CA;United States;2.0;3.0;5.0;3.0
+792;Gainesville, FL;United States;2.0;2.0;5.0;3.0
+793;Waco, TX;United States;2.0;3.0;4.0;3.0
+794;Udon Thani;Thailand;2.0;5.0;2.0;4.0
+795;Iquique;Chile;2.0;5.0;2.0;4.0
+796;Almere;Netherlands;2.0;2.0;5.0;4.0
+797;Southampton;United Kingdom;2.0;2.0;2.0;5.0
+798;Lincoln, NE;United States;2.0;3.0;4.0;3.0
+799;Riverside, CA;United States;2.0;2.0;3.0;3.0
+800;Campos dos Goytacazes;Brazil;2.0;5.0;1.0;2.0
+801;Surrey;Canada;2.0;2.0;2.0;4.0
+802;Campo Grande;Brazil;2.0;5.0;1.0;2.0
+803;Wuxi;China;2.0;5.0;1.0;5.0
+804;Nanyang;China;2.0;5.0;2.0;5.0
+805;Xiamen;China;2.0;5.0;1.0;5.0
+806;Lanzhou;China;2.0;5.0;1.0;5.0
+807;Georgetown;Guyana;2.0;3.0;1.0;2.0
+808;Port Arthur, TX;United States;2.0;3.0;4.0;3.0
+809;Canton, OH;United States;2.0;3.0;5.0;4.0
+810;Palm Coast, FL;United States;2.0;3.0;3.0;4.0
+811;Hesperia, CA;United States;2.0;3.0;4.0;4.0
+812;Lansing, MI;United States;2.0;3.0;3.0;3.0
+813;Allentown, PA;United States;2.0;2.0;3.0;4.0
+814;Lancaster, CA;United States;2.0;2.0;4.0;4.0
+815;Aalborg;Denmark;2.0;2.0;3.0;5.0
+816;Tilburg;Netherlands;2.0;2.0;3.0;5.0
+817;Lubbock, TX;United States;2.0;3.0;3.0;4.0
+818;Pasto;Colombia;2.0;5.0;1.0;2.0
+819;Anapolis;Brazil;2.0;5.0;1.0;2.0
+820;Corpus Christi, TX;United States;2.0;3.0;3.0;3.0
+821;Uberlandia;Brazil;2.0;5.0;1.0;2.0
+822;Dushanbe;Tajikistan;2.0;5.0;1.0;4.0
+823;Yinchuan;China;2.0;5.0;2.0;5.0
+824;Kirkuk;Kurdistan;2.0;4.0;1.0;3.0
+825;Conakry;Guinea;2.0;5.0;1.0;3.0
+826;Nanning;China;2.0;5.0;1.0;5.0
+827;Dahab;Egypt;2.0;5.0;1.0;3.0
+828;San Ignacio;Belize;2.0;4.0;2.0;1.0
+829;Chachapoyas;Peru;2.0;5.0;1.0;3.0
+830;Porterville, CA;United States;2.0;3.0;3.0;3.0
+831;Grand Junction, CO;United States;2.0;3.0;3.0;3.0
+832;St. Cloud, MN;United States;2.0;3.0;5.0;4.0
+833;Jackson, TN;United States;2.0;3.0;2.0;3.0
+834;Waterloo, IA;United States;2.0;3.0;3.0;4.0
+835;Merced, CA;United States;2.0;3.0;5.0;3.0
+836;Cozumel;Mexico;2.0;4.0;2.0;2.0
+837;Tracy, CA;United States;2.0;2.0;5.0;4.0
+838;Lawrence, KS;United States;2.0;3.0;3.0;4.0
+839;Darwin;Australia;2.0;2.0;2.0;5.0
+840;Norfolk, VA;United States;2.0;2.0;5.0;4.0
+841;San Jose;Costa Rica;2.0;3.0;1.0;2.0
+842;Milwaukee, WI;United States;2.0;2.0;5.0;3.0
+843;Zaria;Nigeria;2.0;5.0;1.0;2.0
+844;Oran;Algeria;2.0;5.0;1.0;4.0
+845;Lome;Togo;2.0;5.0;1.0;3.0
+846;Zhuzhou;China;2.0;5.0;2.0;5.0
+847;Kitakyushu;Japan;2.0;4.0;2.0;5.0
+848;Mysore;India;2.0;5.0;1.0;4.0
+849;Meerut;India;2.0;5.0;1.0;4.0
+850;Linyi;China;2.0;5.0;2.0;5.0
+851;Zhongshan;China;2.0;5.0;1.0;5.0
+852;Mbuji-Mayi;DR Congo;2.0;5.0;1.0;2.0
+853;Abidjan;Cote d'Ivoire;2.0;4.0;1.0;3.0
+854;Ankara;Turkey;2.0;5.0;1.0;4.0
+855;Funafuti;Tuvalu;2.0;4.0;1.0;3.0
+856;Intag Valley;Ecuador;2.0;4.0;2.0;3.0
+857;La Crosse, WI;United States;2.0;3.0;3.0;4.0
+858;Normal, IL;United States;2.0;3.0;4.0;4.0
+859;Janesville, WI;United States;2.0;2.0;3.0;4.0
+860;Lodi, CA;United States;2.0;3.0;5.0;3.0
+861;Jacksonville, NC;United States;2.0;3.0;3.0;4.0
+862;Lake Charles, LA;United States;2.0;3.0;3.0;3.0
+863;Manteca, CA;United States;2.0;2.0;5.0;4.0
+864;Pharr, TX;United States;2.0;3.0;3.0;4.0
+865;Spokane Valley, WA;United States;2.0;2.0;5.0;3.0
+866;Cedar Rapids, IA;United States;2.0;3.0;3.0;4.0
+867;Oshawa;Canada;2.0;2.0;2.0;4.0
+868;Tallahassee, FL;United States;2.0;3.0;3.0;3.0
+869;Huntsville, AL;United States;2.0;3.0;5.0;3.0
+870;Shreveport, LA;United States;2.0;3.0;4.0;3.0
+871;Aurora, IL;United States;2.0;3.0;3.0;4.0
+872;Antofagasta;Chile;2.0;4.0;2.0;4.0
+873;Nha Trang;Vietnam;2.0;3.0;1.0;4.0
+874;Leicester;United Kingdom;2.0;3.0;2.0;5.0
+875;Detroit, MI;United States;2.0;3.0;3.0;3.0
+876;Yangzhou;China;2.0;5.0;1.0;5.0
+877;Nantong;China;2.0;5.0;1.0;5.0
+878;Guilin;China;2.0;5.0;1.0;5.0
+879;Xining;China;2.0;5.0;1.0;5.0
+880;Port-au-Prince;Haiti;2.0;5.0;1.0;2.0
+881;Adelaide;Australia;2.0;1.0;2.0;5.0
+882;Kalyan;India;2.0;5.0;1.0;4.0
+883;Zhanjiang;China;2.0;5.0;1.0;5.0
+884;Ludhiana;India;2.0;5.0;1.0;4.0
+885;Madurai;India;2.0;5.0;1.0;4.0
+886;Lucknow;India;2.0;5.0;1.0;4.0
+887;Ahmedabad;India;2.0;5.0;1.0;4.0
+888;Boracay;Philippines;2.0;4.0;1.0;3.0
+889;Logan, UT;United States;2.0;3.0;5.0;4.0
+890;Casa Grande, AZ;United States;2.0;2.0;3.0;4.0
+891;Auburn, AL;United States;2.0;2.0;3.0;4.0
+892;Flagstaff, AZ;United States;2.0;2.0;5.0;4.0
+893;Muncie, IN;United States;2.0;3.0;3.0;4.0
+894;Bismarck, ND;United States;2.0;3.0;3.0;4.0
+895;Apple Valley, CA;United States;2.0;2.0;4.0;4.0
+896;Medford, OR;United States;2.0;2.0;4.0;4.0
+897;Edinburg, TX;United States;2.0;3.0;3.0;4.0
+898;Fort Smith, AR;United States;2.0;3.0;2.0;3.0
+899;Sihanoukville;Cambodia;2.0;5.0;1.0;3.0
+900;Yakima, WA;United States;2.0;3.0;3.0;3.0
+901;Flint, MI;United States;2.0;3.0;3.0;3.0
+902;Billings, MT;United States;2.0;3.0;2.0;3.0
+903;Rochester, MN;United States;2.0;3.0;3.0;4.0
+904;Fairfield, CA;United States;2.0;2.0;5.0;3.0
+905;Springfield, IL;United States;2.0;3.0;4.0;3.0
+906;Beaumont, TX;United States;2.0;3.0;3.0;3.0
+907;Ibiza;Spain;2.0;1.0;4.0;5.0
+908;Rochester, NY;United States;2.0;2.0;5.0;4.0
+909;Bergen;Norway;2.0;1.0;3.0;5.0
+910;Wichita, KS;United States;2.0;3.0;3.0;4.0
+911;Shaoxing;China;2.0;5.0;1.0;5.0
+912;Xiangtan;China;2.0;5.0;1.0;5.0
+913;San Pedro Sula;Honduras;2.0;5.0;1.0;1.0
+914;Hermosillo;Mexico;2.0;5.0;1.0;2.0
+915;Zhangjiakou;China;2.0;5.0;1.0;5.0
+916;Hubli;India;2.0;5.0;1.0;4.0
+917;Bareilly;India;2.0;5.0;1.0;4.0
+918;Wenling;China;2.0;5.0;1.0;5.0
+919;Maracaibo;Venezuela;2.0;5.0;1.0;1.0
+920;Xuzhou;China;2.0;5.0;2.0;5.0
+921;Douala;Cameroon;2.0;4.0;1.0;3.0
+922;Zibo;China;2.0;5.0;1.0;5.0
+923;Kokomo, IN;United States;2.0;3.0;2.0;3.0
+924;Great Falls, MT;United States;2.0;3.0;2.0;4.0
+925;Champaign, IL;United States;2.0;3.0;4.0;4.0
+926;Palm Bay, FL;United States;2.0;3.0;3.0;3.0
+927;Wilmington, NC;United States;2.0;2.0;3.0;4.0
+928;Columbia, MO;United States;2.0;3.0;3.0;4.0
+929;Abilene, TX;United States;2.0;3.0;3.0;4.0
+930;Clarksville, TN;United States;2.0;3.0;3.0;4.0
+931;Dili;East Timor;2.0;4.0;1.0;4.0
+932;Tebessa;Algeria;2.0;5.0;1.0;4.0
+933;El Jadida;Morocco;2.0;5.0;1.0;4.0
+934;Padova;Italy;2.0;3.0;2.0;5.0
+935;Northampton;United Kingdom;2.0;3.0;2.0;4.0
+936;Portsmouth;United Kingdom;2.0;2.0;2.0;5.0
+937;Durg;India;2.0;5.0;1.0;4.0
+938;Orlando, FL;United States;2.0;2.0;5.0;3.0
+939;Bilbao;Spain;2.0;2.0;3.0;5.0
+940;Kannur;India;2.0;5.0;1.0;4.0
+941;Bologna;Italy;2.0;1.0;2.0;5.0
+942;Port Said;Egypt;2.0;5.0;1.0;4.0
+943;Baltimore, MD;United States;2.0;2.0;5.0;3.0
+944;Varanasi;India;2.0;5.0;1.0;4.0
+945;Onitsha;Nigeria;2.0;4.0;1.0;3.0
+946;Kollam;India;2.0;5.0;1.0;4.0
+947;Gwalior;India;2.0;5.0;1.0;4.0
+948;Soweto;South Africa;2.0;5.0;1.0;1.0
+949;Qiqihar;China;2.0;5.0;1.0;5.0
+950;Jamshedpur;India;2.0;5.0;1.0;4.0
+951;Weifang;China;2.0;5.0;2.0;5.0
+952;Luoyang;China;2.0;5.0;1.0;5.0
+953;Quito;Ecuador;2.0;4.0;1.0;3.0
+954;Tangshan;China;2.0;5.0;1.0;5.0
+955;Pyongyang;North Korea;2.0;5.0;1.0;3.0
+956;San Luis Potosi;Mexico;2.0;4.0;1.0;2.0
+957;Cavtat;Croatia;2.0;3.0;2.0;4.0
+958;Avarua;Cook Islands;2.0;3.0;1.0;4.0
+959;Ashland, OR;United States;2.0;2.0;3.0;4.0
+960;Minot, ND;United States;2.0;3.0;2.0;4.0
+961;Brentwood, CA;United States;2.0;2.0;5.0;4.0
+962;Tulare, CA;United States;2.0;2.0;3.0;4.0
+963;Hemet, CA;United States;2.0;2.0;5.0;4.0
+964;Modesto, CA;United States;2.0;2.0;5.0;3.0
+965;Thrissur;India;2.0;5.0;1.0;4.0
+966;Lexington, KY;United States;2.0;3.0;3.0;4.0
+967;Raleigh, NC;United States;2.0;2.0;5.0;4.0
+968;Raipur;India;2.0;5.0;1.0;4.0
+969;Dhanbad;India;2.0;5.0;1.0;4.0
+970;Jabalpur;India;2.0;5.0;1.0;4.0
+971;Bridgeton, MO;United States;2.0;2.0;3.0;4.0
+972;Grand Island, NE;United States;2.0;3.0;4.0;4.0
+973;Terre Haute, IN;United States;2.0;3.0;3.0;4.0
+974;Greenville, SC;United States;2.0;2.0;3.0;3.0
+975;Weston, FL;United States;2.0;2.0;5.0;4.0
+976;Pasco, WA;United States;2.0;2.0;3.0;4.0
+977;Turlock, CA;United States;2.0;2.0;4.0;4.0
+978;Bloomington, IN;United States;2.0;2.0;5.0;4.0
+979;Waterloo;Canada;2.0;3.0;3.0;4.0
+980;Trier;;2.0;2.0;3.0;4.0
+981;Zwolle;Netherlands;2.0;2.0;3.0;5.0
+982;Bern;Switzerland;2.0;1.0;3.0;5.0
+983;Huddersfield;United Kingdom;2.0;3.0;2.0;5.0
+984;Cascais;Portugal;2.0;3.0;5.0;4.0
+985;Greensboro, NC;United States;2.0;2.0;3.0;4.0
+986;Zhoukou;China;2.0;5.0;2.0;5.0
+987;Canberra;Australia;2.0;1.0;2.0;5.0
+988;Wuhu;China;2.0;5.0;1.0;5.0
+989;Aguascalientes;Mexico;2.0;4.0;1.0;2.0
+990;Qinhuangdao;China;2.0;5.0;1.0;5.0
+991;Moradabad;India;2.0;5.0;1.0;4.0
+992;Philadelphia, PA;United States;2.0;1.0;4.0;4.0
+993;Kano;Nigeria;2.0;4.0;1.0;3.0
+994;Sandpoint, ID;United States;2.0;3.0;2.0;4.0
+995;Beacon, NY;United States;2.0;2.0;5.0;4.0
+996;Vang Vieng;Laos;2.0;5.0;1.0;3.0
+997;Kearney, NE;United States;2.0;3.0;3.0;4.0
+998;Arendal;Norway;2.0;1.0;3.0;4.0
+999;Enid, OK;United States;2.0;2.0;5.0;4.0
+1000;Elkhart, IN;United States;2.0;2.0;5.0;4.0
+1001;Scheveningen;Netherlands;2.0;1.0;4.0;5.0
+1002;Corvallis, OR;United States;2.0;2.0;4.0;4.0
+1003;Johnson City, TN;United States;2.0;3.0;3.0;4.0
+1004;Frederick, MD;United States;2.0;2.0;5.0;4.0
+1005;Bloomington, IL;United States;2.0;3.0;3.0;4.0
+1006;Lynchburg, VA;United States;2.0;2.0;4.0;4.0
+1007;Lawton, OK;United States;2.0;2.0;3.0;3.0
+1008;Luxembourg;Luxembourg;2.0;1.0;4.0;5.0
+1009;Guelph;Canada;2.0;3.0;2.0;4.0
+1010;Male;Maldives;2.0;2.0;1.0;4.0
+1011;Mobile, AL;United States;2.0;2.0;3.0;3.0
+1012;York;United Kingdom;2.0;2.0;2.0;5.0
+1013;Birmingham, AL;United States;2.0;2.0;3.0;4.0
+1014;Stockton, CA;United States;2.0;2.0;5.0;3.0
+1015;Maseru;Lesotho;2.0;5.0;1.0;1.0
+1016;Putian;China;2.0;5.0;1.0;5.0
+1017;Aligarh;India;2.0;5.0;1.0;4.0
+1018;Zunyi;China;2.0;5.0;1.0;5.0
+1019;Kota;India;2.0;5.0;1.0;4.0
+1020;Niamey;Niger;2.0;4.0;1.0;4.0
+1021;Kananga;DR Congo;2.0;5.0;1.0;2.0
+1022;Rajkot;India;2.0;5.0;1.0;4.0
+1023;Indore;India;2.0;5.0;1.0;4.0
+1024;Thiruvananthapuram;India;2.0;5.0;1.0;4.0
+1025;Malappuram;India;2.0;5.0;1.0;4.0
+1026;Multan;Pakistan;2.0;5.0;1.0;3.0
+1027;Kozhikode;India;2.0;5.0;1.0;4.0
+1028;Faisalabad;Pakistan;2.0;5.0;1.0;3.0
+1029;Key West, FL;United States;2.0;1.0;5.0;4.0
+1030;Kuwait City;Kuwait;2.0;3.0;1.0;4.0
+1031;Saint Helier;Jersey;2.0;1.0;4.0;3.0
+1032;Port of Spain;Trinidad and Tobago;2.0;3.0;1.0;1.0
+1033;Richland, WA;United States;2.0;2.0;3.0;4.0
+1034;Dubuque, IA;United States;2.0;2.0;3.0;4.0
+1035;Rogers, AR;United States;2.0;2.0;3.0;4.0
+1036;Yuba City, CA;United States;2.0;2.0;4.0;3.0
+1037;Gulfport, MS;United States;2.0;2.0;3.0;4.0
+1038;Temple, TX;United States;2.0;2.0;4.0;3.0
+1039;New Haven, CT;United States;2.0;2.0;2.0;4.0
+1040;St. Catharines;Canada;2.0;3.0;2.0;4.0
+1041;Rockford, IL;United States;2.0;2.0;4.0;3.0
+1042;Cagliari;Italy;2.0;3.0;2.0;5.0
+1043;Sioux Falls, SD;United States;2.0;2.0;3.0;4.0
+1044;Richmond, VA;United States;2.0;2.0;5.0;4.0
+1045;Wonsan;North Korea;2.0;4.0;1.0;3.0
+1046;Yichang;China;2.0;5.0;1.0;5.0
+1047;Zhucheng;China;2.0;5.0;1.0;5.0
+1048;Peshawar;Pakistan;2.0;5.0;1.0;3.0
+1049;Gujranwala;Pakistan;2.0;5.0;1.0;3.0
+1050;Torshavn, Faroe Islands;Denmark;2.0;1.0;5.0;4.0
+1051;Kotor;Montenegro;2.0;3.0;2.0;4.0
+1052;Varkala;India;2.0;5.0;1.0;4.0
+1053;Lake Havasu City, AZ;United States;2.0;2.0;3.0;4.0
+1054;Pocatello, ID;United States;2.0;2.0;3.0;4.0
+1055;Anderson, IN;United States;2.0;3.0;3.0;3.0
+1056;Waukegan, IL;United States;2.0;2.0;3.0;4.0
+1057;Peoria, IL;United States;2.0;2.0;3.0;4.0
+1058;Odessa, TX;United States;2.0;2.0;2.0;3.0
+1059;Stamford, CT;United States;2.0;2.0;3.0;4.0
+1060;Ferrara;Italy;2.0;2.0;2.0;5.0
+1061;Ube;Japan;2.0;3.0;2.0;5.0
+1062;Kigali;Rwanda;2.0;1.0;1.0;4.0
+1063;San Jose, CA;United States;2.0;1.0;5.0;4.0
+1064;Vasai;India;2.0;5.0;1.0;4.0
+1065;Kanpur;India;2.0;5.0;1.0;4.0
+1066;Cody, WY;United States;2.0;2.0;3.0;4.0
+1067;Monterey, CA;United States;2.0;1.0;5.0;4.0
+1068;Monrovia;Liberia;2.0;4.0;2.0;3.0
+1069;Manhattan, KS;United States;2.0;2.0;3.0;4.0
+1070;Rocky Mount, NC;United States;2.0;2.0;3.0;4.0
+1071;Fort Myers, FL;United States;2.0;2.0;3.0;4.0
+1072;Kennewick, WA;United States;2.0;2.0;2.0;4.0
+1073;Melbourne, FL;United States;2.0;2.0;4.0;3.0
+1074;Bryan, TX;United States;2.0;2.0;4.0;4.0
+1075;Davenport, IA;United States;2.0;3.0;2.0;3.0
+1076;College Station, TX;United States;2.0;2.0;3.0;4.0
+1077;Yamoussoukro;Cote d'Ivoire;2.0;4.0;1.0;2.0
+1078;Guwahati;India;2.0;5.0;1.0;4.0
+1079;Bhopal;India;2.0;5.0;1.0;4.0
+1080;Phoenix, AZ;United States;2.0;1.0;5.0;3.0
+1081;Yantai;China;2.0;5.0;1.0;5.0
+1082;King Edward Point;South Georgia and the South Sandwich Islands;2.0;3.0;1.0;5.0
+1083;Ko Lipe;Thailand;2.0;4.0;2.0;4.0
+1084;Belize City;Belize;2.0;4.0;1.0;2.0
+1085;Utica, NY;United States;2.0;2.0;5.0;4.0
+1086;Cheyenne, WY;United States;2.0;2.0;3.0;4.0
+1087;Moncton;Canada;2.0;2.0;2.0;4.0
+1088;Treviso;Italy;2.0;2.0;2.0;5.0
+1089;Sparks, NV;United States;2.0;2.0;4.0;4.0
+1090;Wichita Falls, TX;United States;2.0;2.0;3.0;4.0
+1091;Monza;Italy;2.0;3.0;2.0;5.0
+1092;Savannah, GA;United States;2.0;2.0;3.0;4.0
+1093;Spokane, WA;United States;2.0;2.0;4.0;3.0
+1094;Baton Rouge, LA;United States;2.0;2.0;3.0;3.0
+1095;Scottsdale, AZ;United States;2.0;2.0;2.0;4.0
+1096;Sialkot;Pakistan;2.0;5.0;1.0;3.0
+1097;Bahawalpur;Pakistan;2.0;5.0;1.0;3.0
+1098;Vijayawada;India;2.0;5.0;1.0;4.0
+1099;Coimbatore;India;2.0;5.0;1.0;4.0
+1100;Ranchi;India;2.0;5.0;1.0;4.0
+1101;Byron Bay;Australia;2.0;1.0;2.0;5.0
+1102;Nuku'alofa;Tonga;2.0;3.0;1.0;5.0
+1103;Avellino;Italy;2.0;3.0;2.0;5.0
+1104;Schenectady, NY;United States;2.0;2.0;2.0;4.0
+1105;Beaverton, OR;United States;2.0;1.0;4.0;4.0
+1106;High Point, NC;United States;2.0;2.0;3.0;4.0
+1107;Centennial, CO;United States;2.0;2.0;5.0;4.0
+1108;Ann Arbor, MI;United States;2.0;2.0;5.0;4.0
+1109;Topeka, KS;United States;2.0;2.0;3.0;3.0
+1110;Joliet, IL;United States;2.0;2.0;3.0;4.0
+1111;Little Rock, AR;United States;2.0;2.0;5.0;3.0
+1112;Coventry;United Kingdom;2.0;2.0;2.0;5.0
+1113;Bakersfield, CA;United States;2.0;2.0;3.0;3.0
+1114;Maracay;Venezuela;2.0;4.0;1.0;1.0
+1115;Nouakchott;Mauritania;2.0;4.0;1.0;2.0
+1116;Bhubaneswar;India;2.0;5.0;1.0;4.0
+1117;Charlotte, NC;United States;2.0;2.0;3.0;4.0
+1118;Fairfax, VA;United States;2.0;1.0;5.0;4.0
+1119;Quetta;Pakistan;2.0;5.0;1.0;3.0
+1120;Dhaka;Bangladesh;2.0;5.0;1.0;4.0
+1121;Princeton, NJ;United States;2.0;1.0;5.0;4.0
+1122;Budva;Montenegro;2.0;4.0;3.0;4.0
+1123;Zandvoort;Netherlands;2.0;1.0;3.0;5.0
+1124;Tsushima Island;Japan;2.0;3.0;2.0;5.0
+1125;Joplin, MO;United States;2.0;2.0;2.0;3.0
+1126;Albany, OR;United States;2.0;2.0;5.0;4.0
+1127;Pensacola, FL;United States;2.0;2.0;3.0;4.0
+1128;Galway;Ireland;2.0;1.0;2.0;5.0
+1129;San Angelo, TX;United States;2.0;2.0;3.0;4.0
+1130;Midland, TX;United States;2.0;2.0;3.0;4.0
+1131;Omaha, NE;United States;2.0;2.0;5.0;3.0
+1132;Allahabad;India;2.0;5.0;1.0;4.0
+1133;Chifeng;China;2.0;4.0;1.0;5.0
+1134;Konya;Turkey;2.0;5.0;1.0;4.0
+1135;Changsha;China;2.0;3.0;1.0;5.0
+1136;Karachi;Pakistan;2.0;5.0;1.0;3.0
+1137;Revelstoke;Canada;2.0;2.0;3.0;3.0
+1138;Nago, Okinawa;Japan;2.0;3.0;2.0;4.0
+1139;Bowling Green, KY;United States;2.0;2.0;3.0;4.0
+1140;Marysville, WA;United States;2.0;2.0;3.0;4.0
+1141;Kauai, Hawaii;United States;2.0;1.0;2.0;4.0
+1142;Rapid City, SD;United States;2.0;2.0;3.0;3.0
+1143;Decatur, IL;United States;2.0;2.0;3.0;3.0
+1144;Leuven;Belgium;2.0;2.0;4.0;4.0
+1145;Bellevue, NE;United States;2.0;2.0;3.0;4.0
+1146;Verona;Italy;2.0;2.0;2.0;5.0
+1147;Wollongong;Australia;2.0;1.0;2.0;5.0
+1148;Kaechon;North Korea;2.0;5.0;1.0;3.0
+1149;Chongjin;North Korea;2.0;5.0;1.0;3.0
+1150;Taichung;Taiwan;2.0;4.0;2.0;5.0
+1151;Ao Nang;Thailand;2.0;5.0;2.0;4.0
+1152;Oshkosh, WI;United States;2.0;2.0;3.0;4.0
+1153;Missoula, MT;United States;2.0;2.0;2.0;4.0
+1154;Mountain View, CA;United States;2.0;1.0;3.0;4.0
+1155;Temecula, CA;United States;2.0;2.0;4.0;4.0
+1156;Carlsbad, CA;United States;2.0;1.0;5.0;4.0
+1157;Reading;United Kingdom;2.0;1.0;2.0;4.0
+1158;Henderson, NV;United States;2.0;1.0;5.0;3.0
+1159;Tirupur;India;2.0;5.0;2.0;4.0
+1160;Guadalajara;Mexico;2.0;5.0;1.0;2.0
+1161;Jamestown;Saint Helena;2.0;1.0;1.0;5.0
+1162;Ithaca, NY;United States;2.0;2.0;3.0;4.0
+1163;Hilo, Hawaii;United States;2.0;1.0;2.0;4.0
+1164;Harrisonburg, VA;United States;2.0;2.0;5.0;4.0
+1165;Bradenton, FL;United States;2.0;1.0;4.0;4.0
+1166;Lugano;Switzerland;2.0;1.0;3.0;5.0
+1167;Conway, AR;United States;2.0;2.0;2.0;3.0
+1168;Iowa City, IA;United States;2.0;2.0;3.0;4.0
+1169;Lelystad;Netherlands;2.0;2.0;3.0;5.0
+1170;Murrieta, CA;United States;2.0;1.0;5.0;4.0
+1171;Jyvaskyla;Finland;2.0;3.0;2.0;4.0
+1172;Haarlem;Netherlands;2.0;1.0;2.0;5.0
+1173;Fort Wayne, IN;United States;2.0;2.0;2.0;4.0
+1174;Jiaxing;China;2.0;4.0;1.0;5.0
+1175;Zhangjiagang;China;2.0;4.0;2.0;5.0
+1176;Asansol;India;2.0;4.0;1.0;4.0
+1177;Milan;Italy;2.0;1.0;2.0;5.0
+1178;Wenzhou;China;2.0;4.0;1.0;5.0
+1179;Caracas;Venezuela;2.0;4.0;1.0;1.0
+1180;Casablanca;Morocco;2.0;5.0;1.0;4.0
+1181;Port Vila;Vanuatu;2.0;3.0;1.0;4.0
+1182;Dededo;Guam;2.0;1.0;1.0;2.0
+1183;Delano, CA;United States;2.0;2.0;3.0;4.0
+1184;Fredericton;Canada;2.0;2.0;2.0;4.0
+1185;Honiara;Solomon Islands;2.0;3.0;1.0;4.0
+1186;San Mateo, CA;United States;2.0;1.0;5.0;4.0
+1187;Chatham;Canada;2.0;2.0;2.0;4.0
+1188;Trento;Italy;2.0;2.0;2.0;5.0
+1189;Barrie;Canada;2.0;2.0;2.0;4.0
+1190;Palmdale, CA;United States;2.0;1.0;4.0;4.0
+1191;Port St. Lucie, FL;United States;2.0;1.0;5.0;4.0
+1192;Menlo Park, CA;United States;2.0;1.0;4.0;4.0
+1193;Sarasota, FL;United States;2.0;2.0;3.0;4.0
+1194;Petaluma, CA;United States;2.0;1.0;4.0;4.0
+1195;Appleton, WI;United States;2.0;2.0;2.0;4.0
+1196;West Palm Beach, FL;United States;2.0;1.0;2.0;3.0
+1197;Charleston, SC;United States;2.0;1.0;3.0;4.0
+1198;Tanchon;North Korea;2.0;5.0;1.0;3.0
+1199;Copan;Honduras;2.0;4.0;1.0;1.0
+1200;Juarez;Mexico;2.0;5.0;2.0;2.0
+1201;Anshan;China;2.0;4.0;1.0;5.0
+1202;Comporta;Portugal;2.0;1.0;1.0;5.0
+1203;Road Town;British Virgin Islands;2.0;1.0;1.0;3.0
+1204;Punta Cana;Dominican Republic;2.0;2.0;1.0;3.0
+1205;Kenosha, WI;United States;2.0;1.0;4.0;4.0
+1206;Vista, CA;United States;2.0;1.0;4.0;4.0
+1207;Mexicali;Mexico;2.0;4.0;1.0;2.0
+1208;Puning;China;2.0;4.0;1.0;5.0
+1209;Rawalpindi;Pakistan;2.0;5.0;1.0;3.0
+1210;Hamilton;Bermuda;2.0;1.0;2.0;4.0
+1211;Kamiyama;Japan;2.0;3.0;2.0;5.0
+1212;Olympia, WA;United States;2.0;1.0;5.0;4.0
+1213;Bridgetown;Barbados;2.0;1.0;2.0;2.0
+1214;Hamamatsu;Japan;2.0;2.0;2.0;5.0
+1215;Havana;Cuba;2.0;5.0;1.0;4.0
+1216;Amundsen-Scott;Antarctica;2.0;1.0;1.0;4.0
+1217;McMurdo Station;Antarctica;2.0;1.0;1.0;4.0
+1218;Stanley;Falkland Islands;2.0;1.0;1.0;5.0
+1219;Verdi, NV;United States;2.0;2.0;2.0;4.0
+1220;Taos, NM;United States;2.0;1.0;2.0;4.0
+1221;Park City, UT;United States;2.0;1.0;3.0;4.0
+1222;Philipsburg;Sint Maarten;2.0;1.0;1.0;2.0
+1223;Shrewsbury;United Kingdom;2.0;2.0;2.0;4.0
+1224;Duluth, MN;United States;2.0;2.0;3.0;4.0
+1225;Green Bay, WI;United States;2.0;1.0;3.0;4.0
+1226;Santa Maria, CA;United States;2.0;1.0;4.0;4.0
+1227;Bridgeport, CT;United States;2.0;1.0;2.0;4.0
+1228;Vientiane;Laos;2.0;5.0;1.0;4.0
+1229;Toluca;Mexico;2.0;3.0;1.0;2.0
+1230;Zhangzhou;China;2.0;4.0;1.0;5.0
+1231;Cartagena;Colombia;2.0;5.0;1.0;2.0
+1232;Rui'an;China;2.0;3.0;1.0;5.0
+1233;San Clemente, CA;United States;2.0;1.0;4.0;4.0
+1234;Ajaccio, Corsica;France;2.0;1.0;3.0;4.0
+1235;Cheltenham;United Kingdom;2.0;1.0;2.0;5.0
+1236;Eugene, OR;United States;2.0;1.0;3.0;4.0
+1237;Oceanside, CA;United States;2.0;1.0;4.0;4.0
+1238;Accra;Ghana;2.0;2.0;1.0;3.0
+1239;Palm Desert, CA;United States;2.0;1.0;4.0;4.0
+1240;Bonita Springs, FL;United States;2.0;1.0;3.0;4.0
+1241;Cathedral City, CA;United States;2.0;1.0;3.0;4.0
+1242;Port Orange, FL;United States;2.0;1.0;2.0;4.0
+1243;Pueblo, CO;United States;2.0;1.0;5.0;3.0
+1244;Arnhem;Netherlands;2.0;1.0;3.0;5.0
+1245;Breda;Netherlands;2.0;1.0;3.0;5.0
+1246;Augusta, GA;United States;2.0;1.0;4.0;4.0
+1247;Bozeman, MT;United States;2.0;1.0;3.0;4.0
+1248;Galveston, TX;United States;2.0;1.0;3.0;4.0
+1249;St. Gallen;Switzerland;2.0;1.0;3.0;4.0
+1250;Indio, CA;United States;2.0;1.0;3.0;4.0
+1251;Nashua, NH;United States;2.0;1.0;2.0;4.0
+1252;Plantation, FL;United States;2.0;1.0;3.0;4.0
+1253;Laayoune;Western Sahara;2.0;4.0;1.0;2.0
+1254;Hamhung;North Korea;2.0;4.0;1.0;3.0
+1255;Kralendijk;Caribbean Netherlands;2.0;2.0;1.0;3.0
+1256;Ocala, FL;United States;2.0;1.0;3.0;3.0
+1257;Hua Hin;Thailand;2.0;4.0;2.0;4.0
+1258;Vineland, NJ;United States;2.0;1.0;4.0;3.0
+1259;Cape Coral, FL;United States;2.0;1.0;3.0;4.0
+1260;Xiangyang;China;2.0;3.0;1.0;5.0
+1261;Fort McMurray;Canada;2.0;2.0;2.0;4.0
+1262;Tuscaloosa, AL;United States;2.0;1.0;3.0;4.0
+1263;Kuta, Bali;Indonesia;2.0;5.0;1.0;5.0
+1264;Salem, MA;United States;2.0;1.0;3.0;4.0
+1265;Kinshasa;DR Congo;2.0;3.0;1.0;2.0
+1266;Vatican City;Vatican City;2.0;1.0;2.0;3.0
+1267;Siena;Italy;2.0;2.0;2.0;5.0
+1268;Carson City, NV;United States;2.0;1.0;3.0;4.0
+1269;Huzhou;China;2.0;3.0;1.0;5.0
+1270;Tengzhou;China;2.0;3.0;1.0;5.0
+1271;Whistler;Canada;2.0;1.0;2.0;4.0
+1272;Tulum;Mexico;2.0;4.0;1.0;2.0
+1273;Brighton;United Kingdom;2.0;1.0;2.0;5.0
+1274;Santa Teresa;Costa Rica;2.0;1.0;2.0;2.0
+1275;Incline Village, NV;United States;2.0;1.0;2.0;4.0
+1276;Tarifa;Spain;2.0;1.0;2.0;5.0
+1277;Helena, MT;United States;2.0;1.0;3.0;4.0
+1278;Dorobo;Japan;2.0;2.0;2.0;4.0
+1279;Sariwon;North Korea;2.0;4.0;1.0;3.0
+1280;Nampo;North Korea;2.0;4.0;1.0;3.0
+1281;Grand Forks, ND;United States;2.0;1.0;3.0;4.0
+1282;Sayulita;Mexico;2.0;3.0;2.0;2.0
+1283;Charlotte Amalie;United States Virgin Islands;2.0;1.0;1.0;2.0
+1284;Cayenne;French Guiana;2.0;3.0;1.0;2.0
+1285;Okayama;Japan;2.0;2.0;2.0;5.0
+1286;Exeter;United Kingdom;2.0;2.0;2.0;5.0
+1287;Erbil;Kurdistan;2.0;3.0;1.0;3.0
+1288;Huambo;Angola;2.0;2.0;1.0;3.0
+1289;Nuuk;Greenland;2.0;1.0;1.0;3.0
+1290;Medina;Saudi Arabia;2.0;3.0;3.0;4.0
+1291;Ashgabat;Turkmenistan;2.0;1.0;1.0;4.0
+1292;Martinique;Martinique;2.0;1.0;2.0;4.0
+1293;St John's;Antigua and Barbuda;2.0;1.0;1.0;2.0
+1294;Doha;Qatar;2.0;3.0;1.0;4.0
+1295;Weihai;China;2.0;3.0;1.0;5.0
+1296;Dammam;Saudi Arabia;2.0;3.0;1.0;4.0
+1297;Kaesong;North Korea;2.0;2.0;1.0;3.0
+1298;N'Djamena;Chad;2.0;2.0;1.0;3.0
+1299;Cabo San Lucas;Mexico;2.0;3.0;2.0;2.0
+1300;Mecca;Saudi Arabia;2.0;2.0;1.0;4.0
+1301;El Calafate;Argentina;2.0;1.0;1.0;3.0
+1302;Tabarana do Norte;Brazil;2.0;1.0;2.0;1.0
+1303;Ramallah;Palestine;1.0;3.0;1.0;4.0
+1304;Obninsk;Russia;1.0;5.0;2.0;2.0
+1305;Tripoli;Libya;1.0;5.0;1.0;3.0
+1306;Novocherkassk;Russia;1.0;5.0;1.0;2.0
+1307;Beersheba;Israel;1.0;3.0;2.0;4.0
+1308;Juba;South Sudan;1.0;5.0;1.0;2.0
+1309;Ivano-Frankivsk;Ukraine;1.0;5.0;2.0;4.0
+1310;Haifa;Israel;1.0;2.0;2.0;4.0
+1311;Sochi;Russia;1.0;5.0;1.0;3.0
+1312;Tel Aviv;Israel;1.0;1.0;2.0;4.0
+1313;Kaliningrad;Russia;1.0;4.0;2.0;3.0
+1314;Beirut;Lebanon;1.0;5.0;1.0;4.0
+1315;Tomsk;Russia;1.0;5.0;2.0;3.0
+1316;Vladivostok;Russia;1.0;5.0;1.0;3.0
+1317;Ulyanovsk;Russia;1.0;5.0;1.0;2.0
+1318;Izhevsk;Russia;1.0;5.0;2.0;3.0
+1319;Benghazi;Libya;1.0;3.0;1.0;4.0
+1320;Krivoy-Rog;Ukraine;1.0;5.0;2.0;3.0
+1321;Khartoum;;1.0;5.0;1.0;3.0
+1322;Mosul;Iraq;1.0;5.0;1.0;2.0
+1323;Lviv;Ukraine;1.0;5.0;2.0;3.0
+1324;Bangui;Central African Republic;1.0;5.0;1.0;2.0
+1325;Krasnodar;Russia;1.0;5.0;2.0;3.0
+1326;Homs;Syria;1.0;4.0;1.0;4.0
+1327;Asmara;Eritrea;1.0;5.0;1.0;3.0
+1328;Saratov;Russia;1.0;5.0;2.0;2.0
+1329;Hama;Syria;1.0;4.0;1.0;4.0
+1330;Jerusalem;Israel;1.0;1.0;2.0;4.0
+1331;Naypyidaw;Myanmar;1.0;5.0;1.0;4.0
+1332;Dnipro;Ukraine;1.0;5.0;2.0;3.0
+1333;Odessa;Ukraine;1.0;5.0;4.0;4.0
+1334;Krasnoyarsk;Russia;1.0;5.0;2.0;3.0
+1335;Volgograd;Russia;1.0;5.0;1.0;2.0
+1336;Ufa;Russia;1.0;5.0;2.0;3.0
+1337;Rostov-on-Don;Russia;1.0;5.0;1.0;3.0
+1338;Ahvaz;Iran;1.0;4.0;1.0;3.0
+1339;Chelyabinsk;Russia;1.0;5.0;2.0;3.0
+1340;Omsk;Russia;1.0;5.0;2.0;3.0
+1341;Kazan;Russia;1.0;4.0;2.0;2.0
+1342;Samara;Russia;1.0;5.0;2.0;2.0
+1343;Maputo;Mozambique;1.0;4.0;1.0;4.0
+1344;Qom;Iran;1.0;5.0;1.0;4.0
+1345;Mandalay;Myanmar;1.0;5.0;1.0;4.0
+1346;Nizhny;Russia;1.0;4.0;2.0;3.0
+1347;Mogadishu;Somalia;1.0;4.0;1.0;2.0
+1348;Kharkiv;Ukraine;1.0;5.0;2.0;3.0
+1349;Yekaterinburg;Russia;1.0;5.0;2.0;3.0
+1350;Novosibirsk;Russia;1.0;5.0;1.0;3.0
+1351;Tabriz;Iran;1.0;5.0;1.0;4.0
+1352;Shiraz;Iran;1.0;5.0;1.0;4.0
+1353;Sana'a;Yemen;1.0;5.0;1.0;3.0
+1354;Damascus;Syria;1.0;3.0;1.0;4.0
+1355;Isfahan;Iran;1.0;4.0;1.0;4.0
+1356;Minsk;Belarus;1.0;5.0;2.0;4.0
+1357;Aleppo;Syria;1.0;5.0;1.0;4.0
+1358;Basra;Iraq;1.0;4.0;1.0;2.0
+1359;Addis Ababa;Ethiopia;1.0;5.0;1.0;3.0
+1360;Kyiv;Ukraine;1.0;5.0;2.0;3.0
+1361;Kabul;Afghanistan;1.0;5.0;1.0;3.0
+1362;Mashhad;Iran;1.0;5.0;1.0;3.0
+1363;Bamako;Mali;1.0;5.0;1.0;2.0
+1364;Dar es Salaam;Tanzania;1.0;5.0;1.0;3.0
+1365;Saint Petersburg;Russia;1.0;5.0;1.0;3.0
+1366;Yangon;Myanmar;1.0;5.0;1.0;4.0
+1367;Baghdad;Iraq;1.0;5.0;1.0;2.0
+1368;Tehran;Iran;1.0;4.0;1.0;4.0
+1369;Moscow;Russia;1.0;4.0;2.0;3.0

@@ -1,0 +1,1369 @@
+rank,city,country,overall,cost,internet,safety,country_code
+1,Bangkok,Thailand,4.0,5.0,2.0,4.0,TH
+2,Da Nang,Vietnam,4.0,5.0,1.0,4.0,VN
+3,Kuala Lumpur,Malaysia,4.0,5.0,2.0,4.0,MY
+4,Cape Town,South Africa,4.0,4.0,1.0,1.0,ZA
+5,Buenos Aires,Argentina,3.0,5.0,2.0,3.0,AR
+6,"Canggu, Bali",Indonesia,3.0,5.0,2.0,5.0,ID
+7,Melbourne,Australia,3.0,3.0,2.0,5.0,AU
+8,Chiang Mai,Thailand,3.0,5.0,2.0,4.0,TH
+9,Ericeira,Portugal,3.0,3.0,5.0,5.0,PT
+10,Asuncion,Paraguay,3.0,5.0,1.0,3.0,PY
+11,Phuket,Thailand,3.0,5.0,2.0,4.0,TH
+12,Mexico City,Mexico,3.0,5.0,1.0,2.0,MX
+13,Auckland,New Zealand,3.0,3.0,2.0,5.0,NZ
+14,Tokyo,Japan,3.0,3.0,2.0,5.0,JP
+15,Weligama,Sri Lanka,3.0,5.0,2.0,4.0,LK
+16,Timisoara,Romania,3.0,4.0,3.0,4.0,RO
+18,Tbilisi,Georgia,3.0,4.0,2.0,4.0,GE
+19,Ljubljana,Slovenia,3.0,3.0,3.0,4.0,SI
+20,Portimao,Portugal,3.0,4.0,2.0,5.0,PT
+21,Ploiesti,Romania,3.0,5.0,3.0,4.0,RO
+22,Lisbon,Portugal,3.0,3.0,2.0,5.0,PT
+23,Hong Kong,Hong Kong,3.0,3.0,5.0,5.0,HK
+24,Seoul,South Korea,3.0,4.0,3.0,5.0,KR
+25,"Naha, Okinawa",Japan,3.0,4.0,2.0,5.0,JP
+26,Aveiro,Portugal,3.0,4.0,2.0,5.0,PT
+27,Coimbra,Portugal,3.0,4.0,2.0,5.0,PT
+28,Rio de Janeiro,Brazil,3.0,4.0,1.0,2.0,BR
+29,Athens,Greece,3.0,4.0,1.0,5.0,GR
+30,Valencia,Spain,3.0,3.0,3.0,5.0,ES
+31,Rijeka,Croatia,3.0,5.0,2.0,5.0,HR
+32,Helsinki,Finland,3.0,3.0,2.0,4.0,FI
+33,Wrocaw,Poland,3.0,4.0,2.0,5.0,PL
+34,Tallinn,Estonia,3.0,4.0,3.0,4.0,EE
+35,Singapore,Singapore,3.0,2.0,5.0,5.0,SG
+36,Pokhara,Nepal,3.0,5.0,2.0,4.0,NP
+37,"Denver, CO",United States,3.0,2.0,5.0,3.0,US
+38,Krakow,Poland,3.0,4.0,3.0,5.0,PL
+39,Warsaw,Poland,3.0,4.0,2.0,5.0,PL
+40,Berlin,Germany,3.0,3.0,2.0,5.0,DE
+41,Nis,Serbia,3.0,5.0,4.0,4.0,RS
+42,Munich,Germany,3.0,2.0,2.0,5.0,DE
+43,Daejeon,South Korea,3.0,5.0,3.0,5.0,KR
+44,Sydney,Australia,3.0,3.0,2.0,5.0,AU
+45,Ko Pha Ngan,Thailand,3.0,4.0,2.0,4.0,TH
+46,Zadar,Croatia,3.0,4.0,2.0,5.0,HR
+47,Alicante,Spain,3.0,3.0,2.0,5.0,ES
+48,Varna,Bulgaria,3.0,4.0,2.0,4.0,BG
+49,Christchurch,New Zealand,3.0,3.0,2.0,5.0,NZ
+50,Lodz,Poland,3.0,4.0,3.0,5.0,PL
+51,Split,Croatia,3.0,4.0,2.0,4.0,HR
+52,Wellington,New Zealand,3.0,3.0,2.0,5.0,NZ
+53,Krabi,Thailand,3.0,5.0,2.0,4.0,TH
+54,Prague,Czechia,3.0,3.0,2.0,5.0,CZ
+55,Tampere,Finland,3.0,3.0,2.0,4.0,FI
+56,Lublin,Poland,3.0,4.0,2.0,5.0,PL
+57,Vilnius,Lithuania,3.0,4.0,4.0,4.0,LT
+58,Aachen,Germany,3.0,3.0,2.0,5.0,DE
+59,Recife,Brazil,3.0,5.0,1.0,2.0,BR
+60,Dubrovnik,Croatia,3.0,5.0,2.0,5.0,HR
+61,Kota Kinabalu,Malaysia,3.0,5.0,2.0,4.0,MY
+62,Novi Sad,Serbia,3.0,4.0,2.0,4.0,RS
+63,Nuremberg,Germany,3.0,3.0,2.0,5.0,DE
+64,Copenhagen,Denmark,3.0,1.0,3.0,5.0,DK
+65,Cancun,Mexico,3.0,4.0,1.0,2.0,MX
+66,"Austin, TX",United States,3.0,2.0,5.0,4.0,US
+67,Barcelona,Spain,3.0,1.0,3.0,5.0,ES
+68,Suva,Fiji,3.0,4.0,1.0,4.0,FJ
+69,Burgas,Bulgaria,3.0,4.0,2.0,4.0,BG
+70,Poznan,Poland,3.0,4.0,2.0,5.0,PL
+71,Zagreb,Croatia,3.0,5.0,2.0,5.0,HR
+72,Matara,Sri Lanka,3.0,5.0,2.0,4.0,LK
+73,Tunis,Tunisia,3.0,5.0,1.0,4.0,TN
+74,Hanoi,Vietnam,3.0,5.0,1.0,4.0,VN
+75,Penang,Malaysia,3.0,5.0,2.0,4.0,MY
+76,Stockholm,Sweden,3.0,3.0,3.0,4.0,SE
+77,"Dallas, TX",United States,3.0,2.0,5.0,4.0,US
+78,Patras,Greece,3.0,3.0,2.0,5.0,GR
+79,Cuenca,Ecuador,3.0,5.0,1.0,3.0,EC
+80,Curitiba,Brazil,3.0,5.0,2.0,2.0,BR
+81,"Sanur, Bali",Indonesia,3.0,5.0,1.0,5.0,ID
+82,Antigua,Guatemala,3.0,4.0,1.0,2.0,GT
+83,Kosice,Slovakia,3.0,4.0,2.0,4.0,SK
+84,La Union,Philippines,3.0,5.0,1.0,3.0,PH
+85,Tartu,Estonia,3.0,4.0,3.0,4.0,EE
+86,Goiania,Brazil,3.0,5.0,1.0,2.0,BR
+87,Nakhon Ratchasima,Thailand,3.0,5.0,5.0,4.0,TH
+88,Alexandria,Egypt,3.0,5.0,1.0,4.0,EG
+89,Mostar,Bosnia,3.0,4.0,1.0,4.0,BA
+90,Kingston,Jamaica,3.0,4.0,1.0,2.0,JM
+91,Cordoba,Argentina,3.0,5.0,1.0,3.0,AR
+92,Sofia,Bulgaria,3.0,4.0,2.0,4.0,BG
+93,Taipei,Taiwan,3.0,4.0,2.0,5.0,TW
+94,La Paz,Bolivia,3.0,5.0,1.0,3.0,BO
+95,Makassar,Indonesia,3.0,5.0,1.0,4.0,ID
+96,Budapest,Hungary,3.0,4.0,3.0,4.0,HU
+97,Tashkent,Uzbekistan,3.0,5.0,1.0,4.0,UZ
+98,Busan,South Korea,3.0,5.0,3.0,5.0,KR
+99,Andorra la Vella,Andorra,3.0,2.0,5.0,5.0,AD
+100,Porto,Portugal,3.0,4.0,2.0,5.0,PT
+101,Faro,Portugal,3.0,4.0,3.0,5.0,PT
+102,Bengaluru,India,3.0,5.0,2.0,4.0,IN
+103,Ko Lanta,Thailand,3.0,5.0,2.0,4.0,TH
+104,Karlsruhe,Germany,3.0,3.0,2.0,5.0,DE
+105,Salta,Argentina,3.0,5.0,1.0,3.0,AR
+106,Riga,Latvia,3.0,4.0,2.0,4.0,LV
+107,"Columbus, OH",United States,3.0,3.0,5.0,4.0,US
+108,Montevideo,Uruguay,3.0,4.0,2.0,3.0,UY
+109,Kaohsiung,Taiwan,3.0,5.0,2.0,5.0,TW
+110,Pisa,Italy,3.0,3.0,2.0,5.0,IT
+111,Grenoble,France,3.0,3.0,2.0,4.0,FR
+112,Cochabamba,Bolivia,3.0,5.0,1.0,3.0,BO
+113,Sarajevo,Bosnia,3.0,4.0,1.0,4.0,BA
+114,Durban,South Africa,3.0,4.0,1.0,1.0,ZA
+115,Jodhpur,India,3.0,5.0,1.0,4.0,IN
+116,Baku,Azerbaijan,3.0,5.0,1.0,4.0,AZ
+117,Johannesburg,South Africa,3.0,4.0,1.0,1.0,ZA
+118,Muscat,Oman,3.0,4.0,1.0,4.0,OM
+119,"Ogden, UT",United States,3.0,3.0,5.0,4.0,US
+120,Rhodes,Greece,3.0,3.0,2.0,5.0,GR
+121,Vitoria,Brazil,3.0,5.0,1.0,2.0,BR
+122,Sulaymaniyah,Kurdistan,3.0,4.0,1.0,3.0,
+123,"Denpasar, Bali",Indonesia,3.0,5.0,1.0,5.0,ID
+124,"Fuerteventura, Canary Islands",Spain,3.0,4.0,2.0,5.0,ES
+125,Bar,Montenegro,3.0,5.0,2.0,4.0,ME
+126,Abuja,Nigeria,3.0,5.0,1.0,3.0,NG
+127,Winnipeg,Canada,3.0,3.0,2.0,4.0,CA
+128,Cebu,Philippines,3.0,5.0,1.0,4.0,PH
+129,Kyoto,Japan,3.0,3.0,2.0,5.0,JP
+130,"San Antonio, TX",United States,3.0,3.0,3.0,3.0,US
+131,Adana,Turkey,3.0,5.0,1.0,4.0,TR
+132,Jaipur,India,3.0,5.0,1.0,4.0,IN
+133,Amman,Jordan,3.0,5.0,1.0,4.0,JO
+134,Ho Chi Minh City,Vietnam,3.0,5.0,1.0,4.0,VN
+135,Queenstown,New Zealand,3.0,1.0,3.0,5.0,NZ
+136,Chiang Rai,Thailand,3.0,5.0,2.0,4.0,TH
+137,"Ubud, Bali",Indonesia,3.0,5.0,2.0,5.0,ID
+138,"Amarillo, TX",United States,3.0,4.0,3.0,3.0,US
+139,San Juan,Puerto Rico,3.0,2.0,2.0,3.0,PR
+140,Queretaro,Mexico,3.0,5.0,1.0,2.0,MX
+141,Chongqing,China,3.0,5.0,1.0,5.0,CN
+142,"Senggigi, Lombok",Indonesia,3.0,5.0,1.0,5.0,ID
+143,Oranjestad,Aruba,3.0,2.0,2.0,4.0,AW
+144,Cannes,France,3.0,2.0,2.0,4.0,FR
+145,Montego Bay,Jamaica,3.0,3.0,2.0,2.0,JM
+146,Rennes,France,3.0,3.0,2.0,4.0,FR
+147,"Memphis, TN",United States,3.0,3.0,5.0,3.0,US
+148,Hiroshima,Japan,3.0,4.0,2.0,5.0,JP
+149,Hangzhou,China,3.0,5.0,1.0,5.0,CN
+150,Liberia,Costa Rica,3.0,4.0,1.0,2.0,CR
+151,Nottingham,United Kingdom,3.0,3.0,2.0,4.0,GB
+152,The Hague,Netherlands,3.0,2.0,2.0,5.0,NL
+153,"Medan, Sumatra",Indonesia,3.0,5.0,1.0,5.0,ID
+154,London,United Kingdom,3.0,1.0,2.0,4.0,GB
+155,Yangshuo,China,3.0,5.0,1.0,5.0,CN
+156,"Seminyak, Bali",Indonesia,3.0,5.0,1.0,5.0,ID
+157,Cairns,Australia,3.0,3.0,2.0,5.0,AU
+158,Salzburg,Austria,3.0,2.0,2.0,5.0,AT
+159,Utrecht,Netherlands,3.0,2.0,3.0,5.0,NL
+160,"Las Vegas, NV",United States,3.0,2.0,5.0,3.0,US
+161,Kathmandu,Nepal,3.0,5.0,1.0,4.0,NP
+162,Semarang,Indonesia,3.0,5.0,1.0,4.0,ID
+163,Ningbo,China,3.0,5.0,1.0,5.0,CN
+164,Lusaka,Zambia,3.0,5.0,1.0,3.0,ZM
+165,"Pittsburgh, PA",United States,3.0,2.0,5.0,4.0,US
+166,Nice,France,3.0,2.0,2.0,4.0,FR
+167,Bristol,United Kingdom,3.0,2.0,2.0,4.0,GB
+168,Bremen,Germany,3.0,3.0,2.0,5.0,DE
+169,Port Harcourt,Nigeria,3.0,5.0,1.0,3.0,NG
+170,"New York City, NY",United States,3.0,1.0,2.0,4.0,US
+171,Costa da Caparica,Portugal,3.0,3.0,3.0,5.0,PT
+172,Rethymno,Greece,3.0,3.0,2.0,5.0,GR
+173,"Battle Creek, MI",United States,3.0,3.0,5.0,4.0,US
+174,Alanya,Turkey,3.0,5.0,1.0,4.0,TR
+175,Innsbruck,Austria,3.0,2.0,2.0,5.0,AT
+176,"Chattanooga, TN",United States,3.0,3.0,5.0,3.0,US
+177,"Des Moines, IA",United States,3.0,3.0,5.0,4.0,US
+178,A Coruna,Spain,3.0,3.0,2.0,5.0,ES
+179,Thessaloniki,Greece,3.0,3.0,2.0,5.0,GR
+180,"Seattle, WA",United States,3.0,1.0,5.0,4.0,US
+181,Mendoza,Argentina,3.0,5.0,1.0,3.0,AR
+182,Medellin,Colombia,3.0,5.0,1.0,2.0,CO
+183,Osaka,Japan,3.0,4.0,2.0,5.0,JP
+184,Caye Caulker,Belize,3.0,3.0,1.0,2.0,BZ
+185,Lake Balaton,Hungary,3.0,4.0,4.0,4.0,HU
+186,Rovaniemi,Finland,3.0,2.0,3.0,4.0,FI
+187,Cadiz,Spain,3.0,3.0,4.0,5.0,ES
+188,Norwich,United Kingdom,3.0,2.0,2.0,5.0,GB
+189,"Providence, RI",United States,3.0,2.0,3.0,4.0,US
+190,Groningen,Netherlands,3.0,2.0,3.0,5.0,NL
+191,Leeds,United Kingdom,3.0,2.0,2.0,4.0,GB
+192,Ipoh,Malaysia,3.0,5.0,2.0,4.0,MY
+193,Astana,Kazakhstan,3.0,5.0,2.0,4.0,KZ
+194,Lahore,Pakistan,3.0,5.0,1.0,3.0,PK
+195,Cabarete,Dominican Republic,3.0,4.0,1.0,3.0,DO
+196,"Lagos, Algarve",Portugal,3.0,4.0,2.0,5.0,PT
+197,Kitchener,Canada,3.0,3.0,2.0,4.0,CA
+198,"Honolulu, Hawaii",United States,3.0,1.0,2.0,4.0,US
+199,"Tampa, FL",United States,3.0,1.0,5.0,4.0,US
+200,Agadir,Morocco,3.0,5.0,1.0,4.0,MA
+201,Vadodara,India,3.0,5.0,1.0,4.0,IN
+202,Datong,China,3.0,4.0,1.0,5.0,CN
+203,Fukuoka,Japan,3.0,3.0,2.0,5.0,JP
+204,"Chicago, IL",United States,3.0,2.0,5.0,4.0,US
+205,Madrid,Spain,3.0,3.0,3.0,5.0,ES
+206,Nanjing,China,3.0,5.0,1.0,5.0,CN
+207,"Greeley, CO",United States,3.0,3.0,4.0,4.0,US
+208,Leon,Nicaragua,3.0,5.0,1.0,2.0,NI
+209,"Oxnard, CA",United States,3.0,2.0,5.0,4.0,US
+210,Saskatoon,Canada,3.0,3.0,2.0,4.0,CA
+211,Catania,Italy,3.0,3.0,2.0,5.0,IT
+212,Vina del Mar,Chile,3.0,4.0,2.0,4.0,CL
+213,"Fresno, CA",United States,3.0,3.0,5.0,3.0,US
+214,Dubai,United Arab Emirates,3.0,3.0,1.0,5.0,AE
+215,Ko Chang,Thailand,3.0,5.0,2.0,4.0,TH
+216,Puerto Viejo,Costa Rica,3.0,3.0,1.0,2.0,CR
+217,Hof,Germany,3.0,3.0,4.0,5.0,DE
+218,"Asheville, NC",United States,3.0,2.0,5.0,4.0,US
+219,Oxford,United Kingdom,3.0,2.0,2.0,4.0,GB
+220,"Grand Rapids, MI",United States,3.0,2.0,5.0,4.0,US
+221,Windsor,Canada,3.0,3.0,2.0,4.0,CA
+222,Strasbourg,France,3.0,3.0,2.0,4.0,FR
+223,"Oklahoma City, OK",United States,3.0,2.0,5.0,3.0,US
+224,Fes,Morocco,3.0,5.0,1.0,4.0,MA
+225,Kobe,Japan,3.0,3.0,2.0,5.0,JP
+226,Nagpur,India,3.0,5.0,1.0,4.0,IN
+227,"Erie, PA",United States,3.0,3.0,3.0,4.0,US
+228,Gaborone,Botswana,3.0,4.0,1.0,2.0,BW
+229,"Cincinnati, OH",United States,3.0,3.0,3.0,4.0,US
+230,Halifax,Canada,3.0,2.0,2.0,4.0,CA
+231,"Virginia Beach, VA",United States,3.0,2.0,5.0,4.0,US
+232,"Colorado Springs, CO",United States,3.0,3.0,3.0,3.0,US
+233,Sharjah,United Arab Emirates,3.0,4.0,1.0,5.0,AE
+234,Belgrade,Serbia,3.0,4.0,3.0,4.0,RS
+235,Punta del Este,Uruguay,3.0,2.0,2.0,4.0,UY
+236,Peniche,Portugal,3.0,4.0,4.0,5.0,PT
+237,"Bend, OR",United States,3.0,3.0,3.0,4.0,US
+238,Hoi An,Vietnam,3.0,5.0,1.0,4.0,VN
+239,Darmstadt,Germany,3.0,3.0,2.0,5.0,DE
+240,Brasov,Romania,3.0,4.0,3.0,4.0,RO
+241,Newcastle Upon Tyne,United Kingdom,3.0,2.0,2.0,4.0,GB
+242,Venice,Italy,3.0,2.0,2.0,5.0,IT
+243,"New Orleans, LA",United States,3.0,1.0,5.0,3.0,US
+244,Bucaramanga,Colombia,3.0,5.0,1.0,2.0,CO
+245,Nashik,India,3.0,5.0,1.0,4.0,IN
+246,Brisbane,Australia,3.0,2.0,2.0,5.0,AU
+247,Mykonos,Greece,3.0,2.0,2.0,5.0,GR
+248,Annecy,France,3.0,3.0,3.0,4.0,FR
+249,Rouen,France,3.0,2.0,3.0,4.0,FR
+250,"Buffalo, NY",United States,3.0,2.0,2.0,4.0,US
+251,"Tucson, AZ",United States,3.0,2.0,5.0,3.0,US
+252,Hannover,Germany,3.0,2.0,2.0,5.0,DE
+253,"Tenerife, Canary Islands",Spain,3.0,3.0,3.0,5.0,ES
+254,Monterrey,Mexico,3.0,4.0,1.0,2.0,MX
+255,Mumbai,India,3.0,5.0,1.0,4.0,IN
+256,San Juan del Sur,Nicaragua,3.0,4.0,1.0,2.0,NI
+257,McLeod Ganj,India,3.0,5.0,3.0,4.0,IN
+258,Ko Samui,Thailand,3.0,5.0,2.0,4.0,TH
+259,"Chania, Crete",Greece,3.0,3.0,2.0,5.0,GR
+260,Erlangen,Germany,3.0,3.0,2.0,5.0,DE
+261,Siargao,Philippines,3.0,5.0,1.0,3.0,PH
+262,"Santa Rosa, CA",United States,3.0,2.0,5.0,4.0,US
+263,Bournemouth,United Kingdom,3.0,2.0,2.0,5.0,GB
+264,Pristina,Kosovo,3.0,3.0,2.0,4.0,XK
+265,"Boise, ID",United States,3.0,2.0,5.0,4.0,US
+266,Lille,France,3.0,3.0,2.0,4.0,FR
+267,"Boston, MA",United States,3.0,1.0,3.0,4.0,US
+268,Handan,China,3.0,5.0,2.0,5.0,CN
+269,Gaziantep,Turkey,3.0,5.0,1.0,4.0,TR
+270,Tainan,Taiwan,3.0,5.0,2.0,5.0,TW
+271,Patna,India,3.0,5.0,1.0,4.0,IN
+272,Leiden,Netherlands,3.0,1.0,3.0,5.0,NL
+273,Willemstad,Curacao,3.0,1.0,1.0,3.0,
+274,Oaxaca,Mexico,3.0,5.0,1.0,2.0,MX
+275,Torreon,Mexico,3.0,5.0,1.0,2.0,MX
+276,Visakhapatnam,India,3.0,5.0,1.0,4.0,IN
+277,Aurangabad,India,3.0,5.0,1.0,4.0,IN
+278,Almaty,Kazakhstan,3.0,5.0,1.0,4.0,KZ
+279,Davao,Philippines,3.0,5.0,1.0,4.0,PH
+280,Salento,Colombia,3.0,5.0,1.0,2.0,CO
+281,Bansko,Bulgaria,3.0,4.0,2.0,4.0,BG
+282,Hagatna,Guam,3.0,2.0,1.0,2.0,GU
+283,"Bellingham, WA",United States,3.0,2.0,5.0,4.0,US
+284,"Dayton, OH",United States,3.0,2.0,5.0,4.0,US
+285,Pamplona,Spain,3.0,2.0,3.0,5.0,ES
+286,San Salvador,El Salvador,3.0,4.0,1.0,1.0,SV
+287,Porto Alegre,Brazil,3.0,5.0,1.0,2.0,BR
+288,Bursa,Turkey,3.0,5.0,1.0,4.0,TR
+289,Hyderabad,India,3.0,5.0,1.0,4.0,IN
+290,Javea,Spain,3.0,3.0,2.0,5.0,ES
+291,Phu Quoc,Vietnam,3.0,5.0,1.0,4.0,VN
+292,Cluj,Romania,3.0,4.0,3.0,4.0,RO
+293,Antalya,Turkey,3.0,5.0,1.0,4.0,TR
+294,Wanaka,New Zealand,3.0,1.0,2.0,4.0,NZ
+295,Braga,Portugal,3.0,4.0,2.0,5.0,PT
+296,"Oakland, CA",United States,3.0,1.0,5.0,3.0,US
+297,Kochi,India,3.0,5.0,1.0,4.0,IN
+298,Sargodha,Pakistan,3.0,5.0,1.0,3.0,PK
+299,Baoding,China,3.0,5.0,2.0,5.0,CN
+300,Marrakesh,Morocco,3.0,3.0,1.0,4.0,MA
+301,Islamabad,Pakistan,3.0,5.0,1.0,3.0,PK
+302,Yerevan,Armenia,3.0,4.0,1.0,4.0,AM
+303,Ulaanbaatar,Mongolia,3.0,5.0,1.0,3.0,MN
+304,Paris,France,3.0,1.0,2.0,4.0,FR
+305,Chennai,India,3.0,5.0,1.0,4.0,IN
+306,Gili Air,Indonesia,3.0,4.0,1.0,4.0,ID
+307,"Palo Alto, CA",United States,3.0,1.0,5.0,4.0,US
+308,Lake Como,Italy,3.0,3.0,2.0,5.0,IT
+309,"Redding, CA",United States,3.0,2.0,2.0,3.0,US
+310,Rishikesh,India,3.0,5.0,1.0,4.0,IN
+311,"Boulder, CO",United States,3.0,1.0,5.0,4.0,US
+312,Rimini,Italy,3.0,3.0,2.0,5.0,IT
+313,Santa Marta,Colombia,3.0,5.0,1.0,2.0,CO
+314,Gdansk,Poland,3.0,4.0,2.0,5.0,PL
+315,Puebla,Mexico,3.0,4.0,1.0,2.0,MX
+316,Brasilia,Brazil,3.0,5.0,1.0,2.0,BR
+317,Guangzhou,China,3.0,5.0,1.0,5.0,CN
+318,Bodrum,Turkey,3.0,4.0,1.0,4.0,TR
+319,Reykjavik,Iceland,3.0,1.0,2.0,5.0,IS
+320,"Montgomery, AL",United States,3.0,2.0,3.0,3.0,US
+321,Bari,Italy,3.0,2.0,2.0,4.0,IT
+322,Yaounde,Cameroon,3.0,5.0,1.0,3.0,CM
+323,Kolkata,India,3.0,5.0,1.0,4.0,IN
+324,Hvar,Croatia,3.0,3.0,2.0,4.0,HR
+325,Deventer,Netherlands,3.0,3.0,3.0,5.0,NL
+326,"Miami, FL",United States,3.0,1.0,3.0,3.0,US
+327,"St. George, UT",United States,3.0,1.0,5.0,4.0,US
+328,"Santa Barbara, CA",United States,3.0,1.0,5.0,4.0,US
+329,Cork,Ireland,3.0,1.0,2.0,5.0,IE
+330,Heidelberg,Germany,3.0,2.0,2.0,5.0,DE
+331,Rzeszow,Poland,3.0,3.0,2.0,5.0,PL
+332,Luton,United Kingdom,3.0,2.0,2.0,5.0,GB
+333,Sheffield,United Kingdom,3.0,2.0,2.0,5.0,GB
+334,"Louisville, KY",United States,3.0,1.0,5.0,4.0,US
+335,Santorini,Greece,3.0,1.0,2.0,5.0,GR
+336,"Coeur d'Alene, ID",United States,3.0,2.0,4.0,4.0,US
+337,Avignon,France,3.0,2.0,2.0,4.0,FR
+338,Nanaimo,Canada,3.0,2.0,2.0,4.0,CA
+339,"Salt Lake City, UT",United States,3.0,3.0,5.0,3.0,US
+340,Ghent,Belgium,3.0,2.0,3.0,4.0,BE
+341,Brno,Czechia,3.0,4.0,2.0,5.0,CZ
+342,"Minneapolis, MN",United States,3.0,2.0,5.0,4.0,US
+343,Toronto,Canada,3.0,2.0,2.0,4.0,CA
+344,Istanbul,Turkey,3.0,5.0,1.0,4.0,TR
+345,"Santa Fe, NM",United States,3.0,2.0,2.0,4.0,US
+346,Podgorica,Montenegro,3.0,5.0,2.0,4.0,ME
+347,"Reno, NV",United States,3.0,1.0,5.0,3.0,US
+348,Florianopolis,Brazil,3.0,5.0,1.0,2.0,BR
+349,"Toledo, OH",United States,3.0,2.0,3.0,4.0,US
+350,Cardiff,United Kingdom,3.0,1.0,2.0,4.0,GB
+351,Zurich,Switzerland,3.0,1.0,3.0,5.0,CH
+352,Lyon,France,3.0,3.0,2.0,4.0,FR
+353,"Nashville, TN",United States,3.0,2.0,5.0,3.0,US
+354,Srinagar,India,3.0,5.0,1.0,4.0,IN
+355,Perth,Australia,3.0,2.0,2.0,5.0,AU
+356,Montanita,Ecuador,3.0,3.0,2.0,3.0,EC
+357,Bocas del Toro,Panama,3.0,3.0,1.0,2.0,PA
+358,Biarritz,France,3.0,2.0,3.0,4.0,FR
+359,Jarabacoa,Dominican Republic,3.0,3.0,1.0,3.0,DO
+360,"Napa, CA",United States,3.0,1.0,5.0,3.0,US
+361,"Fort Collins, CO",United States,3.0,1.0,5.0,4.0,US
+362,Trieste,Italy,3.0,2.0,2.0,5.0,IT
+363,Florence,Italy,3.0,2.0,2.0,4.0,IT
+364,Bratislava,Slovakia,3.0,4.0,2.0,5.0,SK
+365,Jeju Island,South Korea,3.0,4.0,3.0,5.0,KR
+366,Amsterdam,Netherlands,3.0,1.0,2.0,5.0,NL
+367,Chengdu,China,3.0,5.0,1.0,5.0,CN
+368,Beijing,China,3.0,4.0,1.0,5.0,CN
+369,Victoria,Seychelles,3.0,2.0,1.0,3.0,SC
+370,Victoria,Canada,3.0,2.0,2.0,4.0,CA
+371,"Newport Beach, CA",United States,3.0,1.0,4.0,4.0,US
+372,Madeira,Portugal,3.0,4.0,2.0,5.0,PT
+373,Siem Reap,Cambodia,3.0,5.0,1.0,4.0,KH
+374,Plovdiv,Bulgaria,3.0,5.0,2.0,4.0,BG
+375,Edinburgh,United Kingdom,3.0,1.0,2.0,5.0,GB
+376,Bath,United Kingdom,3.0,1.0,2.0,5.0,GB
+377,Oslo,Norway,3.0,1.0,3.0,5.0,NO
+378,Frankfurt,Germany,3.0,3.0,2.0,5.0,DE
+379,Lima,Peru,3.0,5.0,1.0,3.0,PE
+380,Tamarindo,Costa Rica,3.0,2.0,1.0,3.0,CR
+381,El Gouna,Egypt,3.0,3.0,1.0,4.0,EG
+382,"Lanzarote, Canary Islands",Spain,3.0,2.0,2.0,5.0,ES
+383,Azores,Portugal,3.0,4.0,2.0,5.0,PT
+384,"Manchester, NH",United States,3.0,1.0,5.0,4.0,US
+385,Bordeaux,France,3.0,3.0,2.0,4.0,FR
+386,Nassau,The Bahamas,3.0,1.0,1.0,3.0,
+387,"Anchorage, AK",United States,3.0,1.0,5.0,3.0,US
+388,Sinuiju,North Korea,3.0,5.0,1.0,3.0,KP
+389,Ottawa,Canada,3.0,3.0,2.0,4.0,CA
+390,Bishkek,Kyrgyzstan,3.0,5.0,1.0,3.0,KG
+391,Hamburg,Germany,3.0,3.0,2.0,5.0,DE
+392,Leeuwarden,Netherlands,3.0,2.0,3.0,5.0,NL
+393,Playa del Carmen,Mexico,3.0,4.0,1.0,2.0,MX
+394,Basel,Switzerland,3.0,1.0,3.0,5.0,CH
+395,"Gran Canaria, Canary Islands",Spain,3.0,5.0,2.0,5.0,ES
+396,Quebec City,Canada,3.0,2.0,2.0,4.0,CA
+397,Skopje,North Macedonia,3.0,5.0,2.0,4.0,MK
+398,Dusseldorf,Germany,3.0,3.0,2.0,5.0,DE
+399,Shanghai,China,3.0,5.0,1.0,5.0,CN
+400,Sliema,Malta,3.0,3.0,2.0,5.0,MT
+401,Lausanne,Switzerland,3.0,1.0,3.0,5.0,CH
+402,Nantes,France,3.0,3.0,2.0,4.0,FR
+403,Kaunas,Lithuania,3.0,4.0,3.0,3.0,LT
+404,Mallorca,Spain,3.0,4.0,3.0,5.0,ES
+405,"Atlanta, GA",United States,3.0,2.0,3.0,4.0,US
+406,Gold Coast,Australia,3.0,1.0,2.0,5.0,AU
+407,Montreal,Canada,3.0,3.0,2.0,4.0,CA
+408,"Lake Tahoe, CA",United States,3.0,1.0,2.0,4.0,US
+409,"Uluwatu, Bali",Indonesia,3.0,4.0,1.0,5.0,ID
+410,George Town,Cayman Islands,3.0,1.0,2.0,3.0,KY
+411,Paphos,Cyprus,3.0,3.0,1.0,4.0,CY
+412,"Worcester, MA",United States,3.0,2.0,2.0,3.0,US
+413,Malmo,Sweden,3.0,2.0,3.0,4.0,SE
+414,Belfast,United Kingdom,3.0,2.0,2.0,4.0,GB
+415,Jundiai,Brazil,3.0,3.0,1.0,2.0,BR
+416,Makati,Philippines,3.0,5.0,1.0,4.0,PH
+417,"San Francisco, CA",United States,3.0,1.0,5.0,3.0,US
+418,Riyadh,Saudi Arabia,3.0,4.0,1.0,4.0,SA
+419,Pai,Thailand,2.0,5.0,2.0,4.0,TH
+420,Lucca,Italy,2.0,2.0,2.0,5.0,IT
+421,"Hartford, CT",United States,2.0,1.0,5.0,4.0,US
+422,Port Louis,Mauritius,2.0,4.0,1.0,4.0,MU
+423,Montpellier,France,2.0,3.0,2.0,4.0,FR
+424,Gothenburg,Sweden,2.0,3.0,2.0,4.0,SE
+425,"Los Angeles, CA",United States,2.0,1.0,5.0,3.0,US
+426,Ko Phi Phi,Thailand,2.0,3.0,2.0,4.0,TH
+427,"Cemagi, Bali",Indonesia,2.0,5.0,2.0,5.0,ID
+428,Texel,Netherlands,2.0,1.0,3.0,5.0,NL
+429,Puerto Escondido,Mexico,2.0,5.0,2.0,2.0,MX
+430,"Daytona Beach, FL",United States,2.0,1.0,2.0,4.0,US
+431,Palermo,Italy,2.0,3.0,2.0,5.0,IT
+432,Haikou,China,2.0,5.0,1.0,5.0,CN
+433,Bogota,Colombia,2.0,5.0,1.0,1.0,CO
+434,Sao Paulo,Brazil,2.0,5.0,2.0,2.0,BR
+435,"Portland, ME",United States,2.0,1.0,3.0,4.0,US
+436,Bruges,Belgium,2.0,1.0,3.0,4.0,BE
+437,"Okinawa City, Okinawa",Japan,2.0,4.0,5.0,5.0,JP
+438,Santiago,Chile,2.0,4.0,2.0,4.0,CL
+439,Basse-Terre,Guadeloupe,2.0,3.0,1.0,3.0,GP
+440,Essaouira,Morocco,2.0,4.0,1.0,4.0,MA
+441,Szczecin,Poland,2.0,4.0,2.0,5.0,PL
+442,Cologne,Germany,2.0,2.0,2.0,5.0,DE
+443,Belo Horizonte,Brazil,2.0,5.0,2.0,2.0,BR
+444,San Miguel de Allende,Mexico,2.0,3.0,1.0,2.0,MX
+445,Da Lat,Vietnam,2.0,5.0,1.0,4.0,VN
+446,Port Moresby,Papua New Guinea,2.0,3.0,1.0,3.0,PG
+447,San Pedro,Belize,2.0,2.0,1.0,2.0,BZ
+448,Tirana,Albania,2.0,4.0,1.0,4.0,AL
+449,Jeddah,Saudi Arabia,2.0,4.0,1.0,4.0,SA
+450,Langkawi,Malaysia,2.0,5.0,2.0,4.0,MY
+451,Bay Islands,Honduras,2.0,3.0,1.0,1.0,HN
+452,Batumi,Georgia,2.0,4.0,1.0,4.0,GE
+453,San Sebastian,Spain,2.0,2.0,3.0,4.0,ES
+454,Granada,Spain,2.0,4.0,2.0,5.0,ES
+455,Mombasa,Kenya,2.0,4.0,1.0,3.0,KE
+456,Phnom Penh,Cambodia,2.0,5.0,1.0,4.0,KH
+457,Jakarta,Indonesia,2.0,5.0,1.0,5.0,ID
+458,Interlaken,Switzerland,2.0,1.0,2.0,5.0,CH
+459,Galle,Sri Lanka,2.0,5.0,1.0,4.0,LK
+460,Hue,Vietnam,2.0,5.0,1.0,4.0,VN
+461,Banff,Canada,2.0,1.0,3.0,4.0,CA
+462,Geneva,Switzerland,2.0,1.0,3.0,5.0,CH
+463,Craiova,Romania,2.0,5.0,3.0,4.0,RO
+464,Chisinau,Moldova,2.0,5.0,2.0,4.0,MD
+465,Vienna,Austria,2.0,3.0,2.0,4.0,AT
+466,Delhi,India,2.0,5.0,1.0,4.0,IN
+467,Palawan,Philippines,2.0,5.0,1.0,3.0,PH
+468,Mancora,Peru,2.0,4.0,1.0,3.0,PE
+469,Aberdeen,United Kingdom,2.0,2.0,2.0,4.0,GB
+470,Iasi,Romania,2.0,4.0,3.0,4.0,RO
+471,Malaga,Spain,2.0,4.0,2.0,5.0,ES
+472,Libreville,Gabon,2.0,3.0,1.0,3.0,GA
+473,Pattaya,Thailand,2.0,5.0,2.0,4.0,TH
+474,Paramaribo,Suriname,2.0,5.0,1.0,2.0,SR
+475,Vancouver,Canada,2.0,2.0,2.0,4.0,CA
+476,"Jimbaran, Bali",Indonesia,2.0,5.0,2.0,5.0,ID
+477,Larnaca,Cyprus,2.0,3.0,1.0,4.0,CY
+478,Amalfi,Italy,2.0,1.0,2.0,5.0,IT
+479,Thimphu,Bhutan,2.0,5.0,1.0,4.0,BT
+480,Natal,Brazil,2.0,5.0,2.0,2.0,BR
+481,Daegu,South Korea,2.0,4.0,3.0,5.0,KR
+482,Lagos,Nigeria,2.0,5.0,1.0,3.0,NG
+483,Taghazout,Morocco,2.0,4.0,1.0,4.0,MA
+484,Livingstone,Zambia,2.0,5.0,1.0,3.0,ZM
+485,Colombo,Sri Lanka,2.0,5.0,1.0,4.0,LK
+486,Ko Tao,Thailand,2.0,5.0,2.0,4.0,TH
+487,Chamonix,France,2.0,1.0,2.0,4.0,FR
+488,Ushuaia,Argentina,2.0,5.0,1.0,3.0,AR
+489,Osijek,Croatia,2.0,5.0,2.0,4.0,HR
+490,Turku,Finland,2.0,3.0,2.0,4.0,FI
+491,Dresden,Germany,2.0,3.0,2.0,5.0,DE
+492,Stuttgart,Germany,2.0,3.0,2.0,5.0,DE
+493,Santa Cruz,Bolivia,2.0,5.0,1.0,3.0,BO
+494,Nicosia,Cyprus,2.0,4.0,1.0,4.0,CY
+495,Bandung,Indonesia,2.0,5.0,1.0,5.0,ID
+496,Panama City,Panama,2.0,4.0,1.0,2.0,PA
+497,Bariloche,Argentina,2.0,5.0,1.0,4.0,AR
+498,Arugam Bay,Sri Lanka,2.0,5.0,1.0,4.0,LK
+499,"Kuta (Lombok), Lombok",Indonesia,2.0,5.0,1.0,5.0,ID
+500,Joao Pessoa,Brazil,2.0,5.0,1.0,2.0,BR
+501,Rome,Italy,2.0,1.0,2.0,5.0,IT
+502,Shenzhen,China,2.0,5.0,1.0,5.0,CN
+503,Gili Trawangan,Indonesia,2.0,5.0,1.0,5.0,ID
+504,Katowice,Poland,2.0,4.0,2.0,5.0,PL
+505,Naples,Italy,2.0,3.0,2.0,5.0,IT
+506,Salvador,Brazil,2.0,5.0,1.0,2.0,BR
+507,Surabaya,Indonesia,2.0,5.0,1.0,5.0,ID
+508,Luang Prabang,Laos,2.0,5.0,1.0,4.0,LA
+509,Kandy,Sri Lanka,2.0,5.0,2.0,4.0,LK
+510,Klaipeda,Lithuania,2.0,4.0,2.0,3.0,LT
+511,Itajai,Brazil,2.0,5.0,2.0,2.0,BR
+512,Kuching,Malaysia,2.0,5.0,2.0,4.0,MY
+513,Johor Bahru,Malaysia,2.0,5.0,2.0,4.0,MY
+514,Suwon,South Korea,2.0,5.0,3.0,5.0,KR
+515,Harare,Zimbabwe,2.0,4.0,1.0,3.0,ZW
+516,Nagoya,Japan,2.0,4.0,2.0,5.0,JP
+517,"Amed, Bali",Indonesia,2.0,5.0,1.0,5.0,ID
+518,Belem,Brazil,2.0,5.0,1.0,2.0,BR
+519,Espoo,Finland,2.0,2.0,2.0,4.0,FI
+520,Pretoria,South Africa,2.0,5.0,1.0,2.0,ZA
+521,Luanda,Angola,2.0,5.0,1.0,3.0,AO
+522,San Pedro de Atacama,Chile,2.0,1.0,2.0,4.0,CL
+523,Gori,Georgia,2.0,5.0,2.0,4.0,GE
+524,"Fort Lauderdale, FL",United States,2.0,1.0,2.0,3.0,US
+525,Banja Luka,Bosnia,2.0,5.0,1.0,4.0,BA
+526,Graz,Austria,2.0,3.0,2.0,5.0,AT
+527,Cusco,Peru,2.0,5.0,1.0,3.0,PE
+528,Djibouti,Djibouti,2.0,3.0,1.0,3.0,DJ
+529,General Santos,Philippines,2.0,5.0,1.0,3.0,PH
+530,Manila,Philippines,2.0,5.0,1.0,3.0,PH
+531,Izmir,Turkey,2.0,5.0,1.0,4.0,TR
+532,Hobart,Australia,2.0,3.0,2.0,5.0,AU
+533,Rotterdam,Netherlands,2.0,2.0,3.0,5.0,NL
+534,Campinas,Brazil,2.0,5.0,1.0,2.0,BR
+535,Changzhou,China,2.0,5.0,1.0,5.0,CN
+536,Bucharest,Romania,2.0,5.0,4.0,4.0,RO
+537,Guayaquil,Ecuador,2.0,5.0,1.0,3.0,EC
+538,Xi An,China,2.0,5.0,1.0,5.0,CN
+539,Sa Pa,Vietnam,2.0,5.0,1.0,4.0,VN
+540,Trancoso,Brazil,2.0,4.0,3.0,2.0,BR
+541,Brussels,Belgium,2.0,3.0,3.0,4.0,BE
+542,"St. Louis, MO",United States,2.0,2.0,5.0,4.0,US
+543,Liverpool,United Kingdom,2.0,3.0,2.0,4.0,GB
+544,Rabat,Morocco,2.0,4.0,1.0,4.0,MA
+545,Khulna,Bangladesh,2.0,5.0,1.0,4.0,BD
+546,Arequipa,Peru,2.0,5.0,1.0,3.0,PE
+547,Fuzhou,China,2.0,5.0,1.0,5.0,CN
+548,Huainan,China,2.0,5.0,1.0,5.0,CN
+549,Gwangju,South Korea,2.0,5.0,3.0,5.0,KR
+550,Goa,India,2.0,4.0,1.0,4.0,IN
+551,"Menorca, Menorca",Spain,2.0,4.0,2.0,5.0,ES
+552,Apia,Samoa,2.0,4.0,1.0,4.0,WS
+553,Marbella,Spain,2.0,3.0,3.0,5.0,ES
+554,Ninh Binh,Vietnam,2.0,5.0,1.0,4.0,VN
+555,Puerto Vallarta,Mexico,2.0,4.0,1.0,2.0,MX
+556,Manchester,United Kingdom,2.0,2.0,2.0,4.0,GB
+557,Leipzig,Germany,2.0,3.0,2.0,5.0,DE
+558,"Portland, OR",United States,2.0,1.0,5.0,4.0,US
+559,Santo Domingo,Dominican Republic,2.0,5.0,1.0,2.0,DO
+560,"Houston, TX",United States,2.0,2.0,5.0,4.0,US
+561,Chittagong,Bangladesh,2.0,5.0,1.0,4.0,BD
+562,Guiyang,China,2.0,5.0,1.0,5.0,CN
+563,Cairo,Egypt,2.0,5.0,1.0,4.0,EG
+564,Wuhan,China,2.0,5.0,1.0,5.0,CN
+565,Sao Vicente,Cape Verde,2.0,4.0,1.0,3.0,
+566,Toulouse,France,2.0,3.0,2.0,4.0,FR
+567,Seville,Spain,2.0,2.0,3.0,5.0,ES
+568,Malang,Indonesia,2.0,5.0,1.0,4.0,ID
+569,Corfu,Greece,2.0,5.0,2.0,5.0,GR
+570,Alesund,Norway,2.0,3.0,5.0,5.0,NO
+571,Dunedin,New Zealand,2.0,2.0,2.0,5.0,NZ
+572,Dijon,France,2.0,3.0,3.0,4.0,FR
+573,Manama,Bahrain,2.0,4.0,1.0,5.0,BH
+574,"Washington, DC",United States,2.0,1.0,5.0,4.0,US
+575,Port Elizabeth,South Africa,2.0,4.0,1.0,2.0,ZA
+576,Amritsar,India,2.0,5.0,1.0,4.0,IN
+577,Guatemala City,Guatemala,2.0,5.0,1.0,2.0,GT
+578,Changshu,China,2.0,5.0,1.0,5.0,CN
+579,Hefei,China,2.0,5.0,1.0,5.0,CN
+580,Giza,Egypt,2.0,5.0,1.0,4.0,EG
+581,Qingdao,China,2.0,5.0,1.0,5.0,CN
+582,Kunming,China,2.0,5.0,1.0,5.0,CN
+583,Mui Ne,Vietnam,2.0,5.0,1.0,4.0,VN
+584,Bandar Seri Begawan,Brunei,2.0,5.0,1.0,5.0,BN
+585,St. George's,Grenada,2.0,3.0,3.0,3.0,GD
+586,"Jonesboro, AR",United States,2.0,4.0,3.0,4.0,US
+587,"Yuma, AZ",United States,2.0,3.0,3.0,4.0,US
+588,Kinmen,Taiwan,2.0,4.0,2.0,5.0,TW
+589,Nijmegen,Netherlands,2.0,1.0,3.0,5.0,NL
+590,Kassel,Germany,2.0,3.0,5.0,4.0,DE
+591,Mamaia,Romania,2.0,3.0,4.0,4.0,RO
+592,"Tulsa, OK",United States,2.0,3.0,3.0,3.0,US
+593,La Plata,Argentina,2.0,5.0,2.0,3.0,AR
+594,Dublin,Ireland,2.0,1.0,3.0,5.0,IE
+595,"Indianapolis, IN",United States,2.0,2.0,5.0,3.0,US
+596,Rosario,Argentina,2.0,5.0,1.0,3.0,AR
+597,Yiwu,China,2.0,5.0,1.0,5.0,CN
+598,Glasgow,United Kingdom,2.0,2.0,2.0,4.0,GB
+599,Cixi,China,2.0,5.0,1.0,5.0,CN
+600,Thane,India,2.0,5.0,1.0,4.0,IN
+601,Benin City,Nigeria,2.0,5.0,1.0,3.0,NG
+602,Ibadan,Nigeria,2.0,5.0,1.0,3.0,NG
+603,Surat,India,2.0,5.0,1.0,4.0,IN
+604,Sumperk,Czechia,2.0,3.0,4.0,5.0,CZ
+605,Monaco,Monaco,2.0,1.0,5.0,5.0,MC
+606,"Conroe, TX",United States,2.0,3.0,3.0,4.0,US
+607,"Tyler, TX",United States,2.0,3.0,5.0,4.0,US
+608,Praia,Cape Verde,2.0,4.0,1.0,3.0,
+609,"Brownsville, TX",United States,2.0,4.0,3.0,4.0,US
+610,"Madison, WI",United States,2.0,3.0,5.0,4.0,US
+611,Cirebon,Indonesia,2.0,5.0,1.0,5.0,ID
+612,Baguio,Philippines,2.0,5.0,1.0,3.0,PH
+613,"Kansas City, MO",United States,2.0,2.0,5.0,3.0,US
+614,Luxor,Egypt,2.0,5.0,1.0,4.0,EG
+615,Abu Dhabi,United Arab Emirates,2.0,2.0,1.0,5.0,AE
+616,Merida,Mexico,2.0,5.0,1.0,2.0,MX
+617,"Pekanbaru, Sumatra",Indonesia,2.0,5.0,1.0,4.0,ID
+618,Turin,Italy,2.0,3.0,2.0,4.0,IT
+619,Managua,Nicaragua,2.0,5.0,1.0,2.0,NI
+620,Sendai,Japan,2.0,4.0,2.0,5.0,JP
+621,Kaduna,Nigeria,2.0,5.0,1.0,3.0,NG
+622,Tianjin,China,2.0,5.0,1.0,5.0,CN
+623,Lethbridge,Canada,2.0,3.0,2.0,4.0,CA
+624,"Roanoke, VA",United States,2.0,3.0,5.0,4.0,US
+625,Kelowna,Canada,2.0,3.0,2.0,4.0,CA
+626,"McAllen, TX",United States,2.0,3.0,4.0,4.0,US
+627,"Winston, NC",United States,2.0,3.0,5.0,4.0,US
+628,Noida,India,2.0,5.0,1.0,4.0,IN
+629,El Alto,Bolivia,2.0,5.0,1.0,3.0,BO
+630,Huaibei,China,2.0,5.0,1.0,5.0,CN
+631,Anyang,China,2.0,5.0,1.0,5.0,CN
+632,Agra,India,2.0,5.0,1.0,4.0,IN
+633,"San Diego, CA",United States,2.0,1.0,5.0,4.0,US
+634,Baotou,China,2.0,5.0,1.0,5.0,CN
+635,Manaus,Brazil,2.0,5.0,1.0,1.0,BR
+636,Nairobi,Kenya,2.0,5.0,1.0,3.0,KE
+637,Albufeira,Portugal,2.0,3.0,3.0,5.0,PT
+638,"Reading, PA",United States,2.0,3.0,4.0,4.0,US
+639,Cambridge,United Kingdom,2.0,1.0,2.0,5.0,GB
+640,"Killeen, TX",United States,2.0,3.0,4.0,3.0,US
+641,Gurgaon,India,2.0,5.0,1.0,4.0,IN
+642,Eindhoven,Netherlands,2.0,2.0,3.0,5.0,NL
+643,Constanta,Romania,2.0,4.0,3.0,4.0,RO
+644,Yogyakarta,Indonesia,2.0,5.0,1.0,5.0,ID
+645,Mar del Plata,Argentina,2.0,5.0,2.0,3.0,AR
+646,Sao Jose dos Campos,Brazil,2.0,5.0,1.0,2.0,BR
+647,Macau,China,2.0,2.0,5.0,5.0,CN
+648,Fortaleza,Brazil,2.0,5.0,2.0,2.0,BR
+649,Malacca,Malaysia,2.0,5.0,2.0,4.0,MY
+650,Barranquilla,Colombia,2.0,5.0,1.0,2.0,CO
+651,Urumqi,China,2.0,5.0,2.0,5.0,CN
+652,Shijiazhuang,China,2.0,5.0,2.0,5.0,CN
+653,Pune,India,2.0,5.0,1.0,4.0,IN
+654,Yokohama,Japan,2.0,4.0,2.0,5.0,JP
+655,Harbin,China,2.0,5.0,1.0,5.0,CN
+656,Pipa,Brazil,2.0,5.0,2.0,1.0,BR
+657,Isla Mujeres,Mexico,2.0,4.0,2.0,2.0,MX
+658,"Bedford, OH",United States,2.0,3.0,4.0,4.0,US
+659,"Oregon City, OR",United States,2.0,3.0,5.0,4.0,US
+660,"Bossier City, LA",United States,2.0,3.0,3.0,3.0,US
+661,"Enterprise, NV",United States,2.0,2.0,5.0,4.0,US
+662,Abbotsford,Canada,2.0,3.0,2.0,4.0,CA
+663,Regina,Canada,2.0,4.0,2.0,4.0,CA
+664,"Laredo, TX",United States,2.0,3.0,3.0,4.0,US
+665,Hull,United Kingdom,2.0,3.0,2.0,5.0,GB
+666,Windhoek,Namibia,2.0,4.0,1.0,3.0,
+667,Cordoba,Spain,2.0,3.0,3.0,4.0,ES
+668,"Cleveland, OH",United States,2.0,3.0,5.0,4.0,US
+669,"Mataram, Lombok",Indonesia,2.0,5.0,1.0,4.0,ID
+670,Surakarta,Indonesia,2.0,5.0,1.0,4.0,ID
+671,Jiangmen,China,2.0,5.0,1.0,5.0,CN
+672,Sorocaba,Brazil,2.0,5.0,1.0,2.0,BR
+673,Huizhou,China,2.0,5.0,1.0,5.0,CN
+674,Taizhou,China,2.0,5.0,1.0,5.0,CN
+675,Kunshan,China,2.0,4.0,1.0,5.0,CN
+676,Freetown,Sierra Leone,2.0,5.0,1.0,3.0,SL
+677,Edmonton,Canada,2.0,3.0,2.0,4.0,CA
+678,Huai'an,China,2.0,5.0,1.0,5.0,CN
+679,Calgary,Canada,2.0,3.0,2.0,4.0,CA
+680,Tijuana,Mexico,2.0,4.0,1.0,2.0,MX
+681,"Palembang, Sumatra",Indonesia,2.0,5.0,1.0,4.0,ID
+682,Brazzaville,Congo,2.0,5.0,1.0,2.0,CG
+683,Nanchang,China,2.0,5.0,1.0,5.0,CN
+684,Cali,Colombia,2.0,5.0,1.0,1.0,CO
+685,Algiers,Algeria,2.0,5.0,1.0,3.0,DZ
+686,Hohhot,China,2.0,5.0,1.0,5.0,CN
+687,Shenyang,China,2.0,5.0,1.0,5.0,CN
+688,Dongguan,China,2.0,5.0,1.0,5.0,CN
+689,Galapagos Islands,Ecuador,2.0,5.0,2.0,3.0,EC
+690,"Warner Robins, GA",United States,2.0,3.0,3.0,3.0,US
+691,"Chico, CA",United States,2.0,3.0,5.0,3.0,US
+692,Noumea,New Caledonia,2.0,1.0,1.0,4.0,NC
+693,Jena,Germany,2.0,4.0,2.0,5.0,DE
+694,"Syracuse, NY",United States,2.0,3.0,3.0,4.0,US
+695,Hagen,Germany,2.0,3.0,2.0,5.0,DE
+696,Oulu,Finland,2.0,3.0,2.0,4.0,FI
+697,La Serena,Chile,2.0,5.0,2.0,4.0,CL
+698,Aarhus,Denmark,2.0,1.0,2.0,5.0,DK
+699,Nagasaki,Japan,2.0,4.0,3.0,5.0,JP
+700,Kagoshima,Japan,2.0,4.0,2.0,5.0,JP
+701,Lilongwe,Malawi,2.0,5.0,1.0,4.0,MW
+702,Lianyungang,China,2.0,5.0,1.0,5.0,CN
+703,Constantine,Algeria,2.0,5.0,1.0,4.0,DZ
+704,Jiamusi,China,2.0,5.0,1.0,5.0,CN
+705,"Jacksonville, FL",United States,2.0,2.0,5.0,3.0,US
+706,Kisangani,DR Congo,2.0,5.0,1.0,2.0,
+707,Antananarivo,Madagascar,2.0,5.0,2.0,5.0,MG
+708,Fushun,China,2.0,5.0,1.0,5.0,CN
+709,Ouagadougou,Burkina Faso,2.0,5.0,1.0,4.0,BF
+710,Kampala,Uganda,2.0,5.0,1.0,2.0,UG
+711,Jinan,China,2.0,5.0,1.0,5.0,CN
+712,Changchun,China,2.0,5.0,1.0,5.0,CN
+713,Itapema,Brazil,2.0,5.0,1.0,2.0,BR
+714,"Scranton, PA",United States,2.0,3.0,5.0,4.0,US
+715,"Hoover, AL",United States,2.0,3.0,4.0,4.0,US
+716,"Evansville, IN",United States,2.0,3.0,5.0,4.0,US
+717,"Fargo, ND",United States,2.0,3.0,5.0,4.0,US
+718,"Macon, GA",United States,2.0,3.0,3.0,3.0,US
+719,"Lafayette, LA",United States,2.0,3.0,3.0,3.0,US
+720,"Salem, OR",United States,2.0,3.0,5.0,4.0,US
+721,Trondheim,Norway,2.0,2.0,3.0,5.0,NO
+722,Modena,Italy,2.0,3.0,2.0,5.0,IT
+723,"Knoxville, TN",United States,2.0,3.0,5.0,3.0,US
+724,"Columbus, GA",United States,2.0,3.0,2.0,3.0,US
+725,La Paz,Mexico,2.0,5.0,2.0,2.0,MX
+726,Duhok,Kurdistan,2.0,4.0,1.0,4.0,
+727,"Sacramento, CA",United States,2.0,2.0,5.0,4.0,US
+728,Antwerp,Belgium,2.0,2.0,3.0,4.0,BE
+729,"Albuquerque, NM",United States,2.0,3.0,3.0,3.0,US
+730,Genoa,Italy,2.0,3.0,2.0,5.0,IT
+731,Chandigarh,India,2.0,5.0,1.0,4.0,IN
+732,Marseille,France,2.0,3.0,2.0,4.0,FR
+733,Sao Luis,Brazil,2.0,5.0,1.0,2.0,BR
+734,Liuzhou,China,2.0,5.0,1.0,5.0,CN
+735,Suzhou,China,2.0,5.0,1.0,5.0,CN
+736,Taiyuan,China,2.0,5.0,1.0,5.0,CN
+737,Guanajuato,Mexico,2.0,4.0,1.0,2.0,MX
+738,Minca,Colombia,2.0,4.0,2.0,1.0,CO
+739,Gibraltar,Gibraltar,2.0,2.0,2.0,4.0,GI
+740,Boumerdas,Algeria,2.0,5.0,1.0,4.0,DZ
+741,"Kingsport, TN",United States,2.0,3.0,3.0,4.0,US
+742,"Owensboro, KY",United States,2.0,3.0,3.0,4.0,US
+743,"Harlingen, TX",United States,2.0,3.0,3.0,4.0,US
+744,"North Little Rock, AR",United States,2.0,3.0,3.0,3.0,US
+745,"Dothan, AL",United States,2.0,3.0,3.0,3.0,US
+746,Limassol,Cyprus,2.0,3.0,1.0,4.0,CY
+747,San Cristobal de las Casas,Mexico,2.0,5.0,2.0,2.0,MX
+748,Foz do Iguacu,Brazil,2.0,5.0,2.0,2.0,BR
+749,Valparaiso,Chile,2.0,4.0,2.0,4.0,CL
+750,Bielefeld,Germany,2.0,3.0,2.0,5.0,DE
+751,Brampton,Canada,2.0,3.0,2.0,4.0,CA
+752,Dongying,China,2.0,5.0,1.0,5.0,CN
+753,Birmingham,United Kingdom,2.0,2.0,2.0,4.0,GB
+754,Jilin,China,2.0,5.0,1.0,5.0,CN
+755,Dalian,China,2.0,5.0,1.0,5.0,CN
+756,Zhengzhou,China,2.0,5.0,1.0,5.0,CN
+757,Sarande,Albania,2.0,4.0,1.0,3.0,AL
+758,Banjul,Gambia,2.0,5.0,1.0,3.0,GM
+759,Grande Prairie,Canada,2.0,3.0,2.0,4.0,CA
+760,"Valdosta, GA",United States,2.0,3.0,4.0,4.0,US
+761,"Idaho Falls, ID",United States,2.0,3.0,3.0,4.0,US
+762,"Youngstown, OH",United States,2.0,3.0,3.0,4.0,US
+763,"Victoria, TX",United States,2.0,3.0,3.0,3.0,US
+764,"Eau Claire, WI",United States,2.0,3.0,3.0,4.0,US
+765,"Bethlehem, PA",United States,2.0,2.0,4.0,4.0,US
+766,"Springdale, AR",United States,2.0,3.0,4.0,4.0,US
+767,"Longview, TX",United States,2.0,3.0,3.0,3.0,US
+768,"Sioux City, IA",United States,2.0,3.0,3.0,4.0,US
+769,"Las Cruces, NM",United States,2.0,3.0,3.0,4.0,US
+770,"Elgin, IL",United States,2.0,2.0,4.0,4.0,US
+771,"Fayetteville, NC",United States,2.0,3.0,3.0,4.0,US
+772,Dortmund,Germany,2.0,2.0,2.0,5.0,DE
+773,Foshan,China,2.0,5.0,1.0,5.0,CN
+774,Zhuhai,China,2.0,5.0,1.0,5.0,CN
+775,Tangier,Morocco,2.0,4.0,1.0,4.0,MA
+776,Dakar,Senegal,2.0,3.0,1.0,4.0,SN
+777,Tegucigalpa,Honduras,2.0,5.0,1.0,1.0,HN
+778,Shantou,China,2.0,5.0,2.0,5.0,CN
+779,Kumasi,Ghana,2.0,5.0,1.0,4.0,GH
+780,Lubumbashi,DR Congo,2.0,5.0,1.0,2.0,
+781,Sapporo,Japan,2.0,3.0,2.0,5.0,JP
+782,Quanzhou,China,2.0,5.0,1.0,5.0,CN
+783,Panajachel,Guatemala,2.0,4.0,1.0,2.0,GT
+784,"Burlington, NC",United States,2.0,3.0,4.0,4.0,US
+785,"Casper, WY",United States,2.0,3.0,3.0,4.0,US
+786,Tromso,Norway,2.0,1.0,3.0,5.0,NO
+787,"St. Joseph, MO",United States,2.0,3.0,5.0,3.0,US
+788,"Mission, TX",United States,2.0,3.0,2.0,4.0,US
+789,"Provo, UT",United States,2.0,3.0,5.0,4.0,US
+790,"Victorville, CA",United States,2.0,3.0,5.0,4.0,US
+791,"Visalia, CA",United States,2.0,3.0,5.0,3.0,US
+792,"Gainesville, FL",United States,2.0,2.0,5.0,3.0,US
+793,"Waco, TX",United States,2.0,3.0,4.0,3.0,US
+794,Udon Thani,Thailand,2.0,5.0,2.0,4.0,TH
+795,Iquique,Chile,2.0,5.0,2.0,4.0,CL
+796,Almere,Netherlands,2.0,2.0,5.0,4.0,NL
+797,Southampton,United Kingdom,2.0,2.0,2.0,5.0,GB
+798,"Lincoln, NE",United States,2.0,3.0,4.0,3.0,US
+799,"Riverside, CA",United States,2.0,2.0,3.0,3.0,US
+800,Campos dos Goytacazes,Brazil,2.0,5.0,1.0,2.0,BR
+801,Surrey,Canada,2.0,2.0,2.0,4.0,CA
+802,Campo Grande,Brazil,2.0,5.0,1.0,2.0,BR
+803,Wuxi,China,2.0,5.0,1.0,5.0,CN
+804,Nanyang,China,2.0,5.0,2.0,5.0,CN
+805,Xiamen,China,2.0,5.0,1.0,5.0,CN
+806,Lanzhou,China,2.0,5.0,1.0,5.0,CN
+807,Georgetown,Guyana,2.0,3.0,1.0,2.0,GY
+808,"Port Arthur, TX",United States,2.0,3.0,4.0,3.0,US
+809,"Canton, OH",United States,2.0,3.0,5.0,4.0,US
+810,"Palm Coast, FL",United States,2.0,3.0,3.0,4.0,US
+811,"Hesperia, CA",United States,2.0,3.0,4.0,4.0,US
+812,"Lansing, MI",United States,2.0,3.0,3.0,3.0,US
+813,"Allentown, PA",United States,2.0,2.0,3.0,4.0,US
+814,"Lancaster, CA",United States,2.0,2.0,4.0,4.0,US
+815,Aalborg,Denmark,2.0,2.0,3.0,5.0,DK
+816,Tilburg,Netherlands,2.0,2.0,3.0,5.0,NL
+817,"Lubbock, TX",United States,2.0,3.0,3.0,4.0,US
+818,Pasto,Colombia,2.0,5.0,1.0,2.0,CO
+819,Anapolis,Brazil,2.0,5.0,1.0,2.0,BR
+820,"Corpus Christi, TX",United States,2.0,3.0,3.0,3.0,US
+821,Uberlandia,Brazil,2.0,5.0,1.0,2.0,BR
+822,Dushanbe,Tajikistan,2.0,5.0,1.0,4.0,TJ
+823,Yinchuan,China,2.0,5.0,2.0,5.0,CN
+824,Kirkuk,Kurdistan,2.0,4.0,1.0,3.0,
+825,Conakry,Guinea,2.0,5.0,1.0,3.0,GN
+826,Nanning,China,2.0,5.0,1.0,5.0,CN
+827,Dahab,Egypt,2.0,5.0,1.0,3.0,EG
+828,San Ignacio,Belize,2.0,4.0,2.0,1.0,BZ
+829,Chachapoyas,Peru,2.0,5.0,1.0,3.0,PE
+830,"Porterville, CA",United States,2.0,3.0,3.0,3.0,US
+831,"Grand Junction, CO",United States,2.0,3.0,3.0,3.0,US
+832,"St. Cloud, MN",United States,2.0,3.0,5.0,4.0,US
+833,"Jackson, TN",United States,2.0,3.0,2.0,3.0,US
+834,"Waterloo, IA",United States,2.0,3.0,3.0,4.0,US
+835,"Merced, CA",United States,2.0,3.0,5.0,3.0,US
+836,Cozumel,Mexico,2.0,4.0,2.0,2.0,MX
+837,"Tracy, CA",United States,2.0,2.0,5.0,4.0,US
+838,"Lawrence, KS",United States,2.0,3.0,3.0,4.0,US
+839,Darwin,Australia,2.0,2.0,2.0,5.0,AU
+840,"Norfolk, VA",United States,2.0,2.0,5.0,4.0,US
+841,San Jose,Costa Rica,2.0,3.0,1.0,2.0,CR
+842,"Milwaukee, WI",United States,2.0,2.0,5.0,3.0,US
+843,Zaria,Nigeria,2.0,5.0,1.0,2.0,NG
+844,Oran,Algeria,2.0,5.0,1.0,4.0,DZ
+845,Lome,Togo,2.0,5.0,1.0,3.0,TG
+846,Zhuzhou,China,2.0,5.0,2.0,5.0,CN
+847,Kitakyushu,Japan,2.0,4.0,2.0,5.0,JP
+848,Mysore,India,2.0,5.0,1.0,4.0,IN
+849,Meerut,India,2.0,5.0,1.0,4.0,IN
+850,Linyi,China,2.0,5.0,2.0,5.0,CN
+851,Zhongshan,China,2.0,5.0,1.0,5.0,CN
+852,Mbuji-Mayi,DR Congo,2.0,5.0,1.0,2.0,
+853,Abidjan,Cote d'Ivoire,2.0,4.0,1.0,3.0,CI
+854,Ankara,Turkey,2.0,5.0,1.0,4.0,TR
+855,Funafuti,Tuvalu,2.0,4.0,1.0,3.0,TV
+856,Intag Valley,Ecuador,2.0,4.0,2.0,3.0,EC
+857,"La Crosse, WI",United States,2.0,3.0,3.0,4.0,US
+858,"Normal, IL",United States,2.0,3.0,4.0,4.0,US
+859,"Janesville, WI",United States,2.0,2.0,3.0,4.0,US
+860,"Lodi, CA",United States,2.0,3.0,5.0,3.0,US
+861,"Jacksonville, NC",United States,2.0,3.0,3.0,4.0,US
+862,"Lake Charles, LA",United States,2.0,3.0,3.0,3.0,US
+863,"Manteca, CA",United States,2.0,2.0,5.0,4.0,US
+864,"Pharr, TX",United States,2.0,3.0,3.0,4.0,US
+865,"Spokane Valley, WA",United States,2.0,2.0,5.0,3.0,US
+866,"Cedar Rapids, IA",United States,2.0,3.0,3.0,4.0,US
+867,Oshawa,Canada,2.0,2.0,2.0,4.0,CA
+868,"Tallahassee, FL",United States,2.0,3.0,3.0,3.0,US
+869,"Huntsville, AL",United States,2.0,3.0,5.0,3.0,US
+870,"Shreveport, LA",United States,2.0,3.0,4.0,3.0,US
+871,"Aurora, IL",United States,2.0,3.0,3.0,4.0,US
+872,Antofagasta,Chile,2.0,4.0,2.0,4.0,CL
+873,Nha Trang,Vietnam,2.0,3.0,1.0,4.0,VN
+874,Leicester,United Kingdom,2.0,3.0,2.0,5.0,GB
+875,"Detroit, MI",United States,2.0,3.0,3.0,3.0,US
+876,Yangzhou,China,2.0,5.0,1.0,5.0,CN
+877,Nantong,China,2.0,5.0,1.0,5.0,CN
+878,Guilin,China,2.0,5.0,1.0,5.0,CN
+879,Xining,China,2.0,5.0,1.0,5.0,CN
+880,Port-au-Prince,Haiti,2.0,5.0,1.0,2.0,HT
+881,Adelaide,Australia,2.0,1.0,2.0,5.0,AU
+882,Kalyan,India,2.0,5.0,1.0,4.0,IN
+883,Zhanjiang,China,2.0,5.0,1.0,5.0,CN
+884,Ludhiana,India,2.0,5.0,1.0,4.0,IN
+885,Madurai,India,2.0,5.0,1.0,4.0,IN
+886,Lucknow,India,2.0,5.0,1.0,4.0,IN
+887,Ahmedabad,India,2.0,5.0,1.0,4.0,IN
+888,Boracay,Philippines,2.0,4.0,1.0,3.0,PH
+889,"Logan, UT",United States,2.0,3.0,5.0,4.0,US
+890,"Casa Grande, AZ",United States,2.0,2.0,3.0,4.0,US
+891,"Auburn, AL",United States,2.0,2.0,3.0,4.0,US
+892,"Flagstaff, AZ",United States,2.0,2.0,5.0,4.0,US
+893,"Muncie, IN",United States,2.0,3.0,3.0,4.0,US
+894,"Bismarck, ND",United States,2.0,3.0,3.0,4.0,US
+895,"Apple Valley, CA",United States,2.0,2.0,4.0,4.0,US
+896,"Medford, OR",United States,2.0,2.0,4.0,4.0,US
+897,"Edinburg, TX",United States,2.0,3.0,3.0,4.0,US
+898,"Fort Smith, AR",United States,2.0,3.0,2.0,3.0,US
+899,Sihanoukville,Cambodia,2.0,5.0,1.0,3.0,KH
+900,"Yakima, WA",United States,2.0,3.0,3.0,3.0,US
+901,"Flint, MI",United States,2.0,3.0,3.0,3.0,US
+902,"Billings, MT",United States,2.0,3.0,2.0,3.0,US
+903,"Rochester, MN",United States,2.0,3.0,3.0,4.0,US
+904,"Fairfield, CA",United States,2.0,2.0,5.0,3.0,US
+905,"Springfield, IL",United States,2.0,3.0,4.0,3.0,US
+906,"Beaumont, TX",United States,2.0,3.0,3.0,3.0,US
+907,Ibiza,Spain,2.0,1.0,4.0,5.0,ES
+908,"Rochester, NY",United States,2.0,2.0,5.0,4.0,US
+909,Bergen,Norway,2.0,1.0,3.0,5.0,NO
+910,"Wichita, KS",United States,2.0,3.0,3.0,4.0,US
+911,Shaoxing,China,2.0,5.0,1.0,5.0,CN
+912,Xiangtan,China,2.0,5.0,1.0,5.0,CN
+913,San Pedro Sula,Honduras,2.0,5.0,1.0,1.0,HN
+914,Hermosillo,Mexico,2.0,5.0,1.0,2.0,MX
+915,Zhangjiakou,China,2.0,5.0,1.0,5.0,CN
+916,Hubli,India,2.0,5.0,1.0,4.0,IN
+917,Bareilly,India,2.0,5.0,1.0,4.0,IN
+918,Wenling,China,2.0,5.0,1.0,5.0,CN
+919,Maracaibo,Venezuela,2.0,5.0,1.0,1.0,VE
+920,Xuzhou,China,2.0,5.0,2.0,5.0,CN
+921,Douala,Cameroon,2.0,4.0,1.0,3.0,CM
+922,Zibo,China,2.0,5.0,1.0,5.0,CN
+923,"Kokomo, IN",United States,2.0,3.0,2.0,3.0,US
+924,"Great Falls, MT",United States,2.0,3.0,2.0,4.0,US
+925,"Champaign, IL",United States,2.0,3.0,4.0,4.0,US
+926,"Palm Bay, FL",United States,2.0,3.0,3.0,3.0,US
+927,"Wilmington, NC",United States,2.0,2.0,3.0,4.0,US
+928,"Columbia, MO",United States,2.0,3.0,3.0,4.0,US
+929,"Abilene, TX",United States,2.0,3.0,3.0,4.0,US
+930,"Clarksville, TN",United States,2.0,3.0,3.0,4.0,US
+931,Dili,East Timor,2.0,4.0,1.0,4.0,
+932,Tebessa,Algeria,2.0,5.0,1.0,4.0,DZ
+933,El Jadida,Morocco,2.0,5.0,1.0,4.0,MA
+934,Padova,Italy,2.0,3.0,2.0,5.0,IT
+935,Northampton,United Kingdom,2.0,3.0,2.0,4.0,GB
+936,Portsmouth,United Kingdom,2.0,2.0,2.0,5.0,GB
+937,Durg,India,2.0,5.0,1.0,4.0,IN
+938,"Orlando, FL",United States,2.0,2.0,5.0,3.0,US
+939,Bilbao,Spain,2.0,2.0,3.0,5.0,ES
+940,Kannur,India,2.0,5.0,1.0,4.0,IN
+941,Bologna,Italy,2.0,1.0,2.0,5.0,IT
+942,Port Said,Egypt,2.0,5.0,1.0,4.0,EG
+943,"Baltimore, MD",United States,2.0,2.0,5.0,3.0,US
+944,Varanasi,India,2.0,5.0,1.0,4.0,IN
+945,Onitsha,Nigeria,2.0,4.0,1.0,3.0,NG
+946,Kollam,India,2.0,5.0,1.0,4.0,IN
+947,Gwalior,India,2.0,5.0,1.0,4.0,IN
+948,Soweto,South Africa,2.0,5.0,1.0,1.0,ZA
+949,Qiqihar,China,2.0,5.0,1.0,5.0,CN
+950,Jamshedpur,India,2.0,5.0,1.0,4.0,IN
+951,Weifang,China,2.0,5.0,2.0,5.0,CN
+952,Luoyang,China,2.0,5.0,1.0,5.0,CN
+953,Quito,Ecuador,2.0,4.0,1.0,3.0,EC
+954,Tangshan,China,2.0,5.0,1.0,5.0,CN
+955,Pyongyang,North Korea,2.0,5.0,1.0,3.0,KP
+956,San Luis Potosi,Mexico,2.0,4.0,1.0,2.0,MX
+957,Cavtat,Croatia,2.0,3.0,2.0,4.0,HR
+958,Avarua,Cook Islands,2.0,3.0,1.0,4.0,CK
+959,"Ashland, OR",United States,2.0,2.0,3.0,4.0,US
+960,"Minot, ND",United States,2.0,3.0,2.0,4.0,US
+961,"Brentwood, CA",United States,2.0,2.0,5.0,4.0,US
+962,"Tulare, CA",United States,2.0,2.0,3.0,4.0,US
+963,"Hemet, CA",United States,2.0,2.0,5.0,4.0,US
+964,"Modesto, CA",United States,2.0,2.0,5.0,3.0,US
+965,Thrissur,India,2.0,5.0,1.0,4.0,IN
+966,"Lexington, KY",United States,2.0,3.0,3.0,4.0,US
+967,"Raleigh, NC",United States,2.0,2.0,5.0,4.0,US
+968,Raipur,India,2.0,5.0,1.0,4.0,IN
+969,Dhanbad,India,2.0,5.0,1.0,4.0,IN
+970,Jabalpur,India,2.0,5.0,1.0,4.0,IN
+971,"Bridgeton, MO",United States,2.0,2.0,3.0,4.0,US
+972,"Grand Island, NE",United States,2.0,3.0,4.0,4.0,US
+973,"Terre Haute, IN",United States,2.0,3.0,3.0,4.0,US
+974,"Greenville, SC",United States,2.0,2.0,3.0,3.0,US
+975,"Weston, FL",United States,2.0,2.0,5.0,4.0,US
+976,"Pasco, WA",United States,2.0,2.0,3.0,4.0,US
+977,"Turlock, CA",United States,2.0,2.0,4.0,4.0,US
+978,"Bloomington, IN",United States,2.0,2.0,5.0,4.0,US
+979,Waterloo,Canada,2.0,3.0,3.0,4.0,CA
+980,Trier,,2.0,2.0,3.0,4.0,
+981,Zwolle,Netherlands,2.0,2.0,3.0,5.0,NL
+982,Bern,Switzerland,2.0,1.0,3.0,5.0,CH
+983,Huddersfield,United Kingdom,2.0,3.0,2.0,5.0,GB
+984,Cascais,Portugal,2.0,3.0,5.0,4.0,PT
+985,"Greensboro, NC",United States,2.0,2.0,3.0,4.0,US
+986,Zhoukou,China,2.0,5.0,2.0,5.0,CN
+987,Canberra,Australia,2.0,1.0,2.0,5.0,AU
+988,Wuhu,China,2.0,5.0,1.0,5.0,CN
+989,Aguascalientes,Mexico,2.0,4.0,1.0,2.0,MX
+990,Qinhuangdao,China,2.0,5.0,1.0,5.0,CN
+991,Moradabad,India,2.0,5.0,1.0,4.0,IN
+992,"Philadelphia, PA",United States,2.0,1.0,4.0,4.0,US
+993,Kano,Nigeria,2.0,4.0,1.0,3.0,NG
+994,"Sandpoint, ID",United States,2.0,3.0,2.0,4.0,US
+995,"Beacon, NY",United States,2.0,2.0,5.0,4.0,US
+996,Vang Vieng,Laos,2.0,5.0,1.0,3.0,LA
+997,"Kearney, NE",United States,2.0,3.0,3.0,4.0,US
+998,Arendal,Norway,2.0,1.0,3.0,4.0,NO
+999,"Enid, OK",United States,2.0,2.0,5.0,4.0,US
+1000,"Elkhart, IN",United States,2.0,2.0,5.0,4.0,US
+1001,Scheveningen,Netherlands,2.0,1.0,4.0,5.0,NL
+1002,"Corvallis, OR",United States,2.0,2.0,4.0,4.0,US
+1003,"Johnson City, TN",United States,2.0,3.0,3.0,4.0,US
+1004,"Frederick, MD",United States,2.0,2.0,5.0,4.0,US
+1005,"Bloomington, IL",United States,2.0,3.0,3.0,4.0,US
+1006,"Lynchburg, VA",United States,2.0,2.0,4.0,4.0,US
+1007,"Lawton, OK",United States,2.0,2.0,3.0,3.0,US
+1008,Luxembourg,Luxembourg,2.0,1.0,4.0,5.0,LU
+1009,Guelph,Canada,2.0,3.0,2.0,4.0,CA
+1010,Male,Maldives,2.0,2.0,1.0,4.0,MV
+1011,"Mobile, AL",United States,2.0,2.0,3.0,3.0,US
+1012,York,United Kingdom,2.0,2.0,2.0,5.0,GB
+1013,"Birmingham, AL",United States,2.0,2.0,3.0,4.0,US
+1014,"Stockton, CA",United States,2.0,2.0,5.0,3.0,US
+1015,Maseru,Lesotho,2.0,5.0,1.0,1.0,LS
+1016,Putian,China,2.0,5.0,1.0,5.0,CN
+1017,Aligarh,India,2.0,5.0,1.0,4.0,IN
+1018,Zunyi,China,2.0,5.0,1.0,5.0,CN
+1019,Kota,India,2.0,5.0,1.0,4.0,IN
+1020,Niamey,Niger,2.0,4.0,1.0,4.0,NE
+1021,Kananga,DR Congo,2.0,5.0,1.0,2.0,
+1022,Rajkot,India,2.0,5.0,1.0,4.0,IN
+1023,Indore,India,2.0,5.0,1.0,4.0,IN
+1024,Thiruvananthapuram,India,2.0,5.0,1.0,4.0,IN
+1025,Malappuram,India,2.0,5.0,1.0,4.0,IN
+1026,Multan,Pakistan,2.0,5.0,1.0,3.0,PK
+1027,Kozhikode,India,2.0,5.0,1.0,4.0,IN
+1028,Faisalabad,Pakistan,2.0,5.0,1.0,3.0,PK
+1029,"Key West, FL",United States,2.0,1.0,5.0,4.0,US
+1030,Kuwait City,Kuwait,2.0,3.0,1.0,4.0,KW
+1031,Saint Helier,Jersey,2.0,1.0,4.0,3.0,JE
+1032,Port of Spain,Trinidad and Tobago,2.0,3.0,1.0,1.0,TT
+1033,"Richland, WA",United States,2.0,2.0,3.0,4.0,US
+1034,"Dubuque, IA",United States,2.0,2.0,3.0,4.0,US
+1035,"Rogers, AR",United States,2.0,2.0,3.0,4.0,US
+1036,"Yuba City, CA",United States,2.0,2.0,4.0,3.0,US
+1037,"Gulfport, MS",United States,2.0,2.0,3.0,4.0,US
+1038,"Temple, TX",United States,2.0,2.0,4.0,3.0,US
+1039,"New Haven, CT",United States,2.0,2.0,2.0,4.0,US
+1040,St. Catharines,Canada,2.0,3.0,2.0,4.0,CA
+1041,"Rockford, IL",United States,2.0,2.0,4.0,3.0,US
+1042,Cagliari,Italy,2.0,3.0,2.0,5.0,IT
+1043,"Sioux Falls, SD",United States,2.0,2.0,3.0,4.0,US
+1044,"Richmond, VA",United States,2.0,2.0,5.0,4.0,US
+1045,Wonsan,North Korea,2.0,4.0,1.0,3.0,KP
+1046,Yichang,China,2.0,5.0,1.0,5.0,CN
+1047,Zhucheng,China,2.0,5.0,1.0,5.0,CN
+1048,Peshawar,Pakistan,2.0,5.0,1.0,3.0,PK
+1049,Gujranwala,Pakistan,2.0,5.0,1.0,3.0,PK
+1050,"Torshavn, Faroe Islands",Denmark,2.0,1.0,5.0,4.0,DK
+1051,Kotor,Montenegro,2.0,3.0,2.0,4.0,ME
+1052,Varkala,India,2.0,5.0,1.0,4.0,IN
+1053,"Lake Havasu City, AZ",United States,2.0,2.0,3.0,4.0,US
+1054,"Pocatello, ID",United States,2.0,2.0,3.0,4.0,US
+1055,"Anderson, IN",United States,2.0,3.0,3.0,3.0,US
+1056,"Waukegan, IL",United States,2.0,2.0,3.0,4.0,US
+1057,"Peoria, IL",United States,2.0,2.0,3.0,4.0,US
+1058,"Odessa, TX",United States,2.0,2.0,2.0,3.0,US
+1059,"Stamford, CT",United States,2.0,2.0,3.0,4.0,US
+1060,Ferrara,Italy,2.0,2.0,2.0,5.0,IT
+1061,Ube,Japan,2.0,3.0,2.0,5.0,JP
+1062,Kigali,Rwanda,2.0,1.0,1.0,4.0,RW
+1063,"San Jose, CA",United States,2.0,1.0,5.0,4.0,US
+1064,Vasai,India,2.0,5.0,1.0,4.0,IN
+1065,Kanpur,India,2.0,5.0,1.0,4.0,IN
+1066,"Cody, WY",United States,2.0,2.0,3.0,4.0,US
+1067,"Monterey, CA",United States,2.0,1.0,5.0,4.0,US
+1068,Monrovia,Liberia,2.0,4.0,2.0,3.0,LR
+1069,"Manhattan, KS",United States,2.0,2.0,3.0,4.0,US
+1070,"Rocky Mount, NC",United States,2.0,2.0,3.0,4.0,US
+1071,"Fort Myers, FL",United States,2.0,2.0,3.0,4.0,US
+1072,"Kennewick, WA",United States,2.0,2.0,2.0,4.0,US
+1073,"Melbourne, FL",United States,2.0,2.0,4.0,3.0,US
+1074,"Bryan, TX",United States,2.0,2.0,4.0,4.0,US
+1075,"Davenport, IA",United States,2.0,3.0,2.0,3.0,US
+1076,"College Station, TX",United States,2.0,2.0,3.0,4.0,US
+1077,Yamoussoukro,Cote d'Ivoire,2.0,4.0,1.0,2.0,CI
+1078,Guwahati,India,2.0,5.0,1.0,4.0,IN
+1079,Bhopal,India,2.0,5.0,1.0,4.0,IN
+1080,"Phoenix, AZ",United States,2.0,1.0,5.0,3.0,US
+1081,Yantai,China,2.0,5.0,1.0,5.0,CN
+1082,King Edward Point,South Georgia and the South Sandwich Islands,2.0,3.0,1.0,5.0,GS
+1083,Ko Lipe,Thailand,2.0,4.0,2.0,4.0,TH
+1084,Belize City,Belize,2.0,4.0,1.0,2.0,BZ
+1085,"Utica, NY",United States,2.0,2.0,5.0,4.0,US
+1086,"Cheyenne, WY",United States,2.0,2.0,3.0,4.0,US
+1087,Moncton,Canada,2.0,2.0,2.0,4.0,CA
+1088,Treviso,Italy,2.0,2.0,2.0,5.0,IT
+1089,"Sparks, NV",United States,2.0,2.0,4.0,4.0,US
+1090,"Wichita Falls, TX",United States,2.0,2.0,3.0,4.0,US
+1091,Monza,Italy,2.0,3.0,2.0,5.0,IT
+1092,"Savannah, GA",United States,2.0,2.0,3.0,4.0,US
+1093,"Spokane, WA",United States,2.0,2.0,4.0,3.0,US
+1094,"Baton Rouge, LA",United States,2.0,2.0,3.0,3.0,US
+1095,"Scottsdale, AZ",United States,2.0,2.0,2.0,4.0,US
+1096,Sialkot,Pakistan,2.0,5.0,1.0,3.0,PK
+1097,Bahawalpur,Pakistan,2.0,5.0,1.0,3.0,PK
+1098,Vijayawada,India,2.0,5.0,1.0,4.0,IN
+1099,Coimbatore,India,2.0,5.0,1.0,4.0,IN
+1100,Ranchi,India,2.0,5.0,1.0,4.0,IN
+1101,Byron Bay,Australia,2.0,1.0,2.0,5.0,AU
+1102,Nuku'alofa,Tonga,2.0,3.0,1.0,5.0,TO
+1103,Avellino,Italy,2.0,3.0,2.0,5.0,IT
+1104,"Schenectady, NY",United States,2.0,2.0,2.0,4.0,US
+1105,"Beaverton, OR",United States,2.0,1.0,4.0,4.0,US
+1106,"High Point, NC",United States,2.0,2.0,3.0,4.0,US
+1107,"Centennial, CO",United States,2.0,2.0,5.0,4.0,US
+1108,"Ann Arbor, MI",United States,2.0,2.0,5.0,4.0,US
+1109,"Topeka, KS",United States,2.0,2.0,3.0,3.0,US
+1110,"Joliet, IL",United States,2.0,2.0,3.0,4.0,US
+1111,"Little Rock, AR",United States,2.0,2.0,5.0,3.0,US
+1112,Coventry,United Kingdom,2.0,2.0,2.0,5.0,GB
+1113,"Bakersfield, CA",United States,2.0,2.0,3.0,3.0,US
+1114,Maracay,Venezuela,2.0,4.0,1.0,1.0,VE
+1115,Nouakchott,Mauritania,2.0,4.0,1.0,2.0,MR
+1116,Bhubaneswar,India,2.0,5.0,1.0,4.0,IN
+1117,"Charlotte, NC",United States,2.0,2.0,3.0,4.0,US
+1118,"Fairfax, VA",United States,2.0,1.0,5.0,4.0,US
+1119,Quetta,Pakistan,2.0,5.0,1.0,3.0,PK
+1120,Dhaka,Bangladesh,2.0,5.0,1.0,4.0,BD
+1121,"Princeton, NJ",United States,2.0,1.0,5.0,4.0,US
+1122,Budva,Montenegro,2.0,4.0,3.0,4.0,ME
+1123,Zandvoort,Netherlands,2.0,1.0,3.0,5.0,NL
+1124,Tsushima Island,Japan,2.0,3.0,2.0,5.0,JP
+1125,"Joplin, MO",United States,2.0,2.0,2.0,3.0,US
+1126,"Albany, OR",United States,2.0,2.0,5.0,4.0,US
+1127,"Pensacola, FL",United States,2.0,2.0,3.0,4.0,US
+1128,Galway,Ireland,2.0,1.0,2.0,5.0,IE
+1129,"San Angelo, TX",United States,2.0,2.0,3.0,4.0,US
+1130,"Midland, TX",United States,2.0,2.0,3.0,4.0,US
+1131,"Omaha, NE",United States,2.0,2.0,5.0,3.0,US
+1132,Allahabad,India,2.0,5.0,1.0,4.0,IN
+1133,Chifeng,China,2.0,4.0,1.0,5.0,CN
+1134,Konya,Turkey,2.0,5.0,1.0,4.0,TR
+1135,Changsha,China,2.0,3.0,1.0,5.0,CN
+1136,Karachi,Pakistan,2.0,5.0,1.0,3.0,PK
+1137,Revelstoke,Canada,2.0,2.0,3.0,3.0,CA
+1138,"Nago, Okinawa",Japan,2.0,3.0,2.0,4.0,JP
+1139,"Bowling Green, KY",United States,2.0,2.0,3.0,4.0,US
+1140,"Marysville, WA",United States,2.0,2.0,3.0,4.0,US
+1141,"Kauai, Hawaii",United States,2.0,1.0,2.0,4.0,US
+1142,"Rapid City, SD",United States,2.0,2.0,3.0,3.0,US
+1143,"Decatur, IL",United States,2.0,2.0,3.0,3.0,US
+1144,Leuven,Belgium,2.0,2.0,4.0,4.0,BE
+1145,"Bellevue, NE",United States,2.0,2.0,3.0,4.0,US
+1146,Verona,Italy,2.0,2.0,2.0,5.0,IT
+1147,Wollongong,Australia,2.0,1.0,2.0,5.0,AU
+1148,Kaechon,North Korea,2.0,5.0,1.0,3.0,KP
+1149,Chongjin,North Korea,2.0,5.0,1.0,3.0,KP
+1150,Taichung,Taiwan,2.0,4.0,2.0,5.0,TW
+1151,Ao Nang,Thailand,2.0,5.0,2.0,4.0,TH
+1152,"Oshkosh, WI",United States,2.0,2.0,3.0,4.0,US
+1153,"Missoula, MT",United States,2.0,2.0,2.0,4.0,US
+1154,"Mountain View, CA",United States,2.0,1.0,3.0,4.0,US
+1155,"Temecula, CA",United States,2.0,2.0,4.0,4.0,US
+1156,"Carlsbad, CA",United States,2.0,1.0,5.0,4.0,US
+1157,Reading,United Kingdom,2.0,1.0,2.0,4.0,GB
+1158,"Henderson, NV",United States,2.0,1.0,5.0,3.0,US
+1159,Tirupur,India,2.0,5.0,2.0,4.0,IN
+1160,Guadalajara,Mexico,2.0,5.0,1.0,2.0,MX
+1161,Jamestown,Saint Helena,2.0,1.0,1.0,5.0,
+1162,"Ithaca, NY",United States,2.0,2.0,3.0,4.0,US
+1163,"Hilo, Hawaii",United States,2.0,1.0,2.0,4.0,US
+1164,"Harrisonburg, VA",United States,2.0,2.0,5.0,4.0,US
+1165,"Bradenton, FL",United States,2.0,1.0,4.0,4.0,US
+1166,Lugano,Switzerland,2.0,1.0,3.0,5.0,CH
+1167,"Conway, AR",United States,2.0,2.0,2.0,3.0,US
+1168,"Iowa City, IA",United States,2.0,2.0,3.0,4.0,US
+1169,Lelystad,Netherlands,2.0,2.0,3.0,5.0,NL
+1170,"Murrieta, CA",United States,2.0,1.0,5.0,4.0,US
+1171,Jyvaskyla,Finland,2.0,3.0,2.0,4.0,FI
+1172,Haarlem,Netherlands,2.0,1.0,2.0,5.0,NL
+1173,"Fort Wayne, IN",United States,2.0,2.0,2.0,4.0,US
+1174,Jiaxing,China,2.0,4.0,1.0,5.0,CN
+1175,Zhangjiagang,China,2.0,4.0,2.0,5.0,CN
+1176,Asansol,India,2.0,4.0,1.0,4.0,IN
+1177,Milan,Italy,2.0,1.0,2.0,5.0,IT
+1178,Wenzhou,China,2.0,4.0,1.0,5.0,CN
+1179,Caracas,Venezuela,2.0,4.0,1.0,1.0,VE
+1180,Casablanca,Morocco,2.0,5.0,1.0,4.0,MA
+1181,Port Vila,Vanuatu,2.0,3.0,1.0,4.0,VU
+1182,Dededo,Guam,2.0,1.0,1.0,2.0,GU
+1183,"Delano, CA",United States,2.0,2.0,3.0,4.0,US
+1184,Fredericton,Canada,2.0,2.0,2.0,4.0,CA
+1185,Honiara,Solomon Islands,2.0,3.0,1.0,4.0,SB
+1186,"San Mateo, CA",United States,2.0,1.0,5.0,4.0,US
+1187,Chatham,Canada,2.0,2.0,2.0,4.0,CA
+1188,Trento,Italy,2.0,2.0,2.0,5.0,IT
+1189,Barrie,Canada,2.0,2.0,2.0,4.0,CA
+1190,"Palmdale, CA",United States,2.0,1.0,4.0,4.0,US
+1191,"Port St. Lucie, FL",United States,2.0,1.0,5.0,4.0,US
+1192,"Menlo Park, CA",United States,2.0,1.0,4.0,4.0,US
+1193,"Sarasota, FL",United States,2.0,2.0,3.0,4.0,US
+1194,"Petaluma, CA",United States,2.0,1.0,4.0,4.0,US
+1195,"Appleton, WI",United States,2.0,2.0,2.0,4.0,US
+1196,"West Palm Beach, FL",United States,2.0,1.0,2.0,3.0,US
+1197,"Charleston, SC",United States,2.0,1.0,3.0,4.0,US
+1198,Tanchon,North Korea,2.0,5.0,1.0,3.0,KP
+1199,Copan,Honduras,2.0,4.0,1.0,1.0,HN
+1200,Juarez,Mexico,2.0,5.0,2.0,2.0,MX
+1201,Anshan,China,2.0,4.0,1.0,5.0,CN
+1202,Comporta,Portugal,2.0,1.0,1.0,5.0,PT
+1203,Road Town,British Virgin Islands,2.0,1.0,1.0,3.0,VG
+1204,Punta Cana,Dominican Republic,2.0,2.0,1.0,3.0,DO
+1205,"Kenosha, WI",United States,2.0,1.0,4.0,4.0,US
+1206,"Vista, CA",United States,2.0,1.0,4.0,4.0,US
+1207,Mexicali,Mexico,2.0,4.0,1.0,2.0,MX
+1208,Puning,China,2.0,4.0,1.0,5.0,CN
+1209,Rawalpindi,Pakistan,2.0,5.0,1.0,3.0,PK
+1210,Hamilton,Bermuda,2.0,1.0,2.0,4.0,BM
+1211,Kamiyama,Japan,2.0,3.0,2.0,5.0,JP
+1212,"Olympia, WA",United States,2.0,1.0,5.0,4.0,US
+1213,Bridgetown,Barbados,2.0,1.0,2.0,2.0,BB
+1214,Hamamatsu,Japan,2.0,2.0,2.0,5.0,JP
+1215,Havana,Cuba,2.0,5.0,1.0,4.0,CU
+1216,Amundsen-Scott,Antarctica,2.0,1.0,1.0,4.0,AQ
+1217,McMurdo Station,Antarctica,2.0,1.0,1.0,4.0,AQ
+1218,Stanley,Falkland Islands,2.0,1.0,1.0,5.0,
+1219,"Verdi, NV",United States,2.0,2.0,2.0,4.0,US
+1220,"Taos, NM",United States,2.0,1.0,2.0,4.0,US
+1221,"Park City, UT",United States,2.0,1.0,3.0,4.0,US
+1222,Philipsburg,Sint Maarten,2.0,1.0,1.0,2.0,
+1223,Shrewsbury,United Kingdom,2.0,2.0,2.0,4.0,GB
+1224,"Duluth, MN",United States,2.0,2.0,3.0,4.0,US
+1225,"Green Bay, WI",United States,2.0,1.0,3.0,4.0,US
+1226,"Santa Maria, CA",United States,2.0,1.0,4.0,4.0,US
+1227,"Bridgeport, CT",United States,2.0,1.0,2.0,4.0,US
+1228,Vientiane,Laos,2.0,5.0,1.0,4.0,LA
+1229,Toluca,Mexico,2.0,3.0,1.0,2.0,MX
+1230,Zhangzhou,China,2.0,4.0,1.0,5.0,CN
+1231,Cartagena,Colombia,2.0,5.0,1.0,2.0,CO
+1232,Rui'an,China,2.0,3.0,1.0,5.0,CN
+1233,"San Clemente, CA",United States,2.0,1.0,4.0,4.0,US
+1234,"Ajaccio, Corsica",France,2.0,1.0,3.0,4.0,FR
+1235,Cheltenham,United Kingdom,2.0,1.0,2.0,5.0,GB
+1236,"Eugene, OR",United States,2.0,1.0,3.0,4.0,US
+1237,"Oceanside, CA",United States,2.0,1.0,4.0,4.0,US
+1238,Accra,Ghana,2.0,2.0,1.0,3.0,GH
+1239,"Palm Desert, CA",United States,2.0,1.0,4.0,4.0,US
+1240,"Bonita Springs, FL",United States,2.0,1.0,3.0,4.0,US
+1241,"Cathedral City, CA",United States,2.0,1.0,3.0,4.0,US
+1242,"Port Orange, FL",United States,2.0,1.0,2.0,4.0,US
+1243,"Pueblo, CO",United States,2.0,1.0,5.0,3.0,US
+1244,Arnhem,Netherlands,2.0,1.0,3.0,5.0,NL
+1245,Breda,Netherlands,2.0,1.0,3.0,5.0,NL
+1246,"Augusta, GA",United States,2.0,1.0,4.0,4.0,US
+1247,"Bozeman, MT",United States,2.0,1.0,3.0,4.0,US
+1248,"Galveston, TX",United States,2.0,1.0,3.0,4.0,US
+1249,St. Gallen,Switzerland,2.0,1.0,3.0,4.0,CH
+1250,"Indio, CA",United States,2.0,1.0,3.0,4.0,US
+1251,"Nashua, NH",United States,2.0,1.0,2.0,4.0,US
+1252,"Plantation, FL",United States,2.0,1.0,3.0,4.0,US
+1253,Laayoune,Western Sahara,2.0,4.0,1.0,2.0,EH
+1254,Hamhung,North Korea,2.0,4.0,1.0,3.0,KP
+1255,Kralendijk,Caribbean Netherlands,2.0,2.0,1.0,3.0,
+1256,"Ocala, FL",United States,2.0,1.0,3.0,3.0,US
+1257,Hua Hin,Thailand,2.0,4.0,2.0,4.0,TH
+1258,"Vineland, NJ",United States,2.0,1.0,4.0,3.0,US
+1259,"Cape Coral, FL",United States,2.0,1.0,3.0,4.0,US
+1260,Xiangyang,China,2.0,3.0,1.0,5.0,CN
+1261,Fort McMurray,Canada,2.0,2.0,2.0,4.0,CA
+1262,"Tuscaloosa, AL",United States,2.0,1.0,3.0,4.0,US
+1263,"Kuta, Bali",Indonesia,2.0,5.0,1.0,5.0,ID
+1264,"Salem, MA",United States,2.0,1.0,3.0,4.0,US
+1265,Kinshasa,DR Congo,2.0,3.0,1.0,2.0,
+1266,Vatican City,Vatican City,2.0,1.0,2.0,3.0,
+1267,Siena,Italy,2.0,2.0,2.0,5.0,IT
+1268,"Carson City, NV",United States,2.0,1.0,3.0,4.0,US
+1269,Huzhou,China,2.0,3.0,1.0,5.0,CN
+1270,Tengzhou,China,2.0,3.0,1.0,5.0,CN
+1271,Whistler,Canada,2.0,1.0,2.0,4.0,CA
+1272,Tulum,Mexico,2.0,4.0,1.0,2.0,MX
+1273,Brighton,United Kingdom,2.0,1.0,2.0,5.0,GB
+1274,Santa Teresa,Costa Rica,2.0,1.0,2.0,2.0,CR
+1275,"Incline Village, NV",United States,2.0,1.0,2.0,4.0,US
+1276,Tarifa,Spain,2.0,1.0,2.0,5.0,ES
+1277,"Helena, MT",United States,2.0,1.0,3.0,4.0,US
+1278,Dorobo,Japan,2.0,2.0,2.0,4.0,JP
+1279,Sariwon,North Korea,2.0,4.0,1.0,3.0,KP
+1280,Nampo,North Korea,2.0,4.0,1.0,3.0,KP
+1281,"Grand Forks, ND",United States,2.0,1.0,3.0,4.0,US
+1282,Sayulita,Mexico,2.0,3.0,2.0,2.0,MX
+1283,Charlotte Amalie,United States Virgin Islands,2.0,1.0,1.0,2.0,
+1284,Cayenne,French Guiana,2.0,3.0,1.0,2.0,GF
+1285,Okayama,Japan,2.0,2.0,2.0,5.0,JP
+1286,Exeter,United Kingdom,2.0,2.0,2.0,5.0,GB
+1287,Erbil,Kurdistan,2.0,3.0,1.0,3.0,
+1288,Huambo,Angola,2.0,2.0,1.0,3.0,AO
+1289,Nuuk,Greenland,2.0,1.0,1.0,3.0,GL
+1290,Medina,Saudi Arabia,2.0,3.0,3.0,4.0,SA
+1291,Ashgabat,Turkmenistan,2.0,1.0,1.0,4.0,TM
+1292,Martinique,Martinique,2.0,1.0,2.0,4.0,MQ
+1293,St John's,Antigua and Barbuda,2.0,1.0,1.0,2.0,AG
+1294,Doha,Qatar,2.0,3.0,1.0,4.0,QA
+1295,Weihai,China,2.0,3.0,1.0,5.0,CN
+1296,Dammam,Saudi Arabia,2.0,3.0,1.0,4.0,SA
+1297,Kaesong,North Korea,2.0,2.0,1.0,3.0,KP
+1298,N'Djamena,Chad,2.0,2.0,1.0,3.0,TD
+1299,Cabo San Lucas,Mexico,2.0,3.0,2.0,2.0,MX
+1300,Mecca,Saudi Arabia,2.0,2.0,1.0,4.0,SA
+1301,El Calafate,Argentina,2.0,1.0,1.0,3.0,AR
+1302,Tabarana do Norte,Brazil,2.0,1.0,2.0,1.0,BR
+1303,Ramallah,Palestine,1.0,3.0,1.0,4.0,
+1304,Obninsk,Russia,1.0,5.0,2.0,2.0,RU
+1305,Tripoli,Libya,1.0,5.0,1.0,3.0,LY
+1306,Novocherkassk,Russia,1.0,5.0,1.0,2.0,RU
+1307,Beersheba,Israel,1.0,3.0,2.0,4.0,IL
+1308,Juba,South Sudan,1.0,5.0,1.0,2.0,SS
+1309,Ivano-Frankivsk,Ukraine,1.0,5.0,2.0,4.0,UA
+1310,Haifa,Israel,1.0,2.0,2.0,4.0,IL
+1311,Sochi,Russia,1.0,5.0,1.0,3.0,RU
+1312,Tel Aviv,Israel,1.0,1.0,2.0,4.0,IL
+1313,Kaliningrad,Russia,1.0,4.0,2.0,3.0,RU
+1314,Beirut,Lebanon,1.0,5.0,1.0,4.0,LB
+1315,Tomsk,Russia,1.0,5.0,2.0,3.0,RU
+1316,Vladivostok,Russia,1.0,5.0,1.0,3.0,RU
+1317,Ulyanovsk,Russia,1.0,5.0,1.0,2.0,RU
+1318,Izhevsk,Russia,1.0,5.0,2.0,3.0,RU
+1319,Benghazi,Libya,1.0,3.0,1.0,4.0,LY
+1320,Krivoy-Rog,Ukraine,1.0,5.0,2.0,3.0,UA
+1321,Khartoum,,1.0,5.0,1.0,3.0,
+1322,Mosul,Iraq,1.0,5.0,1.0,2.0,IQ
+1323,Lviv,Ukraine,1.0,5.0,2.0,3.0,UA
+1324,Bangui,Central African Republic,1.0,5.0,1.0,2.0,CF
+1325,Krasnodar,Russia,1.0,5.0,2.0,3.0,RU
+1326,Homs,Syria,1.0,4.0,1.0,4.0,SY
+1327,Asmara,Eritrea,1.0,5.0,1.0,3.0,ER
+1328,Saratov,Russia,1.0,5.0,2.0,2.0,RU
+1329,Hama,Syria,1.0,4.0,1.0,4.0,SY
+1330,Jerusalem,Israel,1.0,1.0,2.0,4.0,IL
+1331,Naypyidaw,Myanmar,1.0,5.0,1.0,4.0,MM
+1332,Dnipro,Ukraine,1.0,5.0,2.0,3.0,UA
+1333,Odessa,Ukraine,1.0,5.0,4.0,4.0,UA
+1334,Krasnoyarsk,Russia,1.0,5.0,2.0,3.0,RU
+1335,Volgograd,Russia,1.0,5.0,1.0,2.0,RU
+1336,Ufa,Russia,1.0,5.0,2.0,3.0,RU
+1337,Rostov-on-Don,Russia,1.0,5.0,1.0,3.0,RU
+1338,Ahvaz,Iran,1.0,4.0,1.0,3.0,IR
+1339,Chelyabinsk,Russia,1.0,5.0,2.0,3.0,RU
+1340,Omsk,Russia,1.0,5.0,2.0,3.0,RU
+1341,Kazan,Russia,1.0,4.0,2.0,2.0,RU
+1342,Samara,Russia,1.0,5.0,2.0,2.0,RU
+1343,Maputo,Mozambique,1.0,4.0,1.0,4.0,MZ
+1344,Qom,Iran,1.0,5.0,1.0,4.0,IR
+1345,Mandalay,Myanmar,1.0,5.0,1.0,4.0,MM
+1346,Nizhny,Russia,1.0,4.0,2.0,3.0,RU
+1347,Mogadishu,Somalia,1.0,4.0,1.0,2.0,SO
+1348,Kharkiv,Ukraine,1.0,5.0,2.0,3.0,UA
+1349,Yekaterinburg,Russia,1.0,5.0,2.0,3.0,RU
+1350,Novosibirsk,Russia,1.0,5.0,1.0,3.0,RU
+1351,Tabriz,Iran,1.0,5.0,1.0,4.0,IR
+1352,Shiraz,Iran,1.0,5.0,1.0,4.0,IR
+1353,Sana'a,Yemen,1.0,5.0,1.0,3.0,YE
+1354,Damascus,Syria,1.0,3.0,1.0,4.0,SY
+1355,Isfahan,Iran,1.0,4.0,1.0,4.0,IR
+1356,Minsk,Belarus,1.0,5.0,2.0,4.0,BY
+1357,Aleppo,Syria,1.0,5.0,1.0,4.0,SY
+1358,Basra,Iraq,1.0,4.0,1.0,2.0,IQ
+1359,Addis Ababa,Ethiopia,1.0,5.0,1.0,3.0,ET
+1360,Kyiv,Ukraine,1.0,5.0,2.0,3.0,UA
+1361,Kabul,Afghanistan,1.0,5.0,1.0,3.0,AF
+1362,Mashhad,Iran,1.0,5.0,1.0,3.0,IR
+1363,Bamako,Mali,1.0,5.0,1.0,2.0,ML
+1364,Dar es Salaam,Tanzania,1.0,5.0,1.0,3.0,TZ
+1365,Saint Petersburg,Russia,1.0,5.0,1.0,3.0,RU
+1366,Yangon,Myanmar,1.0,5.0,1.0,4.0,MM
+1367,Baghdad,Iraq,1.0,5.0,1.0,2.0,IQ
+1368,Tehran,Iran,1.0,4.0,1.0,4.0,IR
+1369,Moscow,Russia,1.0,4.0,2.0,3.0,RU

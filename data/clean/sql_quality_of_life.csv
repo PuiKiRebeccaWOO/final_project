@@ -1,0 +1,237 @@
+country,safety_value,safety_category,climate_value,climate_category,cost_of_living_value,cost_of_living_category,pollution_value,pollution_category,quality_of_life_value,quality_of_life_category,country_code
+Afghanistan,25.33,Low,0.0,,21.08,Very Low,84.44,Very High,0.0,,AF
+Aland Islands,71.81,High,0.0,,53.44,Low,18.05,Very Low,0.0,,
+Albania,55.52,Moderate,86.43,Very High,40.85,Low,77.25,High,104.16,Low,AL
+Alderney,83.79,Very High,0.0,,0.0,,1.72,Very Low,0.0,,
+Algeria,47.54,Moderate,94.82,Very High,25.31,Very Low,63.87,High,98.83,Very Low,DZ
+American Samoa,54.41,Moderate,0.0,,0.0,,78.45,High,0.0,,AS
+Andorra,84.71,Very High,0.0,,48.09,Low,22.98,Low,0.0,,AD
+Angola,33.71,Low,0.0,,42.57,Low,92.07,Very High,0.0,,AO
+Anguilla,75.44,High,0.0,,0.0,,0.0,,0.0,,AI
+Antigua And Barbuda,42.86,Moderate,0.0,,0.0,,43.1,Moderate,0.0,,AG
+Argentina,36.36,Low,98.28,Very High,32.65,Very Low,50.81,Moderate,115.06,Low,AR
+Armenia,77.81,High,63.42,High,41.84,Low,62.55,High,116.56,Low,AM
+Aruba,69.23,High,0.0,,79.42,High,35.7,Low,0.0,,AW
+Australia,52.71,Moderate,93.8,Very High,64.5,Moderate,26.8,Low,190.69,Very High,AU
+Austria,70.38,High,77.4,High,62.22,Moderate,20.73,Low,192.07,Very High,AT
+Azerbaijan,68.12,High,91.4,Very High,30.26,Very Low,72.69,High,113.51,Low,AZ
+Bahamas,43.76,Moderate,0.0,,81.3,High,61.34,High,0.0,,BS
+Bahrain,75.28,High,64.31,High,48.79,Low,71.57,High,158.68,High,BH
+Bangladesh,38.79,Low,71.29,High,20.76,Very Low,85.31,Very High,74.51,Very Low,BD
+Barbados,55.14,Moderate,0.0,,70.6,Moderate,24.39,Low,0.0,,BB
+Belarus,49.99,Moderate,64.37,High,25.11,Very Low,44.94,Moderate,127.48,Moderate,BY
+Belgium,50.42,Moderate,86.03,Very High,57.41,Low,49.45,Moderate,168.52,Very High,BE
+Belize,47.47,Moderate,0.0,,0.0,,52.8,Moderate,0.0,,BZ
+Benin,62.16,High,0.0,,0.0,,97.41,Very High,0.0,,BJ
+Bermuda,63.7,High,0.0,,124.77,Very High,14.95,Very Low,0.0,,BM
+Bhutan,70.45,High,0.0,,24.92,Very Low,48.82,Moderate,0.0,,BT
+Bolivia,35.0,Low,0.0,,25.28,Very Low,71.92,High,0.0,,BO
+Bonaire,62.95,High,0.0,,0.0,,0.0,,0.0,,BQ
+Bosnia And Herzegovina,58.3,Moderate,80.48,Very High,32.01,Very Low,59.68,Moderate,134.51,Moderate,BA
+Botswana,47.3,Moderate,88.87,Very High,40.05,Low,46.09,Moderate,36.55,Very Low,BW
+Brazil,35.36,Low,94.31,Very High,27.14,Very Low,52.84,Moderate,115.99,Low,BR
+British Virgin Islands,59.31,Moderate,0.0,,0.0,,68.1,High,0.0,,VG
+Brunei,70.7,High,0.0,,46.73,Low,35.49,Low,0.0,,BN
+Bulgaria,63.73,High,82.76,Very High,35.86,Very Low,62.94,High,144.49,Moderate,BG
+Burkina Faso,61.16,High,0.0,,0.0,,0.0,,0.0,,BF
+Burundi,43.44,Moderate,0.0,,0.0,,87.84,Very High,0.0,,BI
+Cambodia,48.19,Moderate,59.43,Moderate,34.38,Very Low,77.77,High,78.92,Very Low,KH
+Cameroon,34.53,Low,0.0,,37.61,Very Low,93.71,Very High,0.0,,CM
+Canada,54.34,Moderate,55.41,Moderate,60.55,Moderate,29.8,Low,164.54,Very High,CA
+Cape Verde,49.87,Moderate,0.0,,38.51,Very Low,81.03,Very High,0.0,,CV
+Cayman Islands,69.25,High,0.0,,108.7,Very High,23.96,Low,0.0,,KY
+Central African Republic,15.89,Very Low,0.0,,0.0,,84.83,Very High,0.0,,CF
+Chad,32.16,Low,0.0,,46.23,Low,60.56,High,0.0,,TD
+Chile,39.55,Low,90.21,Very High,36.29,Very Low,77.51,High,106.49,Low,CL
+China,75.82,High,79.61,High,31.23,Very Low,77.3,High,120.52,Moderate,CN
+Colombia,39.14,Low,96.69,Very High,25.48,Very Low,62.47,High,107.9,Low,CO
+Comoros,52.94,Moderate,0.0,,35.91,Very Low,0.0,,0.0,,KM
+Cook Islands,69.08,High,0.0,,0.0,,8.62,Very Low,0.0,,CK
+Costa Rica,46.04,Moderate,99.48,Very High,50.18,Low,42.39,Moderate,129.35,Moderate,CR
+Croatia,74.54,High,89.23,Very High,43.23,Low,31.1,Low,176.02,Very High,HR
+Cuba,66.02,High,0.0,,41.1,Low,65.82,High,0.0,,CU
+Curacao,46.19,Moderate,0.0,,0.0,,55.46,Moderate,0.0,,
+Cyprus,66.9,High,90.87,Very High,50.99,Low,54.99,Moderate,158.84,High,CY
+Czech Republic,73.64,High,79.1,High,43.65,Low,34.78,Low,174.21,Very High,CZ
+Democratic Republic of the Congo,36.16,Low,0.0,,50.85,Low,83.22,Very High,0.0,,
+Denmark,73.81,High,82.47,Very High,68.9,Moderate,20.75,Low,208.65,Very High,DK
+Djibouti,42.74,Moderate,0.0,,76.83,High,64.6,High,0.0,,DJ
+Dominica,46.42,Moderate,0.0,,50.36,Low,20.69,Low,0.0,,DM
+Dominican Republic,39.4,Low,67.82,High,34.75,Very Low,72.8,High,89.09,Very Low,DO
+Ecuador,37.57,Low,94.51,Very High,30.28,Very Low,59.05,Moderate,125.58,Moderate,EC
+Egypt,52.64,Moderate,91.98,Very High,19.46,Very Low,82.67,Very High,85.41,Very Low,EG
+El Salvador,40.58,Moderate,86.6,Very High,38.13,Very Low,75.37,High,93.05,Very Low,SV
+Equatorial Guinea,52.16,Moderate,0.0,,51.87,Low,59.85,Moderate,0.0,,GQ
+Eritrea,72.86,High,0.0,,53.58,Low,15.52,Very Low,0.0,,ER
+Estonia,76.37,High,64.28,High,50.4,Low,17.02,Very Low,185.1,Very High,EE
+Eswatini,56.45,Moderate,0.0,,24.22,Very Low,32.07,Low,0.0,,SZ
+Ethiopia,49.1,Moderate,96.82,Very High,43.89,Low,73.24,High,48.88,Very Low,ET
+Falkland Islands,55.64,Moderate,0.0,,0.0,,3.45,Very Low,0.0,,
+Faroe Islands,83.57,Very High,0.0,,0.0,,4.91,Very Low,0.0,,FO
+Fiji,43.44,Moderate,71.89,High,33.42,Very Low,53.44,Moderate,122.12,Moderate,FJ
+Finland,73.57,High,58.87,Moderate,60.04,Moderate,11.83,Very Low,203.06,Very High,FI
+France,44.56,Moderate,89.71,Very High,59.48,Low,43.56,Moderate,165.08,Very High,FR
+French Guiana,36.87,Low,0.0,,0.0,,37.3,Low,0.0,,GF
+French Polynesia,79.04,High,0.0,,0.0,,52.3,Moderate,0.0,,PF
+French Southern Territories,53.68,Moderate,0.0,,0.0,,37.7,Low,0.0,,TF
+Gabon,39.86,Low,0.0,,48.7,Low,76.47,High,0.0,,GA
+Gambia,40.88,Moderate,0.0,,27.72,Very Low,61.67,High,0.0,,GM
+Georgia,73.9,High,88.53,Very High,32.0,Very Low,67.54,High,125.48,Moderate,GE
+Germany,60.77,High,83.3,Very High,59.56,Low,28.81,Low,189.75,Very High,DE
+Ghana,54.65,Moderate,67.03,High,30.49,Very Low,86.91,Very High,17.47,Very Low,GH
+Gibraltar,79.77,High,0.0,,59.05,Low,61.64,High,0.0,,GI
+Greece,53.44,Moderate,91.79,Very High,47.78,Low,50.07,Moderate,136.83,Moderate,GR
+Greenland,62.16,High,0.0,,83.09,High,77.11,High,0.0,,GL
+Grenada,75.07,High,0.0,,75.44,High,49.18,Moderate,0.0,,GD
+Guadeloupe,72.18,High,0.0,,57.98,Low,75.86,High,0.0,,GP
+Guam,36.34,Low,0.0,,0.0,,51.83,Moderate,0.0,,GU
+Guatemala,41.92,Moderate,99.89,Very High,36.67,Very Low,73.47,High,107.92,Low,GT
+Guernsey,76.14,High,0.0,,66.48,Moderate,11.49,Very Low,0.0,,GG
+Guinea,39.95,Low,0.0,,0.0,,106.67,Very High,0.0,,GN
+Guinea-Bissau,48.18,Moderate,0.0,,39.6,Very Low,0.0,,0.0,,GW
+Guyana,33.65,Low,0.0,,44.46,Low,60.09,High,0.0,,GY
+Haiti,21.41,Low,0.0,,51.39,Low,94.3,Very High,0.0,,HT
+Honduras,27.75,Low,0.0,,34.39,Very Low,75.52,High,0.0,,HN
+Hong Kong,78.49,High,83.64,Very High,74.59,High,66.86,High,134.04,Moderate,HK
+Hungary,66.28,High,78.74,High,37.72,Very Low,46.57,Moderate,143.26,Moderate,HU
+Iceland,74.26,High,68.81,High,81.71,High,15.84,Very Low,202.04,Very High,IS
+India,55.67,Moderate,64.1,High,19.93,Very Low,72.89,High,124.7,Moderate,IN
+Indonesia,54.11,Moderate,63.76,High,25.31,Very Low,67.99,High,99.98,Very Low,ID
+Iran,49.67,Moderate,70.99,High,24.03,Very Low,75.24,High,85.42,Very Low,IR
+Iraq,57.47,Moderate,46.98,Moderate,26.81,Very Low,71.53,High,107.76,Low,IQ
+Ireland,52.53,Moderate,87.83,Very High,60.85,Moderate,34.79,Low,166.37,Very High,IE
+Isle Of Man,79.57,High,0.0,,62.41,Moderate,18.12,Very Low,0.0,,IM
+Israel,68.25,High,93.78,Very High,63.19,Moderate,56.84,Moderate,161.76,Very High,IL
+Italy,53.03,Moderate,90.78,Very High,52.12,Low,53.67,Moderate,151.06,High,IT
+Ivory Coast,43.57,Moderate,0.0,,39.62,Very Low,94.87,Very High,0.0,,
+Jamaica,32.61,Low,71.58,High,49.56,Low,66.31,High,83.92,Very Low,JM
+Japan,77.07,High,85.26,Very High,46.99,Low,38.55,Low,184.32,Very High,JP
+Jersey,74.32,High,0.0,,77.04,High,26.72,Low,0.0,,JE
+Jordan,59.78,Moderate,89.05,Very High,37.64,Very Low,77.1,High,125.01,Moderate,JO
+Kazakhstan,54.62,Moderate,39.78,Moderate,28.08,Very Low,73.16,High,105.92,Low,KZ
+Kenya,44.24,Moderate,99.79,Very High,28.23,Very Low,69.04,High,101.33,Low,KE
+Kiribati,81.86,Very High,0.0,,55.26,Low,106.9,Very High,0.0,,KI
+Kosovo,59.2,Moderate,76.84,High,26.04,Very Low,67.84,High,130.09,Moderate,XK
+Kuwait,67.19,High,20.22,Moderate,40.82,Low,69.37,High,159.55,High,KW
+Kyrgyzstan,46.17,Moderate,58.11,Moderate,25.72,Very Low,70.38,High,98.32,Very Low,KG
+Laos,63.72,High,0.0,,32.57,Very Low,78.51,High,0.0,,LA
+Latvia,62.8,High,74.7,High,44.96,Low,30.4,Low,164.22,Very High,LV
+Lebanon,53.16,Moderate,94.74,Very High,38.99,Very Low,89.41,Very High,98.43,Very Low,LB
+Lesotho,32.75,Low,0.0,,0.0,,58.62,Moderate,0.0,,LS
+Liberia,19.13,Very Low,0.0,,64.1,Moderate,91.76,Very High,0.0,,LR
+Libya,44.23,Moderate,96.54,Very High,18.72,Very Low,53.02,Moderate,134.14,Moderate,LY
+Liechtenstein,87.84,Very High,0.0,,94.03,Very High,6.47,Very Low,0.0,,LI
+Lithuania,67.72,High,67.76,High,44.73,Low,26.14,Low,172.77,Very High,LT
+Luxembourg,64.68,High,82.62,Very High,63.72,Moderate,23.27,Low,224.31,Very High,LU
+Macao,79.52,High,81.7,Very High,57.26,Low,67.58,High,149.76,High,MO
+Madagascar,35.59,Low,0.0,,21.27,Very Low,86.87,Very High,0.0,,MG
+Malawi,43.89,Moderate,0.0,,35.35,Very Low,64.16,High,0.0,,MW
+Malaysia,51.03,Moderate,56.55,Moderate,29.82,Very Low,61.14,High,136.22,Moderate,MY
+Maldives,45.91,Moderate,0.0,,45.85,Low,74.55,High,0.0,,MV
+Mali,52.92,Moderate,0.0,,0.0,,85.52,Very High,0.0,,ML
+Malta,57.09,Moderate,97.44,Very High,48.99,Low,75.5,High,132.54,Moderate,MT
+Marshall Islands,72.55,High,0.0,,0.0,,85.63,Very High,0.0,,MH
+Martinique,37.14,Low,0.0,,60.67,Moderate,62.59,High,0.0,,MQ
+Mauritania,61.51,High,0.0,,41.43,Low,78.97,High,0.0,,MR
+Mauritius,52.71,Moderate,0.0,,34.6,Very Low,54.8,Moderate,0.0,,MU
+Mexico,46.47,Moderate,87.51,Very High,35.0,Very Low,58.46,Moderate,127.02,Moderate,MX
+Micronesia,55.87,Moderate,0.0,,56.24,Low,71.26,High,0.0,,
+Moldova,55.52,Moderate,76.91,High,31.44,Very Low,61.33,High,122.53,Moderate,MD
+Monaco,76.38,High,0.0,,137.37,Very High,78.2,High,0.0,,MC
+Mongolia,47.53,Moderate,-3.54,Low,30.68,Very Low,87.82,Very High,62.52,Very Low,MN
+Montenegro,64.59,High,89.02,Very High,37.37,Very Low,43.7,Moderate,147.33,High,ME
+Montserrat,93.38,Very High,0.0,,0.0,,0.0,,0.0,,MS
+Morocco,52.34,Moderate,86.09,Very High,27.76,Very Low,68.66,High,110.96,Low,MA
+Mozambique,38.05,Low,0.0,,39.14,Very Low,71.57,High,0.0,,MZ
+Myanmar,49.14,Moderate,0.0,,35.88,Very Low,89.79,Very High,0.0,,MM
+Namibia,36.45,Low,0.0,,30.18,Very Low,40.72,Moderate,0.0,,
+Nauru,49.05,Moderate,0.0,,0.0,,101.72,Very High,0.0,,NR
+Nepal,63.5,High,92.64,Very High,23.48,Very Low,83.87,Very High,88.97,Very Low,NP
+Netherlands,73.36,High,87.42,Very High,61.41,Moderate,21.14,Low,211.85,Very High,NL
+New Caledonia,36.91,Low,0.0,,73.43,High,59.31,Moderate,0.0,,NC
+New Zealand,51.87,Moderate,95.46,Very High,59.36,Low,26.0,Low,186.57,Very High,NZ
+Nicaragua,49.25,Moderate,0.0,,31.13,Very Low,60.78,High,0.0,,NI
+Niger,33.38,Low,0.0,,132.99,Very High,63.79,High,0.0,,NE
+Nigeria,33.51,Low,60.75,High,27.29,Very Low,87.91,Very High,41.24,Very Low,NG
+Niue,0.0,,0.0,,0.0,,46.55,Moderate,0.0,,NU
+North Korea,46.53,Moderate,0.0,,33.59,Very Low,72.41,High,0.0,,KP
+North Macedonia,59.17,Moderate,76.3,High,30.57,Very Low,79.59,High,119.96,Low,MK
+Northern Mariana Islands,64.03,High,0.0,,0.0,,33.33,Low,0.0,,MP
+Norway,67.05,High,68.5,High,71.27,Moderate,18.32,Very Low,194.48,Very High,NO
+Oman,81.94,Very High,67.22,High,39.3,Very Low,34.71,Low,213.42,Very High,OM
+Pakistan,56.31,Moderate,71.93,High,17.9,Very Low,73.31,High,104.14,Low,PK
+Palau,73.24,High,0.0,,0.0,,14.37,Very Low,0.0,,PW
+Palestine,57.24,Moderate,0.0,,38.29,Very Low,65.03,High,0.0,,
+Panama,57.32,Moderate,67.84,High,43.83,Low,55.63,Moderate,122.74,Moderate,PA
+Papua New Guinea,19.89,Very Low,0.0,,69.3,Moderate,78.81,High,0.0,,PG
+Paraguay,39.84,Low,92.24,Very High,23.19,Very Low,66.16,High,109.45,Low,PY
+Peru,32.77,Low,97.69,Very High,29.43,Very Low,82.19,Very High,85.92,Very Low,PE
+Philippines,56.92,Moderate,61.23,High,28.77,Very Low,72.38,High,96.95,Very Low,PH
+Poland,70.99,High,75.9,High,39.35,Very Low,55.51,Moderate,153.6,High,PL
+Portugal,68.17,High,97.31,Very High,41.72,Low,28.8,Low,168.85,Very High,PT
+Puerto Rico,38.52,Low,0.0,,59.23,Low,47.86,Moderate,0.0,,PR
+Qatar,84.05,Very High,36.03,Moderate,48.27,Low,60.0,High,192.73,Very High,QA
+Republic of the Congo,45.71,Moderate,0.0,,54.46,Low,77.59,High,0.0,,CG
+Reunion,53.09,Moderate,0.0,,52.71,Low,32.67,Low,0.0,,
+Romania,67.82,High,77.0,High,34.66,Very Low,58.61,Moderate,142.14,Moderate,RO
+Russia,61.3,High,43.6,Moderate,25.25,Very Low,59.13,Moderate,113.56,Low,RU
+Rwanda,72.81,High,99.74,Very High,37.05,Very Low,39.22,Low,0.0,Very Low,RW
+Saint Helena,92.65,Very High,0.0,,0.0,,15.52,Very Low,0.0,,
+Saint Kitts And Nevis,59.98,Moderate,0.0,,0.0,,36.21,Low,0.0,,KN
+Saint Lucia,39.08,Low,0.0,,0.0,,46.22,Moderate,0.0,,LC
+Saint Vincent And The Grenadines,62.22,High,0.0,,60.33,Moderate,0.0,,0.0,,VC
+Saint-Pierre And Miquelon,100.0,Very High,0.0,,0.0,,55.17,Moderate,0.0,,
+Samoa,57.94,Moderate,0.0,,0.0,,39.94,Low,0.0,,WS
+San Marino,80.65,Very High,0.0,,0.0,,15.36,Very Low,0.0,,SM
+Sao Tome And Principe,82.56,Very High,0.0,,0.0,,68.97,High,0.0,,ST
+Saudi Arabia,76.23,High,45.98,Moderate,42.06,Low,62.46,High,173.2,Very High,SA
+Senegal,49.82,Moderate,0.0,,40.61,Low,95.87,Very High,0.0,,SN
+Serbia,62.75,High,83.23,Very High,36.18,Very Low,65.62,High,123.62,Moderate,RS
+Seychelles,55.01,Moderate,0.0,,59.88,Low,36.71,Low,0.0,,SC
+Sierra Leone,42.9,Moderate,0.0,,0.0,,106.03,Very High,0.0,,SL
+Singapore,72.48,High,57.45,Moderate,79.72,High,32.61,Low,157.13,High,SG
+Sint Maarten,68.09,High,0.0,,65.56,Moderate,79.48,High,0.0,,
+Slovakia,69.2,High,80.72,Very High,43.24,Low,37.3,Low,157.96,High,SK
+Slovenia,76.17,High,76.11,High,47.58,Low,22.25,Low,178.94,Very High,SI
+Solomon Islands,36.13,Low,0.0,,101.05,Very High,79.55,High,0.0,,SB
+Somalia,35.86,Low,0.0,,40.56,Low,63.41,High,0.0,,SO
+South Africa,25.36,Low,95.25,Very High,31.3,Very Low,56.56,Moderate,155.84,High,ZA
+South Korea,75.36,High,68.39,High,59.94,Low,60.93,High,148.74,High,KR
+South Sudan,18.57,Very Low,0.0,,0.0,,56.47,Moderate,0.0,,SS
+Spain,63.51,High,94.04,Very High,44.41,Low,35.7,Low,184.67,Very High,ES
+Sri Lanka,57.9,Moderate,59.11,Moderate,33.96,Very Low,57.94,Moderate,75.17,Very Low,LK
+Sudan,54.5,Moderate,0.0,,0.0,,67.55,High,0.0,,SD
+Suriname,47.12,Moderate,0.0,,39.75,Very Low,51.15,Moderate,0.0,,SR
+Sweden,51.74,Moderate,76.49,High,54.84,Low,17.66,Very Low,193.48,Very High,SE
+Switzerland,73.69,High,79.24,High,101.18,Very High,23.06,Low,204.91,Very High,CH
+Syria,31.5,Low,0.0,,23.8,Very Low,74.88,High,0.0,,SY
+Taiwan,82.89,Very High,84.38,Very High,44.79,Low,64.31,High,160.18,Very High,TW
+Tajikistan,55.6,Moderate,0.0,,24.6,Very Low,54.02,Moderate,0.0,,TJ
+Tanzania,46.46,Moderate,71.28,High,25.31,Very Low,62.48,High,0.0,Very Low,TZ
+Thailand,62.49,High,69.76,High,33.88,Very Low,75.65,High,105.37,Low,TH
+Timor-Leste,57.93,Moderate,0.0,,45.57,Low,60.35,High,0.0,,TL
+Togo,54.84,Moderate,0.0,,31.91,Very Low,82.5,Very High,0.0,,TG
+Tonga,39.02,Low,0.0,,50.8,Low,0.0,,0.0,,TO
+Trinidad And Tobago,29.01,Low,67.55,High,49.01,Low,67.14,High,84.52,Very Low,TT
+Tunisia,55.23,Moderate,93.24,Very High,25.71,Very Low,70.08,High,115.44,Low,TN
+Turkey,58.74,Moderate,93.26,Very High,35.37,Very Low,64.29,High,130.42,Moderate,TR
+Turkmenistan,51.24,Moderate,0.0,,0.0,,38.15,Low,0.0,,TM
+Turks And Caicos Islands,51.12,Moderate,0.0,,0.0,,32.76,Low,0.0,,TC
+Tuvalu,81.52,Very High,0.0,,0.0,,0.0,Very Low,0.0,,TV
+Uganda,45.88,Moderate,98.41,Very High,47.97,Low,84.05,Very High,0.0,Very Low,UG
+Ukraine,53.13,Moderate,70.69,High,24.38,Very Low,62.16,High,114.78,Low,UA
+United Arab Emirates,84.43,Very High,45.84,Moderate,53.8,Low,47.98,Moderate,176.65,Very High,AE
+United Kingdom,51.88,Moderate,87.41,Very High,59.67,Low,40.47,Moderate,175.2,Very High,GB
+United States,50.74,Moderate,79.14,High,65.69,Moderate,36.61,Low,189.14,Very High,US
+Uruguay,48.2,Moderate,98.04,Very High,47.39,Low,43.49,Moderate,141.6,Moderate,UY
+Us Virgin Islands,40.06,Moderate,0.0,,99.27,Very High,15.27,Very Low,0.0,,
+Uzbekistan,71.97,High,69.79,High,24.4,Very Low,53.07,Moderate,133.78,Moderate,UZ
+Vanuatu,58.35,Moderate,0.0,,0.0,,40.14,Moderate,0.0,,VU
+Vatican City,46.18,Moderate,0.0,,0.0,,46.32,Moderate,0.0,,
+Venezuela,19.26,Very Low,0.0,,35.85,Very Low,75.3,High,0.0,,VE
+Vietnam,59.0,Moderate,71.24,High,26.85,Very Low,84.19,Very High,97.18,Very Low,VN
+Wallis And Futuna,0.0,,0.0,,0.0,,0.0,,0.0,,WF
+Western Sahara,62.87,High,0.0,,0.0,,0.0,,0.0,,EH
+Yemen,34.07,Low,0.0,,48.66,Low,83.17,Very High,0.0,,YE
+Zambia,54.39,Moderate,0.0,,36.74,Very Low,80.9,Very High,0.0,,ZM
+Zimbabwe,39.31,Low,96.76,Very High,35.36,Very Low,78.53,High,94.2,Very Low,ZW

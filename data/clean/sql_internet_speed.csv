@@ -1,0 +1,178 @@
+country,broadband,mobile,country_code
+Monaco,261.82,,MC
+Singapore,255.83,105.01,SG
+Hong Kong,254.7,83.58,HK
+Romania,232.17,59.67,RO
+Switzerland,229.96,135.7,CH
+Denmark,227.91,112.03,DK
+Thailand,225.17,56.9,TH
+Chile,217.6,21.23,CL
+France,214.04,86.51,FR
+South Korea,212.57,202.61,KR
+Hungary,210.55,60.16,HU
+Liechtenstein,204.78,,LI
+United States,203.81,110.07,US
+Spain,201.47,61.62,ES
+China,196.57,165.38,CN
+United Arab Emirates,189.07,238.06,AE
+Canada,183.81,95.78,CA
+Macau,178.9,62.31,MO
+Japan,178.76,69.02,JP
+Sweden,174.9,103.08,SE
+Luxembourg,172.05,116.76,LU
+Andorra,171.44,,AD
+New Zealand,170.51,75.91,NZ
+Norway,168.25,177.72,NO
+Netherlands,165.0,106.98,NL
+Israel,162.66,48.3,IL
+Portugal,162.55,59.91,PT
+Poland,156.33,57.23,PL
+Moldova,154.56,42.99,MD
+Taiwan,152.01,95.51,TW
+Kuwait,149.37,157.18,KW
+Lithuania,147.05,66.25,LT
+Malta,144.06,70.73,MT
+Panama,137.38,20.44,PA
+Germany,136.66,83.06,DE
+Latvia,135.22,50.07,LV
+Finland,135.05,88.23,FI
+Belgium,125.12,69.76,BE
+Ireland,122.55,62.66,IE
+San Marino,121.4,,SM
+Slovenia,115.61,74.84,SI
+Slovakia,115.11,56.01,SK
+Qatar,113.88,172.18,QA
+Brazil,113.09,33.92,BR
+Barbados,109.41,,BB
+Malaysia,107.55,31.34,MY
+Italy,104.09,55.41,IT
+United Kingdom,102.24,86.56,GB
+Russia,95.96,28.99,RU
+Saudi Arabia,94.64,155.97,SA
+Austria,94.31,71.81,AT
+Estonia,88.49,75.29,EE
+Serbia,86.77,53.82,RS
+Bulgaria,86.75,142.27,BG
+Trinidad and Tobago,85.8,41.12,TT
+Jordan,84.12,27.61,JO
+Australia,82.73,135.3,AU
+Vietnam,78.34,43.32,VN
+Ukraine,76.82,31.95,UA
+Bahrain,73.95,86.04,BH
+Paraguay,72.5,20.65,PY
+Colombia,72.19,18.33,CO
+Philippines,71.85,35.03,PH
+Uruguay,69.91,38.08,UY
+Belarus,69.41,19.41,BY
+Croatia,69.09,114.76,HR
+Oman,68.28,91.21,OM
+Guyana,65.93,,GY
+India,64.03,17.89,IN
+Kazakhstan,63.28,31.74,KZ
+Bahamas,61.75,,BS
+Montenegro,60.03,44.48,ME
+Argentina,58.87,29.77,AR
+Peru,58.73,24.82,PE
+Grenada,57.07,,GD
+Costa Rica,56.39,34.01,CR
+Cyprus,55.11,144.64,CY
+Mexico,54.88,34.33,MX
+South Africa,54.75,52.19,ZA
+Saint Vincent and the Grenadines,53.77,,VC
+Mongolia,53.53,21.34,MN
+Saint Lucia,52.3,,LC
+Ghana,52.1,12.9,GH
+Kyrgyzstan,51.07,24.71,KG
+Bosnia and Herzegovina,48.51,36.61,BA
+Laos,48.16,30.93,LA
+Uzbekistan,45.88,19.29,UZ
+Albania,45.55,61.56,AL
+Turkey,43.48,48.85,TR
+North Macedonia,43.24,64.02,MK
+Madagascar,42.84,,MG
+Ivory Coast,40.64,18.36,CI
+Belize,40.62,,BZ
+Bangladesh,40.31,13.43,BD
+Egypt,39.97,24.95,EG
+Mauritius,39.85,30.28,MU
+Greece,39.08,92.54,GR
+Ecuador,39.07,24.62,EC
+Armenia,38.95,34.53,AM
+Jamaica,37.84,44.23,JM
+Tajikistan,35.45,16.15,TJ
+Saint Kitts and Nevis,35.45,,KN
+Senegal,35.01,23.59,SN
+Dominica,34.9,,DM
+Brunei,34.59,67.32,BN
+Nepal,33.87,22.39,NP
+Dominican Republic,32.26,31.45,DO
+Iraq,31.66,42.33,IQ
+Marshall Islands,31.64,,MH
+Nicaragua,29.94,26.59,NI
+Palestine,29.46,7.57,PS
+Georgia,28.61,39.84,GE
+Cambodia,28.32,23.75,KH
+Indonesia,27.83,23.12,ID
+Bolivia,27.8,22.57,BO
+Maldives,27.42,66.9,MV
+Morocco,27.21,39.52,MA
+El Salvador,27.04,26.85,SV
+Cape Verde,26.94,,CV
+Honduras,26.93,30.84,HN
+Rwanda,26.26,,RW
+Sri Lanka,26.08,16.58,LK
+Liberia,25.68,,LR
+Burkina Faso,25.54,,BF
+Azerbaijan,25.1,40.69,AZ
+Seychelles,24.9,,SC
+Bhutan,24.76,,BT
+Lesotho,24.64,,LS
+Venezuela,23.92,7.68,VE
+Guatemala,23.72,29.69,GT
+Western Sahara,23.02,,EH
+Micronesia,22.54,,FM
+Gabon,22.5,,GA
+Iran,21.36,35.48,IR
+Antigua and Barbuda,21.24,,AG
+Mali,20.82,29.79,ML
+Togo,20.76,36.08,TG
+Fiji,20.76,28.51,FJ
+Myanmar,20.69,28.19,MM
+Haiti,20.67,19.71,HT
+Tanzania,19.77,13.23,TZ
+Namibia,19.58,23.18,
+Kenya,19.35,22.14,KE
+Somalia,18.98,14.74,SO
+Djibouti,18.27,,DJ
+Lebanon,18.22,32.64,LB
+Zimbabwe,17.81,,ZW
+Nigeria,17.65,24.74,NG
+Zambia,17.24,18.98,ZM
+Benin,16.23,,BJ
+Vanuatu,16.18,,VU
+Libya,16.12,16.03,LY
+Suriname,15.93,42.97,SR
+Angola,14.86,25.87,AO
+Ethiopia,14.17,26.17,ET
+Cameroon,13.94,31.18,CM
+Pakistan,13.84,19.82,PK
+Papua New Guinea,13.68,,PG
+Sierra Leone,13.56,,SL
+Uganda,13.55,19.02,UG
+Syria,12.72,19.21,SY
+Malawi,12.7,,MW
+Gambia,12.24,,GM
+Niger,11.68,,NE
+Mauritania,11.55,19.96,MR
+Botswana,11.21,,BW
+Burundi,11.18,,BI
+Tunisia,11.13,35.57,TN
+Algeria,10.43,18.1,DZ
+Mozambique,9.27,25.02,MZ
+Guinea,8.84,,GN
+Afghanistan,8.26,7.27,AF
+Equatorial Guinea,7.95,,GQ
+Sudan,7.92,14.51,SD
+Yemen,7.59,,YE
+Turkmenistan,4.11,,TM
+Cuba,4.01,25.02,CU
