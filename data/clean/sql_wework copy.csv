@@ -1,0 +1,432 @@
+address,city,country,latitude,longitude,country_code
+"13F, 416 Hangang-daero Jung-gu Seoul, Seoul 04637",Seoul,South Korea,,,KR
+"3300 N Interstate 35 Suite 700 Austin, TX 78705",Austin TX,USA,,,US
+"Regeringsgatan 29, Stockholms Stockholm, Stockholms län 111 51",Stockholm,Sweden,,,SE
+"Pilgrimstraße 6 Köln, Nordrhein-Westfalen 50674",Cologne,Germany,,,DE
+"25 King Street Bowen Hills Brisbane, QLD 4006",Brisbane QLD,Australia,,,AU
+"5 Harcourt Road Dublin, Ireland D02 FW64",Dublin,Ireland,,,IE
+"Manapakkam, Block 10, DLF Cybercity, 124, Mount Poonamallee Rd, Manapakkam, Chennai, TN 600089",Chennai,India,,,IN
+"Financial District, Nanakramguda Financial District, Hyderabad, TS 500032",Hyderabad,India,,,IN
+"Al Khatem Tower, ADGM Square, Al Maryah Island Abu Dhabi, Abu Dhabi",Abu-dhabi,UAE,,,AE
+"3 Chome-7-1 Yokohama-shi Nishi Ward Minatomirai Yokohama, Kanagawa 220-0012",Yokohama,Japan,,,JP
+"Ing. Enrique Butty 275 Capital Federal Buenos Aires, Cdad. Autónoma de Buenos Aires C1001AFA",Buenos-aires,Argentina,,,AR
+cr land tower d  shenzhen,Shenzhen,China,,,CN
+"1100 Main Street Kansas City, MO 64105",Kansas-city,USA,,,US
+"310 Edward Street Brisbane, QLD 4000",Brisbane QLD,Australia,,,AU
+"Equatorial Plaza Jalan Sultan Ismail Kuala Lumpur, Federal Territory of Kuala Lumpur 50250",Kuala-lumpur,Malaysia,,,MY
+upperhills loft  shenzhen,Shenzhen,China,,,CN
+"10 York Rd London, England SE1 7ND",London,UK,,,GB
+"Rue du Commerce, 31 Brussels, NA 1000",Brussels,Belgium,,,BE
+293 guangzhou middle avenue  guangzhou,Guangzhou,China,,,CN
+golden eagle center tower a  nanjing,Nanjing,China,,,CN
+shanghai plaza  shanghai ,Shanghai,China,,,CN
+"Udyog Vihar, 246, Phase IV, Udyog Vihar, Gurugram, HR 122016",Gurugram HR,India,,,IN
+"Madhapur, RMZ Spire, C9MM+5QX, Silpa Gram Craft Village, HITEC City, Hyderabad, Hyderabad, TS 500081",Hyderabad,India,,,IN
+"575 5th Ave. New York, NY 10017",New-york-city NY,USA,,,US
+"Avenida Constitución 2050 Colonia Obispado Monterrey, Nuevo Leon 64060",Monterrey,Mexico,,,MX
+"135 W 41st St 5th Floor New York, NY 10036",New-york-city NY,USA,,,US
+"Cybercity, Cybercity, DLF Phase III, Gurugram, HR 122002",Gurugram HR,India,,,IN
+huaihai zhong lu  shanghai ,Shanghai,China,,,CN
+"1550 Wewatta St Denver, CO 80202",Denver CO,USA,,,US
+"333 Seymour Vancouver, BC V6B 5A6",Vancouver,Canada,,,CA
+819 nanjing xi lu  shanghai ,Shanghai,China,,,CN
+"Bristol Chowk, MG Road, Near Sikandarpur Metro Station, Sector 28, Gurugram, HR 122001",Gurugram HR,India,,,IN
+"2015 Main Street Vancouver, BC V5T 3C2",Vancouver,Canada,,,CA
+"16 Great Chapel St London, England W1F 8FL",London,UK,,,GB
+"10F, 518, Teheran-ro Gangnam-gu Seoul, Seoul 06180",Seoul,South Korea,,,KR
+"92 avenue des Champs-Élysées Paris, Ile-de-France 75008",Paris,France,,,FR
+"205 Detroit Street Denver, CO 80206",Denver CO,USA,,,US
+"1 St. Katharine's Way London, England E1W 1UN",London,UK,,,GB
+"Guindy, Arulayiammanpet, SIDCO Industrial Estate, Chennai, TN 600032",Chennai,India,,,IN
+"5 Temasek Boulevard, 17th Floor Singapore, Central Singapore 038985",Singapore,Singapore,,,SG
+"33 Irving Pl New York, NY 10003",New-york-city NY,USA,,,US
+"205 W 37th St New York, NY 10018",New-york-city NY,USA,,,US
+li fung plaza  shanghai ,Shanghai,China,,,CN
+"Magarpatta, Amanora Park Town, Hadapsar, Pune , MH 411028",Pune,India,,,IN
+"OMR, Ramanujan Intellion Park - Littlewood Tower, Rajiv Gandhi Salai, Old Mahabalipuram Road, Chennai, TN 600113",Chennai,India,,,IN
+"Kondapur, Kondapur Main Road, Laxmi Cyber City, Hitec City, Whitefields, Kondapur, Hyderabad, TS 500081",Hyderabad,India,,,IN
+"1-24-3, Minami Aoyama Minato-ku Tokyo, Tokyo 107-0062",Tokyo,Japan,,,JP
+"19 Clifford St. Detroit, MI 48226",Detroit MI,USA,,,US
+taohui xintian  beijing,Beijing,China,,,CN
+"10/F, YF Life Tower, 33 Lockhart Road Wanchai Hong Kong",Hong-kong,Hong Kong,,,HK
+"10900 Stonelake Boulevard Building 2, Suite 100 Austin, TX 78759",Austin TX,USA,,,US
+weihai lu  shanghai ,Shanghai,China,,,CN
+"80 Strand Street Cape Town, WC 8001",Cape-town,South Africa,,,ZA
+"3 Chome 7-24 Nakasu Hakata-ku Fukuoka, Fukuoka 810-0801",Fukuoka,Japan,,,JP
+"77 Leadenhall Street London, England EC3A 3DE",London,UK,,,GB
+"1 University Ave Toronto, ON M5J 2P1",Toronto,Canada,,,CA
+"Grzybowska 60 Warsaw, 00-844",Warsaw,Poland,,,PL
+"380 Jalan Besar #16-01 Singapore, Central Singapore 209000",Singapore,Singapore,,,SG
+trinity place  shanghai ,Shanghai,China,,,CN
+"2-13-12 Nihonbashi Chuo-ku Tokyo, Tokyo 103-0027",Tokyo,Japan,,,JP
+"Tokyo Square Garden 14F, 3-1-1 Kyobashi Chuo-ku Tokyo, Tokyo 104-0031",Tokyo,Japan,,,JP
+eba center  shanghai ,Shanghai,China,,,CN
+"Derech Ha'atzmaut 45 Haifa, Haifa District Israel",Haifa israel,Israel,,,IL
+"21/F, Cityplaza Three 14 Taikoo Wan Road, Taikoo Hong Kong",Hong-kong,Hong Kong,,,HK
+"Carrera 53 #80-198 Barranquilla, Atlántico 080001",Barranquilla,Colombia,,,CO
+"7 Dubnov Tel Aviv, Tel Aviv District 6473207",Tel-aviv israel,Israel,,,IL
+292 yan an lu  hangzhou,Hangzhou,China,,,CN
+"2 Eastbourne Terrace London, England W2 6LG",London,UK,,,GB
+"415 Mission Street San Francisco, CA 94105",Sf-bay-area CA,USA,,,US
+"368 9th Ave New York, NY 10001",New-york-city NY,USA,,,US
+588 yan an dong lu  shanghai ,Shanghai,China,,,CN
+"Calle 81 #11-08 Bogotá, Bogotá 110221",Bogota,Colombia,,,CO
+"27 E 28th St New York, NY 10016",New-york-city NY,USA,,,US
+kerry parkside  shanghai ,Shanghai,China,,,CN
+"125 Kingsway London, England WC2B 6NH",London,UK,,,GB
+yuexiu financial building  guangzhou,Guangzhou,China,,,CN
+"383 George Street Sydney, NSW 2000",Sydney NSW,Australia,,,AU
+"161 Castlereagh Street Sydney, NSW 2000",Sydney NSW,Australia,,,AU
+oceanwide fortune center  wuhan,Wuhan,China,,,CN
+pacific century place  beijing,Beijing,China,,,CN
+1237 fuxing zhong lu  shanghai ,Shanghai,China,,,CN
+"3280 Peachtree Road NE Atlanta, GA 30305",Atlanta GA,USA,,,US
+"Avenida Adolfo Lopez Mateos Norte 95 Italia Providencia Guadalajara, Jalisco 44648",Guadalajara,Mexico,,,MX
+328 hunan lu  shanghai ,Shanghai,China,,,CN
+"1010 Rue Sainte-Catherine Ouest Suite 200 Montreal, QC H3B 5L1",Montreal QC,Canada,,,CA
+"37 Avenue Trudaine 75009, Paris Paris, Ile-de-France 75009",Paris,France,,,FR
+viseen shenzhen business park  shenzhen,Shenzhen,China,,,CN
+internet financial center  beijing,Beijing,China,,,CN
+"1 Waterhouse Square London, England EC1N 2ST",London,UK,,,GB
+china overseas international center  shanghai ,Shanghai,China,,,CN
+"1175 Peachtree St NE Suite 1000 Atlanta, GA 30361",Atlanta GA,USA,,,US
+wangjing international business center  beijing,Beijing,China,,,CN
+leading center  chengdu,Chengdu,China,,,CN
+"1 Shankar St Herzliya, Tel Aviv District 4672501",Herzliya israel,Israel,,,IL
+"Carrera 7 #116-50 Bogotá, Bogotá 110221",Bogota,Colombia,,,CO
+suzhou center tower b  suzhou,Suzhou,China,,,CN
+"Národní 135/14 Prague, Hlavní mesto Praha 110 00",Prague,Czech Republic,,,CZ
+"Carrera 12a #78-40 Bogotá, Bogotá 110221",Bogota,Colombia,,,CO
+"600 Congress Ave Austin, TX 78701",Austin TX,USA,,,US
+l avenue shanghai  shanghai ,Shanghai,China,,,CN
+"357 Bay Street Toronto, ON M5H 4A6",Toronto,Canada,,,CA
+"90 York Way London, England N1 9AG",London,UK,,,GB
+xintiandi xinli  shanghai ,Shanghai,China,,,CN
+"119 Marylebone Road London, England NW1 5PU",London,UK,,,GB
+"135 Madison Ave New York, NY 10016",New-york-city NY,USA,,,US
+"2 Sheraton St London, England W1F 8BH",London,UK,,,GB
+"Neuturmstrasse 5 Munich, BY 80331",Munich,Germany,,,DE
+"Phayathai Rd Khwaeng Thung Phaya Thai, Khet Ratchathewi Bangkok, Bangkok 10400",Bangkok,Thailand,,,TH
+"615 S College St Charlotte, NC 28202",Charlotte,USA,,,US
+"Avenida Corrientes 800 Buenos Aires, Buenos Aires C1008",Buenos-aires,Argentina,,,AR
+"3-10-1 Harumi, Chuo-ku Tokyo, Tokyo 104-0053",Tokyo,Japan,,,JP
+yueshang plaza  shanghai ,Shanghai,China,,,CN
+"Kharadi, B1 Gera Commerzone, Vitthal Nagar, Kharadi, Pune , MH 412207",Pune,India,,,IN
+"408 Broadway New York, NY 10013",New-york-city NY,USA,,,US
+beijing fun  beijing,Beijing,China,,,CN
+"44 Montgomery St San Francisco, CA 94104",Sf-bay-area CA,USA,,,US
+"Scbd, Jl. Jend. Sudirman No.52-53, Senayan, Kebayoran Baru Jakarta, JK 12190",Jakarta,Indonesia,,,ID
+"Ginza Six 13F, 6-10-1 Ginza Chuo-ku Tokyo, Tokyo 104-0061",Tokyo,Japan,,,JP
+"Av. Carlos Gomes 1672 Porto Alegre, RS 90480-001",Porto-alegre,Brazil,,,BR
+"Krucza 50 Warsaw, Województwo mazowieckie 00-025",Warsaw,Poland,,,PL
+"7761 Diamondback Drive College Park, MD 20740",College-park-md MD,USA,,,US
+"1200 17th Street Denver, CO 80202",Denver CO,USA,,,US
+"226 North Front St, Wilmington, NC 28401",Wilmington NC,USA,,,US
+"B1F, 302, Teheran-ro Gangnam-gu Seoul, Seoul 06210",Seoul,South Korea,,,KR
+financial center  shanghai ,Shanghai,China,,,CN
+"Sderot Shaul HaMelech 35 Tel Aviv, Tel Aviv District 6492702",Tel-aviv israel,Israel,,,IL
+"One Central Plaza Dame Street D02 A4W7 Dublin, 2 D02 A4W7",Dublin,Ireland,,,IE
+"10 Devonshire Square London, England EC2M 4YP",London,UK,,,GB
+"2-24-12 Shibuya Tokyo, Tokyo 150-6139",Tokyo,Japan,,,JP
+"1450 Broadway New York, NY 10018",New-york-city NY,USA,,,US
+"5 Martin Place Sydney, NSW 2000",Sydney NSW,Australia,,,AU
+"Av. Cto. Frida Kahlo 303 Valle Oriente, San Pedro Garza García Monterrey, Nuevo Leon 66260",Monterrey,Mexico,,,MX
+"Calle Washington 1400 Centro, Monterrey, Nuevo León 64000",Monterrey,Mexico,,,MX
+"379 West Broadway 2nd Floor New York, NY 10012",New-york-city NY,USA,,,US
+"Baner, Pan Card Club Road, Baner, Pune, MH 411045",Pune,India,,,IN
+"115 Broadway Street 5th Floor New York, NY 10006",New-york-city NY,USA,,,US
+junson international center  chengdu,Chengdu,China,,,CN
+"7-1-5 Isogamidori, Chuo-ku, Kobe, Hyogo-ken Kobe, Hyogo 651-0086",Kobe,Japan,,,JP
+"200 South Biscayne Boulevard Miami, FL 33131",Miami FL,USA,,,US
+"30 Ibn Gabirol Tel Aviv, Tel Aviv District 6407807",Tel-aviv israel,Israel,,,IL
+"4 Chome-10-18 Takanawa Minato-ku Tokyo, Tokyo",Tokyo,Japan,,,JP
+"600 California Street 11th Floor San Francisco, CA 94108",Sf-bay-area CA,USA,,,US
+"5 Chome-1-60 Namba Chuo-ku Osaka, Osaka 542-0076",Osaka,Japan,,,JP
+"750 Lexington Ave New York, NY 10022",New-york-city NY,USA,,,US
+"11801 Domain Blvd 3rd Fl Austin, TX 78758",Austin TX,USA,,,US
+"Marunouchi Kitaguchi Building 9F, 1-6-5 Marunouchi Chiyoda-ku Tokyo, Tokyo 100-0005",Tokyo,Japan,,,JP
+"Paseo de la Castellana 77 Madrid, M 28046",Madrid,Spain,,,ES
+135 yanping lu  shanghai ,Shanghai,China,,,CN
+"9th & 10th Floors Uptown Bonifacio Tower 3 36th Street Cor. 11th Ave. Bonifacio Global City, Fort Bonifacio, Taguig City Manila, PHL-00 1634",Manila,Philippines,,,PH
+"95 rue de la Boétie 75008 Paris Paris, Île-de-France 75017",Paris,France,,,FR
+"8 Taunusanlage Frankfurt, HE 60329",Frankfurt,Germany,,,DE
+oac  chengdu,Chengdu,China,,,CN
+"1001 Woodward Ave Suite 500 Detroit, MI 48226",Detroit MI,USA,,,US
+"Golf Course Road, 5th Floor, DLF Two Horizon Centre, DLF Phase 5, Gurugram, HR 122002",Gurugram HR,India,,,IN
+"Jimbocho 2-11-15 Kandajimbocho Chiyoda-ku Tokyo, Tokyo 101-0051",Tokyo,Japan,,,JP
+"Avenida De Las Americas 1254 Country Club Guadalajara, Jalisco 44610",Guadalajara,Mexico,,,MX
+"160 Varick Street New York, NY 10013",New-york-city NY,USA,,,US
+"Carrera 19 # 100-45 Bogotá, Cundinamarca 110121",Bogota,Colombia,,,CO
+"Kalyani Nagar, Raheja Woods, 8, Central Avenue, Kalyani Nagar, Pune, MH 411006",Pune,India,,,IN
+"1700 Lincoln Street 17th Floor Denver, CO 80203",Denver CO,USA,,,US
+"222 Exhibition Street Melbourne, VIC 3000",Melbourne,Australia,,,AU
+the hub hongqiao  shanghai ,Shanghai,China,,,CN
+"Noble House, Mega Kuningan No. 2, Jl. Dr.Ide Anak Agung Gde Agung Kav. E 4.2 Jakarta, JK 12950",Jakarta,Indonesia,,,ID
+"4 rue Jules Lefebvre Paris, Ile-de-France 75009",Paris,France,,,FR
+"88 The Parq Building, 7th-8th Floor Ratchadaphisek Road, Klongtoey Sub-district, Klongtoey District Bangkok, Bangkok 10110",Bangkok,Thailand,,,TH
+"30 Churchill Place London, England E14 5RE",London,UK,,,GB
+"16F, 1 Chome-4-5 Roppongi Minato-ku Tokyo, Tokyo 106-0032",Tokyo,Japan,,,JP
+"729 N Washington Ave Suite 600 Minneapolis, MN 55401",Minneapolis,USA,,,US
+waterfront park  shanghai ,Shanghai,China,,,CN
+"Jl. Jend. Sudirman Kav. 21, Setiabudi, RT.10/RW.1, Karet, Setia Budi Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta, JK 12920",Jakarta,Indonesia,,,ID
+"109 North Bridge Road #05-21 Singapore, Central Singapore 179097",Singapore,Singapore,,,SG
+"Gav Yam Negev Park Be'er Sheva, South District 84709",Be-er-sheva israel,Israel,,,IL
+"18 West 18th Street New York, NY 10011",New-york-city NY,USA,,,US
+"2755 Canyon Boulevard Boulder, CO 80302",Boulder,USA,,,US
+"Hibiya Park Front 19F, 2-1-6 Uchisaiwaicho Chiyoda-ku Tokyo, Tokyo 100-0011",Tokyo,Japan,,,JP
+"40 rue de colisée 75008 Paris Paris, Ile-de-France  75008",Paris,France,,,FR
+"Av. Alm. Silvio de Noronha, 365 Centro Rio de Janeiro, RJ 20021-010",Rio-de-janeiro,Brazil,,,BR
+"20F Hareza Tower 1-18-1 Higashi Ikebukuro, Toshima-ku Tokyo, Tokyo 170-0013",Tokyo,Japan,,,JP
+"Cybercity, Cybercity, Phase III, Gurugram, HR 122002",Gurugram HR,India,,,IN
+"Strawinskylaan 4117 Amsterdam, Netherlands 1077 ZX",Amsterdam,Netherlands,,,NL
+"195 Montague Street 14th Floor Brooklyn, NY 11201",New-york-city NY,USA,,,US
+"2 Embarcadero Center 8th Floor San Francisco, CA 94111",Sf-bay-area CA,USA,,,US
+"20 Bis Rue La Fayette Paris, ÃŽle-de-France 75009",Paris,France,,,FR
+"1 Poultry London, England EC2R 8EJ",London,UK,,,GB
+"1460 Broadway New York, NY 10036",New-york-city NY,USA,,,US
+"801 Barton Springs Austin, TX 78704",Austin TX,USA,,,US
+"1920 McKinney Ave Dallas, TX 75201",Dallas-fort-worth TX,USA,,,US
+"Weteringschans 165 C Amsterdam, Netherlands 1017XD",Amsterdam,Netherlands,,,NL
+"22 Cross Street #01-01 Singapore, Central Singapore 048421",Singapore,Singapore,,,SG
+chaoyang joy city  beijing,Beijing,China,,,CN
+"40 King St W, 42nd Floor Toronto, ON M5H 3Y2",Toronto,Canada,,,CA
+"1615 Platte Street Denver, CO 80202",Denver CO,USA,,,US
+"55 Colmore Row Birmingham, England B3 2AA",Birmingham,UK,,,GB
+"11F, 133, Jeonpo-daero Nam-gu Busan, Busan 48400",Busan,South Korea,,,KR
+"Madhapur, Building no.9, Raheja Mindspace IT Park, Mindspace - Madhapur road, HITEC city, Hyderabad, TS 500079",Hyderabad,India,,,IN
+"Axel-Springer-Platz 3 Hamburg, HA 20355",Hamburg,Germany,,,DE
+"6F, 55, Seocho-daero 77-gil Seocho-gu Seoul, Seoul 06611",Seoul,South Korea,,,KR
+"711 Navarro St Ste 300, San Antonio, TX 78205",San-antonio,USA,,,US
+"555 Burrard St Vancouver, BC V7X 1M8",Vancouver,Canada,,,CA
+"40 Tuval Street Ramat Gan, Tel Aviv District 5252247",Tel-aviv israel,Israel,,,IL
+"1-1-4, Meieki, Nakamura Ward Nagoya, Aichi 450-6050",Nagoya,Japan,,,JP
+"8 W 126th Street New York, NY 10027",New-york-city NY,USA,,,US
+"Derech Menachem Begin 144 Tel Aviv, Tel Aviv District 6492102",Tel-aviv israel,Israel,,,IL
+"524 Broadway New York, NY 10012",New-york-city NY,USA,,,US
+"Calle 127a # 53a-45 Torre 2 Bogotá, Bogotá 110221",Bogota,Colombia,,,CO
+"2-3-2 Kojimachi, Chiyoda-ku Tokyo, Tokyo 102-0083",Tokyo,Japan,,,JP
+"360 NW 27th Street Miami, FL 33127",Miami FL,USA,,,US
+nanjing ifc  nanjing,Nanjing,China,,,CN
+"3 Place Ville Marie Suite 400 Montreal, QC H3B 2E3",Montreal QC,Canada,,,CA
+"Av. Alm. Barroso, 81 Centro Rio de Janeiro, RJ 20031-004",Rio-de-janeiro,Brazil,,,BR
+"7-chome Kabutocho, Nihonbashi Tokyo, Tokyo 103-0026",Tokyo,Japan,,,JP
+wonderful world commercial plaza  beijing,Beijing,China,,,CN
+"10F, 7 Teheran-ro 5-gil Gangnam-gu Seoul, Seoul 06134",Seoul,South Korea,,,KR
+"6-11-3 16th Floor Nishishinjuku, Shinjuku City Tokyo, Tokyo 160-0023",Tokyo,Japan,,,JP
+"2-5-1 Kojimachi Chiyoda-ku Tokyo, Tokyo 102-0083",Tokyo,Japan,,,JP
+"Avenida Punto Sur 312 Tlajomulco de Zuniga, Jalisco 45640",Guadalajara,Mexico,,,MX
+"10845 Griffith Peak Drive Las Vegas, NV 89135",Las-vegas,USA,,,US
+"Rua Sergipe, 1440 Savassi Belo Horizonte, MG 30130-174",Belo-horizonte,Brazil,,,BR
+donghuang building  beijing,Beijing,China,,,CN
+optics new development international  wuhan,Wuhan,China,,,CN
+"Rua Helios Seelinger, 155 Barra da Tijuca Rio de Janeiro, RJ 22640-040",Rio-de-janeiro,Brazil,,,BR
+"4-60-12 Hiraikecho, Nakamura-ku Nagoya, Aichi 453-6111",Nagoya,Japan,,,JP
+"MG Road , B-660, Sushant Lok Phase I, Sector 27, Gurgaon, HR 122009",Gurugram HR,India,,,IN
+"7 HaPelech Street Tel Aviv, Tel Aviv District 6816727",Tel-aviv israel,Israel,,,IL
+"1F, 14, Teheran-ro, 26-gil Gangnam-gu Seoul, Seoul 06236",Seoul,South Korea,,,KR
+"5F Bancho Kojimachi Building 6-6-2 Kojimachi Chiyoda-ku Tokyo, Tokyo 102-0083",Tokyo,Japan,,,JP
+hon kwok center  shenzhen,Shenzhen,China,,,CN
+shi mao tower  beijing,Beijing,China,,,CN
+"5-3-23 Kojimachi, Chiyoda-ku Tokyo, Tokyo 102-0083",Tokyo,Japan,,,JP
+"Level 22, 120 Spencer Street Melbourne, VIC 3000",Melbourne,Australia,,,AU
+"Yigal Alon St 114 Tel Aviv, Tel Aviv District",Tel-aviv israel,Israel,,,IL
+"450 Park Avenue South New York, NY 10016",New-york-city NY,USA,,,US
+"123 Eagle Street Brisbane, QLD 4000",Brisbane QLD,Australia,,,AU
+"Blvd. Antonio L. Rodríguez 1888 Santa María Monterrey, N.L. 64650",Monterrey,Mexico,,,MX
+"Carrer de Pallars, 194 Barcelona, Barcelona 08005",Barcelona,Spain,,,ES
+"199 Water Street New York, NY 10038",New-york-city NY,USA,,,US
+"106 E 6th St Suite 900, Austin, TX 78701",Austin TX,USA,,,US
+"Kharadi, Tower 5, World Trade Center , Kharadi, MIDC Knowledge Park, Pune, MH 411014\",Pune,India,,,IN
+"Calle 7 Sur #42-145 Medellín, Antioquia 050022",Medellin,Colombia,,,CO
+"1-10-5 Toranomon Minato-ku Tokyo, Tokyo 105-0001",Tokyo,Japan,,,JP
+"Shepherds Bush Road London, England W6 7NL",London,UK,,,GB
+"152 Elizabeth Street Melbourne, VIC 3000",Melbourne,Australia,,,AU
+"71 Robinson Road #14-01 Singapore, Central Singapore 068895",Singapore,Singapore,,,SG
+"1111 Broadway 3rd Floor Oakland, CA 94607",Sf-bay-area CA,USA,,,US
+"455 Rue Saint-Antoine Ouest Montreal, QC QC H2Z 1J1",Montreal QC,Canada,,,CA
+"800 N High Street Columbus, OH 43215",Columbus,USA,,,US
+"Charlemont Exchange Charlemont Street Dublin, Ireland D02VN88",Dublin,Ireland,,,IE
+"8 Soi Sukhumvit 40, 15-17, 20, 25-27Fl. Khet Khlong Toei, Krung Thep Maha Nakhon Bangkok, Bangkok 10110",Bangkok,Thailand,,,TH
+"30 Prinsep Street #06-01 Singapore, Central Singapore 188647",Singapore,Singapore,,,SG
+"Blas Parera 3551 Olivos Buenos Aires, Provincia de Buenos Aires B1636",Buenos-aires,Argentina,,,AR
+"21F 4 Chome 3-1 Toranomon Minato-ku Tokyo, Tokyo 105-6021",Tokyo,Japan,,,JP
+35 loushanguan lu  shanghai ,Shanghai,China,,,CN
+"3F, 142 Teheran-ro Gangnam-gu Seoul, Seoul 06236",Seoul,South Korea,,,KR
+"1422 S Tryon Street Suite 300 Charlotte, NC 28203",Charlotte,USA,,,US
+"Kurfürstendamm 11 Berlin, BE 10719",Berlin,Germany,,,DE
+"1775 Tysons Blvd Tysons, VA 22102",Washington-DC,USA,,,US
+rongchao center  shenzhen,Shenzhen,China,,,CN
+"10F, 373, Gangnam-daero Seocho-gu Seoul, Seoul 06621",Seoul,South Korea,,,KR
+"36 Robinson Road #02-01 Singapore, North East 068877",Singapore,Singapore,,,SG
+parkview place  beijing,Beijing,China,,,CN
+"Stadhouderskade 5 Amsterdam, Netherlands 1054 ES",Amsterdam,Netherlands,,,NL
+"Passeig de Gràcia, 17 Barcelona, B 08007",Barcelona,Spain,,,ES
+"155 West Street Sandton Johannesburg, GP 2031",Johannesburg GP,South Africa,,,ZA
+"320 Pitt Street Sydney, NSW 2000",Sydney NSW,Australia,,,AU
+"650 California St. Floor 7 San Francisco, CA 94108",Sf-bay-area CA,USA,,,US
+"Derech Menachem Begin 146 Tel Aviv, Tel Aviv District",Tel-aviv israel,Israel,,,IL
+"1-1 Ofukacho Kita Osaka, Osaka 530-0011",Osaka,Japan,,,JP
+"Dircksenstraße 3 Berlin, BE 10179",Berlin,Germany,,,DE
+landmark center  shanghai ,Shanghai,China,,,CN
+"Carrer de la Ciutat de Granada 121 Barcelona, B 08018",Barcelona,Spain,,,ES
+"255 Giralda Avenue Coral Gables, FL 33134",Miami FL,USA,,,US
+"1-7-1 Kaigan Minato-ku Tokyo, Tokyo 105-7590",Tokyo,Japan,,,JP
+"100 University Avenue Toronto, ON M5J 1V6",Toronto,Canada,,,CA
+14 jiuxianqiao  beijing,Beijing,China,,,CN
+"1-3 Gerhofstrasse Hamburg, Hamburg 20354",Hamburg,Germany,,,DE
+ciyunsi  beijing,Beijing,China,,,CN
+"Calle de Goya 36 Madrid, M 28001",Madrid,Spain,,,ES
+"Carrera 11B # 99 - 25 Bogotá, Bogotá 110221",Bogota,Colombia,,,CO
+"Paseo de la Castellana, 43 Madrid, M 28046",Madrid,Spain,,,ES
+"225 South 6th St Suite 3900 Minneapolis, MN 55402",Minneapolis,USA,,,US
+"Carrer Tànger 86 Barcelona, B 08018",Barcelona,Spain,,,ES
+"2222 Ponce De Leon Blvd Miami, FL 33134",Miami FL,USA,,,US
+"Rosenthaler Straße 43-45 Berlin, BE 10178",Berlin,Germany,,,DE
+"Calle 118B San Rafael San José, SJ 10203",San-jose costa-rica,Costa Rica,,,CR
+"46th Floor, Lee Garden One, 33 Hysan Avenue, Causeway Bay, Hong Kong",Hong-kong,Hong Kong,,,HK
+"1 Sussex Street Barangaroo Sydney, NSW 2000",Sydney NSW,Australia,,,AU
+"3 Waterhouse Sq Greater London, England EC1N 2SW",London,UK,,,GB
+"6060 Silver Drive Burnaby, BC V5H 0H5",Vancouver,Canada,,,CA
+11 sanlitun lu  beijing,Beijing,China,,,CN
+world trade tower  shanghai ,Shanghai,China,,,CN
+"27 Calle Eloy Gonzalo Madrid, M 28010",Madrid,Spain,,,ES
+"300 E. Davis St, McKinney, TX 75069",Mckinney TX,USA,,,US
+"80 George Street Edinburgh, Scotland EH2 3BU",Edinburgh,UK,,,GB
+"Warschauer Platz 11-13 Berlin, BE 10245",Berlin,Germany,,,DE
+"756 W Peachtree St NW Atlanta, GA 30308",Atlanta GA,USA,,,US
+"1 St Peter's Square Manchester, MAN M2 3DE",Manchester,UK,,,GB
+"WeWork, Dalton Place 29 John Dalton Street Manchester, England M2 6FW",Manchester,UK,,,GB
+"3 Aluf Kalman Magen Tel Aviv, Tel Aviv District 6107075",Tel-aviv israel,Israel,,,IL
+"Via Meravigli 2 Milan, MI 20121",Milan,Italy,,,IT
+"83 Clemenceau Avenue 2nd Floor Singapore, Central Singapore 239920",Singapore,Singapore,,,SG
+"60 Anson Road #17-01 Singapore, Central Singapore 079914",Singapore,Singapore,,,SG
+"15 Beach Road, 2nd Floor Singapore, Central Singapore 189677",Singapore,Singapore,,,SG
+"154 W 14th Street New York, NY 10011",New-york-city NY,USA,,,US
+608 xikang lu  shanghai ,Shanghai,China,,,CN
+"Cybercity, DLF Cyber City Rd, DLF Phase 3, Sector 24, Gurgaon, HR 122022\",Gurugram HR,India,,,IN
+neo metropolis  guangzhou,Guangzhou,China,,,CN
+"2F, Tower B, 50, Jong-ro 1-gil Jongno-gu Seoul, Seoul 03142",Seoul,South Korea,,,KR
+"King George St 20 Jerusalem, JM 9426208",Jerusalem israel,Israel,,,IL
+189 changshou lu  shanghai ,Shanghai,China,,,CN
+"Avinguda Diagonal 371 Barcelona, B 08018",Barcelona,Spain,,,ES
+pinnacle one  chengdu,Chengdu,China,,,CN
+"10F, 1-1-1 Nishishinbashi, Minato Tokyo, Tokyo 105-0003",Tokyo,Japan,,,JP
+"7272 Wisconsin Ave Bethesda, MD 20814",Bethesda MD,USA,,,US
+"the ARGYLE aoyama 6F, 2-14-4 KitaAoyama, Minato-ku Tokyo, Tokyo 107-0061",Tokyo,Japan,,,JP
+"4F, 147, Yanghwa-ro Mapo-gu Seoul, Seoul 03995",Seoul,South Korea,,,KR
+"6-12-18 Jingumae Shibuya-ku Tokyo, Tokyo 150-0001",Tokyo,Japan,,,JP
+"152 St Georges Terrace Perth, WA 6000",Perth WA,Australia,,,AU
+"64 York St Sydney, NSW 2000",Sydney NSW,Australia,,,AU
+"Grzybowska 62 Warsaw, Województwo mazowieckie 00-855",Warsaw,Poland,,,PL
+"120 West Trinity Place Decatur, GA 30030",Atlanta GA,USA,,,US
+china merchants plaza  shanghai ,Shanghai,China,,,CN
+"4-1-1 Toranomon Minatoku Tokyo, Tokyo 105-6923",Tokyo,Japan,,,JP
+tcl building  shenzhen,Shenzhen,China,,,CN
+"30/ F&31 / F Yuchengo Tower RCBC Plaza 6819 Ayala Avenue, Bel Air, Makati City Manila, PHL-00 1227",Manila,Philippines,,,PH
+"85 Broad St New York, NY 10004",New-york-city NY,USA,,,US
+"123 Buckingham Palace Road London, England SW1W 9SH",London,UK,,,GB
+guanghua ocean international center  beijing,Beijing,China,,,CN
+"Calle 26 # 92-32 Bogotá, Bogotá 110911",Bogota,Colombia,,,CO
+knowledge city  hangzhou,Hangzhou,China,,,CN
+shinmay union square  shanghai ,Shanghai,China,,,CN
+"1275 Avenue des Canadiens-de-Montréal Montreal, QC H3B 0G4",Montreal QC,Canada,,,CA
+"5 Merchant Square London, England W2 1AY",London,UK,,,GB
+"20F, 83, Uisadang-daero Yeongdeungpo-gu Seoul, Seoul 07325",Seoul,South Korea,,,KR
+"78 SW 7th Street Miami, FL 33130",Miami FL,USA,,,US
+"20 Oskar-von-Miller-Ring Munich, BY 80333",Munich,Germany,,,DE
+"Derech HaRakevet 1 Ashdod, South District 7710002",Ashdod South-District,Israel,,,IL
+"KANDA SQUARE 2-2-1, Kanda Nishikicho Chiyoda-ku Tokyo, Tokyo 101-0054",Tokyo,Japan,,,JP
+"1155 Perimeter Center West Atlanta, GA 30338",Atlanta GA,USA,,,US
+"3400 N Central Expy Ste 110, Richardson, TX 75080",Richardson TX,USA,,,US
+"120 Moorgate London, England EC2M 6UR",London,UK,,,GB
+"1F, 427, Teheran-ro Gangnam-gu Seoul, Seoul 06159",Seoul,South Korea,,,KR
+"Paseo de los Virreyes 45 Puerta de Hierro Zapopan, Jalisco 45116",Guadalajara,Mexico,,,MX
+futura  pune,Pune,India,,,IN
+the center  shanghai ,Shanghai,China,,,CN
+candor plaza  shanghai ,Shanghai,China,,,CN
+"33 Queen St London, England EC4R 1AP",London,UK,,,GB
+"2 Minster Court London, England EC3R 7BB",London,UK,,,GB
+"5-22-33, Higashigotanda, Shinagawa-ku Tokyo, Tokyo 141-0022",Tokyo,Japan,,,JP
+"Avenida Del Libertador 1000 Buenos Aires, Buenos Aires B1638BEV",Buenos-aires,Argentina,,,AR
+"Weesperstraat 61-105 Amsterdam, Netherlands 1018VN",Amsterdam,Netherlands,,,NL
+"1 Fore Street Avenue London, England EC2Y 9DT",London,UK,,,GB
+"8th and 9th Floor, The Offices 4, One Central Dubai World Trade Center Dubai, Dubai",Dubai,UAE,,,AE
+"1100 King Street West Toronto, ON M6K 1E6",Toronto,Canada,,,CA
+east gongxiao building  beijing,Beijing,China,,,CN
+"B1F, 507, Teheran-ro Gangnam-gu Seoul, Seoul 06168",Seoul,South Korea,,,KR
+"1 Dock 72 Wy Brooklyn, NY 11249",New-york-city NY,USA,,,US
+"16F Link Square Shinjuku 5-27-5 Sendagaya, Shibuya-ku Tokyo, Tokyo 151-0051",Tokyo,Japan,,,JP
+"23,25,26 and 27/F Menarco Tower,32nd St.Bonifacio Global City Taguig Manila, PHL-00 1634",Manila,Philippines,,,PH
+518 xinjiang lu  shanghai ,Shanghai,China,,,CN
+"6543 South Las Vegas Boulevard Las Vegas, NV 89119",Las-vegas,USA,,,US
+"21 Via San Marco Milan, MI 20121",Milan,Italy,,,IT
+"145 City Rd Hoxton London, England EC1V 1AZ",London,UK,,,GB
+"600 B Street Suite 300 San Diego, CA 92101",San-diego CA,USA,,,US
+golden eagle he xi  nanjing,Nanjing,China,,,CN
+china construction steel structure building  shenzhen,Shenzhen,China,,,CN
+"21 Collyer Quay Singapore, Central Singapore 049320",Singapore,Singapore,,,SG
+"Prosta 20, 00-850 Warsaw, Województwo mazowieckie 00-850",Warsaw,Poland,,,PL
+"E. Town Central, 11 Doan Van Bo, Ward 13, District 4 Ho Chi Minh, SG 70000",Ho-chi-minh-city,Vietnam,,,VN
+"830 NE Holladay St Portland, OR 97232",Portland OR,USA,,,US
+"26 Hatton Garden Greater London, England EC1N 8BR",London,UK,,,GB
+"333 George Street Level 13 Sydney, NSW 2000",Sydney NSW,Australia,,,AU
+"Calle 7D #43A-40. Medellín, Antioquia 050022",Medellin,Colombia,,,CO
+"71-91 Aldwych London, England WC2B 4HN",London,UK,,,GB
+"51 Eastcheap London, England EC3M 1DT",London,UK,,,GB
+fuhui building  shanghai ,Shanghai,China,,,CN
+"No. 97 & 101, Songren Road Xinyi District Taipei",Taipei TPE,Taiwan,,,TW
+"240 Richmond Street W Toronto, ON M5V 1V6",Toronto,Canada,,,CA
+"Real Cariari Ulloa, Heredia, Heredia San José, SJ 40104",San-jose costa-rica,Costa Rica,,,CR
+"8 Devonshire Square London, England EC2M 4YJ",London,UK,,,GB
+one itc  shanghai ,Shanghai,China,,,CN
+"148 Lafayette St New York, NY 10013",New-york-city NY,USA,,,US
+air china century building  beijing,Beijing,China,,,CN
+"Potsdamer Platz - Kemperplatz 1 Berlin, BE 10785",Berlin,Germany,,,DE
+"Stresemannstraße 123 Berlin, BE 10963",Berlin,Germany,,,DE
+"Floor 19, 700 2nd Street SW Calgary, AB T2P 2W2",Calgary,Canada,,,CA
+"575 Lexington Avenue New York, NY 10022",New-york-city NY,USA,,,US
+"29A Nguy?n Ðình Chi?u, Dakao Ward, District 1 Ho Chi Minh, Ho Chi Minh",Ho-chi-minh-city,Vietnam,,,VN
+"450 Southwest Marine Drive, Floor 18 Vancouver, BC V5X 0C3",Vancouver,Canada,,,CA
+"Udyog Vihar, 393, Phase 3, Udyog Vihar, Gurugram, HR 122016",Gurugram HR,India,,,IN
+95 longfu si jie  beijing,Beijing,China,,,CN
+"901 Woodland St Nashville, TN 37206",Nashville,USA,,,US
+"9 Battery Road #28-01 Singapore, Central Singapore 049910",Singapore,Singapore,,,SG
+"2 Dublin Landings, North Wall Quay, Dublin 1 Dublin, D D01 V4A3",Dublin,Ireland,,,IE
+"23 Shoken St Tel Aviv, Tel Aviv District 69016",Tel-aviv israel,Israel,,,IL
+"501 East Kennedy Boulevard Tampa, FL 33602",Tampa FL,USA,,,US
+"134 N 4th St. Brooklyn, NY 11249",New-york-city NY,USA,,,US
+"450 Lexington Ave New York, NY 10017",New-york-city NY,USA,,,US
+"2F, 428, Seolleung-ro Gangnam-gu Seoul, Seoul 06192",Seoul,South Korea,,,KR
+"173 Oxford Rd Johannesburg, Gauteng 2196",Johannesburg GP,South Africa,,,ZA
+"1 Chome 1-29 Daimyo, Chuo-ku Fukuoka, Fukuoka 810-0041",Fukuoka,Japan,,,JP
+"Krakowskie Przedmiescie 13 Warsaw, Województwo mazowieckie 00-071",Warsaw,Poland,,,PL
+"30 Raffles Place #12-01 Singapore, Central Singapore 048622",Singapore,Singapore,,,SG
+"33 Rue La Fayette Paris, le-de-France  75009",Paris,France,,,FR
+"Via Vittor Pisani, 15 Milan, MI 20124",Milan,Italy,,,IT
+"14F, 1 CHOME 11-1 NISHI IKEBUKURO, TOSHIMA-KU Tokyo, Tokyo 171-0021",Tokyo,Japan,,,JP
+"Via Giuseppe Mazzini 9 Milan, MI 20123",Milan,Italy,,,IT
+1277 beijing xi lu  shanghai ,Shanghai,China,,,CN
+"535 Mission St 14th floor San Francisco, CA 94105",Sf-bay-area CA,USA,,,US
+363 changping lu  shanghai ,Shanghai,China,,,CN
+"6F, 818, Selleung-ro Gangnam-gu Seoul, Seoul 06014",Seoul,South Korea,,,KR
+"R. Alexandre Herculano 50 Lisboa, Lisboa 1250-011",Lisbon,Portugal,,,PT
+"77 Sands Street Brooklyn, NY 11201",New-york-city NY,USA,,,US
+"8910 University Center Lane Suite 400 San Diego, CA 92122",San-diego CA,USA,,,US
+china railway first  xi an,Xi-an,China,,,CN
+"100 Harris St Sydney, NSW 2009",Sydney NSW,Australia,,,AU
+"No. 3, Jalan Bangsar, KL Eco City Kuala Lumpur, Federal Territory of Kuala Lumpur  59200",Kuala-lumpur,Malaysia,,,MY
+"Av. dos Andradas, 3000 Santa Efigênia Belo Horizonte, MG 30260-070",Belo-horizonte,Brazil,,,BR
+"818 18th Avenue South Nashville, TN 37203",Nashville,USA,,,US
+"Km 5 Av. Las Palmas Cra 28 # 17 - 452, Edificio Cortezza Medellín, Antioquia 050021",Medellin,Colombia,,,CO
+avic capital tower  beijing,Beijing,China,,,CN
+"2301 W Anderson Ln, Austin, TX 78757",Austin TX,USA,,,US
+"1 Mark Square London, England EC2A 4EG",London,UK,,,GB
+"3F, 8,Seojeon-ro Busanjin-gu Busan, Busan 47291",Busan,South Korea,,,KR
+"430 Park Avenue New York, NY 10022",New-york-city NY,USA,,,US
+"1-13-22 Sonezakishinchi Kita-ku Osaka, Osaka 530-0002",Osaka,Japan,,,JP
+188 huaihai middle lu  shanghai ,Shanghai,China,,,CN
+"222 Broadway 22nd Floor New York, NY 10038",New-york-city NY,USA,,,US
+"Neue Schönhauser Straße 3-5 Berlin, BE 10178",Berlin,Germany,,,DE
+"400 Capitol Mall Sacramento, CA 95814",Sacramento CA,USA,,,US
+"1F, 586, Gangnam-daero Gangnam-gu Seoul, Seoul 06043",Seoul,South Korea,,,KR
+6 jiuxianqiao lu  beijing,Beijing,China,,,CN

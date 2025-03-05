@@ -52,6 +52,30 @@ CREATE TABLE `wework_loc`(
     `longitude` FLOAT(53) NOT NULL,
     `country_code` VARCHAR(2) NOT NULL
 );
+
+CREATE TABLE `user_trips` (
+    `id` BIGINT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    `username` VARCHAR(255) NOT NULL,
+    `country` VARCHAR(255) NOT NULL,
+    `country_code` VARCHAR(2) NOT NULL,
+    `date_start` DATE NOT NULL,
+    `date_end` DATE NOT NULL,
+    `day_travel` BIGINT NOT NULL,
+    `latitude` FLOAT(53) NOT NULL,
+    `longitude` FLOAT(53) NOT NULL
+);
+
+CREATE TABLE `users_work` (
+    `id` BIGINT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    `username` VARCHAR(255) NOT NULL,
+    `work` VARCHAR(255) NOT NULL
+);
+
+
+ALTER TABLE 
+	`user_trips` ADD CONSTRAINT `user_trips_country_foreign` FOREIGN KEY (`country`) REFERENCES `nomads`(`country`);
+ALTER TABLE 
+	`users_work` ADD CONSTRAINT `users_work_username_foreign` FOREIGN KEY (`username`) REFERENCES `user_trips`(`username`);
 ALTER TABLE
     `internet_speed` ADD CONSTRAINT `internet_speed_country_foreign` FOREIGN KEY(`country`) REFERENCES `nomads`(`country`);
 ALTER TABLE

@@ -1,0 +1,432 @@
+country;city;address;latitude;longitude;country_code
+South Korea;Seoul;13F, 416 Hangang-daero Jung-gu Seoul, Seoul 04637;37.5666791;126.9782914;KR
+USA;Austin TX;3300 N Interstate 35 Suite 700 Austin, TX 78705;30.2711286;-97.7436995;US
+Sweden;Stockholm;Regeringsgatan 29, Stockholms Stockholm, Stockholms lan 111 51;59.3251172;18.0710935;SE
+Germany;Cologne;Pilgrimstrasse 6 Koln, Nordrhein-Westfalen 50674;43.7218277;0.9774958;DE
+Australia;Brisbane QLD;25 King Street Bowen Hills Brisbane, QLD 4006;-27.4689682;153.0234991;AU
+Ireland;Dublin;5 Harcourt Road Dublin, Ireland D02 FW64;53.3493795;-6.2605593;IE
+India;Chennai;Manapakkam, Block 10, DLF Cybercity, 124, Mount Poonamallee Rd, Manapakkam, Chennai, TN 600089;13.0836939;80.270186;IN
+India;Hyderabad;Financial District, Nanakramguda Financial District, Hyderabad, TS 500032;17.360589;78.4740613;IN
+UAE;Abu-dhabi;Al Khatem Tower, ADGM Square, Al Maryah Island Abu Dhabi, Abu Dhabi;24.4538352;54.3774014;AE
+Japan;Yokohama;3 Chome-7-1 Yokohama-shi Nishi Ward Minatomirai Yokohama, Kanagawa 220-0012;35.4503381;139.6343802;JP
+Argentina;Buenos-aires;Ing. Enrique Butty 275 Capital Federal Buenos Aires, Cdad. Autonoma de Buenos Aires C1001AFA;-34.6083696;-58.4440583;AR
+China;Shenzhen;cr land tower d  shenzhen;22.5445741;114.0545429;CN
+USA;Kansas-city;1100 Main Street Kansas City, MO 64105;39.100105;-94.5781416;US
+Australia;Brisbane QLD;310 Edward Street Brisbane, QLD 4000;-27.4689682;153.0234991;AU
+Malaysia;Kuala-lumpur;Equatorial Plaza Jalan Sultan Ismail Kuala Lumpur, Federal Territory of Kuala Lumpur 50250;3.1526589;101.7022205;MY
+China;Shenzhen;upperhills loft  shenzhen;22.5445741;114.0545429;CN
+UK;London;10 York Rd London, England SE1 7ND;51.5074456;-0.1277653;GB
+Belgium;Brussels;Rue du Commerce, 31 Brussels, NA 1000;50.8465573;4.351697;BE
+China;Guangzhou;293 guangzhou middle avenue  guangzhou;23.1301964;113.2592945;CN
+China;Nanjing;golden eagle center tower a  nanjing;32.0438284;118.7788631;CN
+China;Shanghai;shanghai plaza  shanghai ;31.2312707;121.4700152;CN
+India;Gurugram HR;Udyog Vihar, 246, Phase IV, Udyog Vihar, Gurugram, HR 122016;28.4646148;77.0299194;IN
+India;Hyderabad;Madhapur, RMZ Spire, C9MM+5QX, Silpa Gram Craft Village, HITEC City, Hyderabad, Hyderabad, TS 500081;17.360589;78.4740613;IN
+USA;New-york-city NY;575 5th Ave. New York, NY 10017;40.7127281;-74.0060152;US
+Mexico;Monterrey;Avenida Constitucion 2050 Colonia Obispado Monterrey, Nuevo Leon 64060;25.6802019;-100.315258;MX
+USA;New-york-city NY;135 W 41st St 5th Floor New York, NY 10036;40.7127281;-74.0060152;US
+India;Gurugram HR;Cybercity, Cybercity, DLF Phase III, Gurugram, HR 122002;28.4646148;77.0299194;IN
+China;Shanghai;huaihai zhong lu  shanghai ;31.2312707;121.4700152;CN
+USA;Denver CO;1550 Wewatta St Denver, CO 80202;39.775168;-105.024387;US
+Canada;Vancouver;333 Seymour Vancouver, BC V6B 5A6;49.2608724;-123.113952;CA
+China;Shanghai;819 nanjing xi lu  shanghai ;31.2312707;121.4700152;CN
+India;Gurugram HR;Bristol Chowk, MG Road, Near Sikandarpur Metro Station, Sector 28, Gurugram, HR 122001;28.4646148;77.0299194;IN
+Canada;Vancouver;2015 Main Street Vancouver, BC V5T 3C2;49.2608724;-123.113952;CA
+UK;London;16 Great Chapel St London, England W1F 8FL;51.5074456;-0.1277653;GB
+South Korea;Seoul;10F, 518, Teheran-ro Gangnam-gu Seoul, Seoul 06180;37.5666791;126.9782914;KR
+France;Paris;92 avenue des Champs-Elysees Paris, Ile-de-France 75008;48.8588897;2.3200410217200766;FR
+USA;Denver CO;205 Detroit Street Denver, CO 80206;39.775168;-105.024387;US
+UK;London;1 St. Katharine's Way London, England E1W 1UN;51.5074456;-0.1277653;GB
+India;Chennai;Guindy, Arulayiammanpet, SIDCO Industrial Estate, Chennai, TN 600032;13.0836939;80.270186;IN
+Singapore;Singapore;5 Temasek Boulevard, 17th Floor Singapore, Central Singapore 038985;1.357107;103.8194992;SG
+USA;New-york-city NY;33 Irving Pl New York, NY 10003;40.7127281;-74.0060152;US
+USA;New-york-city NY;205 W 37th St New York, NY 10018;40.7127281;-74.0060152;US
+China;Shanghai;li fung plaza  shanghai ;31.2312707;121.4700152;CN
+India;Pune;Magarpatta, Amanora Park Town, Hadapsar, Pune , MH 411028;18.5213738;73.8545071;IN
+India;Chennai;OMR, Ramanujan Intellion Park - Littlewood Tower, Rajiv Gandhi Salai, Old Mahabalipuram Road, Chennai, TN 600113;13.0836939;80.270186;IN
+India;Hyderabad;Kondapur, Kondapur Main Road, Laxmi Cyber City, Hitec City, Whitefields, Kondapur, Hyderabad, TS 500081;17.360589;78.4740613;IN
+Japan;Tokyo;1-24-3, Minami Aoyama Minato-ku Tokyo, Tokyo 107-0062;35.6768601;139.7638947;JP
+USA;Detroit MI;19 Clifford St. Detroit, MI 48226;42.3315509;-83.0466403;US
+China;Beijing;taohui xintian  beijing;40.190632;116.412144;CN
+Hong Kong;Hong-kong;10/F, YF Life Tower, 33 Lockhart Road Wanchai Hong Kong;22.350627;114.1849161;HK
+USA;Austin TX;10900 Stonelake Boulevard Building 2, Suite 100 Austin, TX 78759;30.2711286;-97.7436995;US
+China;Shanghai;weihai lu  shanghai ;31.2312707;121.4700152;CN
+South Africa;Cape-town;80 Strand Street Cape Town, WC 8001;-33.9288301;18.4172197;ZA
+Japan;Fukuoka;3 Chome 7-24 Nakasu Hakata-ku Fukuoka, Fukuoka 810-0801;33.6251241;130.6180016;JP
+UK;London;77 Leadenhall Street London, England EC3A 3DE;51.5074456;-0.1277653;GB
+Canada;Toronto;1 University Ave Toronto, ON M5J 2P1;43.6534817;-79.3839347;CA
+Poland;Warsaw;Grzybowska 60 Warsaw, 00-844;52.2337172;21.071432235636493;PL
+Singapore;Singapore;380 Jalan Besar #16-01 Singapore, Central Singapore 209000;1.357107;103.8194992;SG
+China;Shanghai;trinity place  shanghai ;31.2312707;121.4700152;CN
+Japan;Tokyo;2-13-12 Nihonbashi Chuo-ku Tokyo, Tokyo 103-0027;35.6768601;139.7638947;JP
+Japan;Tokyo;Tokyo Square Garden 14F, 3-1-1 Kyobashi Chuo-ku Tokyo, Tokyo 104-0031;35.6768601;139.7638947;JP
+China;Shanghai;eba center  shanghai ;31.2312707;121.4700152;CN
+Israel;Haifa israel;Derech Ha'atzmaut 45 Haifa, Haifa District Israel;32.8191218;34.9983856;IL
+Hong Kong;Hong-kong;21/F, Cityplaza Three 14 Taikoo Wan Road, Taikoo Hong Kong;22.350627;114.1849161;HK
+Colombia;Barranquilla;Carrera 53 #80-198 Barranquilla, Atlantico 080001;11.0101922;-74.8231794084391;CO
+Israel;Tel-aviv israel;7 Dubnov Tel Aviv, Tel Aviv District 6473207;32.0852997;34.7818064;IL
+China;Hangzhou;292 yan an lu  hangzhou;30.2489634;120.2052342;CN
+UK;London;2 Eastbourne Terrace London, England W2 6LG;51.5074456;-0.1277653;GB
+USA;Sf-bay-area CA;415 Mission Street San Francisco, CA 94105;37.6171949;-122.3810622;US
+USA;New-york-city NY;368 9th Ave New York, NY 10001;40.7127281;-74.0060152;US
+China;Shanghai;588 yan an dong lu  shanghai ;31.2312707;121.4700152;CN
+Colombia;Bogota;Calle 81 #11-08 Bogota, Bogota 110221;4.711011;-74.0720917;CO
+USA;New-york-city NY;27 E 28th St New York, NY 10016;40.7127281;-74.0060152;US
+China;Shanghai;kerry parkside  shanghai ;31.2312707;121.4700152;CN
+UK;London;125 Kingsway London, England WC2B 6NH;51.5074456;-0.1277653;GB
+China;Guangzhou;yuexiu financial building  guangzhou;23.1301964;113.2592945;CN
+Australia;Sydney NSW;383 George Street Sydney, NSW 2000;-33.8698439;151.2082848;AU
+Australia;Sydney NSW;161 Castlereagh Street Sydney, NSW 2000;-33.8698439;151.2082848;AU
+China;Wuhan;oceanwide fortune center  wuhan;30.5951051;114.2999353;CN
+China;Beijing;pacific century place  beijing;40.190632;116.412144;CN
+China;Shanghai;1237 fuxing zhong lu  shanghai ;31.2312707;121.4700152;CN
+USA;Atlanta GA;3280 Peachtree Road NE Atlanta, GA 30305;33.7489924;-84.3902644;US
+Mexico;Guadalajara;Avenida Adolfo Lopez Mateos Norte 95 Italia Providencia Guadalajara, Jalisco 44648;20.6720375;-103.338396;MX
+China;Shanghai;328 hunan lu  shanghai ;31.2312707;121.4700152;CN
+Canada;Montreal QC;1010 Rue Sainte-Catherine Ouest Suite 200 Montreal, QC H3B 5L1;45.5031824;-73.5698065;CA
+France;Paris;37 Avenue Trudaine 75009, Paris Paris, Ile-de-France 75009;48.8588897;2.3200410217200766;FR
+China;Shenzhen;viseen shenzhen business park  shenzhen;22.5445741;114.0545429;CN
+China;Beijing;internet financial center  beijing;40.190632;116.412144;CN
+UK;London;1 Waterhouse Square London, England EC1N 2ST;51.5074456;-0.1277653;GB
+China;Shanghai;china overseas international center  shanghai ;31.2312707;121.4700152;CN
+USA;Atlanta GA;1175 Peachtree St NE Suite 1000 Atlanta, GA 30361;33.7489924;-84.3902644;US
+China;Beijing;wangjing international business center  beijing;40.190632;116.412144;CN
+China;Chengdu;leading center  chengdu;30.6598628;104.0633717;CN
+Israel;Herzliya israel;1 Shankar St Herzliya, Tel Aviv District 4672501;32.1656255;34.8469023;IL
+Colombia;Bogota;Carrera 7 #116-50 Bogota, Bogota 110221;4.711011;-74.0720917;CO
+China;Suzhou;suzhou center tower b  suzhou;31.311123;120.6212881;CN
+Czech Republic;Prague;Narodni 135/14 Prague, Hlavni mesto Praha 110 00;50.0874654;14.4212535;CZ
+Colombia;Bogota;Carrera 12a #78-40 Bogota, Bogota 110221;4.711011;-74.0720917;CO
+USA;Austin TX;600 Congress Ave Austin, TX 78701;30.2711286;-97.7436995;US
+China;Shanghai;l avenue shanghai  shanghai ;31.2312707;121.4700152;CN
+Canada;Toronto;357 Bay Street Toronto, ON M5H 4A6;43.6534817;-79.3839347;CA
+UK;London;90 York Way London, England N1 9AG;51.5074456;-0.1277653;GB
+China;Shanghai;xintiandi xinli  shanghai ;31.2312707;121.4700152;CN
+UK;London;119 Marylebone Road London, England NW1 5PU;51.5074456;-0.1277653;GB
+USA;New-york-city NY;135 Madison Ave New York, NY 10016;40.7127281;-74.0060152;US
+UK;London;2 Sheraton St London, England W1F 8BH;51.5074456;-0.1277653;GB
+Germany;Munich;Neuturmstrasse 5 Munich, BY 80331;48.1371079;11.5753822;DE
+Thailand;Bangkok;Phayathai Rd Khwaeng Thung Phaya Thai, Khet Ratchathewi Bangkok, Bangkok 10400;13.7524938;100.4935089;TH
+USA;Charlotte;615 S College St Charlotte, NC 28202;35.2272086;-80.8430827;US
+Argentina;Buenos-aires;Avenida Corrientes 800 Buenos Aires, Buenos Aires C1008;-34.6083696;-58.4440583;AR
+Japan;Tokyo;3-10-1 Harumi, Chuo-ku Tokyo, Tokyo 104-0053;35.6768601;139.7638947;JP
+China;Shanghai;yueshang plaza  shanghai ;31.2312707;121.4700152;CN
+India;Pune;Kharadi, B1 Gera Commerzone, Vitthal Nagar, Kharadi, Pune , MH 412207;18.5213738;73.8545071;IN
+USA;New-york-city NY;408 Broadway New York, NY 10013;40.7127281;-74.0060152;US
+China;Beijing;beijing fun  beijing;40.190632;116.412144;CN
+USA;Sf-bay-area CA;44 Montgomery St San Francisco, CA 94104;37.6171949;-122.3810622;US
+Indonesia;Jakarta;Scbd, Jl. Jend. Sudirman No.52-53, Senayan, Kebayoran Baru Jakarta, JK 12190;-6.1754049;106.827168;ID
+Japan;Tokyo;Ginza Six 13F, 6-10-1 Ginza Chuo-ku Tokyo, Tokyo 104-0061;35.6768601;139.7638947;JP
+Brazil;Porto-alegre;Av. Carlos Gomes 1672 Porto Alegre, RS 90480-001;-30.0324999;-51.2303767;BR
+Poland;Warsaw;Krucza 50 Warsaw, Wojewodztwo mazowieckie 00-025;52.2337172;21.071432235636493;PL
+USA;College-park-md MD;7761 Diamondback Drive College Park, MD 20740;38.980666;-76.9369189;US
+USA;Denver CO;1200 17th Street Denver, CO 80202;39.775168;-105.024387;US
+USA;Wilmington NC;226 North Front St, Wilmington, NC 28401;34.2257282;-77.9447107;US
+South Korea;Seoul;B1F, 302, Teheran-ro Gangnam-gu Seoul, Seoul 06210;37.5666791;126.9782914;KR
+China;Shanghai;financial center  shanghai ;31.2312707;121.4700152;CN
+Israel;Tel-aviv israel;Sderot Shaul HaMelech 35 Tel Aviv, Tel Aviv District 6492702;32.0852997;34.7818064;IL
+Ireland;Dublin;One Central Plaza Dame Street D02 A4W7 Dublin, 2 D02 A4W7;53.3493795;-6.2605593;IE
+UK;London;10 Devonshire Square London, England EC2M 4YP;51.5074456;-0.1277653;GB
+Japan;Tokyo;2-24-12 Shibuya Tokyo, Tokyo 150-6139;35.6768601;139.7638947;JP
+USA;New-york-city NY;1450 Broadway New York, NY 10018;40.7127281;-74.0060152;US
+Australia;Sydney NSW;5 Martin Place Sydney, NSW 2000;-33.8698439;151.2082848;AU
+Mexico;Monterrey;Av. Cto. Frida Kahlo 303 Valle Oriente, San Pedro Garza Garcia Monterrey, Nuevo Leon 66260;25.6802019;-100.315258;MX
+Mexico;Monterrey;Calle Washington 1400 Centro, Monterrey, Nuevo Leon 64000;25.6802019;-100.315258;MX
+USA;New-york-city NY;379 West Broadway 2nd Floor New York, NY 10012;40.7127281;-74.0060152;US
+India;Pune;Baner, Pan Card Club Road, Baner, Pune, MH 411045;18.5213738;73.8545071;IN
+USA;New-york-city NY;115 Broadway Street 5th Floor New York, NY 10006;40.7127281;-74.0060152;US
+China;Chengdu;junson international center  chengdu;30.6598628;104.0633717;CN
+Japan;Kobe;7-1-5 Isogamidori, Chuo-ku, Kobe, Hyogo-ken Kobe, Hyogo 651-0086;34.6932379;135.1943764;JP
+USA;Miami FL;200 South Biscayne Boulevard Miami, FL 33131;25.7741728;-80.19362;US
+Israel;Tel-aviv israel;30 Ibn Gabirol Tel Aviv, Tel Aviv District 6407807;32.0852997;34.7818064;IL
+Japan;Tokyo;4 Chome-10-18 Takanawa Minato-ku Tokyo, Tokyo;35.6768601;139.7638947;JP
+USA;Sf-bay-area CA;600 California Street 11th Floor San Francisco, CA 94108;37.6171949;-122.3810622;US
+Japan;Osaka;5 Chome-1-60 Namba Chuo-ku Osaka, Osaka 542-0076;34.6937569;135.5014539;JP
+USA;New-york-city NY;750 Lexington Ave New York, NY 10022;40.7127281;-74.0060152;US
+USA;Austin TX;11801 Domain Blvd 3rd Fl Austin, TX 78758;30.2711286;-97.7436995;US
+Japan;Tokyo;Marunouchi Kitaguchi Building 9F, 1-6-5 Marunouchi Chiyoda-ku Tokyo, Tokyo 100-0005;35.6768601;139.7638947;JP
+Spain;Madrid;Paseo de la Castellana 77 Madrid, M 28046;40.4167047;-3.7035825;ES
+China;Shanghai;135 yanping lu  shanghai ;31.2312707;121.4700152;CN
+Philippines;Manila;9th & 10th Floors Uptown Bonifacio Tower 3 36th Street Cor. 11th Ave. Bonifacio Global City, Fort Bonifacio, Taguig City Manila, PHL-00 1634;14.5904492;120.9803621;PH
+France;Paris;95 rue de la Boetie 75008 Paris Paris, Ile-de-France 75017;48.8588897;2.3200410217200766;FR
+Germany;Frankfurt;8 Taunusanlage Frankfurt, HE 60329;50.1106444;8.6820917;DE
+China;Chengdu;oac  chengdu;30.6598628;104.0633717;CN
+USA;Detroit MI;1001 Woodward Ave Suite 500 Detroit, MI 48226;42.3315509;-83.0466403;US
+India;Gurugram HR;Golf Course Road, 5th Floor, DLF Two Horizon Centre, DLF Phase 5, Gurugram, HR 122002;28.4646148;77.0299194;IN
+Japan;Tokyo;Jimbocho 2-11-15 Kandajimbocho Chiyoda-ku Tokyo, Tokyo 101-0051;35.6768601;139.7638947;JP
+Mexico;Guadalajara;Avenida De Las Americas 1254 Country Club Guadalajara, Jalisco 44610;20.6720375;-103.338396;MX
+USA;New-york-city NY;160 Varick Street New York, NY 10013;40.7127281;-74.0060152;US
+Colombia;Bogota;Carrera 19 # 100-45 Bogota, Cundinamarca 110121;4.711011;-74.0720917;CO
+India;Pune;Kalyani Nagar, Raheja Woods, 8, Central Avenue, Kalyani Nagar, Pune, MH 411006;18.5213738;73.8545071;IN
+USA;Denver CO;1700 Lincoln Street 17th Floor Denver, CO 80203;39.775168;-105.024387;US
+Australia;Melbourne;222 Exhibition Street Melbourne, VIC 3000;-37.8142454;144.9631732;AU
+China;Shanghai;the hub hongqiao  shanghai ;31.2312707;121.4700152;CN
+Indonesia;Jakarta;Noble House, Mega Kuningan No. 2, Jl. Dr.Ide Anak Agung Gde Agung Kav. E 4.2 Jakarta, JK 12950;-6.1754049;106.827168;ID
+France;Paris;4 rue Jules Lefebvre Paris, Ile-de-France 75009;48.8588897;2.3200410217200766;FR
+Thailand;Bangkok;88 The Parq Building, 7th-8th Floor Ratchadaphisek Road, Klongtoey Sub-district, Klongtoey District Bangkok, Bangkok 10110;13.7524938;100.4935089;TH
+UK;London;30 Churchill Place London, England E14 5RE;51.5074456;-0.1277653;GB
+Japan;Tokyo;16F, 1 Chome-4-5 Roppongi Minato-ku Tokyo, Tokyo 106-0032;35.6768601;139.7638947;JP
+USA;Minneapolis;729 N Washington Ave Suite 600 Minneapolis, MN 55401;44.9772995;-93.2654692;US
+China;Shanghai;waterfront park  shanghai ;31.2312707;121.4700152;CN
+Indonesia;Jakarta;Jl. Jend. Sudirman Kav. 21, Setiabudi, RT.10/RW.1, Karet, Setia Budi Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta, JK 12920;-6.1754049;106.827168;ID
+Singapore;Singapore;109 North Bridge Road #05-21 Singapore, Central Singapore 179097;1.357107;103.8194992;SG
+Israel;Be-er-sheva israel;Gav Yam Negev Park Be'er Sheva, South District 84709;31.2457442;34.7925181;IL
+USA;New-york-city NY;18 West 18th Street New York, NY 10011;40.7127281;-74.0060152;US
+USA;Boulder;2755 Canyon Boulevard Boulder, CO 80302;40.0149856;-105.270545;US
+Japan;Tokyo;Hibiya Park Front 19F, 2-1-6 Uchisaiwaicho Chiyoda-ku Tokyo, Tokyo 100-0011;35.6768601;139.7638947;JP
+France;Paris;40 rue de colisee 75008 Paris Paris, Ile-de-France  75008;48.8588897;2.3200410217200766;FR
+Brazil;Rio-de-janeiro;Av. Alm. Silvio de Noronha, 365 Centro Rio de Janeiro, RJ 20021-010;-22.9110137;-43.2093727;BR
+Japan;Tokyo;20F Hareza Tower 1-18-1 Higashi Ikebukuro, Toshima-ku Tokyo, Tokyo 170-0013;35.6768601;139.7638947;JP
+India;Gurugram HR;Cybercity, Cybercity, Phase III, Gurugram, HR 122002;28.4646148;77.0299194;IN
+Netherlands;Amsterdam;Strawinskylaan 4117 Amsterdam, Netherlands 1077 ZX;52.3730796;4.8924534;NL
+USA;New-york-city NY;195 Montague Street 14th Floor Brooklyn, NY 11201;40.7127281;-74.0060152;US
+USA;Sf-bay-area CA;2 Embarcadero Center 8th Floor San Francisco, CA 94111;37.6171949;-122.3810622;US
+France;Paris;20 Bis Rue La Fayette Paris, AZle-de-France 75009;48.8588897;2.3200410217200766;FR
+UK;London;1 Poultry London, England EC2R 8EJ;51.5074456;-0.1277653;GB
+USA;New-york-city NY;1460 Broadway New York, NY 10036;40.7127281;-74.0060152;US
+USA;Austin TX;801 Barton Springs Austin, TX 78704;30.2711286;-97.7436995;US
+USA;Dallas-fort-worth TX;1920 McKinney Ave Dallas, TX 75201;32.89651945;-97.0465220537124;US
+Netherlands;Amsterdam;Weteringschans 165 C Amsterdam, Netherlands 1017XD;52.3730796;4.8924534;NL
+Singapore;Singapore;22 Cross Street #01-01 Singapore, Central Singapore 048421;1.357107;103.8194992;SG
+China;Beijing;chaoyang joy city  beijing;40.190632;116.412144;CN
+Canada;Toronto;40 King St W, 42nd Floor Toronto, ON M5H 3Y2;43.6534817;-79.3839347;CA
+USA;Denver CO;1615 Platte Street Denver, CO 80202;39.775168;-105.024387;US
+UK;Birmingham;55 Colmore Row Birmingham, England B3 2AA;52.4796992;-1.9026911;GB
+South Korea;Busan;11F, 133, Jeonpo-daero Nam-gu Busan, Busan 48400;35.1799528;129.0752365;KR
+India;Hyderabad;Madhapur, Building no.9, Raheja Mindspace IT Park, Mindspace - Madhapur road, HITEC city, Hyderabad, TS 500079;17.360589;78.4740613;IN
+Germany;Hamburg;Axel-Springer-Platz 3 Hamburg, HA 20355;53.550341;10.000654;DE
+South Korea;Seoul;6F, 55, Seocho-daero 77-gil Seocho-gu Seoul, Seoul 06611;37.5666791;126.9782914;KR
+USA;San-antonio;711 Navarro St Ste 300, San Antonio, TX 78205;29.4246002;-98.4951405;US
+Canada;Vancouver;555 Burrard St Vancouver, BC V7X 1M8;49.2608724;-123.113952;CA
+Israel;Tel-aviv israel;40 Tuval Street Ramat Gan, Tel Aviv District 5252247;32.0852997;34.7818064;IL
+Japan;Nagoya;1-1-4, Meieki, Nakamura Ward Nagoya, Aichi 450-6050;35.1851045;136.8998438;JP
+USA;New-york-city NY;8 W 126th Street New York, NY 10027;40.7127281;-74.0060152;US
+Israel;Tel-aviv israel;Derech Menachem Begin 144 Tel Aviv, Tel Aviv District 6492102;32.0852997;34.7818064;IL
+USA;New-york-city NY;524 Broadway New York, NY 10012;40.7127281;-74.0060152;US
+Colombia;Bogota;Calle 127a # 53a-45 Torre 2 Bogota, Bogota 110221;4.711011;-74.0720917;CO
+Japan;Tokyo;2-3-2 Kojimachi, Chiyoda-ku Tokyo, Tokyo 102-0083;35.6768601;139.7638947;JP
+USA;Miami FL;360 NW 27th Street Miami, FL 33127;25.7741728;-80.19362;US
+China;Nanjing;nanjing ifc  nanjing;32.0438284;118.7788631;CN
+Canada;Montreal QC;3 Place Ville Marie Suite 400 Montreal, QC H3B 2E3;45.5031824;-73.5698065;CA
+Brazil;Rio-de-janeiro;Av. Alm. Barroso, 81 Centro Rio de Janeiro, RJ 20031-004;-22.9110137;-43.2093727;BR
+Japan;Tokyo;7-chome Kabutocho, Nihonbashi Tokyo, Tokyo 103-0026;35.6768601;139.7638947;JP
+China;Beijing;wonderful world commercial plaza  beijing;40.190632;116.412144;CN
+South Korea;Seoul;10F, 7 Teheran-ro 5-gil Gangnam-gu Seoul, Seoul 06134;37.5666791;126.9782914;KR
+Japan;Tokyo;6-11-3 16th Floor Nishishinjuku, Shinjuku City Tokyo, Tokyo 160-0023;35.6768601;139.7638947;JP
+Japan;Tokyo;2-5-1 Kojimachi Chiyoda-ku Tokyo, Tokyo 102-0083;35.6768601;139.7638947;JP
+Mexico;Guadalajara;Avenida Punto Sur 312 Tlajomulco de Zuniga, Jalisco 45640;20.6720375;-103.338396;MX
+USA;Las-vegas;10845 Griffith Peak Drive Las Vegas, NV 89135;36.1672559;-115.148516;US
+Brazil;Belo-horizonte;Rua Sergipe, 1440 Savassi Belo Horizonte, MG 30130-174;-19.9227318;-43.9450948;BR
+China;Beijing;donghuang building  beijing;40.190632;116.412144;CN
+China;Wuhan;optics new development international  wuhan;30.5951051;114.2999353;CN
+Brazil;Rio-de-janeiro;Rua Helios Seelinger, 155 Barra da Tijuca Rio de Janeiro, RJ 22640-040;-22.9110137;-43.2093727;BR
+Japan;Nagoya;4-60-12 Hiraikecho, Nakamura-ku Nagoya, Aichi 453-6111;35.1851045;136.8998438;JP
+India;Gurugram HR;MG Road , B-660, Sushant Lok Phase I, Sector 27, Gurgaon, HR 122009;28.4646148;77.0299194;IN
+Israel;Tel-aviv israel;7 HaPelech Street Tel Aviv, Tel Aviv District 6816727;32.0852997;34.7818064;IL
+South Korea;Seoul;1F, 14, Teheran-ro, 26-gil Gangnam-gu Seoul, Seoul 06236;37.5666791;126.9782914;KR
+Japan;Tokyo;5F Bancho Kojimachi Building 6-6-2 Kojimachi Chiyoda-ku Tokyo, Tokyo 102-0083;35.6768601;139.7638947;JP
+China;Shenzhen;hon kwok center  shenzhen;22.5445741;114.0545429;CN
+China;Beijing;shi mao tower  beijing;40.190632;116.412144;CN
+Japan;Tokyo;5-3-23 Kojimachi, Chiyoda-ku Tokyo, Tokyo 102-0083;35.6768601;139.7638947;JP
+Australia;Melbourne;Level 22, 120 Spencer Street Melbourne, VIC 3000;-37.8142454;144.9631732;AU
+Israel;Tel-aviv israel;Yigal Alon St 114 Tel Aviv, Tel Aviv District;32.0852997;34.7818064;IL
+USA;New-york-city NY;450 Park Avenue South New York, NY 10016;40.7127281;-74.0060152;US
+Australia;Brisbane QLD;123 Eagle Street Brisbane, QLD 4000;-27.4689682;153.0234991;AU
+Mexico;Monterrey;Blvd. Antonio L. Rodriguez 1888 Santa Maria Monterrey, N.L. 64650;25.6802019;-100.315258;MX
+Spain;Barcelona;Carrer de Pallars, 194 Barcelona, Barcelona 08005;41.3828939;2.1774322;ES
+USA;New-york-city NY;199 Water Street New York, NY 10038;40.7127281;-74.0060152;US
+USA;Austin TX;106 E 6th St Suite 900, Austin, TX 78701;30.2711286;-97.7436995;US
+India;Pune;Kharadi, Tower 5, World Trade Center , Kharadi, MIDC Knowledge Park, Pune, MH 411014\;18.5213738;73.8545071;IN
+Colombia;Medellin;Calle 7 Sur #42-145 Medellin, Antioquia 050022;6.269732449999999;-75.60255965090315;CO
+Japan;Tokyo;1-10-5 Toranomon Minato-ku Tokyo, Tokyo 105-0001;35.6768601;139.7638947;JP
+UK;London;Shepherds Bush Road London, England W6 7NL;51.5074456;-0.1277653;GB
+Australia;Melbourne;152 Elizabeth Street Melbourne, VIC 3000;-37.8142454;144.9631732;AU
+Singapore;Singapore;71 Robinson Road #14-01 Singapore, Central Singapore 068895;1.357107;103.8194992;SG
+USA;Sf-bay-area CA;1111 Broadway 3rd Floor Oakland, CA 94607;37.6171949;-122.3810622;US
+Canada;Montreal QC;455 Rue Saint-Antoine Ouest Montreal, QC QC H2Z 1J1;45.5031824;-73.5698065;CA
+USA;Columbus;800 N High Street Columbus, OH 43215;39.9622601;-83.0007065;US
+Ireland;Dublin;Charlemont Exchange Charlemont Street Dublin, Ireland D02VN88;53.3493795;-6.2605593;IE
+Thailand;Bangkok;8 Soi Sukhumvit 40, 15-17, 20, 25-27Fl. Khet Khlong Toei, Krung Thep Maha Nakhon Bangkok, Bangkok 10110;13.7524938;100.4935089;TH
+Singapore;Singapore;30 Prinsep Street #06-01 Singapore, Central Singapore 188647;1.357107;103.8194992;SG
+Argentina;Buenos-aires;Blas Parera 3551 Olivos Buenos Aires, Provincia de Buenos Aires B1636;-34.6083696;-58.4440583;AR
+Japan;Tokyo;21F 4 Chome 3-1 Toranomon Minato-ku Tokyo, Tokyo 105-6021;35.6768601;139.7638947;JP
+China;Shanghai;35 loushanguan lu  shanghai ;31.2312707;121.4700152;CN
+South Korea;Seoul;3F, 142 Teheran-ro Gangnam-gu Seoul, Seoul 06236;37.5666791;126.9782914;KR
+USA;Charlotte;1422 S Tryon Street Suite 300 Charlotte, NC 28203;35.2272086;-80.8430827;US
+Germany;Berlin;Kurfurstendamm 11 Berlin, BE 10719;52.510885;13.3989367;DE
+USA;Washington-DC;1775 Tysons Blvd Tysons, VA 22102;38.8950368;-77.0365427;US
+China;Shenzhen;rongchao center  shenzhen;22.5445741;114.0545429;CN
+South Korea;Seoul;10F, 373, Gangnam-daero Seocho-gu Seoul, Seoul 06621;37.5666791;126.9782914;KR
+Singapore;Singapore;36 Robinson Road #02-01 Singapore, North East 068877;1.357107;103.8194992;SG
+China;Beijing;parkview place  beijing;40.190632;116.412144;CN
+Netherlands;Amsterdam;Stadhouderskade 5 Amsterdam, Netherlands 1054 ES;52.3730796;4.8924534;NL
+Spain;Barcelona;Passeig de Gracia, 17 Barcelona, B 08007;41.3828939;2.1774322;ES
+South Africa;Johannesburg GP;155 West Street Sandton Johannesburg, GP 2031;-26.205;28.049722;ZA
+Australia;Sydney NSW;320 Pitt Street Sydney, NSW 2000;-33.8698439;151.2082848;AU
+USA;Sf-bay-area CA;650 California St. Floor 7 San Francisco, CA 94108;37.6171949;-122.3810622;US
+Israel;Tel-aviv israel;Derech Menachem Begin 146 Tel Aviv, Tel Aviv District;32.0852997;34.7818064;IL
+Japan;Osaka;1-1 Ofukacho Kita Osaka, Osaka 530-0011;34.6937569;135.5014539;JP
+Germany;Berlin;Dircksenstrasse 3 Berlin, BE 10179;52.510885;13.3989367;DE
+China;Shanghai;landmark center  shanghai ;31.2312707;121.4700152;CN
+Spain;Barcelona;Carrer de la Ciutat de Granada 121 Barcelona, B 08018;41.3828939;2.1774322;ES
+USA;Miami FL;255 Giralda Avenue Coral Gables, FL 33134;25.7741728;-80.19362;US
+Japan;Tokyo;1-7-1 Kaigan Minato-ku Tokyo, Tokyo 105-7590;35.6768601;139.7638947;JP
+Canada;Toronto;100 University Avenue Toronto, ON M5J 1V6;43.6534817;-79.3839347;CA
+China;Beijing;14 jiuxianqiao  beijing;40.190632;116.412144;CN
+Germany;Hamburg;1-3 Gerhofstrasse Hamburg, Hamburg 20354;53.550341;10.000654;DE
+China;Beijing;ciyunsi  beijing;40.190632;116.412144;CN
+Spain;Madrid;Calle de Goya 36 Madrid, M 28001;40.4167047;-3.7035825;ES
+Colombia;Bogota;Carrera 11B # 99 - 25 Bogota, Bogota 110221;4.711011;-74.0720917;CO
+Spain;Madrid;Paseo de la Castellana, 43 Madrid, M 28046;40.4167047;-3.7035825;ES
+USA;Minneapolis;225 South 6th St Suite 3900 Minneapolis, MN 55402;44.9772995;-93.2654692;US
+Spain;Barcelona;Carrer Tanger 86 Barcelona, B 08018;41.3828939;2.1774322;ES
+USA;Miami FL;2222 Ponce De Leon Blvd Miami, FL 33134;25.7741728;-80.19362;US
+Germany;Berlin;Rosenthaler Strasse 43-45 Berlin, BE 10178;52.510885;13.3989367;DE
+Costa Rica;San-jose costa-rica;Calle 118B San Rafael San Jose, SJ 10203;9.9325427;-84.0795782;CR
+Hong Kong;Hong-kong;46th Floor, Lee Garden One, 33 Hysan Avenue, Causeway Bay, Hong Kong;22.350627;114.1849161;HK
+Australia;Sydney NSW;1 Sussex Street Barangaroo Sydney, NSW 2000;-33.8698439;151.2082848;AU
+UK;London;3 Waterhouse Sq Greater London, England EC1N 2SW;51.5074456;-0.1277653;GB
+Canada;Vancouver;6060 Silver Drive Burnaby, BC V5H 0H5;49.2608724;-123.113952;CA
+China;Beijing;11 sanlitun lu  beijing;40.190632;116.412144;CN
+China;Shanghai;world trade tower  shanghai ;31.2312707;121.4700152;CN
+Spain;Madrid;27 Calle Eloy Gonzalo Madrid, M 28010;40.4167047;-3.7035825;ES
+USA;Mckinney TX;300 E. Davis St, McKinney, TX 75069;33.1976496;-96.6154471;US
+UK;Edinburgh;80 George Street Edinburgh, Scotland EH2 3BU;55.9533456;-3.1883749;GB
+Germany;Berlin;Warschauer Platz 11-13 Berlin, BE 10245;52.510885;13.3989367;DE
+USA;Atlanta GA;756 W Peachtree St NW Atlanta, GA 30308;33.7489924;-84.3902644;US
+UK;Manchester;1 St Peter's Square Manchester, MAN M2 3DE;53.4794892;-2.2451148;GB
+UK;Manchester;WeWork, Dalton Place 29 John Dalton Street Manchester, England M2 6FW;53.4794892;-2.2451148;GB
+Israel;Tel-aviv israel;3 Aluf Kalman Magen Tel Aviv, Tel Aviv District 6107075;32.0852997;34.7818064;IL
+Italy;Milan;Via Meravigli 2 Milan, MI 20121;45.4641943;9.1896346;IT
+Singapore;Singapore;83 Clemenceau Avenue 2nd Floor Singapore, Central Singapore 239920;1.357107;103.8194992;SG
+Singapore;Singapore;60 Anson Road #17-01 Singapore, Central Singapore 079914;1.357107;103.8194992;SG
+Singapore;Singapore;15 Beach Road, 2nd Floor Singapore, Central Singapore 189677;1.357107;103.8194992;SG
+USA;New-york-city NY;154 W 14th Street New York, NY 10011;40.7127281;-74.0060152;US
+China;Shanghai;608 xikang lu  shanghai ;31.2312707;121.4700152;CN
+India;Gurugram HR;Cybercity, DLF Cyber City Rd, DLF Phase 3, Sector 24, Gurgaon, HR 122022\;28.4646148;77.0299194;IN
+China;Guangzhou;neo metropolis  guangzhou;23.1301964;113.2592945;CN
+South Korea;Seoul;2F, Tower B, 50, Jong-ro 1-gil Jongno-gu Seoul, Seoul 03142;37.5666791;126.9782914;KR
+Israel;Jerusalem israel;King George St 20 Jerusalem, JM 9426208;31.7788242;35.2257626;IL
+China;Shanghai;189 changshou lu  shanghai ;31.2312707;121.4700152;CN
+Spain;Barcelona;Avinguda Diagonal 371 Barcelona, B 08018;41.3828939;2.1774322;ES
+China;Chengdu;pinnacle one  chengdu;30.6598628;104.0633717;CN
+Japan;Tokyo;10F, 1-1-1 Nishishinbashi, Minato Tokyo, Tokyo 105-0003;35.6768601;139.7638947;JP
+USA;Bethesda MD;7272 Wisconsin Ave Bethesda, MD 20814;38.98127255;-77.12335871396549;US
+Japan;Tokyo;the ARGYLE aoyama 6F, 2-14-4 KitaAoyama, Minato-ku Tokyo, Tokyo 107-0061;35.6768601;139.7638947;JP
+South Korea;Seoul;4F, 147, Yanghwa-ro Mapo-gu Seoul, Seoul 03995;37.5666791;126.9782914;KR
+Japan;Tokyo;6-12-18 Jingumae Shibuya-ku Tokyo, Tokyo 150-0001;35.6768601;139.7638947;JP
+Australia;Perth WA;152 St Georges Terrace Perth, WA 6000;-31.9558933;115.8605855;AU
+Australia;Sydney NSW;64 York St Sydney, NSW 2000;-33.8698439;151.2082848;AU
+Poland;Warsaw;Grzybowska 62 Warsaw, Wojewodztwo mazowieckie 00-855;52.2337172;21.071432235636493;PL
+USA;Atlanta GA;120 West Trinity Place Decatur, GA 30030;33.7489924;-84.3902644;US
+China;Shanghai;china merchants plaza  shanghai ;31.2312707;121.4700152;CN
+Japan;Tokyo;4-1-1 Toranomon Minatoku Tokyo, Tokyo 105-6923;35.6768601;139.7638947;JP
+China;Shenzhen;tcl building  shenzhen;22.5445741;114.0545429;CN
+Philippines;Manila;30/ F&31 / F Yuchengo Tower RCBC Plaza 6819 Ayala Avenue, Bel Air, Makati City Manila, PHL-00 1227;14.5904492;120.9803621;PH
+USA;New-york-city NY;85 Broad St New York, NY 10004;40.7127281;-74.0060152;US
+UK;London;123 Buckingham Palace Road London, England SW1W 9SH;51.5074456;-0.1277653;GB
+China;Beijing;guanghua ocean international center  beijing;40.190632;116.412144;CN
+Colombia;Bogota;Calle 26 # 92-32 Bogota, Bogota 110911;4.711011;-74.0720917;CO
+China;Hangzhou;knowledge city  hangzhou;30.2489634;120.2052342;CN
+China;Shanghai;shinmay union square  shanghai ;31.2312707;121.4700152;CN
+Canada;Montreal QC;1275 Avenue des Canadiens-de-Montreal Montreal, QC H3B 0G4;45.5031824;-73.5698065;CA
+UK;London;5 Merchant Square London, England W2 1AY;51.5074456;-0.1277653;GB
+South Korea;Seoul;20F, 83, Uisadang-daero Yeongdeungpo-gu Seoul, Seoul 07325;37.5666791;126.9782914;KR
+USA;Miami FL;78 SW 7th Street Miami, FL 33130;25.7741728;-80.19362;US
+Germany;Munich;20 Oskar-von-Miller-Ring Munich, BY 80333;48.1371079;11.5753822;DE
+Israel;Ashdod South-District;Derech HaRakevet 1 Ashdod, South District 7710002;31.7977314;34.6529922;IL
+Japan;Tokyo;KANDA SQUARE 2-2-1, Kanda Nishikicho Chiyoda-ku Tokyo, Tokyo 101-0054;35.6768601;139.7638947;JP
+USA;Atlanta GA;1155 Perimeter Center West Atlanta, GA 30338;33.7489924;-84.3902644;US
+USA;Richardson TX;3400 N Central Expy Ste 110, Richardson, TX 75080;32.9481789;-96.7297206;US
+UK;London;120 Moorgate London, England EC2M 6UR;51.5074456;-0.1277653;GB
+South Korea;Seoul;1F, 427, Teheran-ro Gangnam-gu Seoul, Seoul 06159;37.5666791;126.9782914;KR
+Mexico;Guadalajara;Paseo de los Virreyes 45 Puerta de Hierro Zapopan, Jalisco 45116;20.6720375;-103.338396;MX
+India;Pune;futura  pune;18.5213738;73.8545071;IN
+China;Shanghai;the center  shanghai ;31.2312707;121.4700152;CN
+China;Shanghai;candor plaza  shanghai ;31.2312707;121.4700152;CN
+UK;London;33 Queen St London, England EC4R 1AP;51.5074456;-0.1277653;GB
+UK;London;2 Minster Court London, England EC3R 7BB;51.5074456;-0.1277653;GB
+Japan;Tokyo;5-22-33, Higashigotanda, Shinagawa-ku Tokyo, Tokyo 141-0022;35.6768601;139.7638947;JP
+Argentina;Buenos-aires;Avenida Del Libertador 1000 Buenos Aires, Buenos Aires B1638BEV;-34.6083696;-58.4440583;AR
+Netherlands;Amsterdam;Weesperstraat 61-105 Amsterdam, Netherlands 1018VN;52.3730796;4.8924534;NL
+UK;London;1 Fore Street Avenue London, England EC2Y 9DT;51.5074456;-0.1277653;GB
+UAE;Dubai;8th and 9th Floor, The Offices 4, One Central Dubai World Trade Center Dubai, Dubai;25.074282349999997;55.18853865430702;AE
+Canada;Toronto;1100 King Street West Toronto, ON M6K 1E6;43.6534817;-79.3839347;CA
+China;Beijing;east gongxiao building  beijing;40.190632;116.412144;CN
+South Korea;Seoul;B1F, 507, Teheran-ro Gangnam-gu Seoul, Seoul 06168;37.5666791;126.9782914;KR
+USA;New-york-city NY;1 Dock 72 Wy Brooklyn, NY 11249;40.7127281;-74.0060152;US
+Japan;Tokyo;16F Link Square Shinjuku 5-27-5 Sendagaya, Shibuya-ku Tokyo, Tokyo 151-0051;35.6768601;139.7638947;JP
+Philippines;Manila;23,25,26 and 27/F Menarco Tower,32nd St.Bonifacio Global City Taguig Manila, PHL-00 1634;14.5904492;120.9803621;PH
+China;Shanghai;518 xinjiang lu  shanghai ;31.2312707;121.4700152;CN
+USA;Las-vegas;6543 South Las Vegas Boulevard Las Vegas, NV 89119;36.1672559;-115.148516;US
+Italy;Milan;21 Via San Marco Milan, MI 20121;45.4641943;9.1896346;IT
+UK;London;145 City Rd Hoxton London, England EC1V 1AZ;51.5074456;-0.1277653;GB
+USA;San-diego CA;600 B Street Suite 300 San Diego, CA 92101;32.7166921;-117.169295;US
+China;Nanjing;golden eagle he xi  nanjing;32.0438284;118.7788631;CN
+China;Shenzhen;china construction steel structure building  shenzhen;22.5445741;114.0545429;CN
+Singapore;Singapore;21 Collyer Quay Singapore, Central Singapore 049320;1.357107;103.8194992;SG
+Poland;Warsaw;Prosta 20, 00-850 Warsaw, Wojewodztwo mazowieckie 00-850;52.2337172;21.071432235636493;PL
+Vietnam;Ho-chi-minh-city;E. Town Central, 11 Doan Van Bo, Ward 13, District 4 Ho Chi Minh, SG 70000;10.7763897;106.7011391;VN
+USA;Portland OR;830 NE Holladay St Portland, OR 97232;45.5202471;-122.674194;US
+UK;London;26 Hatton Garden Greater London, England EC1N 8BR;51.5074456;-0.1277653;GB
+Australia;Sydney NSW;333 George Street Level 13 Sydney, NSW 2000;-33.8698439;151.2082848;AU
+Colombia;Medellin;Calle 7D #43A-40. Medellin, Antioquia 050022;6.269732449999999;-75.60255965090315;CO
+UK;London;71-91 Aldwych London, England WC2B 4HN;51.5074456;-0.1277653;GB
+UK;London;51 Eastcheap London, England EC3M 1DT;51.5074456;-0.1277653;GB
+China;Shanghai;fuhui building  shanghai ;31.2312707;121.4700152;CN
+Taiwan;Taipei TPE;No. 97 & 101, Songren Road Xinyi District Taipei;25.0375198;121.5636796;TW
+Canada;Toronto;240 Richmond Street W Toronto, ON M5V 1V6;43.6534817;-79.3839347;CA
+Costa Rica;San-jose costa-rica;Real Cariari Ulloa, Heredia, Heredia San Jose, SJ 40104;9.9325427;-84.0795782;CR
+UK;London;8 Devonshire Square London, England EC2M 4YJ;51.5074456;-0.1277653;GB
+China;Shanghai;one itc  shanghai ;31.2312707;121.4700152;CN
+USA;New-york-city NY;148 Lafayette St New York, NY 10013;40.7127281;-74.0060152;US
+China;Beijing;air china century building  beijing;40.190632;116.412144;CN
+Germany;Berlin;Potsdamer Platz - Kemperplatz 1 Berlin, BE 10785;52.510885;13.3989367;DE
+Germany;Berlin;Stresemannstrasse 123 Berlin, BE 10963;52.510885;13.3989367;DE
+Canada;Calgary;Floor 19, 700 2nd Street SW Calgary, AB T2P 2W2;51.0456064;-114.057541;CA
+USA;New-york-city NY;575 Lexington Avenue New York, NY 10022;40.7127281;-74.0060152;US
+Vietnam;Ho-chi-minh-city;29A Nguy?n Dinh Chi?u, Dakao Ward, District 1 Ho Chi Minh, Ho Chi Minh;10.7763897;106.7011391;VN
+Canada;Vancouver;450 Southwest Marine Drive, Floor 18 Vancouver, BC V5X 0C3;49.2608724;-123.113952;CA
+India;Gurugram HR;Udyog Vihar, 393, Phase 3, Udyog Vihar, Gurugram, HR 122016;28.4646148;77.0299194;IN
+China;Beijing;95 longfu si jie  beijing;40.190632;116.412144;CN
+USA;Nashville;901 Woodland St Nashville, TN 37206;36.1622767;-86.7742984;US
+Singapore;Singapore;9 Battery Road #28-01 Singapore, Central Singapore 049910;1.357107;103.8194992;SG
+Ireland;Dublin;2 Dublin Landings, North Wall Quay, Dublin 1 Dublin, D D01 V4A3;53.3493795;-6.2605593;IE
+Israel;Tel-aviv israel;23 Shoken St Tel Aviv, Tel Aviv District 69016;32.0852997;34.7818064;IL
+USA;Tampa FL;501 East Kennedy Boulevard Tampa, FL 33602;27.9529744;-82.4508736;US
+USA;New-york-city NY;134 N 4th St. Brooklyn, NY 11249;40.7127281;-74.0060152;US
+USA;New-york-city NY;450 Lexington Ave New York, NY 10017;40.7127281;-74.0060152;US
+South Korea;Seoul;2F, 428, Seolleung-ro Gangnam-gu Seoul, Seoul 06192;37.5666791;126.9782914;KR
+South Africa;Johannesburg GP;173 Oxford Rd Johannesburg, Gauteng 2196;-26.205;28.049722;ZA
+Japan;Fukuoka;1 Chome 1-29 Daimyo, Chuo-ku Fukuoka, Fukuoka 810-0041;33.6251241;130.6180016;JP
+Poland;Warsaw;Krakowskie Przedmiescie 13 Warsaw, Wojewodztwo mazowieckie 00-071;52.2337172;21.071432235636493;PL
+Singapore;Singapore;30 Raffles Place #12-01 Singapore, Central Singapore 048622;1.357107;103.8194992;SG
+France;Paris;33 Rue La Fayette Paris, le-de-France  75009;48.8588897;2.3200410217200766;FR
+Italy;Milan;Via Vittor Pisani, 15 Milan, MI 20124;45.4641943;9.1896346;IT
+Japan;Tokyo;14F, 1 CHOME 11-1 NISHI IKEBUKURO, TOSHIMA-KU Tokyo, Tokyo 171-0021;35.6768601;139.7638947;JP
+Italy;Milan;Via Giuseppe Mazzini 9 Milan, MI 20123;45.4641943;9.1896346;IT
+China;Shanghai;1277 beijing xi lu  shanghai ;31.2312707;121.4700152;CN
+USA;Sf-bay-area CA;535 Mission St 14th floor San Francisco, CA 94105;37.6171949;-122.3810622;US
+China;Shanghai;363 changping lu  shanghai ;31.2312707;121.4700152;CN
+South Korea;Seoul;6F, 818, Selleung-ro Gangnam-gu Seoul, Seoul 06014;37.5666791;126.9782914;KR
+Portugal;Lisbon;R. Alexandre Herculano 50 Lisboa, Lisboa 1250-011;38.7077507;-9.1365919;PT
+USA;New-york-city NY;77 Sands Street Brooklyn, NY 11201;40.7127281;-74.0060152;US
+USA;San-diego CA;8910 University Center Lane Suite 400 San Diego, CA 92122;32.7166921;-117.169295;US
+China;Xi-an;china railway first  xi an;34.261004;108.9423363;CN
+Australia;Sydney NSW;100 Harris St Sydney, NSW 2009;-33.8698439;151.2082848;AU
+Malaysia;Kuala-lumpur;No. 3, Jalan Bangsar, KL Eco City Kuala Lumpur, Federal Territory of Kuala Lumpur  59200;3.1526589;101.7022205;MY
+Brazil;Belo-horizonte;Av. dos Andradas, 3000 Santa Efigenia Belo Horizonte, MG 30260-070;-19.9227318;-43.9450948;BR
+USA;Nashville;818 18th Avenue South Nashville, TN 37203;36.1622767;-86.7742984;US
+Colombia;Medellin;Km 5 Av. Las Palmas Cra 28 # 17 - 452, Edificio Cortezza Medellin, Antioquia 050021;6.269732449999999;-75.60255965090315;CO
+China;Beijing;avic capital tower  beijing;40.190632;116.412144;CN
+USA;Austin TX;2301 W Anderson Ln, Austin, TX 78757;30.2711286;-97.7436995;US
+UK;London;1 Mark Square London, England EC2A 4EG;51.5074456;-0.1277653;GB
+South Korea;Busan;3F, 8,Seojeon-ro Busanjin-gu Busan, Busan 47291;35.1799528;129.0752365;KR
+USA;New-york-city NY;430 Park Avenue New York, NY 10022;40.7127281;-74.0060152;US
+Japan;Osaka;1-13-22 Sonezakishinchi Kita-ku Osaka, Osaka 530-0002;34.6937569;135.5014539;JP
+China;Shanghai;188 huaihai middle lu  shanghai ;31.2312707;121.4700152;CN
+USA;New-york-city NY;222 Broadway 22nd Floor New York, NY 10038;40.7127281;-74.0060152;US
+Germany;Berlin;Neue Schonhauser Strasse 3-5 Berlin, BE 10178;52.510885;13.3989367;DE
+USA;Sacramento CA;400 Capitol Mall Sacramento, CA 95814;38.5810606;-121.493895;US
+South Korea;Seoul;1F, 586, Gangnam-daero Gangnam-gu Seoul, Seoul 06043;37.5666791;126.9782914;KR
+China;Beijing;6 jiuxianqiao lu  beijing;40.190632;116.412144;CN
