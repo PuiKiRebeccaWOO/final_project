@@ -1,0 +1,1305 @@
+rank;city;country;country_code;meal;mcdonalds;beer;coffee;monthly_pass;monthly_rent;safety_value;safety_category;climate_value;climate_category;cost_of_living_value;cost_of_living_category;pollution_value;pollution_category;quality_of_life_value;quality_of_life_category;internet_speed;digital_nomads_count
+1;Bangkok;Thailand;TH;3.0;5.0;2.0;2.0;36.0;567.0;62.49;High;69.76;High;33.88;Very Low;75.65;High;105.37;Low;225.17;622.0
+2;Da Nang;Vietnam;VN;2.0;4.0;1.0;2.0;7.0;312.0;59.0;Moderate;71.24;High;26.85;Very Low;84.19;Very High;97.18;Very Low;78.34;60.0
+3;Kuala Lumpur;Malaysia;MY;3.0;4.0;2.0;3.0;22.0;418.0;51.03;Moderate;56.55;Moderate;29.82;Very Low;61.14;High;136.22;Moderate;107.55;337.0
+4;Cape Town;South Africa;ZA;8.0;4.0;1.0;2.0;28.0;658.0;25.36;Low;95.25;Very High;31.3;Very Low;56.56;Moderate;155.84;High;54.75;97.0
+5;Buenos Aires;Argentina;AR;6.0;5.0;1.0;2.0;10.0;297.0;36.36;Low;98.28;Very High;32.65;Very Low;50.81;Moderate;115.06;Low;58.87;156.0
+6;Canggu, Bali;Indonesia;ID;2.0;3.0;2.0;2.0;10.0;210.0;54.11;Moderate;63.76;High;25.31;Very Low;67.99;High;99.98;Very Low;27.83;6.0
+7;Melbourne;Australia;AU;15.0;9.0;4.0;3.0;103.0;1225.0;52.71;Moderate;93.8;Very High;64.5;Moderate;26.8;Low;190.69;Very High;82.73;149.0
+8;Chiang Mai;Thailand;TH;2.0;5.0;2.0;2.0;20.0;252.0;62.49;High;69.76;High;33.88;Very Low;75.65;High;105.37;Low;225.17;552.0
+9;Ericeira;Portugal;PT;8.0;6.0;1.0;1.0;36.0;625.0;68.17;High;97.31;Very High;41.72;Low;28.8;Low;168.85;Very High;162.55;1.0
+10;Asuncion;Paraguay;PY;4.0;5.0;1.0;2.0;22.0;344.0;39.84;Low;92.24;Very High;23.19;Very Low;66.16;High;109.45;Low;72.5;8.0
+11;Phuket;Thailand;TH;3.0;7.0;1.0;2.0;0.0;329.0;62.49;High;69.76;High;33.88;Very Low;75.65;High;105.37;Low;225.17;176.0
+12;Mexico City;Mexico;MX;7.0;6.0;1.0;3.0;15.0;731.0;46.47;Moderate;87.51;Very High;35.0;Very Low;58.46;Moderate;127.02;Moderate;54.88;170.0
+13;Auckland;New Zealand;NZ;15.0;9.0;3.0;3.0;131.0;1305.0;51.87;Moderate;95.46;Very High;59.36;Low;26.0;Low;186.57;Very High;170.51;94.0
+14;Tokyo;Japan;JP;7.0;5.0;2.0;3.0;71.0;1087.0;77.07;High;85.26;Very High;46.99;Low;38.55;Low;184.32;Very High;178.76;311.0
+15;Weligama;Sri Lanka;LK;1.0;4.0;1.0;1.0;5.0;110.0;57.9;Moderate;59.11;Moderate;33.96;Very Low;57.94;Moderate;75.17;Very Low;26.08;2.0
+16;Timisoara;Romania;RO;6.0;5.0;1.0;2.0;20.0;374.0;67.82;High;77.0;High;34.66;Very Low;58.61;Moderate;142.14;Moderate;232.17;14.0
+18;Tbilisi;Georgia;GE;10.0;7.0;1.0;2.0;14.0;760.0;73.9;High;88.53;Very High;32.0;Very Low;67.54;High;125.48;Moderate;28.61;33.0
+19;Ljubljana;Slovenia;SI;10.0;6.0;1.0;2.0;37.0;671.0;76.17;High;76.11;High;47.58;Low;22.25;Low;178.94;Very High;115.61;42.0
+20;Portimao;Portugal;PT;8.0;7.0;1.0;2.0;20.0;610.0;68.17;High;97.31;Very High;41.72;Low;28.8;Low;168.85;Very High;162.55;6.0
+21;Ploiesti;Romania;RO;7.0;5.0;1.0;2.0;24.0;325.0;67.82;High;77.0;High;34.66;Very Low;58.61;Moderate;142.14;Moderate;232.17;19.833333333333332
+22;Lisbon;Portugal;PT;12.0;7.0;1.0;2.0;40.0;1184.0;68.17;High;97.31;Very High;41.72;Low;28.8;Low;168.85;Very High;162.55;346.0
+23;Hong Kong;Hong Kong;HK;7.0;5.0;2.0;5.0;61.0;2187.0;78.49;High;83.64;Very High;74.59;High;66.86;High;134.04;Moderate;254.7;284.0
+24;Seoul;South Korea;KR;7.0;6.0;2.0;4.0;40.0;708.0;75.36;High;68.39;High;59.94;Low;60.93;High;148.74;High;212.57;168.0
+25;Naha, Okinawa;Japan;JP;6.0;5.0;2.0;3.0;73.0;580.0;77.07;High;85.26;Very High;46.99;Low;38.55;Low;184.32;Very High;178.76;39.666666666666664
+26;Aveiro;Portugal;PT;7.0;7.0;1.0;1.0;30.0;554.0;68.17;High;97.31;Very High;41.72;Low;28.8;Low;168.85;Very High;162.55;1.0
+27;Coimbra;Portugal;PT;8.0;7.0;1.0;1.0;30.0;531.0;68.17;High;97.31;Very High;41.72;Low;28.8;Low;168.85;Very High;162.55;4.0
+28;Rio de Janeiro;Brazil;BR;6.0;6.0;1.0;2.0;46.0;378.0;35.36;Low;94.31;Very High;27.14;Very Low;52.84;Moderate;115.99;Low;113.09;90.0
+29;Athens;Greece;GR;12.0;7.0;1.0;3.0;30.0;497.0;53.44;Moderate;91.79;Very High;47.78;Low;50.07;Moderate;136.83;Moderate;39.08;135.0
+30;Valencia;Spain;ES;12.0;8.0;1.0;2.0;30.0;771.0;63.51;High;94.04;Very High;44.41;Low;35.7;Low;184.67;Very High;201.47;91.0
+30;Valencia;Spain;ES;10.0;10.0;1.0;2.0;57.0;261.0;63.51;High;94.04;Very High;44.41;Low;35.7;Low;184.67;Very High;201.47;91.0
+31;Rijeka;Croatia;HR;10.0;6.0;1.0;1.0;40.0;386.0;74.54;High;89.23;Very High;43.23;Low;31.1;Low;176.02;Very High;69.09;5.0
+32;Helsinki;Finland;FI;13.0;9.0;3.0;4.0;65.0;996.0;73.57;High;58.87;Moderate;60.04;Moderate;11.83;Very Low;203.06;Very High;135.05;77.0
+33;Wrocaw;Poland;PL;6.0;5.0;1.0;2.0;20.0;419.0;70.99;High;75.9;High;39.35;Very Low;55.51;Moderate;153.6;High;156.33;24.666666666666668
+34;Tallinn;Estonia;EE;13.0;7.0;2.0;3.0;30.0;668.0;76.37;High;64.28;High;50.4;Low;17.02;Very Low;185.1;Very High;88.49;88.0
+35;Singapore;Singapore;SG;11.0;6.0;4.0;4.0;90.0;2606.0;72.48;High;57.45;Moderate;79.72;High;32.61;Low;157.13;High;255.83;332.0
+36;Pokhara;Nepal;NP;2.0;5.0;1.0;1.0;0.0;110.0;63.5;High;92.64;Very High;23.48;Very Low;83.87;Very High;88.97;Very Low;33.87;17.0
+37;Denver, CO;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.0
+38;Krakow;Poland;PL;6.0;5.0;1.0;2.0;20.0;419.0;70.99;High;75.9;High;39.35;Very Low;55.51;Moderate;153.6;High;156.33;74.0
+39;Warsaw;Poland;PL;8.0;6.0;1.0;3.0;24.0;756.0;70.99;High;75.9;High;39.35;Very Low;55.51;Moderate;153.6;High;156.33;93.0
+40;Berlin;Germany;DE;12.0;9.0;1.0;3.0;85.0;1260.0;60.77;High;83.3;Very High;59.56;Low;28.81;Low;189.75;Very High;136.66;467.0
+41;Nis;Serbia;RS;6.0;5.0;1.0;1.0;23.0;243.0;62.75;High;83.23;Very High;36.18;Very Low;65.62;High;123.62;Moderate;86.77;2.0
+42;Munich;Germany;DE;15.0;9.0;1.0;3.0;59.0;1361.0;60.77;High;83.3;Very High;59.56;Low;28.81;Low;189.75;Very High;136.66;135.0
+43;Daejeon;South Korea;KR;6.0;6.0;2.0;3.0;42.0;333.0;75.36;High;68.39;High;59.94;Low;60.93;High;148.74;High;212.57;2.0
+44;Sydney;Australia;AU;13.0;9.0;4.0;3.0;141.0;1640.0;52.71;Moderate;93.8;Very High;64.5;Moderate;26.8;Low;190.69;Very High;82.73;165.0
+45;Ko Pha Ngan;Thailand;TH;2.0;5.0;2.0;2.0;20.0;252.0;62.49;High;69.76;High;33.88;Very Low;75.65;High;105.37;Low;225.17;114.0
+46;Zadar;Croatia;HR;8.0;7.0;1.0;2.0;40.0;425.0;74.54;High;89.23;Very High;43.23;Low;31.1;Low;176.02;Very High;69.09;24.0
+47;Alicante;Spain;ES;13.0;8.0;1.0;2.0;35.0;654.0;63.51;High;94.04;Very High;44.41;Low;35.7;Low;184.67;Very High;201.47;25.0
+48;Varna;Bulgaria;BG;6.0;5.0;1.0;2.0;20.0;298.0;63.73;High;82.76;Very High;35.86;Very Low;62.94;High;144.49;Moderate;86.75;10.0
+49;Christchurch;New Zealand;NZ;13.0;8.0;3.0;3.0;70.0;956.0;51.87;Moderate;95.46;Very High;59.36;Low;26.0;Low;186.57;Very High;170.51;33.0
+50;Lodz;Poland;PL;5.0;5.0;1.0;3.0;27.0;432.0;70.99;High;75.9;High;39.35;Very Low;55.51;Moderate;153.6;High;156.33;4.0
+51;Split;Croatia;HR;9.0;6.0;1.0;2.0;39.0;472.0;74.54;High;89.23;Very High;43.23;Low;31.1;Low;176.02;Very High;69.09;108.0
+52;Wellington;New Zealand;NZ;12.0;9.0;3.0;3.0;92.0;1349.0;51.87;Moderate;95.46;Very High;59.36;Low;26.0;Low;186.57;Very High;170.51;52.0
+53;Krabi;Thailand;TH;2.0;5.0;2.0;2.0;20.0;252.0;62.49;High;69.76;High;33.88;Very Low;75.65;High;105.37;Low;225.17;61.0
+54;Prague;Czechia;CZ;8.0;7.0;1.0;3.0;23.0;901.0;73.64;High;79.1;High;43.65;Low;34.78;Low;174.21;Very High;;253.0
+55;Tampere;Finland;FI;13.0;9.0;3.0;4.0;56.0;767.0;73.57;High;58.87;Moderate;60.04;Moderate;11.83;Very Low;203.06;Very High;135.05;3.0
+56;Lublin;Poland;PL;6.0;5.0;1.0;2.0;26.0;431.0;70.99;High;75.9;High;39.35;Very Low;55.51;Moderate;153.6;High;156.33;1.0
+57;Vilnius;Lithuania;LT;10.0;6.0;1.0;3.0;30.0;737.0;67.72;High;67.76;High;44.73;Low;26.14;Low;172.77;Very High;147.05;43.0
+58;Aachen;Germany;DE;10.0;8.0;1.0;3.0;70.0;611.0;60.77;High;83.3;Very High;59.56;Low;28.81;Low;189.75;Very High;136.66;2.0
+59;Recife;Brazil;BR;5.0;6.0;1.0;1.0;37.0;269.0;35.36;Low;94.31;Very High;27.14;Very Low;52.84;Moderate;115.99;Low;113.09;7.0
+60;Dubrovnik;Croatia;HR;9.0;7.0;1.0;2.0;47.0;484.0;74.54;High;89.23;Very High;43.23;Low;31.1;Low;176.02;Very High;69.09;48.0
+61;Kota Kinabalu;Malaysia;MY;3.0;4.0;2.0;3.0;21.0;380.0;51.03;Moderate;56.55;Moderate;29.82;Very Low;61.14;High;136.22;Moderate;107.55;23.0
+62;Novi Sad;Serbia;RS;6.0;5.0;1.0;1.0;22.0;391.0;62.75;High;83.23;Very High;36.18;Very Low;65.62;High;123.62;Moderate;86.77;9.0
+63;Nuremberg;Germany;DE;10.0;8.0;1.0;3.0;80.0;680.0;60.77;High;83.3;Very High;59.56;Low;28.81;Low;189.75;Very High;136.66;9.0
+64;Copenhagen;Denmark;DK;19.0;11.0;2.0;6.0;70.0;1682.0;73.81;High;82.47;Very High;68.9;Moderate;20.75;Low;208.65;Very High;227.91;150.0
+65;Cancun;Mexico;MX;9.0;6.0;1.0;2.0;26.0;546.0;46.47;Moderate;87.51;Very High;35.0;Very Low;58.46;Moderate;127.02;Moderate;54.88;49.0
+66;Austin, TX;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.0
+67;Barcelona;Spain;ES;10.0;7.0;1.0;2.0;10.0;191.0;63.51;High;94.04;Very High;44.41;Low;35.7;Low;184.67;Very High;201.47;406.0
+67;Barcelona;Spain;ES;14.0;9.0;1.0;2.0;40.0;1033.0;63.51;High;94.04;Very High;44.41;Low;35.7;Low;184.67;Very High;201.47;406.0
+68;Suva;Fiji;FJ;3.0;6.0;2.0;3.0;35.0;537.0;43.44;Moderate;71.89;High;33.42;Very Low;53.44;Moderate;122.12;Moderate;20.76;3.0
+69;Burgas;Bulgaria;BG;8.0;7.0;1.0;2.0;23.0;314.0;63.73;High;82.76;Very High;35.86;Very Low;62.94;High;144.49;Moderate;86.75;1.0
+70;Poznan;Poland;PL;6.0;5.0;1.0;2.0;26.0;495.0;70.99;High;75.9;High;39.35;Very Low;55.51;Moderate;153.6;High;156.33;15.0
+71;Zagreb;Croatia;HR;9.0;7.0;1.0;2.0;48.0;554.0;74.54;High;89.23;Very High;43.23;Low;31.1;Low;176.02;Very High;69.09;64.0
+72;Matara;Sri Lanka;LK;1.0;4.0;1.0;1.0;5.0;110.0;57.9;Moderate;59.11;Moderate;33.96;Very Low;57.94;Moderate;75.17;Very Low;26.08;3.0
+73;Tunis;Tunisia;TN;2.0;4.0;1.0;1.0;13.0;204.0;55.23;Moderate;93.24;Very High;25.71;Very Low;70.08;High;115.44;Low;11.13;3.0
+74;Hanoi;Vietnam;VN;2.0;5.0;1.0;2.0;8.0;314.0;59.0;Moderate;71.24;High;26.85;Very Low;84.19;Very High;97.18;Very Low;78.34;176.0
+75;Penang;Malaysia;MY;2.0;3.0;2.0;2.0;19.0;298.0;51.03;Moderate;56.55;Moderate;29.82;Very Low;61.14;High;136.22;Moderate;107.55;1.0
+76;Stockholm;Sweden;SE;12.0;8.0;2.0;4.0;90.0;1311.0;51.74;Moderate;76.49;High;54.84;Low;17.66;Very Low;193.48;Very High;174.9;135.0
+77;Dallas, TX;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;1.0
+78;Patras;Greece;GR;11.0;7.0;1.0;3.0;34.0;370.0;53.44;Moderate;91.79;Very High;47.78;Low;50.07;Moderate;136.83;Moderate;39.08;1.0
+79;Cuenca;Ecuador;EC;3.0;7.0;2.0;2.0;24.0;389.0;37.57;Low;94.51;Very High;30.28;Very Low;59.05;Moderate;125.58;Moderate;39.07;11.0
+80;Curitiba;Brazil;BR;5.0;5.0;1.0;2.0;42.0;280.0;35.36;Low;94.31;Very High;27.14;Very Low;52.84;Moderate;115.99;Low;113.09;9.0
+81;Sanur, Bali;Indonesia;ID;2.0;3.0;2.0;2.0;10.0;210.0;54.11;Moderate;63.76;High;25.31;Very Low;67.99;High;99.98;Very Low;27.83;10.692307692307692
+82;Antigua;Guatemala;GT;5.0;5.0;1.0;2.0;14.0;364.0;41.92;Moderate;99.89;Very High;36.67;Very Low;73.47;High;107.92;Low;23.72;29.0
+83;Kosice;Slovakia;SK;6.0;7.0;1.0;2.0;25.0;533.0;69.2;High;80.72;Very High;43.24;Low;37.3;Low;157.96;High;115.11;5.0
+84;La Union;Philippines;PH;3.0;3.0;1.0;2.0;12.0;298.0;56.92;Moderate;61.23;High;28.77;Very Low;72.38;High;96.95;Very Low;71.85;24.571428571428573
+85;Tartu;Estonia;EE;10.0;6.0;1.0;3.0;23.0;442.0;76.37;High;64.28;High;50.4;Low;17.02;Very Low;185.1;Very High;88.49;1.0
+86;Goiania;Brazil;BR;4.0;6.0;1.0;2.0;28.0;257.0;35.36;Low;94.31;Very High;27.14;Very Low;52.84;Moderate;115.99;Low;113.09;5.0
+87;Nakhon Ratchasima;Thailand;TH;2.0;5.0;2.0;2.0;20.0;252.0;62.49;High;69.76;High;33.88;Very Low;75.65;High;105.37;Low;225.17;114.05882352941177
+88;Alexandria;Egypt;EG;4.0;3.0;1.0;1.0;9.0;136.0;52.64;Moderate;91.98;Very High;19.46;Very Low;82.67;Very High;85.41;Very Low;39.97;10.25
+89;Mostar;Bosnia;BA;5.0;5.0;1.0;1.0;29.0;200.0;58.3;Moderate;80.48;Very High;32.01;Very Low;59.68;Moderate;134.51;Moderate;48.51;11.0
+90;Kingston;Jamaica;JM;6.0;6.0;2.0;3.0;31.0;605.0;32.61;Low;71.58;High;49.56;Low;66.31;High;83.92;Very Low;37.84;7.0
+91;Cordoba;Argentina;AR;9.0;7.0;1.0;1.0;31.0;619.0;36.36;Low;98.28;Very High;32.65;Very Low;50.81;Moderate;115.06;Low;58.87;28.0
+91;Cordoba;Argentina;AR;5.0;5.0;1.0;1.0;25.0;205.0;36.36;Low;98.28;Very High;32.65;Very Low;50.81;Moderate;115.06;Low;58.87;28.0
+92;Sofia;Bulgaria;BG;10.0;6.0;1.0;2.0;25.0;425.0;63.73;High;82.76;Very High;35.86;Very Low;62.94;High;144.49;Moderate;86.75;76.0
+93;Taipei;Taiwan;TW;6.0;5.0;2.0;3.0;40.0;648.0;82.89;Very High;84.38;Very High;44.79;Low;64.31;High;160.18;Very High;152.01;142.0
+94;La Paz;Bolivia;BO;3.0;6.0;2.0;2.0;30.0;262.0;35.0;Low;0.0;;25.28;Very Low;71.92;High;0.0;;27.8;30.0
+95;Makassar;Indonesia;ID;1.0;3.0;2.0;2.0;9.0;162.0;54.11;Moderate;63.76;High;25.31;Very Low;67.99;High;99.98;Very Low;27.83;1.0
+96;Budapest;Hungary;HU;8.0;5.0;1.0;2.0;23.0;469.0;66.28;High;78.74;High;37.72;Very Low;46.57;Moderate;143.26;Moderate;210.55;287.0
+97;Tashkent;Uzbekistan;UZ;5.0;3.0;1.0;1.0;13.0;436.0;71.97;High;69.79;High;24.4;Very Low;53.07;Moderate;133.78;Moderate;45.88;2.0
+98;Busan;South Korea;KR;6.0;5.0;2.0;3.0;44.0;395.0;75.36;High;68.39;High;59.94;Low;60.93;High;148.74;High;212.57;27.0
+99;Andorra la Vella;Andorra;AD;14.0;8.0;1.0;2.0;30.0;748.0;84.71;Very High;0.0;;48.09;Low;22.98;Low;0.0;;;10.0
+100;Porto;Portugal;PT;9.0;7.0;1.0;2.0;40.0;767.0;68.17;High;97.31;Very High;41.72;Low;28.8;Low;168.85;Very High;162.55;114.0
+101;Faro;Portugal;PT;10.0;7.0;1.0;2.0;40.0;753.0;68.17;High;97.31;Very High;41.72;Low;28.8;Low;168.85;Very High;162.55;9.0
+102;Bengaluru;India;IN;2.0;4.0;2.0;1.0;8.0;117.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;9.0
+103;Ko Lanta;Thailand;TH;2.0;5.0;2.0;2.0;20.0;252.0;62.49;High;69.76;High;33.88;Very Low;75.65;High;105.37;Low;225.17;120.0
+104;Karlsruhe;Germany;DE;11.0;9.0;1.0;3.0;67.0;665.0;60.77;High;83.3;Very High;59.56;Low;28.81;Low;189.75;Very High;136.66;6.0
+105;Salta;Argentina;AR;6.0;5.0;1.0;2.0;19.0;218.0;36.36;Low;98.28;Very High;32.65;Very Low;50.81;Moderate;115.06;Low;58.87;3.0
+106;Riga;Latvia;LV;11.0;7.0;2.0;3.0;50.0;438.0;62.8;High;74.7;High;44.96;Low;30.4;Low;164.22;Very High;135.22;42.0
+107;Columbus, OH;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+108;Montevideo;Uruguay;UY;13.0;10.0;2.0;4.0;44.0;557.0;48.2;Moderate;98.04;Very High;47.39;Low;43.49;Moderate;141.6;Moderate;69.91;37.0
+109;Kaohsiung;Taiwan;TW;3.0;5.0;2.0;3.0;31.0;329.0;82.89;Very High;84.38;Very High;44.79;Low;64.31;High;160.18;Very High;152.01;14.0
+110;Pisa;Italy;IT;12.0;8.0;1.0;1.0;32.0;552.0;53.03;Moderate;90.78;Very High;52.12;Low;53.67;Moderate;151.06;High;104.09;12.0
+111;Grenoble;France;FR;14.0;9.0;2.0;3.0;60.0;597.0;44.56;Moderate;89.71;Very High;59.48;Low;43.56;Moderate;165.08;Very High;214.04;10.0
+112;Cochabamba;Bolivia;BO;3.0;7.0;2.0;3.0;0.0;260.0;35.0;Low;0.0;;25.28;Very Low;71.92;High;0.0;;27.8;5.0
+113;Sarajevo;Bosnia;BA;5.0;5.0;1.0;1.0;27.0;267.0;58.3;Moderate;80.48;Very High;32.01;Very Low;59.68;Moderate;134.51;Moderate;48.51;34.0
+114;Durban;South Africa;ZA;8.0;4.0;1.0;2.0;42.0;335.0;25.36;Low;95.25;Very High;31.3;Very Low;56.56;Moderate;155.84;High;54.75;7.0
+115;Jodhpur;India;IN;2.0;4.0;1.0;1.0;15.0;146.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;5.0
+116;Baku;Azerbaijan;AZ;6.0;5.0;1.0;3.0;11.0;307.0;68.12;High;91.4;Very High;30.26;Very Low;72.69;High;113.51;Low;25.1;8.0
+117;Johannesburg;South Africa;ZA;8.0;4.0;1.0;2.0;60.0;378.0;25.36;Low;95.25;Very High;31.3;Very Low;56.56;Moderate;155.84;High;54.75;19.0
+118;Muscat;Oman;OM;5.0;6.0;5.0;5.0;50.0;621.0;81.94;Very High;67.22;High;39.3;Very Low;34.71;Low;213.42;Very High;68.28;7.0
+119;Ogden, UT;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+120;Rhodes;Greece;GR;11.0;7.0;1.0;3.0;34.0;370.0;53.44;Moderate;91.79;Very High;47.78;Low;50.07;Moderate;136.83;Moderate;39.08;8.0
+121;Vitoria;Brazil;BR;5.0;6.0;2.0;2.0;31.0;239.0;35.36;Low;94.31;Very High;27.14;Very Low;52.84;Moderate;115.99;Low;113.09;4.0
+123;Denpasar, Bali;Indonesia;ID;2.0;3.0;2.0;2.0;10.0;210.0;54.11;Moderate;63.76;High;25.31;Very Low;67.99;High;99.98;Very Low;27.83;10.692307692307692
+124;Fuerteventura, Canary Islands;Spain;ES;11.0;8.0;1.0;2.0;36.0;634.0;63.51;High;94.04;Very High;44.41;Low;35.7;Low;184.67;Very High;201.47;73.19047619047619
+125;Bar;Montenegro;ME;7.0;4.0;1.0;2.0;29.0;432.0;64.59;High;89.02;Very High;37.37;Very Low;43.7;Moderate;147.33;High;60.03;5.0
+126;Abuja;Nigeria;NG;3.0;5.0;1.0;2.0;32.0;2167.0;33.51;Low;60.75;High;27.29;Very Low;87.91;Very High;41.24;Very Low;17.65;17.0
+127;Winnipeg;Canada;CA;14.0;8.0;3.0;3.0;73.0;780.0;54.34;Moderate;55.41;Moderate;60.55;Moderate;29.8;Low;164.54;Very High;183.81;6.0
+128;Cebu;Philippines;PH;3.0;3.0;1.0;2.0;12.0;298.0;56.92;Moderate;61.23;High;28.77;Very Low;72.38;High;96.95;Very Low;71.85;51.0
+129;Kyoto;Japan;JP;6.0;5.0;2.0;3.0;81.0;603.0;77.07;High;85.26;Very High;46.99;Low;38.55;Low;184.32;Very High;178.76;102.0
+130;San Antonio, TX;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.0
+131;Adana;Turkey;TR;2.0;3.0;1.0;1.0;9.0;145.0;58.74;Moderate;93.26;Very High;35.37;Very Low;64.29;High;130.42;Moderate;43.48;25.166666666666668
+132;Jaipur;India;IN;2.0;4.0;2.0;1.0;7.0;139.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;19.0
+133;Amman;Jordan;JO;6.0;7.0;5.0;4.0;47.0;337.0;59.78;Moderate;89.05;Very High;37.64;Very Low;77.1;High;125.01;Moderate;84.12;18.0
+134;Ho Chi Minh City;Vietnam;VN;2.0;4.0;1.0;2.0;5.0;471.0;59.0;Moderate;71.24;High;26.85;Very Low;84.19;Very High;97.18;Very Low;78.34;261.0
+135;Queenstown;New Zealand;NZ;14.0;8.0;3.0;3.0;72.0;817.0;51.87;Moderate;95.46;Very High;59.36;Low;26.0;Low;186.57;Very High;170.51;31.0
+136;Chiang Rai;Thailand;TH;2.0;5.0;2.0;2.0;20.0;252.0;62.49;High;69.76;High;33.88;Very Low;75.65;High;105.37;Low;225.17;6.0
+137;Ubud, Bali;Indonesia;ID;2.0;3.0;2.0;2.0;10.0;210.0;54.11;Moderate;63.76;High;25.31;Very Low;67.99;High;99.98;Very Low;27.83;10.0
+138;Amarillo, TX;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+139;San Juan;Puerto Rico;PR;6.0;5.0;1.0;2.0;11.0;143.0;38.52;Low;0.0;;59.23;Low;47.86;Moderate;0.0;;;20.0
+140;Queretaro;Mexico;MX;7.0;6.0;1.0;2.0;25.0;488.0;46.47;Moderate;87.51;Very High;35.0;Very Low;58.46;Moderate;127.02;Moderate;54.88;4.0
+141;Chongqing;China;CN;3.0;5.0;1.0;4.0;54.0;261.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;5.0
+142;Senggigi, Lombok;Indonesia;ID;2.0;3.0;2.0;2.0;10.0;210.0;54.11;Moderate;63.76;High;25.31;Very Low;67.99;High;99.98;Very Low;27.83;10.692307692307692
+143;Oranjestad;Aruba;AW;11.0;8.0;3.0;2.0;48.0;734.0;69.23;High;0.0;;79.42;High;35.7;Low;0.0;;;4.0
+144;Cannes;France;FR;15.0;9.0;1.0;3.0;36.0;891.0;44.56;Moderate;89.71;Very High;59.48;Low;43.56;Moderate;165.08;Very High;214.04;9.0
+145;Montego Bay;Jamaica;JM;5.0;5.0;2.0;2.0;26.0;376.0;32.61;Low;71.58;High;49.56;Low;66.31;High;83.92;Very Low;37.84;6.0
+146;Rennes;France;FR;14.0;9.0;2.0;2.0;53.0;648.0;44.56;Moderate;89.71;Very High;59.48;Low;43.56;Moderate;165.08;Very High;214.04;6.0
+147;Memphis, TN;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+148;Hiroshima;Japan;JP;6.0;5.0;2.0;3.0;51.0;397.0;77.07;High;85.26;Very High;46.99;Low;38.55;Low;184.32;Very High;178.76;22.0
+149;Hangzhou;China;CN;4.0;5.0;1.0;4.0;15.0;499.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;7.0
+150;Liberia;Costa Rica;CR;6.0;7.0;2.0;3.0;48.0;362.0;46.04;Moderate;99.48;Very High;50.18;Low;42.39;Moderate;129.35;Moderate;56.39;7.0
+151;Nottingham;United Kingdom;GB;14.0;7.0;2.0;3.0;70.0;877.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;8.0
+152;The Hague;Netherlands;NL;16.0;9.0;1.0;3.0;109.0;1053.0;73.36;High;87.42;Very High;61.41;Moderate;21.14;Low;211.85;Very High;165.0;18.0
+153;Medan, Sumatra;Indonesia;ID;2.0;3.0;2.0;2.0;10.0;210.0;54.11;Moderate;63.76;High;25.31;Very Low;67.99;High;99.98;Very Low;27.83;10.692307692307692
+154;London;United Kingdom;GB;16.0;9.0;2.0;3.0;67.0;1285.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;510.0
+154;London;United Kingdom;GB;18.0;8.0;2.0;4.0;176.0;2304.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;510.0
+155;Yangshuo;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;4.0
+156;Seminyak, Bali;Indonesia;ID;2.0;3.0;2.0;2.0;10.0;210.0;54.11;Moderate;63.76;High;25.31;Very Low;67.99;High;99.98;Very Low;27.83;2.0
+157;Cairns;Australia;AU;15.0;10.0;4.0;3.0;97.0;753.0;52.71;Moderate;93.8;Very High;64.5;Moderate;26.8;Low;190.69;Very High;82.73;23.0
+158;Salzburg;Austria;AT;15.0;9.0;1.0;4.0;40.0;948.0;70.38;High;77.4;High;62.22;Moderate;20.73;Low;192.07;Very High;94.31;30.0
+159;Utrecht;Netherlands;NL;17.0;9.0;1.0;3.0;90.0;1293.0;73.36;High;87.42;Very High;61.41;Moderate;21.14;Low;211.85;Very High;165.0;29.0
+160;Las Vegas, NV;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;3.0
+161;Kathmandu;Nepal;NP;2.0;7.0;2.0;1.0;4.0;166.0;63.5;High;92.64;Very High;23.48;Very Low;83.87;Very High;88.97;Very Low;33.87;37.0
+162;Semarang;Indonesia;ID;1.0;3.0;2.0;1.0;17.0;247.0;54.11;Moderate;63.76;High;25.31;Very Low;67.99;High;99.98;Very Low;27.83;10.692307692307692
+163;Ningbo;China;CN;4.0;5.0;1.0;3.0;14.0;400.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;1.0
+164;Lusaka;Zambia;ZM;3.0;3.0;1.0;2.0;29.0;250.0;54.39;Moderate;0.0;;36.74;Very Low;80.9;Very High;0.0;;17.24;1.0
+165;Pittsburgh, PA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;1.0
+166;Nice;France;FR;19.0;11.0;2.0;4.0;42.0;879.0;44.56;Moderate;89.71;Very High;59.48;Low;43.56;Moderate;165.08;Very High;214.04;50.0
+167;Bristol;United Kingdom;GB;18.0;7.0;2.0;4.0;98.0;1280.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;19.0
+168;Bremen;Germany;DE;12.0;10.0;1.0;3.0;68.0;628.0;60.77;High;83.3;Very High;59.56;Low;28.81;Low;189.75;Very High;136.66;7.0
+169;Port Harcourt;Nigeria;NG;1.0;3.0;1.0;1.0;11.0;966.0;33.51;Low;60.75;High;27.29;Very Low;87.91;Very High;41.24;Very Low;17.65;17.0
+170;New York City, NY;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;11.0
+171;Costa da Caparica;Portugal;PT;8.0;6.0;1.0;1.0;36.0;625.0;68.17;High;97.31;Very High;41.72;Low;28.8;Low;168.85;Very High;162.55;39.0
+172;Rethymno;Greece;GR;9.0;7.0;1.0;3.0;40.0;394.0;53.44;Moderate;91.79;Very High;47.78;Low;50.07;Moderate;136.83;Moderate;39.08;3.0
+173;Battle Creek, MI;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+174;Alanya;Turkey;TR;3.0;3.0;1.0;1.0;15.0;175.0;58.74;Moderate;93.26;Very High;35.37;Very Low;64.29;High;130.42;Moderate;43.48;3.0
+175;Innsbruck;Austria;AT;15.0;9.0;1.0;3.0;50.0;822.0;70.38;High;77.4;High;62.22;Moderate;20.73;Low;192.07;Very High;94.31;22.0
+176;Chattanooga, TN;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+177;Des Moines, IA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+178;A Coruna;Spain;ES;11.0;7.0;1.0;2.0;33.0;643.0;63.51;High;94.04;Very High;44.41;Low;35.7;Low;184.67;Very High;201.47;2.0
+179;Thessaloniki;Greece;GR;12.0;7.0;1.0;3.0;30.0;426.0;53.44;Moderate;91.79;Very High;47.78;Low;50.07;Moderate;136.83;Moderate;39.08;19.0
+180;Seattle, WA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;1.0
+181;Mendoza;Argentina;AR;6.0;5.0;1.0;2.0;23.0;117.0;36.36;Low;98.28;Very High;32.65;Very Low;50.81;Moderate;115.06;Low;58.87;15.0
+182;Medellin;Colombia;CO;3.0;5.0;1.0;1.0;30.0;283.0;39.14;Low;96.69;Very High;25.48;Very Low;62.47;High;107.9;Low;72.19;187.0
+183;Osaka;Japan;JP;7.0;5.0;2.0;3.0;85.0;643.0;77.07;High;85.26;Very High;46.99;Low;38.55;Low;184.32;Very High;178.76;105.0
+184;Caye Caulker;Belize;BZ;5.0;7.0;2.0;4.0;17.0;312.0;47.47;Moderate;0.0;;0.0;;52.8;Moderate;0.0;;;9.0
+185;Lake Balaton;Hungary;HU;6.0;5.0;1.0;1.0;20.0;290.0;66.28;High;78.74;High;37.72;Very Low;46.57;Moderate;143.26;Moderate;210.55;1.0
+186;Rovaniemi;Finland;FI;12.0;9.0;3.0;4.0;52.0;610.0;73.57;High;58.87;Moderate;60.04;Moderate;11.83;Very Low;203.06;Very High;135.05;3.0
+187;Cadiz;Spain;ES;11.0;8.0;1.0;2.0;36.0;634.0;63.51;High;94.04;Very High;44.41;Low;35.7;Low;184.67;Very High;201.47;4.0
+188;Norwich;United Kingdom;GB;18.0;7.0;3.0;3.0;76.0;1005.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;2.0
+189;Providence, RI;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+190;Groningen;Netherlands;NL;15.0;10.0;1.0;3.0;90.0;842.0;73.36;High;87.42;Very High;61.41;Moderate;21.14;Low;211.85;Very High;165.0;9.0
+191;Leeds;United Kingdom;GB;14.0;7.0;2.0;4.0;88.0;967.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;8.0
+192;Ipoh;Malaysia;MY;2.0;3.0;3.0;2.0;16.0;293.0;51.03;Moderate;56.55;Moderate;29.82;Very Low;61.14;High;136.22;Moderate;107.55;5.0
+193;Astana;Kazakhstan;KZ;6.0;4.0;1.0;1.0;11.0;238.0;54.62;Moderate;39.78;Moderate;28.08;Very Low;73.16;High;105.92;Low;63.28;4.0
+194;Lahore;Pakistan;PK;1.0;3.0;1.0;2.0;6.0;107.0;56.31;Moderate;71.93;High;17.9;Very Low;73.31;High;104.14;Low;13.84;1.0
+195;Cabarete;Dominican Republic;DO;6.0;6.0;2.0;2.0;46.0;410.0;39.4;Low;67.82;High;34.75;Very Low;72.8;High;89.09;Very Low;32.26;9.0
+196;Lagos, Algarve;Portugal;PT;8.0;6.0;1.0;1.0;36.0;625.0;68.17;High;97.31;Very High;41.72;Low;28.8;Low;168.85;Very High;162.55;39.0
+197;Kitchener;Canada;CA;14.0;8.0;2.0;2.0;64.0;1229.0;54.34;Moderate;55.41;Moderate;60.55;Moderate;29.8;Low;164.54;Very High;183.81;2.0
+198;Honolulu, Hawaii;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;1.0
+199;Tampa, FL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+200;Agadir;Morocco;MA;3.0;5.0;2.0;2.0;13.0;174.0;52.34;Moderate;86.09;Very High;27.76;Very Low;68.66;High;110.96;Low;27.21;5.0
+201;Vadodara;India;IN;2.0;4.0;2.0;2.0;6.0;96.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;9.0
+202;Datong;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;1.0
+203;Fukuoka;Japan;JP;7.0;5.0;2.0;3.0;67.0;479.0;77.07;High;85.26;Very High;46.99;Low;38.55;Low;184.32;Very High;178.76;10.0
+204;Chicago, IL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.0
+205;Madrid;Spain;ES;12.0;8.0;1.0;2.0;55.0;1007.0;63.51;High;94.04;Very High;44.41;Low;35.7;Low;184.67;Very High;201.47;198.0
+206;Nanjing;China;CN;3.0;4.0;1.0;3.0;15.0;483.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;4.0
+207;Greeley, CO;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+208;Leon;Nicaragua;NI;12.0;8.0;1.0;2.0;23.0;586.0;49.25;Moderate;0.0;;31.13;Very Low;60.78;High;0.0;;29.94;3.0
+209;Oxnard, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+210;Saskatoon;Canada;CA;14.0;8.0;3.0;3.0;59.0;848.0;54.34;Moderate;55.41;Moderate;60.55;Moderate;29.8;Low;164.54;Very High;183.81;1.0
+211;Catania;Italy;IT;12.0;8.0;1.0;2.0;30.0;482.0;53.03;Moderate;90.78;Very High;52.12;Low;53.67;Moderate;151.06;High;104.09;3.0
+212;Vina del Mar;Chile;CL;11.0;5.0;1.0;2.0;45.0;371.0;39.55;Low;90.21;Very High;36.29;Very Low;77.51;High;106.49;Low;217.6;1.0
+213;Fresno, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+214;Dubai;United Arab Emirates;AE;12.0;8.0;3.0;5.0;91.0;1709.0;84.43;Very High;45.84;Moderate;53.8;Low;47.98;Moderate;176.65;Very High;189.07;117.0
+215;Ko Chang;Thailand;TH;2.0;5.0;2.0;2.0;20.0;252.0;62.49;High;69.76;High;33.88;Very Low;75.65;High;105.37;Low;225.17;7.0
+216;Puerto Viejo;Costa Rica;CR;6.0;7.0;2.0;3.0;48.0;362.0;46.04;Moderate;99.48;Very High;50.18;Low;42.39;Moderate;129.35;Moderate;56.39;19.0
+217;Hof;Germany;DE;11.0;8.0;1.0;3.0;68.0;686.0;60.77;High;83.3;Very High;59.56;Low;28.81;Low;189.75;Very High;136.66;1.0
+218;Asheville, NC;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+219;Oxford;United Kingdom;GB;15.0;7.0;3.0;3.0;83.0;1370.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;6.0
+220;Grand Rapids, MI;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+221;Windsor;Canada;CA;14.0;8.0;2.0;3.0;92.0;969.0;54.34;Moderate;55.41;Moderate;60.55;Moderate;29.8;Low;164.54;Very High;183.81;1.0
+222;Strasbourg;France;FR;15.0;10.0;3.0;3.0;53.0;703.0;44.56;Moderate;89.71;Very High;59.48;Low;43.56;Moderate;165.08;Very High;214.04;8.0
+223;Oklahoma City, OK;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+224;Fes;Morocco;MA;2.0;4.0;3.0;1.0;9.0;217.0;52.34;Moderate;86.09;Very High;27.76;Very Low;68.66;High;110.96;Low;27.21;13.0
+225;Kobe;Japan;JP;6.0;5.0;2.0;3.0;66.0;497.0;77.07;High;85.26;Very High;46.99;Low;38.55;Low;184.32;Very High;178.76;5.0
+226;Nagpur;India;IN;5.0;4.0;2.0;2.0;8.0;97.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;1.0
+227;Erie, PA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+228;Gaborone;Botswana;BW;11.0;6.0;1.0;2.0;21.0;244.0;47.3;Moderate;88.87;Very High;40.05;Low;46.09;Moderate;36.55;Very Low;;1.0
+229;Cincinnati, OH;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+230;Halifax;Canada;CA;14.0;8.0;3.0;3.0;58.0;1160.0;54.34;Moderate;55.41;Moderate;60.55;Moderate;29.8;Low;164.54;Very High;183.81;7.0
+231;Virginia Beach, VA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+232;Colorado Springs, CO;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;1.0
+233;Sharjah;United Arab Emirates;AE;5.0;6.0;2.0;4.0;65.0;6365.0;84.43;Very High;45.84;Moderate;53.8;Low;47.98;Moderate;176.65;Very High;189.07;67.0
+234;Belgrade;Serbia;RS;8.0;7.0;1.0;2.0;28.0;619.0;62.75;High;83.23;Very High;36.18;Very Low;65.62;High;123.62;Moderate;86.77;108.0
+235;Punta del Este;Uruguay;UY;12.0;8.0;2.0;3.0;41.0;409.0;48.2;Moderate;98.04;Very High;47.39;Low;43.49;Moderate;141.6;Moderate;69.91;7.0
+236;Peniche;Portugal;PT;8.0;6.0;1.0;1.0;36.0;625.0;68.17;High;97.31;Very High;41.72;Low;28.8;Low;168.85;Very High;162.55;4.0
+237;Bend, OR;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+238;Hoi An;Vietnam;VN;2.0;4.0;1.0;2.0;7.0;312.0;59.0;Moderate;71.24;High;26.85;Very Low;84.19;Very High;97.18;Very Low;78.34;67.0
+239;Darmstadt;Germany;DE;20.0;8.0;1.0;3.0;65.0;948.0;60.77;High;83.3;Very High;59.56;Low;28.81;Low;189.75;Very High;136.66;6.0
+240;Brasov;Romania;RO;7.0;5.0;1.0;2.0;17.0;368.0;67.82;High;77.0;High;34.66;Very Low;58.61;Moderate;142.14;Moderate;232.17;13.0
+241;Newcastle Upon Tyne;United Kingdom;GB;16.0;7.0;2.0;3.0;86.0;975.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;7.0
+242;Venice;Italy;IT;15.0;9.0;2.0;2.0;37.0;665.0;53.03;Moderate;90.78;Very High;52.12;Low;53.67;Moderate;151.06;High;104.09;73.0
+243;New Orleans, LA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;1.0
+244;Bucaramanga;Colombia;CO;2.0;4.0;1.0;1.0;30.0;164.0;39.14;Low;96.69;Very High;25.48;Very Low;62.47;High;107.9;Low;72.19;1.0
+245;Nashik;India;IN;2.0;4.0;2.0;1.0;8.0;117.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;9.0
+246;Brisbane;Australia;AU;13.0;8.0;3.0;3.0;128.0;1270.0;52.71;Moderate;93.8;Very High;64.5;Moderate;26.8;Low;190.69;Very High;82.73;59.0
+247;Mykonos;Greece;GR;11.0;7.0;1.0;3.0;34.0;370.0;53.44;Moderate;91.79;Very High;47.78;Low;50.07;Moderate;136.83;Moderate;39.08;16.0
+248;Annecy;France;FR;15.0;9.0;2.0;3.0;30.0;847.0;44.56;Moderate;89.71;Very High;59.48;Low;43.56;Moderate;165.08;Very High;214.04;3.0
+249;Rouen;France;FR;13.0;8.0;1.0;2.0;30.0;769.0;44.56;Moderate;89.71;Very High;59.48;Low;43.56;Moderate;165.08;Very High;214.04;2.0
+250;Buffalo, NY;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+251;Tucson, AZ;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+252;Hannover;Germany;DE;10.0;8.0;1.0;3.0;70.0;720.0;60.77;High;83.3;Very High;59.56;Low;28.81;Low;189.75;Very High;136.66;11.0
+253;Tenerife, Canary Islands;Spain;ES;11.0;8.0;1.0;2.0;36.0;634.0;63.51;High;94.04;Very High;44.41;Low;35.7;Low;184.67;Very High;201.47;1.0
+254;Monterrey;Mexico;MX;10.0;6.0;1.0;3.0;22.0;569.0;46.47;Moderate;87.51;Very High;35.0;Very Low;58.46;Moderate;127.02;Moderate;54.88;6.0
+255;Mumbai;India;IN;4.0;4.0;2.0;2.0;5.0;498.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;50.0
+256;San Juan del Sur;Nicaragua;NI;4.0;5.0;1.0;2.0;32.0;175.0;49.25;Moderate;0.0;;31.13;Very Low;60.78;High;0.0;;29.94;22.0
+257;McLeod Ganj;India;IN;2.0;4.0;2.0;1.0;8.0;117.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;5.0
+258;Ko Samui;Thailand;TH;2.0;5.0;2.0;2.0;20.0;252.0;62.49;High;69.76;High;33.88;Very Low;75.65;High;105.37;Low;225.17;75.0
+259;Chania, Crete;Greece;GR;11.0;7.0;1.0;3.0;34.0;370.0;53.44;Moderate;91.79;Very High;47.78;Low;50.07;Moderate;136.83;Moderate;39.08;26.75
+260;Erlangen;Germany;DE;14.0;8.0;1.0;3.0;57.0;669.0;60.77;High;83.3;Very High;59.56;Low;28.81;Low;189.75;Very High;136.66;2.0
+261;Siargao;Philippines;PH;3.0;3.0;1.0;2.0;12.0;298.0;56.92;Moderate;61.23;High;28.77;Very Low;72.38;High;96.95;Very Low;71.85;24.571428571428573
+262;Santa Rosa, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+263;Bournemouth;United Kingdom;GB;23.0;7.0;2.0;3.0;72.0;1020.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;2.0
+265;Boise, ID;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+266;Lille;France;FR;14.0;9.0;2.0;3.0;60.0;753.0;44.56;Moderate;89.71;Very High;59.48;Low;43.56;Moderate;165.08;Very High;214.04;14.0
+267;Boston, MA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;4.0
+268;Handan;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+269;Gaziantep;Turkey;TR;3.0;4.0;1.0;2.0;22.0;160.0;58.74;Moderate;93.26;Very High;35.37;Very Low;64.29;High;130.42;Moderate;43.48;25.166666666666668
+270;Tainan;Taiwan;TW;3.0;5.0;2.0;3.0;20.0;273.0;82.89;Very High;84.38;Very High;44.79;Low;64.31;High;160.18;Very High;152.01;4.0
+271;Patna;India;IN;2.0;3.0;2.0;1.0;12.0;108.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;9.0
+272;Leiden;Netherlands;NL;15.0;10.0;1.0;3.0;50.0;1243.0;73.36;High;87.42;Very High;61.41;Moderate;21.14;Low;211.85;Very High;165.0;3.0
+274;Oaxaca;Mexico;MX;7.0;6.0;1.0;2.0;19.0;377.0;46.47;Moderate;87.51;Very High;35.0;Very Low;58.46;Moderate;127.02;Moderate;54.88;35.0
+275;Torreon;Mexico;MX;7.0;4.0;1.0;3.0;19.0;276.0;46.47;Moderate;87.51;Very High;35.0;Very Low;58.46;Moderate;127.02;Moderate;54.88;26.47826086956522
+276;Visakhapatnam;India;IN;2.0;4.0;2.0;1.0;8.0;117.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;2.0
+277;Aurangabad;India;IN;2.0;4.0;3.0;1.0;10.0;126.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;1.0
+278;Almaty;Kazakhstan;KZ;6.0;5.0;1.0;2.0;14.0;540.0;54.62;Moderate;39.78;Moderate;28.08;Very Low;73.16;High;105.92;Low;63.28;7.0
+279;Davao;Philippines;PH;3.0;3.0;1.0;2.0;12.0;298.0;56.92;Moderate;61.23;High;28.77;Very Low;72.38;High;96.95;Very Low;71.85;4.0
+280;Salento;Colombia;CO;2.0;5.0;1.0;1.0;23.0;186.0;39.14;Low;96.69;Very High;25.48;Very Low;62.47;High;107.9;Low;72.19;5.0
+281;Bansko;Bulgaria;BG;7.0;6.0;1.0;1.0;21.0;239.0;63.73;High;82.76;Very High;35.86;Very Low;62.94;High;144.49;Moderate;86.75;8.0
+283;Bellingham, WA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+284;Dayton, OH;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+285;Pamplona;Spain;ES;12.0;7.0;1.0;1.0;30.0;791.0;63.51;High;94.04;Very High;44.41;Low;35.7;Low;184.67;Very High;201.47;6.0
+286;San Salvador;El Salvador;SV;;;;;;;40.58;Moderate;86.6;Very High;38.13;Very Low;75.37;High;93.05;Very Low;27.04;6.0
+287;Porto Alegre;Brazil;BR;5.0;6.0;1.0;1.0;37.0;251.0;35.36;Low;94.31;Very High;27.14;Very Low;52.84;Moderate;115.99;Low;113.09;7.0
+288;Bursa;Turkey;TR;3.0;4.0;1.0;2.0;26.0;199.0;58.74;Moderate;93.26;Very High;35.37;Very Low;64.29;High;130.42;Moderate;43.48;25.166666666666668
+289;Hyderabad;India;IN;2.0;5.0;2.0;2.0;12.0;166.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;10.0
+290;Javea;Spain;ES;11.0;8.0;1.0;2.0;36.0;634.0;63.51;High;94.04;Very High;44.41;Low;35.7;Low;184.67;Very High;201.47;6.0
+291;Phu Quoc;Vietnam;VN;2.0;4.0;1.0;2.0;7.0;312.0;59.0;Moderate;71.24;High;26.85;Very Low;84.19;Very High;97.18;Very Low;78.34;19.0
+292;Cluj;Romania;RO;6.0;5.0;1.0;2.0;17.0;269.0;67.82;High;77.0;High;34.66;Very Low;58.61;Moderate;142.14;Moderate;232.17;11.0
+293;Antalya;Turkey;TR;4.0;4.0;1.0;2.0;17.0;493.0;58.74;Moderate;93.26;Very High;35.37;Very Low;64.29;High;130.42;Moderate;43.48;12.0
+294;Wanaka;New Zealand;NZ;14.0;8.0;3.0;3.0;72.0;817.0;51.87;Moderate;95.46;Very High;59.36;Low;26.0;Low;186.57;Very High;170.51;9.0
+295;Braga;Portugal;PT;8.0;7.0;1.0;2.0;26.0;594.0;68.17;High;97.31;Very High;41.72;Low;28.8;Low;168.85;Very High;162.55;3.0
+296;Oakland, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+297;Kochi;India;IN;2.0;3.0;1.0;1.0;9.0;176.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;22.0
+298;Sargodha;Pakistan;PK;1.0;3.0;1.0;1.0;7.0;72.0;56.31;Moderate;71.93;High;17.9;Very Low;73.31;High;104.14;Low;13.84;1.0
+299;Baoding;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+300;Marrakesh;Morocco;MA;3.0;5.0;2.0;1.0;14.0;238.0;52.34;Moderate;86.09;Very High;27.76;Very Low;68.66;High;110.96;Low;27.21;66.0
+301;Islamabad;Pakistan;PK;1.0;3.0;1.0;1.0;5.0;161.0;56.31;Moderate;71.93;High;17.9;Very Low;73.31;High;104.14;Low;13.84;1.0
+302;Yerevan;Armenia;AM;7.0;6.0;1.0;3.0;10.0;931.0;77.81;High;63.42;High;41.84;Low;62.55;High;116.56;Low;38.95;8.0
+303;Ulaanbaatar;Mongolia;MN;4.0;4.0;1.0;2.0;6.0;284.0;47.53;Moderate;-3.54;Low;30.68;Very Low;87.82;Very High;62.52;Very Low;53.53;12.0
+304;Paris;France;FR;15.0;10.0;2.0;4.0;75.0;1301.0;44.56;Moderate;89.71;Very High;59.48;Low;43.56;Moderate;165.08;Very High;214.04;356.0
+305;Chennai;India;IN;2.0;5.0;2.0;2.0;12.0;172.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;11.0
+306;Gili Air;Indonesia;ID;2.0;3.0;2.0;2.0;10.0;210.0;54.11;Moderate;63.76;High;25.31;Very Low;67.99;High;99.98;Very Low;27.83;23.0
+307;Palo Alto, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+308;Lake Como;Italy;IT;14.0;8.0;1.0;1.0;35.0;555.0;53.03;Moderate;90.78;Very High;52.12;Low;53.67;Moderate;151.06;High;104.09;7.0
+309;Redding, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+310;Rishikesh;India;IN;2.0;4.0;2.0;1.0;8.0;117.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;12.0
+311;Boulder, CO;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+312;Rimini;Italy;IT;15.0;8.0;1.0;2.0;34.0;603.0;53.03;Moderate;90.78;Very High;52.12;Low;53.67;Moderate;151.06;High;104.09;5.0
+313;Santa Marta;Colombia;CO;3.0;4.0;1.0;1.0;21.0;228.0;39.14;Low;96.69;Very High;25.48;Very Low;62.47;High;107.9;Low;72.19;19.0
+314;Gdansk;Poland;PL;6.0;5.0;1.0;2.0;22.0;598.0;70.99;High;75.9;High;39.35;Very Low;55.51;Moderate;153.6;High;156.33;24.0
+315;Puebla;Mexico;MX;6.0;7.0;1.0;2.0;25.0;310.0;46.47;Moderate;87.51;Very High;35.0;Very Low;58.46;Moderate;127.02;Moderate;54.88;6.0
+316;Brasilia;Brazil;BR;5.0;6.0;1.0;1.0;47.0;364.0;35.36;Low;94.31;Very High;27.14;Very Low;52.84;Moderate;115.99;Low;113.09;6.0
+317;Guangzhou;China;CN;4.0;5.0;1.0;3.0;27.0;508.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;36.0
+318;Bodrum;Turkey;TR;3.0;3.0;1.0;1.0;15.0;175.0;58.74;Moderate;93.26;Very High;35.37;Very Low;64.29;High;130.42;Moderate;43.48;2.0
+319;Reykjavik;Iceland;IS;17.0;14.0;3.0;4.0;57.0;1438.0;74.26;High;68.81;High;81.71;High;15.84;Very Low;202.04;Very High;;73.0
+320;Montgomery, AL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+321;Bari;Italy;IT;15.0;8.0;2.0;1.0;38.0;743.0;53.03;Moderate;90.78;Very High;52.12;Low;53.67;Moderate;151.06;High;104.09;8.0
+322;Yaounde;Cameroon;CM;2.0;2.0;1.0;1.0;8.0;118.0;34.53;Low;0.0;;37.61;Very Low;93.71;Very High;0.0;;13.94;3.0
+323;Kolkata;India;IN;2.0;4.0;2.0;2.0;4.0;142.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;9.0
+324;Hvar;Croatia;HR;7.0;6.0;1.0;1.0;33.0;346.0;74.54;High;89.23;Very High;43.23;Low;31.1;Low;176.02;Very High;69.09;13.0
+325;Deventer;Netherlands;NL;16.0;9.0;1.0;3.0;109.0;1053.0;73.36;High;87.42;Very High;61.41;Moderate;21.14;Low;211.85;Very High;165.0;3.0
+326;Miami, FL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.0
+327;St. George, UT;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+328;Santa Barbara, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+329;Cork;Ireland;IE;15.0;9.0;3.0;3.0;81.0;1406.0;52.53;Moderate;87.83;Very High;60.85;Moderate;34.79;Low;166.37;Very High;122.55;7.0
+330;Heidelberg;Germany;DE;15.0;10.0;1.0;3.0;80.0;979.0;60.77;High;83.3;Very High;59.56;Low;28.81;Low;189.75;Very High;136.66;13.0
+331;Rzeszow;Poland;PL;6.0;5.0;1.0;2.0;21.0;344.0;70.99;High;75.9;High;39.35;Very Low;55.51;Moderate;153.6;High;156.33;1.0
+332;Luton;United Kingdom;GB;14.0;7.0;2.0;4.0;79.0;762.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;2.0
+333;Sheffield;United Kingdom;GB;13.0;8.0;2.0;3.0;87.0;798.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;9.0
+334;Louisville, KY;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+335;Santorini;Greece;GR;11.0;7.0;1.0;3.0;34.0;370.0;53.44;Moderate;91.79;Very High;47.78;Low;50.07;Moderate;136.83;Moderate;39.08;26.0
+336;Coeur d'Alene, ID;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+337;Avignon;France;FR;13.0;10.0;2.0;3.0;45.0;552.0;44.56;Moderate;89.71;Very High;59.48;Low;43.56;Moderate;165.08;Very High;214.04;3.0
+338;Nanaimo;Canada;CA;14.0;9.0;3.0;3.0;46.0;1114.0;54.34;Moderate;55.41;Moderate;60.55;Moderate;29.8;Low;164.54;Very High;183.81;1.0
+339;Salt Lake City, UT;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+340;Ghent;Belgium;BE;17.0;9.0;1.0;3.0;44.0;746.0;50.42;Moderate;86.03;Very High;57.41;Low;49.45;Moderate;168.52;Very High;125.12;16.0
+341;Brno;Czechia;CZ;7.0;7.0;1.0;2.0;23.0;657.0;73.64;High;79.1;High;43.65;Low;34.78;Low;174.21;Very High;;18.0
+342;Minneapolis, MN;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+343;Toronto;Canada;CA;18.0;9.0;2.0;3.0;110.0;1647.0;54.34;Moderate;55.41;Moderate;60.55;Moderate;29.8;Low;164.54;Very High;183.81;112.0
+344;Istanbul;Turkey;TR;5.0;4.0;2.0;2.0;31.0;529.0;58.74;Moderate;93.26;Very High;35.37;Very Low;64.29;High;130.42;Moderate;43.48;125.0
+345;Santa Fe, NM;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+346;Podgorica;Montenegro;ME;6.0;4.0;1.0;1.0;27.0;350.0;64.59;High;89.02;Very High;37.37;Very Low;43.7;Moderate;147.33;High;60.03;9.0
+347;Reno, NV;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+348;Florianopolis;Brazil;BR;5.0;6.0;1.0;2.0;40.0;339.0;35.36;Low;94.31;Very High;27.14;Very Low;52.84;Moderate;115.99;Low;113.09;30.0
+349;Toledo, OH;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+350;Cardiff;United Kingdom;GB;16.0;7.0;2.0;3.0;86.0;975.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;8.0
+351;Zurich;Switzerland;CH;25.0;15.0;2.0;5.0;92.0;1975.0;73.69;High;79.24;High;101.18;Very High;23.06;Low;204.91;Very High;229.96;83.0
+352;Lyon;France;FR;15.0;10.0;2.0;3.0;66.0;798.0;44.56;Moderate;89.71;Very High;59.48;Low;43.56;Moderate;165.08;Very High;214.04;40.0
+353;Nashville, TN;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+354;Srinagar;India;IN;2.0;5.0;2.0;1.0;9.0;111.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;9.0
+355;Perth;Australia;AU;16.0;9.0;4.0;3.0;87.0;1172.0;52.71;Moderate;93.8;Very High;64.5;Moderate;26.8;Low;190.69;Very High;82.73;33.0
+356;Montanita;Ecuador;EC;3.0;6.0;1.0;2.0;20.0;360.0;37.57;Low;94.51;Very High;30.28;Very Low;59.05;Moderate;125.58;Moderate;39.07;5.0
+357;Bocas del Toro;Panama;PA;6.0;6.0;1.0;3.0;28.0;548.0;57.32;Moderate;67.84;High;43.83;Low;55.63;Moderate;122.74;Moderate;137.38;15.0
+358;Biarritz;France;FR;15.0;9.0;3.0;3.0;40.0;1122.0;44.56;Moderate;89.71;Very High;59.48;Low;43.56;Moderate;165.08;Very High;214.04;9.0
+359;Jarabacoa;Dominican Republic;DO;6.0;6.0;2.0;2.0;46.0;410.0;39.4;Low;67.82;High;34.75;Very Low;72.8;High;89.09;Very Low;32.26;2.0
+360;Napa, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+361;Fort Collins, CO;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+362;Trieste;Italy;IT;15.0;9.0;1.0;1.0;36.0;578.0;53.03;Moderate;90.78;Very High;52.12;Low;53.67;Moderate;151.06;High;104.09;3.0
+363;Florence;Italy;IT;15.0;9.0;1.0;1.0;35.0;815.0;53.03;Moderate;90.78;Very High;52.12;Low;53.67;Moderate;151.06;High;104.09;82.0
+364;Bratislava;Slovakia;SK;8.0;7.0;1.0;2.0;30.0;649.0;69.2;High;80.72;Very High;43.24;Low;37.3;Low;157.96;High;115.11;60.0
+365;Jeju Island;South Korea;KR;6.0;5.0;2.0;3.0;40.0;376.0;75.36;High;68.39;High;59.94;Low;60.93;High;148.74;High;212.57;31.0
+366;Amsterdam;Netherlands;NL;19.0;10.0;2.0;3.0;100.0;1715.0;73.36;High;87.42;Very High;61.41;Moderate;21.14;Low;211.85;Very High;165.0;351.0
+367;Chengdu;China;CN;3.0;5.0;1.0;4.0;25.0;418.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;14.0
+368;Beijing;China;CN;4.0;5.0;1.0;4.0;41.0;1143.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;83.0
+369;Victoria;Seychelles;SC;15.0;6.0;3.0;5.0;22.0;834.0;55.01;Moderate;0.0;;59.88;Low;36.71;Low;0.0;;;16.0
+369;Victoria;Seychelles;SC;18.0;8.0;2.0;4.0;60.0;1419.0;55.01;Moderate;0.0;;59.88;Low;36.71;Low;0.0;;;16.0
+370;Victoria;Canada;CA;15.0;6.0;3.0;5.0;22.0;834.0;54.34;Moderate;55.41;Moderate;60.55;Moderate;29.8;Low;164.54;Very High;183.81;16.0
+370;Victoria;Canada;CA;18.0;8.0;2.0;4.0;60.0;1419.0;54.34;Moderate;55.41;Moderate;60.55;Moderate;29.8;Low;164.54;Very High;183.81;16.0
+371;Newport Beach, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+372;Madeira;Portugal;PT;8.0;6.0;1.0;1.0;36.0;625.0;68.17;High;97.31;Very High;41.72;Low;28.8;Low;168.85;Very High;162.55;6.0
+373;Siem Reap;Cambodia;KH;2.0;6.0;1.0;2.0;71.0;226.0;48.19;Moderate;59.43;Moderate;34.38;Very Low;77.77;High;78.92;Very Low;28.32;141.0
+374;Plovdiv;Bulgaria;BG;8.0;6.0;1.0;2.0;25.0;289.0;63.73;High;82.76;Very High;35.86;Very Low;62.94;High;144.49;Moderate;86.75;10.0
+375;Edinburgh;United Kingdom;GB;18.0;7.0;2.0;4.0;70.0;1094.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;77.0
+376;Bath;United Kingdom;GB;16.0;8.0;3.0;4.0;88.0;1465.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;12.0
+377;Oslo;Norway;NO;20.0;12.0;3.0;4.0;80.0;1369.0;67.05;High;68.5;High;71.27;Moderate;18.32;Very Low;194.48;Very High;168.25;85.0
+378;Frankfurt;Germany;DE;14.0;9.0;1.0;3.0;94.0;1114.0;60.77;High;83.3;Very High;59.56;Low;28.81;Low;189.75;Very High;136.66;64.0
+379;Lima;Peru;PE;4.0;5.0;2.0;3.0;15.0;487.0;32.77;Low;97.69;Very High;29.43;Very Low;82.19;Very High;85.92;Very Low;58.73;84.0
+380;Tamarindo;Costa Rica;CR;6.0;7.0;2.0;3.0;48.0;362.0;46.04;Moderate;99.48;Very High;50.18;Low;42.39;Moderate;129.35;Moderate;56.39;18.0
+381;El Gouna;Egypt;EG;3.0;3.0;1.0;1.0;8.0;114.0;52.64;Moderate;91.98;Very High;19.46;Very Low;82.67;Very High;85.41;Very Low;39.97;4.0
+382;Lanzarote, Canary Islands;Spain;ES;11.0;8.0;1.0;2.0;36.0;634.0;63.51;High;94.04;Very High;44.41;Low;35.7;Low;184.67;Very High;201.47;73.19047619047619
+383;Azores;Portugal;PT;8.0;6.0;1.0;1.0;36.0;625.0;68.17;High;97.31;Very High;41.72;Low;28.8;Low;168.85;Very High;162.55;3.0
+384;Manchester, NH;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+385;Bordeaux;France;FR;15.0;9.0;3.0;4.0;40.0;766.0;44.56;Moderate;89.71;Very High;59.48;Low;43.56;Moderate;165.08;Very High;214.04;29.0
+387;Anchorage, AK;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;1.0
+388;Sinuiju;North Korea;KP;;;;;;;46.53;Moderate;0.0;;33.59;Very Low;72.41;High;0.0;;;1.0
+389;Ottawa;Canada;CA;18.0;8.0;2.0;4.0;87.0;1212.0;54.34;Moderate;55.41;Moderate;60.55;Moderate;29.8;Low;164.54;Very High;183.81;11.0
+390;Bishkek;Kyrgyzstan;KG;5.0;4.0;1.0;2.0;6.0;325.0;46.17;Moderate;58.11;Moderate;25.72;Very Low;70.38;High;98.32;Very Low;51.07;10.0
+391;Hamburg;Germany;DE;14.0;9.0;1.0;3.0;92.0;1059.0;60.77;High;83.3;Very High;59.56;Low;28.81;Low;189.75;Very High;136.66;56.0
+392;Leeuwarden;Netherlands;NL;15.0;8.0;1.0;3.0;70.0;747.0;73.36;High;87.42;Very High;61.41;Moderate;21.14;Low;211.85;Very High;165.0;2.0
+393;Playa del Carmen;Mexico;MX;4.0;6.0;1.0;2.0;15.0;771.0;46.47;Moderate;87.51;Very High;35.0;Very Low;58.46;Moderate;127.02;Moderate;54.88;91.0
+394;Basel;Switzerland;CH;25.0;17.0;2.0;5.0;81.0;1410.0;73.69;High;79.24;High;101.18;Very High;23.06;Low;204.91;Very High;229.96;16.0
+395;Gran Canaria, Canary Islands;Spain;ES;11.0;8.0;1.0;2.0;36.0;634.0;63.51;High;94.04;Very High;44.41;Low;35.7;Low;184.67;Very High;201.47;73.19047619047619
+396;Quebec City;Canada;CA;14.0;9.0;1.0;3.0;63.0;688.0;54.34;Moderate;55.41;Moderate;60.55;Moderate;29.8;Low;164.54;Very High;183.81;9.0
+397;Skopje;North Macedonia;MK;6.0;4.0;1.0;2.0;24.0;280.0;59.17;Moderate;76.3;High;30.57;Very Low;79.59;High;119.96;Low;43.24;18.0
+398;Dusseldorf;Germany;DE;11.0;9.0;1.0;3.0;80.0;976.0;60.77;High;83.3;Very High;59.56;Low;28.81;Low;189.75;Very High;136.66;34.0
+399;Shanghai;China;CN;5.0;5.0;1.0;4.0;27.0;1041.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;91.0
+400;Sliema;Malta;MT;15.0;9.0;2.0;2.0;26.0;909.0;57.09;Moderate;97.44;Very High;48.99;Low;75.5;High;132.54;Moderate;144.06;25.0
+401;Lausanne;Switzerland;CH;25.0;15.0;3.0;5.0;75.0;1589.0;73.69;High;79.24;High;101.18;Very High;23.06;Low;204.91;Very High;229.96;16.0
+402;Nantes;France;FR;13.0;10.0;2.0;3.0;55.0;586.0;44.56;Moderate;89.71;Very High;59.48;Low;43.56;Moderate;165.08;Very High;214.04;7.0
+403;Kaunas;Lithuania;LT;8.0;6.0;1.0;3.0;28.0;479.0;67.72;High;67.76;High;44.73;Low;26.14;Low;172.77;Very High;147.05;7.0
+404;Mallorca;Spain;ES;11.0;8.0;1.0;2.0;36.0;634.0;63.51;High;94.04;Very High;44.41;Low;35.7;Low;184.67;Very High;201.47;73.19047619047619
+405;Atlanta, GA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+406;Gold Coast;Australia;AU;13.0;10.0;4.0;3.0;104.0;1345.0;52.71;Moderate;93.8;Very High;64.5;Moderate;26.8;Low;190.69;Very High;82.73;20.0
+407;Montreal;Canada;CA;14.0;9.0;2.0;3.0;66.0;997.0;54.34;Moderate;55.41;Moderate;60.55;Moderate;29.8;Low;164.54;Very High;183.81;109.0
+408;Lake Tahoe, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+409;Uluwatu, Bali;Indonesia;ID;2.0;3.0;2.0;2.0;10.0;210.0;54.11;Moderate;63.76;High;25.31;Very Low;67.99;High;99.98;Very Low;27.83;10.692307692307692
+411;Paphos;Cyprus;CY;12.0;7.0;1.0;3.0;40.0;703.0;66.9;High;90.87;Very High;50.99;Low;54.99;Moderate;158.84;High;55.11;8.0
+412;Worcester, MA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+413;Malmo;Sweden;SE;9.0;8.0;2.0;4.0;53.0;767.0;51.74;Moderate;76.49;High;54.84;Low;17.66;Very Low;193.48;Very High;174.9;17.0
+414;Belfast;United Kingdom;GB;18.0;7.0;2.0;3.0;64.0;983.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;18.0
+415;Jundiai;Brazil;BR;5.0;6.0;1.0;2.0;35.0;426.0;35.36;Low;94.31;Very High;27.14;Very Low;52.84;Moderate;115.99;Low;113.09;15.777777777777779
+416;Makati;Philippines;PH;3.0;3.0;1.0;2.0;12.0;298.0;56.92;Moderate;61.23;High;28.77;Very Low;72.38;High;96.95;Very Low;71.85;3.0
+417;San Francisco, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;7.0
+418;Riyadh;Saudi Arabia;SA;6.0;7.0;2.0;4.0;30.0;718.0;76.23;High;45.98;Moderate;42.06;Low;62.46;High;173.2;Very High;94.64;2.0
+419;Pai;Thailand;TH;2.0;5.0;2.0;2.0;20.0;252.0;62.49;High;69.76;High;33.88;Very Low;75.65;High;105.37;Low;225.17;35.0
+420;Lucca;Italy;IT;15.0;8.0;1.0;1.0;40.0;803.0;53.03;Moderate;90.78;Very High;52.12;Low;53.67;Moderate;151.06;High;104.09;2.0
+421;Hartford, CT;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+422;Port Louis;Mauritius;MU;5.0;4.0;1.0;2.0;16.0;218.0;52.71;Moderate;0.0;;34.6;Very Low;54.8;Moderate;0.0;;39.85;4.0
+423;Montpellier;France;FR;13.0;10.0;3.0;3.0;30.0;710.0;44.56;Moderate;89.71;Very High;59.48;Low;43.56;Moderate;165.08;Very High;214.04;18.0
+424;Gothenburg;Sweden;SE;11.0;8.0;2.0;4.0;75.0;1000.0;51.74;Moderate;76.49;High;54.84;Low;17.66;Very Low;193.48;Very High;174.9;21.0
+425;Los Angeles, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;6.0
+426;Ko Phi Phi;Thailand;TH;2.0;5.0;2.0;2.0;20.0;252.0;62.49;High;69.76;High;33.88;Very Low;75.65;High;105.37;Low;225.17;30.0
+427;Cemagi, Bali;Indonesia;ID;2.0;3.0;2.0;2.0;10.0;210.0;54.11;Moderate;63.76;High;25.31;Very Low;67.99;High;99.98;Very Low;27.83;10.692307692307692
+428;Texel;Netherlands;NL;16.0;9.0;1.0;3.0;109.0;1053.0;73.36;High;87.42;Very High;61.41;Moderate;21.14;Low;211.85;Very High;165.0;1.0
+429;Puerto Escondido;Mexico;MX;7.0;6.0;1.0;2.0;19.0;377.0;46.47;Moderate;87.51;Very High;35.0;Very Low;58.46;Moderate;127.02;Moderate;54.88;10.0
+430;Daytona Beach, FL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+431;Palermo;Italy;IT;10.0;8.0;1.0;2.0;37.0;502.0;53.03;Moderate;90.78;Very High;52.12;Low;53.67;Moderate;151.06;High;104.09;10.0
+432;Haikou;China;CN;2.0;4.0;1.0;3.0;8.0;271.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+433;Bogota;Colombia;CO;3.0;4.0;1.0;1.0;25.0;320.0;39.14;Low;96.69;Very High;25.48;Very Low;62.47;High;107.9;Low;72.19;77.0
+434;Sao Paulo;Brazil;BR;7.0;6.0;1.0;2.0;44.0;541.0;35.36;Low;94.31;Very High;27.14;Very Low;52.84;Moderate;115.99;Low;113.09;71.0
+435;Portland, ME;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+436;Bruges;Belgium;BE;15.0;7.0;2.0;3.0;20.0;649.0;50.42;Moderate;86.03;Very High;57.41;Low;49.45;Moderate;168.52;Very High;125.12;19.0
+437;Okinawa City, Okinawa;Japan;JP;6.0;5.0;2.0;3.0;73.0;580.0;77.07;High;85.26;Very High;46.99;Low;38.55;Low;184.32;Very High;178.76;39.666666666666664
+438;Santiago;Chile;CL;4.0;5.0;1.0;3.0;29.0;286.0;39.55;Low;90.21;Very High;36.29;Very Low;77.51;High;106.49;Low;217.6;92.0
+438;Santiago;Chile;CL;9.0;6.0;1.0;2.0;43.0;435.0;39.55;Low;90.21;Very High;36.29;Very Low;77.51;High;106.49;Low;217.6;92.0
+440;Essaouira;Morocco;MA;3.0;5.0;2.0;1.0;14.0;238.0;52.34;Moderate;86.09;Very High;27.76;Very Low;68.66;High;110.96;Low;27.21;10.0
+441;Szczecin;Poland;PL;7.0;5.0;1.0;2.0;21.0;484.0;70.99;High;75.9;High;39.35;Very Low;55.51;Moderate;153.6;High;156.33;2.0
+442;Cologne;Germany;DE;13.0;9.0;1.0;3.0;96.0;878.0;60.77;High;83.3;Very High;59.56;Low;28.81;Low;189.75;Very High;136.66;53.0
+443;Belo Horizonte;Brazil;BR;4.0;5.0;1.0;1.0;31.0;257.0;35.36;Low;94.31;Very High;27.14;Very Low;52.84;Moderate;115.99;Low;113.09;10.0
+444;San Miguel de Allende;Mexico;MX;7.0;6.0;1.0;3.0;17.0;754.0;46.47;Moderate;87.51;Very High;35.0;Very Low;58.46;Moderate;127.02;Moderate;54.88;11.0
+445;Da Lat;Vietnam;VN;2.0;4.0;1.0;2.0;7.0;312.0;59.0;Moderate;71.24;High;26.85;Very Low;84.19;Very High;97.18;Very Low;78.34;20.0
+447;San Pedro;Belize;BZ;5.0;7.0;2.0;4.0;17.0;312.0;47.47;Moderate;0.0;;0.0;;52.8;Moderate;0.0;;;4.0
+448;Tirana;Albania;AL;6.0;6.0;1.0;1.0;14.0;411.0;55.52;Moderate;86.43;Very High;40.85;Low;77.25;High;104.16;Low;45.55;18.0
+449;Jeddah;Saudi Arabia;SA;6.0;7.0;2.0;4.0;15.0;477.0;76.23;High;45.98;Moderate;42.06;Low;62.46;High;173.2;Very High;94.64;3.0
+450;Langkawi;Malaysia;MY;2.0;3.0;2.0;2.0;19.0;298.0;51.03;Moderate;56.55;Moderate;29.82;Very Low;61.14;High;136.22;Moderate;107.55;19.0
+451;Bay Islands;Honduras;HN;4.0;6.0;1.0;2.0;39.0;303.0;27.75;Low;0.0;;34.39;Very Low;75.52;High;0.0;;26.93;1.0
+452;Batumi;Georgia;GE;7.0;6.0;1.0;2.0;7.0;531.0;73.9;High;88.53;Very High;32.0;Very Low;67.54;High;125.48;Moderate;28.61;7.0
+453;San Sebastian;Spain;ES;11.0;8.0;1.0;2.0;36.0;634.0;63.51;High;94.04;Very High;44.41;Low;35.7;Low;184.67;Very High;201.47;18.0
+454;Granada;Spain;ES;10.0;8.0;1.0;2.0;40.0;565.0;63.51;High;94.04;Very High;44.41;Low;35.7;Low;184.67;Very High;201.47;40.0
+455;Mombasa;Kenya;KE;2.0;5.0;2.0;2.0;39.0;140.0;44.24;Moderate;99.79;Very High;28.23;Very Low;69.04;High;101.33;Low;19.35;3.0
+456;Phnom Penh;Cambodia;KH;4.0;6.0;1.0;3.0;10.0;521.0;48.19;Moderate;59.43;Moderate;34.38;Very Low;77.77;High;78.92;Very Low;28.32;98.0
+457;Jakarta;Indonesia;ID;2.0;3.0;2.0;2.0;11.0;482.0;54.11;Moderate;63.76;High;25.31;Very Low;67.99;High;99.98;Very Low;27.83;54.0
+458;Interlaken;Switzerland;CH;24.0;15.0;2.0;5.0;92.0;1481.0;73.69;High;79.24;High;101.18;Very High;23.06;Low;204.91;Very High;229.96;8.0
+459;Galle;Sri Lanka;LK;2.0;3.0;1.0;1.0;1.0;58.0;57.9;Moderate;59.11;Moderate;33.96;Very Low;57.94;Moderate;75.17;Very Low;26.08;7.0
+460;Hue;Vietnam;VN;2.0;4.0;1.0;2.0;7.0;312.0;59.0;Moderate;71.24;High;26.85;Very Low;84.19;Very High;97.18;Very Low;78.34;17.0
+461;Banff;Canada;CA;23.0;7.0;3.0;4.0;46.0;1295.0;54.34;Moderate;55.41;Moderate;60.55;Moderate;29.8;Low;164.54;Very High;183.81;13.0
+462;Geneva;Switzerland;CH;25.0;15.0;2.0;5.0;71.0;2022.0;73.69;High;79.24;High;101.18;Very High;23.06;Low;204.91;Very High;229.96;40.0
+463;Craiova;Romania;RO;5.0;5.0;1.0;2.0;20.0;257.0;67.82;High;77.0;High;34.66;Very Low;58.61;Moderate;142.14;Moderate;232.17;19.833333333333332
+464;Chisinau;Moldova;MD;6.0;5.0;1.0;1.0;11.0;302.0;55.52;Moderate;76.91;High;31.44;Very Low;61.33;High;122.53;Moderate;154.56;5.0
+465;Vienna;Austria;AT;15.0;9.0;1.0;4.0;33.0;951.0;70.38;High;77.4;High;62.22;Moderate;20.73;Low;192.07;Very High;94.31;153.0
+466;Delhi;India;IN;5.0;4.0;1.0;2.0;11.0;219.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;68.0
+467;Palawan;Philippines;PH;3.0;3.0;1.0;2.0;12.0;298.0;56.92;Moderate;61.23;High;28.77;Very Low;72.38;High;96.95;Very Low;71.85;7.0
+468;Mancora;Peru;PE;3.0;5.0;2.0;2.0;15.0;323.0;32.77;Low;97.69;Very High;29.43;Very Low;82.19;Very High;85.92;Very Low;58.73;57.0
+469;Aberdeen;United Kingdom;GB;18.0;6.0;2.0;3.0;95.0;640.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;4.0
+470;Iasi;Romania;RO;7.0;5.0;1.0;2.0;20.0;357.0;67.82;High;77.0;High;34.66;Very Low;58.61;Moderate;142.14;Moderate;232.17;3.0
+471;Malaga;Spain;ES;10.0;8.0;1.0;2.0;40.0;713.0;63.51;High;94.04;Very High;44.41;Low;35.7;Low;184.67;Very High;201.47;60.0
+473;Pattaya;Thailand;TH;2.0;5.0;2.0;2.0;20.0;252.0;62.49;High;69.76;High;33.88;Very Low;75.65;High;105.37;Low;225.17;30.0
+475;Vancouver;Canada;CA;17.0;8.0;2.0;4.0;91.0;1716.0;54.34;Moderate;55.41;Moderate;60.55;Moderate;29.8;Low;164.54;Very High;183.81;129.0
+476;Jimbaran, Bali;Indonesia;ID;2.0;3.0;2.0;2.0;10.0;210.0;54.11;Moderate;63.76;High;25.31;Very Low;67.99;High;99.98;Very Low;27.83;10.692307692307692
+477;Larnaca;Cyprus;CY;15.0;8.0;1.0;4.0;40.0;807.0;66.9;High;90.87;Very High;50.99;Low;54.99;Moderate;158.84;High;55.11;9.0
+478;Amalfi;Italy;IT;14.0;9.0;1.0;1.0;30.0;703.0;53.03;Moderate;90.78;Very High;52.12;Low;53.67;Moderate;151.06;High;104.09;7.0
+479;Thimphu;Bhutan;BT;3.0;3.0;1.0;1.0;15.0;164.0;70.45;High;0.0;;24.92;Very Low;48.82;Moderate;0.0;;;4.0
+480;Natal;Brazil;BR;3.0;5.0;1.0;2.0;46.0;173.0;35.36;Low;94.31;Very High;27.14;Very Low;52.84;Moderate;115.99;Low;113.09;15.777777777777779
+481;Daegu;South Korea;KR;5.0;5.0;2.0;3.0;26.0;339.0;75.36;High;68.39;High;59.94;Low;60.93;High;148.74;High;212.57;3.0
+482;Lagos;Nigeria;NG;4.0;6.0;1.0;3.0;32.0;1341.0;33.51;Low;60.75;High;27.29;Very Low;87.91;Very High;41.24;Very Low;17.65;17.0
+482;Lagos;Nigeria;NG;8.0;7.0;1.0;2.0;40.0;841.0;33.51;Low;60.75;High;27.29;Very Low;87.91;Very High;41.24;Very Low;17.65;17.0
+483;Taghazout;Morocco;MA;3.0;5.0;2.0;1.0;14.0;238.0;52.34;Moderate;86.09;Very High;27.76;Very Low;68.66;High;110.96;Low;27.21;32.0
+484;Livingstone;Zambia;ZM;3.0;3.0;1.0;2.0;29.0;250.0;54.39;Moderate;0.0;;36.74;Very Low;80.9;Very High;0.0;;17.24;1.0
+485;Colombo;Sri Lanka;LK;1.0;3.0;1.0;1.0;4.0;282.0;57.9;Moderate;59.11;Moderate;33.96;Very Low;57.94;Moderate;75.17;Very Low;26.08;37.0
+486;Ko Tao;Thailand;TH;2.0;5.0;2.0;2.0;20.0;252.0;62.49;High;69.76;High;33.88;Very Low;75.65;High;105.37;Low;225.17;54.0
+487;Chamonix;France;FR;14.0;9.0;2.0;3.0;48.0;680.0;44.56;Moderate;89.71;Very High;59.48;Low;43.56;Moderate;165.08;Very High;214.04;16.0
+488;Ushuaia;Argentina;AR;6.0;5.0;1.0;2.0;19.0;218.0;36.36;Low;98.28;Very High;32.65;Very Low;50.81;Moderate;115.06;Low;58.87;6.0
+489;Osijek;Croatia;HR;7.0;5.0;1.0;1.0;37.0;326.0;74.54;High;89.23;Very High;43.23;Low;31.1;Low;176.02;Very High;69.09;1.0
+490;Turku;Finland;FI;13.0;8.0;3.0;3.0;55.0;697.0;73.57;High;58.87;Moderate;60.04;Moderate;11.83;Very Low;203.06;Very High;135.05;2.0
+491;Dresden;Germany;DE;10.0;9.0;1.0;3.0;64.0;551.0;60.77;High;83.3;Very High;59.56;Low;28.81;Low;189.75;Very High;136.66;21.0
+492;Stuttgart;Germany;DE;12.0;9.0;1.0;3.0;73.0;1004.0;60.77;High;83.3;Very High;59.56;Low;28.81;Low;189.75;Very High;136.66;18.0
+493;Santa Cruz;Bolivia;BO;3.0;6.0;2.0;2.0;20.0;300.0;35.0;Low;0.0;;25.28;Very Low;71.92;High;0.0;;27.8;16.0
+494;Nicosia;Cyprus;CY;13.0;6.0;1.0;3.0;40.0;606.0;66.9;High;90.87;Very High;50.99;Low;54.99;Moderate;158.84;High;55.11;4.0
+495;Bandung;Indonesia;ID;1.0;3.0;2.0;2.0;13.0;197.0;54.11;Moderate;63.76;High;25.31;Very Low;67.99;High;99.98;Very Low;27.83;7.0
+496;Panama City;Panama;PA;8.0;6.0;1.0;3.0;26.0;866.0;57.32;Moderate;67.84;High;43.83;Low;55.63;Moderate;122.74;Moderate;137.38;53.0
+497;Bariloche;Argentina;AR;6.0;5.0;1.0;2.0;19.0;218.0;36.36;Low;98.28;Very High;32.65;Very Low;50.81;Moderate;115.06;Low;58.87;27.22222222222222
+498;Arugam Bay;Sri Lanka;LK;1.0;4.0;1.0;1.0;5.0;110.0;57.9;Moderate;59.11;Moderate;33.96;Very Low;57.94;Moderate;75.17;Very Low;26.08;3.0
+499;Kuta (Lombok), Lombok;Indonesia;ID;2.0;3.0;2.0;2.0;10.0;210.0;54.11;Moderate;63.76;High;25.31;Very Low;67.99;High;99.98;Very Low;27.83;10.692307692307692
+500;Joao Pessoa;Brazil;BR;3.0;6.0;1.0;1.0;45.0;269.0;35.36;Low;94.31;Very High;27.14;Very Low;52.84;Moderate;115.99;Low;113.09;15.777777777777779
+501;Rome;Italy;IT;16.0;9.0;2.0;1.0;35.0;1020.0;53.03;Moderate;90.78;Very High;52.12;Low;53.67;Moderate;151.06;High;104.09;163.0
+502;Shenzhen;China;CN;4.0;5.0;1.0;4.0;34.0;704.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;31.0
+503;Gili Trawangan;Indonesia;ID;2.0;3.0;2.0;2.0;10.0;210.0;54.11;Moderate;63.76;High;25.31;Very Low;67.99;High;99.98;Very Low;27.83;6.0
+504;Katowice;Poland;PL;6.0;5.0;1.0;2.0;33.0;420.0;70.99;High;75.9;High;39.35;Very Low;55.51;Moderate;153.6;High;156.33;8.0
+505;Naples;Italy;IT;15.0;8.0;2.0;2.0;37.0;636.0;53.03;Moderate;90.78;Very High;52.12;Low;53.67;Moderate;151.06;High;104.09;21.0
+506;Salvador;Brazil;BR;5.0;5.0;1.0;1.0;24.0;338.0;35.36;Low;94.31;Very High;27.14;Very Low;52.84;Moderate;115.99;Low;113.09;18.0
+507;Surabaya;Indonesia;ID;1.0;3.0;2.0;1.0;9.0;218.0;54.11;Moderate;63.76;High;25.31;Very Low;67.99;High;99.98;Very Low;27.83;4.0
+508;Luang Prabang;Laos;LA;3.0;5.0;1.0;2.0;6.0;486.0;63.72;High;0.0;;32.57;Very Low;78.51;High;0.0;;48.16;28.0
+509;Kandy;Sri Lanka;LK;1.0;4.0;1.0;1.0;5.0;112.0;57.9;Moderate;59.11;Moderate;33.96;Very Low;57.94;Moderate;75.17;Very Low;26.08;11.0
+510;Klaipeda;Lithuania;LT;7.0;6.0;1.0;3.0;27.0;387.0;67.72;High;67.76;High;44.73;Low;26.14;Low;172.77;Very High;147.05;2.0
+511;Itajai;Brazil;BR;5.0;6.0;1.0;1.0;37.0;251.0;35.36;Low;94.31;Very High;27.14;Very Low;52.84;Moderate;115.99;Low;113.09;15.777777777777779
+512;Kuching;Malaysia;MY;2.0;4.0;2.0;3.0;22.0;362.0;51.03;Moderate;56.55;Moderate;29.82;Very Low;61.14;High;136.22;Moderate;107.55;18.0
+513;Johor Bahru;Malaysia;MY;2.0;3.0;3.0;2.0;17.0;274.0;51.03;Moderate;56.55;Moderate;29.82;Very Low;61.14;High;136.22;Moderate;107.55;9.0
+514;Suwon;South Korea;KR;6.0;4.0;2.0;3.0;44.0;464.0;75.36;High;68.39;High;59.94;Low;60.93;High;148.74;High;212.57;1.0
+515;Harare;Zimbabwe;ZW;7.0;6.0;1.0;2.0;29.0;283.0;39.31;Low;96.76;Very High;35.36;Very Low;78.53;High;94.2;Very Low;;1.0
+516;Nagoya;Japan;JP;7.0;5.0;2.0;3.0;71.0;805.0;77.07;High;85.26;Very High;46.99;Low;38.55;Low;184.32;Very High;178.76;10.0
+517;Amed, Bali;Indonesia;ID;2.0;3.0;2.0;2.0;10.0;210.0;54.11;Moderate;63.76;High;25.31;Very Low;67.99;High;99.98;Very Low;27.83;1.0
+518;Belem;Brazil;BR;3.0;5.0;1.0;1.0;46.0;353.0;35.36;Low;94.31;Very High;27.14;Very Low;52.84;Moderate;115.99;Low;113.09;15.777777777777779
+519;Espoo;Finland;FI;15.0;9.0;3.0;4.0;62.0;1108.0;73.57;High;58.87;Moderate;60.04;Moderate;11.83;Very Low;203.06;Very High;135.05;1.0
+520;Pretoria;South Africa;ZA;7.0;4.0;1.0;2.0;45.0;286.0;25.36;Low;95.25;Very High;31.3;Very Low;56.56;Moderate;155.84;High;54.75;2.0
+521;Luanda;Angola;AO;7.0;10.0;1.0;4.0;30.0;210.0;33.71;Low;0.0;;42.57;Low;92.07;Very High;0.0;;14.86;2.0
+522;San Pedro de Atacama;Chile;CL;6.0;5.0;1.0;2.0;38.0;369.0;39.55;Low;90.21;Very High;36.29;Very Low;77.51;High;106.49;Low;217.6;6.0
+523;Gori;Georgia;GE;8.0;7.0;1.0;2.0;11.0;646.0;73.9;High;88.53;Very High;32.0;Very Low;67.54;High;125.48;Moderate;28.61;20.0
+524;Fort Lauderdale, FL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;1.0
+525;Banja Luka;Bosnia;BA;5.0;4.0;1.0;1.0;28.0;263.0;58.3;Moderate;80.48;Very High;32.01;Very Low;59.68;Moderate;134.51;Moderate;48.51;5.0
+526;Graz;Austria;AT;11.0;8.0;1.0;3.0;54.0;612.0;70.38;High;77.4;High;62.22;Moderate;20.73;Low;192.07;Very High;94.31;10.0
+527;Cusco;Peru;PE;2.0;5.0;2.0;2.0;15.0;342.0;32.77;Low;97.69;Very High;29.43;Very Low;82.19;Very High;85.92;Very Low;58.73;70.0
+529;General Santos;Philippines;PH;4.0;2.0;1.0;2.0;15.0;137.0;56.92;Moderate;61.23;High;28.77;Very Low;72.38;High;96.95;Very Low;71.85;24.571428571428573
+530;Manila;Philippines;PH;3.0;3.0;1.0;3.0;11.0;516.0;56.92;Moderate;61.23;High;28.77;Very Low;72.38;High;96.95;Very Low;71.85;86.0
+531;Izmir;Turkey;TR;4.0;4.0;1.0;2.0;18.0;258.0;58.74;Moderate;93.26;Very High;35.37;Very Low;64.29;High;130.42;Moderate;43.48;6.0
+532;Hobart;Australia;AU;17.0;8.0;4.0;3.0;59.0;858.0;52.71;Moderate;93.8;Very High;64.5;Moderate;26.8;Low;190.69;Very High;82.73;13.0
+533;Rotterdam;Netherlands;NL;15.0;8.0;1.0;3.0;80.0;1292.0;73.36;High;87.42;Very High;61.41;Moderate;21.14;Low;211.85;Very High;165.0;32.0
+534;Campinas;Brazil;BR;5.0;6.0;1.0;2.0;49.0;322.0;35.36;Low;94.31;Very High;27.14;Very Low;52.84;Moderate;115.99;Low;113.09;15.777777777777779
+535;Changzhou;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;1.0
+536;Bucharest;Romania;RO;10.0;6.0;1.0;2.0;16.0;448.0;67.82;High;77.0;High;34.66;Very Low;58.61;Moderate;142.14;Moderate;232.17;76.0
+537;Guayaquil;Ecuador;EC;3.0;6.0;1.0;2.0;15.0;345.0;37.57;Low;94.51;Very High;30.28;Very Low;59.05;Moderate;125.58;Moderate;39.07;11.0
+538;Xi An;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+539;Sa Pa;Vietnam;VN;2.0;4.0;1.0;2.0;7.0;312.0;59.0;Moderate;71.24;High;26.85;Very Low;84.19;Very High;97.18;Very Low;78.34;12.0
+540;Trancoso;Brazil;BR;5.0;6.0;1.0;1.0;37.0;251.0;35.36;Low;94.31;Very High;27.14;Very Low;52.84;Moderate;115.99;Low;113.09;1.0
+541;Brussels;Belgium;BE;15.0;9.0;2.0;3.0;50.0;939.0;50.42;Moderate;86.03;Very High;57.41;Low;49.45;Moderate;168.52;Very High;125.12;108.0
+542;St. Louis, MO;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+543;Liverpool;United Kingdom;GB;18.0;7.0;2.0;3.0;82.0;877.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;18.0
+544;Rabat;Morocco;MA;3.0;5.0;2.0;2.0;22.0;416.0;52.34;Moderate;86.09;Very High;27.76;Very Low;68.66;High;110.96;Low;27.21;17.0
+545;Khulna;Bangladesh;BD;1.0;5.0;2.0;1.0;9.0;68.0;38.79;Low;71.29;High;20.76;Very Low;85.31;Very High;74.51;Very Low;40.31;5.0
+546;Arequipa;Peru;PE;3.0;4.0;2.0;2.0;13.0;224.0;32.77;Low;97.69;Very High;29.43;Very Low;82.19;Very High;85.92;Very Low;58.73;17.0
+547;Fuzhou;China;CN;3.0;5.0;1.0;4.0;41.0;353.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;2.0
+548;Huainan;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+549;Gwangju;South Korea;KR;6.0;5.0;2.0;3.0;40.0;376.0;75.36;High;68.39;High;59.94;Low;60.93;High;148.74;High;212.57;2.0
+550;Goa;India;IN;2.0;4.0;2.0;1.0;8.0;117.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;25.0
+551;Menorca, Menorca;Spain;ES;11.0;8.0;1.0;2.0;36.0;634.0;63.51;High;94.04;Very High;44.41;Low;35.7;Low;184.67;Very High;201.47;73.19047619047619
+552;Apia;Samoa;WS;;;;;;;57.94;Moderate;0.0;;0.0;;39.94;Low;0.0;;;1.0
+553;Marbella;Spain;ES;11.0;8.0;1.0;3.0;37.0;904.0;63.51;High;94.04;Very High;44.41;Low;35.7;Low;184.67;Very High;201.47;5.0
+554;Ninh Binh;Vietnam;VN;2.0;4.0;1.0;2.0;7.0;312.0;59.0;Moderate;71.24;High;26.85;Very Low;84.19;Very High;97.18;Very Low;78.34;66.4
+555;Puerto Vallarta;Mexico;MX;7.0;6.0;1.0;3.0;25.0;749.0;46.47;Moderate;87.51;Very High;35.0;Very Low;58.46;Moderate;127.02;Moderate;54.88;33.0
+556;Manchester;United Kingdom;GB;18.0;7.0;2.0;4.0;82.0;1084.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;37.0
+557;Leipzig;Germany;DE;9.0;8.0;1.0;3.0;81.0;554.0;60.77;High;83.3;Very High;59.56;Low;28.81;Low;189.75;Very High;136.66;13.0
+558;Portland, OR;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;4.0
+559;Santo Domingo;Dominican Republic;DO;9.0;7.0;2.0;2.0;87.0;865.0;39.4;Low;67.82;High;34.75;Very Low;72.8;High;89.09;Very Low;32.26;11.0
+560;Houston, TX;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;1.0
+561;Chittagong;Bangladesh;BD;2.0;4.0;2.0;1.0;13.0;94.0;38.79;Low;71.29;High;20.76;Very Low;85.31;Very High;74.51;Very Low;40.31;5.0
+562;Guiyang;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;1.0
+563;Cairo;Egypt;EG;4.0;4.0;1.0;2.0;13.0;188.0;52.64;Moderate;91.98;Very High;19.46;Very Low;82.67;Very High;85.41;Very Low;39.97;13.0
+564;Wuhan;China;CN;3.0;5.0;1.0;3.0;41.0;334.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;2.0
+566;Toulouse;France;FR;16.0;9.0;2.0;3.0;54.0;671.0;44.56;Moderate;89.71;Very High;59.48;Low;43.56;Moderate;165.08;Very High;214.04;15.0
+567;Seville;Spain;ES;11.0;8.0;1.0;2.0;36.0;634.0;63.51;High;94.04;Very High;44.41;Low;35.7;Low;184.67;Very High;201.47;60.0
+568;Malang;Indonesia;ID;1.0;3.0;2.0;1.0;4.0;196.0;54.11;Moderate;63.76;High;25.31;Very Low;67.99;High;99.98;Very Low;27.83;3.0
+569;Corfu;Greece;GR;11.0;7.0;1.0;3.0;34.0;370.0;53.44;Moderate;91.79;Very High;47.78;Low;50.07;Moderate;136.83;Moderate;39.08;6.0
+570;Alesund;Norway;NO;15.0;12.0;4.0;5.0;55.0;1175.0;67.05;High;68.5;High;71.27;Moderate;18.32;Very Low;194.48;Very High;168.25;25.4
+571;Dunedin;New Zealand;NZ;20.0;7.0;3.0;3.0;28.0;601.0;51.87;Moderate;95.46;Very High;59.36;Low;26.0;Low;186.57;Very High;170.51;4.0
+572;Dijon;France;FR;12.0;10.0;2.0;4.0;40.0;537.0;44.56;Moderate;89.71;Very High;59.48;Low;43.56;Moderate;165.08;Very High;214.04;1.0
+573;Manama;Bahrain;BH;5.0;6.0;2.0;4.0;35.0;922.0;75.28;High;64.31;High;48.79;Low;71.57;High;158.68;High;73.95;6.0
+574;Washington, DC;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;1.0
+575;Port Elizabeth;South Africa;ZA;12.0;5.0;1.0;2.0;19.0;488.0;25.36;Low;95.25;Very High;31.3;Very Low;56.56;Moderate;155.84;High;54.75;3.0
+576;Amritsar;India;IN;1.0;2.0;2.0;2.0;23.0;59.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;3.0
+577;Guatemala City;Guatemala;GT;6.0;5.0;1.0;2.0;10.0;547.0;41.92;Moderate;99.89;Very High;36.67;Very Low;73.47;High;107.92;Low;23.72;8.0
+578;Changshu;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+579;Hefei;China;CN;3.0;5.0;1.0;3.0;14.0;262.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+580;Giza;Egypt;EG;4.0;3.0;1.0;1.0;12.0;113.0;52.64;Moderate;91.98;Very High;19.46;Very Low;82.67;Very High;85.41;Very Low;39.97;10.25
+581;Qingdao;China;CN;3.0;4.0;1.0;3.0;22.0;292.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;3.0
+582;Kunming;China;CN;2.0;5.0;1.0;3.0;41.0;203.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;6.0
+583;Mui Ne;Vietnam;VN;2.0;4.0;1.0;2.0;7.0;312.0;59.0;Moderate;71.24;High;26.85;Very Low;84.19;Very High;97.18;Very Low;78.34;10.0
+584;Bandar Seri Begawan;Brunei;BN;3.0;5.0;4.0;3.0;21.0;645.0;70.7;High;0.0;;46.73;Low;35.49;Low;0.0;;34.59;1.0
+586;Jonesboro, AR;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+587;Yuma, AZ;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+588;Kinmen;Taiwan;TW;3.0;5.0;2.0;3.0;36.0;423.0;82.89;Very High;84.38;Very High;44.79;Low;64.31;High;160.18;Very High;152.01;42.5
+589;Nijmegen;Netherlands;NL;15.0;8.0;1.0;3.0;136.0;1055.0;73.36;High;87.42;Very High;61.41;Moderate;21.14;Low;211.85;Very High;165.0;7.0
+590;Kassel;Germany;DE;14.0;9.0;1.0;3.0;82.0;552.0;60.77;High;83.3;Very High;59.56;Low;28.81;Low;189.75;Very High;136.66;2.0
+591;Mamaia;Romania;RO;6.0;5.0;1.0;2.0;17.0;269.0;67.82;High;77.0;High;34.66;Very Low;58.61;Moderate;142.14;Moderate;232.17;19.833333333333332
+592;Tulsa, OK;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+593;La Plata;Argentina;AR;6.0;5.0;1.0;2.0;19.0;218.0;36.36;Low;98.28;Very High;32.65;Very Low;50.81;Moderate;115.06;Low;58.87;27.22222222222222
+594;Dublin;Ireland;IE;20.0;10.0;3.0;4.0;121.0;1924.0;52.53;Moderate;87.83;Very High;60.85;Moderate;34.79;Low;166.37;Very High;122.55;134.0
+595;Indianapolis, IN;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+596;Rosario;Argentina;AR;5.0;5.0;1.0;1.0;10.0;137.0;36.36;Low;98.28;Very High;32.65;Very Low;50.81;Moderate;115.06;Low;58.87;2.0
+597;Yiwu;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;2.0
+598;Glasgow;United Kingdom;GB;18.0;7.0;2.0;3.0;94.0;913.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;33.0
+599;Cixi;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+600;Thane;India;IN;6.0;3.0;2.0;2.0;5.0;263.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;9.0
+601;Benin City;Nigeria;NG;2.0;3.0;1.0;2.0;11.0;354.0;33.51;Low;60.75;High;27.29;Very Low;87.91;Very High;41.24;Very Low;17.65;17.0
+602;Ibadan;Nigeria;NG;1.0;6.0;1.0;2.0;32.0;494.0;33.51;Low;60.75;High;27.29;Very Low;87.91;Very High;41.24;Very Low;17.65;17.0
+603;Surat;India;IN;3.0;4.0;3.0;1.0;4.0;209.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;2.0
+604;Sumperk;Czechia;CZ;6.0;6.0;1.0;2.0;20.0;506.0;73.64;High;79.1;High;43.65;Low;34.78;Low;174.21;Very High;;135.5
+605;Monaco;Monaco;MC;25.0;9.0;2.0;4.0;36.0;5233.0;76.38;High;0.0;;137.37;Very High;78.2;High;0.0;;;19.0
+606;Conroe, TX;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+607;Tyler, TX;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+609;Brownsville, TX;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+610;Madison, WI;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+611;Cirebon;Indonesia;ID;2.0;3.0;2.0;2.0;10.0;210.0;54.11;Moderate;63.76;High;25.31;Very Low;67.99;High;99.98;Very Low;27.83;10.692307692307692
+612;Baguio;Philippines;PH;3.0;3.0;1.0;2.0;12.0;298.0;56.92;Moderate;61.23;High;28.77;Very Low;72.38;High;96.95;Very Low;71.85;5.0
+613;Kansas City, MO;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+614;Luxor;Egypt;EG;2.0;3.0;1.0;1.0;4.0;123.0;52.64;Moderate;91.98;Very High;19.46;Very Low;82.67;Very High;85.41;Very Low;39.97;10.0
+615;Abu Dhabi;United Arab Emirates;AE;8.0;8.0;3.0;5.0;21.0;1500.0;84.43;Very High;45.84;Moderate;53.8;Low;47.98;Moderate;176.65;Very High;189.07;17.0
+616;Merida;Mexico;MX;7.0;6.0;1.0;3.0;25.0;391.0;46.47;Moderate;87.51;Very High;35.0;Very Low;58.46;Moderate;127.02;Moderate;54.88;19.0
+617;Pekanbaru, Sumatra;Indonesia;ID;2.0;3.0;2.0;2.0;10.0;210.0;54.11;Moderate;63.76;High;25.31;Very Low;67.99;High;99.98;Very Low;27.83;10.692307692307692
+618;Turin;Italy;IT;13.0;9.0;1.0;1.0;38.0;547.0;53.03;Moderate;90.78;Very High;52.12;Low;53.67;Moderate;151.06;High;104.09;14.0
+619;Managua;Nicaragua;NI;5.0;5.0;1.0;2.0;10.0;225.0;49.25;Moderate;0.0;;31.13;Very Low;60.78;High;0.0;;29.94;14.0
+620;Sendai;Japan;JP;6.0;5.0;2.0;3.0;142.0;497.0;77.07;High;85.26;Very High;46.99;Low;38.55;Low;184.32;Very High;178.76;2.0
+621;Kaduna;Nigeria;NG;2.0;5.0;1.0;1.0;18.0;749.0;33.51;Low;60.75;High;27.29;Very Low;87.91;Very High;41.24;Very Low;17.65;17.0
+622;Tianjin;China;CN;4.0;6.0;1.0;3.0;15.0;373.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+623;Lethbridge;Canada;CA;16.0;8.0;2.0;3.0;54.0;754.0;54.34;Moderate;55.41;Moderate;60.55;Moderate;29.8;Low;164.54;Very High;183.81;1.0
+624;Roanoke, VA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+625;Kelowna;Canada;CA;11.0;8.0;3.0;4.0;49.0;1240.0;54.34;Moderate;55.41;Moderate;60.55;Moderate;29.8;Low;164.54;Very High;183.81;7.0
+626;McAllen, TX;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+627;Winston, NC;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+628;Noida;India;IN;2.0;4.0;2.0;1.0;8.0;117.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;1.0
+629;El Alto;Bolivia;BO;3.0;6.0;2.0;2.0;20.0;300.0;35.0;Low;0.0;;25.28;Very Low;71.92;High;0.0;;27.8;17.0
+630;Huaibei;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+631;Anyang;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+632;Agra;India;IN;2.0;4.0;2.0;1.0;8.0;117.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;14.0
+633;San Diego, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+634;Baotou;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+635;Manaus;Brazil;BR;5.0;6.0;1.0;1.0;37.0;251.0;35.36;Low;94.31;Very High;27.14;Very Low;52.84;Moderate;115.99;Low;113.09;5.0
+636;Nairobi;Kenya;KE;4.0;6.0;2.0;2.0;31.0;395.0;44.24;Moderate;99.79;Very High;28.23;Very Low;69.04;High;101.33;Low;19.35;24.0
+637;Albufeira;Portugal;PT;9.0;7.0;1.0;2.0;40.0;803.0;68.17;High;97.31;Very High;41.72;Low;28.8;Low;168.85;Very High;162.55;6.0
+638;Reading, PA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+639;Cambridge;United Kingdom;GB;18.0;7.0;2.0;4.0;68.0;1499.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;12.0
+639;Cambridge;United Kingdom;GB;15.0;9.0;2.0;3.0;64.0;1060.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;12.0
+640;Killeen, TX;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+641;Gurgaon;India;IN;5.0;4.0;2.0;2.0;23.0;225.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;2.0
+642;Eindhoven;Netherlands;NL;16.0;10.0;1.0;3.0;100.0;1166.0;73.36;High;87.42;Very High;61.41;Moderate;21.14;Low;211.85;Very High;165.0;10.0
+643;Constanta;Romania;RO;7.0;4.0;1.0;2.0;20.0;394.0;67.82;High;77.0;High;34.66;Very Low;58.61;Moderate;142.14;Moderate;232.17;2.0
+644;Yogyakarta;Indonesia;ID;1.0;3.0;3.0;2.0;9.0;216.0;54.11;Moderate;63.76;High;25.31;Very Low;67.99;High;99.98;Very Low;27.83;21.0
+645;Mar del Plata;Argentina;AR;5.0;4.0;1.0;1.0;10.0;164.0;36.36;Low;98.28;Very High;32.65;Very Low;50.81;Moderate;115.06;Low;58.87;2.0
+646;Sao Jose dos Campos;Brazil;BR;5.0;6.0;1.0;1.0;37.0;294.0;35.36;Low;94.31;Very High;27.14;Very Low;52.84;Moderate;115.99;Low;113.09;1.0
+647;Macau;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;25.0
+648;Fortaleza;Brazil;BR;5.0;6.0;1.0;2.0;17.0;186.0;35.36;Low;94.31;Very High;27.14;Very Low;52.84;Moderate;115.99;Low;113.09;9.0
+649;Malacca;Malaysia;MY;2.0;3.0;2.0;2.0;19.0;298.0;51.03;Moderate;56.55;Moderate;29.82;Very Low;61.14;High;136.22;Moderate;107.55;15.0
+650;Barranquilla;Colombia;CO;3.0;5.0;1.0;1.0;20.0;165.0;39.14;Low;96.69;Very High;25.48;Very Low;62.47;High;107.9;Low;72.19;8.0
+651;Urumqi;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;2.0
+652;Shijiazhuang;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+653;Pune;India;IN;4.0;4.0;2.0;2.0;11.0;209.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;9.0
+654;Yokohama;Japan;JP;6.0;5.0;2.0;3.0;71.0;858.0;77.07;High;85.26;Very High;46.99;Low;38.55;Low;184.32;Very High;178.76;2.0
+655;Harbin;China;CN;3.0;5.0;0.0;2.0;18.0;271.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;3.0
+656;Pipa;Brazil;BR;5.0;6.0;1.0;1.0;37.0;251.0;35.36;Low;94.31;Very High;27.14;Very Low;52.84;Moderate;115.99;Low;113.09;15.777777777777779
+657;Isla Mujeres;Mexico;MX;7.0;6.0;1.0;2.0;19.0;377.0;46.47;Moderate;87.51;Very High;35.0;Very Low;58.46;Moderate;127.02;Moderate;54.88;3.0
+658;Bedford, OH;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+659;Oregon City, OR;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+660;Bossier City, LA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+661;Enterprise, NV;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+662;Abbotsford;Canada;CA;13.0;7.0;3.0;3.0;37.0;1201.0;54.34;Moderate;55.41;Moderate;60.55;Moderate;29.8;Low;164.54;Very High;183.81;21.304347826086957
+663;Regina;Canada;CA;12.0;9.0;2.0;3.0;62.0;677.0;54.34;Moderate;55.41;Moderate;60.55;Moderate;29.8;Low;164.54;Very High;183.81;2.0
+664;Laredo, TX;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+665;Hull;United Kingdom;GB;16.0;7.0;2.0;3.0;86.0;975.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;1.0
+667;Cordoba;Spain;ES;9.0;7.0;1.0;1.0;31.0;619.0;63.51;High;94.04;Very High;44.41;Low;35.7;Low;184.67;Very High;201.47;28.0
+667;Cordoba;Spain;ES;5.0;5.0;1.0;1.0;25.0;205.0;63.51;High;94.04;Very High;44.41;Low;35.7;Low;184.67;Very High;201.47;28.0
+668;Cleveland, OH;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+669;Mataram, Lombok;Indonesia;ID;2.0;3.0;2.0;2.0;10.0;210.0;54.11;Moderate;63.76;High;25.31;Very Low;67.99;High;99.98;Very Low;27.83;10.692307692307692
+670;Surakarta;Indonesia;ID;1.0;3.0;2.0;1.0;9.0;202.0;54.11;Moderate;63.76;High;25.31;Very Low;67.99;High;99.98;Very Low;27.83;1.0
+671;Jiangmen;China;CN;3.0;6.0;1.0;3.0;9.0;200.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+672;Sorocaba;Brazil;BR;5.0;6.0;1.0;1.0;37.0;251.0;35.36;Low;94.31;Very High;27.14;Very Low;52.84;Moderate;115.99;Low;113.09;15.777777777777779
+673;Huizhou;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+674;Taizhou;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+675;Kunshan;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+677;Edmonton;Canada;CA;18.0;8.0;2.0;4.0;71.0;864.0;54.34;Moderate;55.41;Moderate;60.55;Moderate;29.8;Low;164.54;Very High;183.81;5.0
+678;Huai'an;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+679;Calgary;Canada;CA;18.0;8.0;2.0;4.0;79.0;1069.0;54.34;Moderate;55.41;Moderate;60.55;Moderate;29.8;Low;164.54;Very High;183.81;26.0
+680;Tijuana;Mexico;MX;10.0;5.0;1.0;3.0;44.0;623.0;46.47;Moderate;87.51;Very High;35.0;Very Low;58.46;Moderate;127.02;Moderate;54.88;7.0
+681;Palembang, Sumatra;Indonesia;ID;2.0;3.0;2.0;2.0;10.0;210.0;54.11;Moderate;63.76;High;25.31;Very Low;67.99;High;99.98;Very Low;27.83;10.692307692307692
+683;Nanchang;China;CN;3.0;5.0;1.0;3.0;12.0;156.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+684;Cali;Colombia;CO;2.0;5.0;1.0;1.0;24.0;199.0;39.14;Low;96.69;Very High;25.48;Very Low;62.47;High;107.9;Low;72.19;12.0
+685;Algiers;Algeria;DZ;2.0;4.0;1.0;1.0;10.0;224.0;47.54;Moderate;94.82;Very High;25.31;Very Low;63.87;High;98.83;Very Low;10.43;1.0
+686;Hohhot;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+687;Shenyang;China;CN;3.0;5.0;0.0;3.0;11.0;271.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;1.0
+688;Dongguan;China;CN;3.0;5.0;1.0;4.0;31.0;322.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;2.0
+689;Galapagos Islands;Ecuador;EC;3.0;6.0;1.0;2.0;20.0;360.0;37.57;Low;94.51;Very High;30.28;Very Low;59.05;Moderate;125.58;Moderate;39.07;8.0
+690;Warner Robins, GA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+691;Chico, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+692;Noumea;New Caledonia;NC;17.0;10.0;3.0;5.0;69.0;772.0;36.91;Low;0.0;;73.43;High;59.31;Moderate;0.0;;;1.0
+693;Jena;Germany;DE;7.0;8.0;1.0;3.0;63.0;586.0;60.77;High;83.3;Very High;59.56;Low;28.81;Low;189.75;Very High;136.66;1.0
+694;Syracuse, NY;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+695;Hagen;Germany;DE;13.0;9.0;1.0;3.0;70.0;402.0;60.77;High;83.3;Very High;59.56;Low;28.81;Low;189.75;Very High;136.66;2.0
+696;Oulu;Finland;FI;12.0;10.0;3.0;4.0;53.0;671.0;73.57;High;58.87;Moderate;60.04;Moderate;11.83;Very Low;203.06;Very High;135.05;1.0
+697;La Serena;Chile;CL;5.0;5.0;1.0;3.0;129.0;360.0;39.55;Low;90.21;Very High;36.29;Very Low;77.51;High;106.49;Low;217.6;2.0
+698;Aarhus;Denmark;DK;20.0;12.0;2.0;5.0;54.0;1014.0;73.81;High;82.47;Very High;68.9;Moderate;20.75;Low;208.65;Very High;227.91;8.0
+699;Nagasaki;Japan;JP;6.0;5.0;2.0;3.0;73.0;580.0;77.07;High;85.26;Very High;46.99;Low;38.55;Low;184.32;Very High;178.76;1.0
+700;Kagoshima;Japan;JP;9.0;6.0;2.0;3.0;57.0;568.0;77.07;High;85.26;Very High;46.99;Low;38.55;Low;184.32;Very High;178.76;5.0
+701;Lilongwe;Malawi;MW;3.0;5.0;1.0;2.0;43.0;334.0;43.89;Moderate;0.0;;35.35;Very Low;64.16;High;0.0;;;1.0
+702;Lianyungang;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+703;Constantine;Algeria;DZ;2.0;4.0;1.0;1.0;10.0;140.0;47.54;Moderate;94.82;Very High;25.31;Very Low;63.87;High;98.83;Very Low;10.43;1.0
+704;Jiamusi;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+705;Jacksonville, FL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+707;Antananarivo;Madagascar;MG;4.0;7.0;1.0;1.0;2.0;411.0;35.59;Low;0.0;;21.27;Very Low;86.87;Very High;0.0;;;3.0
+708;Fushun;China;CN;1.0;4.0;1.0;3.0;11.0;136.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+710;Kampala;Uganda;UG;2.0;8.0;1.0;3.0;40.0;311.0;45.88;Moderate;98.41;Very High;47.97;Low;84.05;Very High;0.0;Very Low;13.55;4.0
+711;Jinan;China;CN;3.0;4.0;1.0;3.0;5.0;276.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+712;Changchun;China;CN;3.0;5.0;0.0;3.0;8.0;305.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+713;Itapema;Brazil;BR;5.0;6.0;1.0;1.0;37.0;251.0;35.36;Low;94.31;Very High;27.14;Very Low;52.84;Moderate;115.99;Low;113.09;1.0
+714;Scranton, PA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+715;Hoover, AL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+716;Evansville, IN;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+717;Fargo, ND;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+718;Macon, GA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+719;Lafayette, LA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+720;Salem, OR;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+721;Trondheim;Norway;NO;21.0;12.0;3.0;4.0;84.0;1065.0;67.05;High;68.5;High;71.27;Moderate;18.32;Very Low;194.48;Very High;168.25;6.0
+722;Modena;Italy;IT;16.0;8.0;1.0;2.0;32.0;603.0;53.03;Moderate;90.78;Very High;52.12;Low;53.67;Moderate;151.06;High;104.09;1.0
+723;Knoxville, TN;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+724;Columbus, GA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+725;La Paz;Mexico;MX;3.0;6.0;2.0;2.0;30.0;262.0;46.47;Moderate;87.51;Very High;35.0;Very Low;58.46;Moderate;127.02;Moderate;54.88;30.0
+727;Sacramento, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+728;Antwerp;Belgium;BE;18.0;9.0;2.0;3.0;49.0;814.0;50.42;Moderate;86.03;Very High;57.41;Low;49.45;Moderate;168.52;Very High;125.12;22.0
+729;Albuquerque, NM;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+730;Genoa;Italy;IT;15.0;8.0;2.0;2.0;46.0;648.0;53.03;Moderate;90.78;Very High;52.12;Low;53.67;Moderate;151.06;High;104.09;7.0
+731;Chandigarh;India;IN;4.0;3.0;1.0;2.0;9.0;146.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;4.0
+732;Marseille;France;FR;13.0;9.0;2.0;3.0;50.0;682.0;44.56;Moderate;89.71;Very High;59.48;Low;43.56;Moderate;165.08;Very High;214.04;30.0
+733;Sao Luis;Brazil;BR;5.0;6.0;1.0;1.0;37.0;251.0;35.36;Low;94.31;Very High;27.14;Very Low;52.84;Moderate;115.99;Low;113.09;15.777777777777779
+734;Liuzhou;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+735;Suzhou;China;CN;5.0;6.0;1.0;4.0;41.0;739.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;3.0
+736;Taiyuan;China;CN;2.0;5.0;0.0;3.0;7.0;136.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+737;Guanajuato;Mexico;MX;10.0;5.0;1.0;3.0;30.0;541.0;46.47;Moderate;87.51;Very High;35.0;Very Low;58.46;Moderate;127.02;Moderate;54.88;9.0
+738;Minca;Colombia;CO;2.0;5.0;1.0;1.0;23.0;186.0;39.14;Low;96.69;Very High;25.48;Very Low;62.47;High;107.9;Low;72.19;3.0
+739;Gibraltar;Gibraltar;GI;17.0;8.0;2.0;3.0;12.0;1647.0;79.77;High;0.0;;59.05;Low;61.64;High;0.0;;;7.0
+740;Boumerdas;Algeria;DZ;2.0;3.0;1.0;1.0;8.0;147.0;47.54;Moderate;94.82;Very High;25.31;Very Low;63.87;High;98.83;Very Low;10.43;1.0
+741;Kingsport, TN;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+742;Owensboro, KY;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+743;Harlingen, TX;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+744;North Little Rock, AR;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+745;Dothan, AL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+746;Limassol;Cyprus;CY;15.0;7.0;2.0;3.0;40.0;1321.0;66.9;High;90.87;Very High;50.99;Low;54.99;Moderate;158.84;High;55.11;6.0
+747;San Cristobal de las Casas;Mexico;MX;7.0;6.0;1.0;2.0;19.0;377.0;46.47;Moderate;87.51;Very High;35.0;Very Low;58.46;Moderate;127.02;Moderate;54.88;15.0
+748;Foz do Iguacu;Brazil;BR;5.0;6.0;1.0;1.0;37.0;251.0;35.36;Low;94.31;Very High;27.14;Very Low;52.84;Moderate;115.99;Low;113.09;7.0
+749;Valparaiso;Chile;CL;9.0;6.0;1.0;2.0;23.0;353.0;39.55;Low;90.21;Very High;36.29;Very Low;77.51;High;106.49;Low;217.6;15.0
+750;Bielefeld;Germany;DE;10.0;9.0;1.0;3.0;90.0;562.0;60.77;High;83.3;Very High;59.56;Low;28.81;Low;189.75;Very High;136.66;3.0
+751;Brampton;Canada;CA;11.0;7.0;2.0;2.0;85.0;1359.0;54.34;Moderate;55.41;Moderate;60.55;Moderate;29.8;Low;164.54;Very High;183.81;21.304347826086957
+752;Dongying;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+753;Birmingham;United Kingdom;GB;13.0;7.0;2.0;3.0;64.0;946.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;26.0
+753;Birmingham;United Kingdom;GB;15.0;8.0;3.0;5.0;52.0;1239.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;26.0
+754;Jilin;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+755;Dalian;China;CN;3.0;5.0;1.0;4.0;24.0;390.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;1.0
+756;Zhengzhou;China;CN;2.0;4.0;1.0;3.0;6.0;254.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;2.0
+757;Sarande;Albania;AL;4.0;3.0;1.0;1.0;12.0;231.0;55.52;Moderate;86.43;Very High;40.85;Low;77.25;High;104.16;Low;45.55;4.0
+759;Grande Prairie;Canada;CA;15.0;8.0;2.0;3.0;64.0;1067.0;54.34;Moderate;55.41;Moderate;60.55;Moderate;29.8;Low;164.54;Very High;183.81;21.304347826086957
+760;Valdosta, GA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+761;Idaho Falls, ID;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+762;Youngstown, OH;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+763;Victoria, TX;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+764;Eau Claire, WI;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+765;Bethlehem, PA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+766;Springdale, AR;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+767;Longview, TX;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+768;Sioux City, IA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+769;Las Cruces, NM;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+770;Elgin, IL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+771;Fayetteville, NC;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+772;Dortmund;Germany;DE;12.0;8.0;1.0;3.0;70.0;668.0;60.77;High;83.3;Very High;59.56;Low;28.81;Low;189.75;Very High;136.66;5.0
+773;Foshan;China;CN;3.0;5.0;1.0;3.0;7.0;339.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+774;Zhuhai;China;CN;3.0;5.0;1.0;3.0;8.0;498.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;3.0
+775;Tangier;Morocco;MA;3.0;5.0;2.0;2.0;9.0;328.0;52.34;Moderate;86.09;Very High;27.76;Very Low;68.66;High;110.96;Low;27.21;7.0
+776;Dakar;Senegal;SN;8.0;8.0;1.0;3.0;19.0;727.0;49.82;Moderate;0.0;;40.61;Low;95.87;Very High;0.0;;35.01;6.0
+777;Tegucigalpa;Honduras;HN;4.0;6.0;1.0;1.0;51.0;415.0;27.75;Low;0.0;;34.39;Very Low;75.52;High;0.0;;26.93;1.0
+778;Shantou;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+779;Kumasi;Ghana;GH;2.0;4.0;0.0;1.0;3.0;125.0;54.65;Moderate;67.03;High;30.49;Very Low;86.91;Very High;17.47;Very Low;52.1;2.0
+781;Sapporo;Japan;JP;8.0;5.0;2.0;3.0;142.0;319.0;77.07;High;85.26;Very High;46.99;Low;38.55;Low;184.32;Very High;178.76;12.0
+782;Quanzhou;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+783;Panajachel;Guatemala;GT;5.0;5.0;1.0;2.0;14.0;364.0;41.92;Moderate;99.89;Very High;36.67;Very Low;73.47;High;107.92;Low;23.72;2.0
+784;Burlington, NC;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+785;Casper, WY;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+786;Tromso;Norway;NO;18.0;13.0;3.0;4.0;49.0;1028.0;67.05;High;68.5;High;71.27;Moderate;18.32;Very Low;194.48;Very High;168.25;13.0
+787;St. Joseph, MO;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+788;Mission, TX;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+789;Provo, UT;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+790;Victorville, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+791;Visalia, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+792;Gainesville, FL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+793;Waco, TX;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+794;Udon Thani;Thailand;TH;2.0;5.0;2.0;2.0;14.0;170.0;62.49;High;69.76;High;33.88;Very Low;75.65;High;105.37;Low;225.17;3.0
+795;Iquique;Chile;CL;6.0;5.0;1.0;2.0;38.0;369.0;39.55;Low;90.21;Very High;36.29;Very Low;77.51;High;106.49;Low;217.6;1.0
+796;Almere;Netherlands;NL;16.0;9.0;1.0;3.0;69.0;1180.0;73.36;High;87.42;Very High;61.41;Moderate;21.14;Low;211.85;Very High;165.0;1.0
+797;Southampton;United Kingdom;GB;13.0;7.0;2.0;3.0;64.0;944.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;6.0
+798;Lincoln, NE;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+799;Riverside, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+800;Campos dos Goytacazes;Brazil;BR;5.0;6.0;1.0;1.0;37.0;251.0;35.36;Low;94.31;Very High;27.14;Very Low;52.84;Moderate;115.99;Low;113.09;15.777777777777779
+801;Surrey;Canada;CA;13.0;7.0;2.0;4.0;85.0;1197.0;54.34;Moderate;55.41;Moderate;60.55;Moderate;29.8;Low;164.54;Very High;183.81;21.304347826086957
+802;Campo Grande;Brazil;BR;4.0;5.0;1.0;1.0;58.0;243.0;35.36;Low;94.31;Very High;27.14;Very Low;52.84;Moderate;115.99;Low;113.09;3.0
+803;Wuxi;China;CN;4.0;5.0;1.0;3.0;8.0;590.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+804;Nanyang;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+805;Xiamen;China;CN;3.0;5.0;1.0;4.0;8.0;439.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;5.0
+806;Lanzhou;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;3.0
+808;Port Arthur, TX;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+809;Canton, OH;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+810;Palm Coast, FL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+811;Hesperia, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+812;Lansing, MI;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+813;Allentown, PA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+814;Lancaster, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+815;Aalborg;Denmark;DK;18.0;11.0;2.0;5.0;54.0;722.0;73.81;High;82.47;Very High;68.9;Moderate;20.75;Low;208.65;Very High;227.91;2.0
+816;Tilburg;Netherlands;NL;12.0;9.0;1.0;3.0;126.0;1103.0;73.36;High;87.42;Very High;61.41;Moderate;21.14;Low;211.85;Very High;165.0;2.0
+817;Lubbock, TX;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+818;Pasto;Colombia;CO;2.0;5.0;1.0;1.0;23.0;186.0;39.14;Low;96.69;Very High;25.48;Very Low;62.47;High;107.9;Low;72.19;2.0
+819;Anapolis;Brazil;BR;5.0;6.0;1.0;1.0;37.0;251.0;35.36;Low;94.31;Very High;27.14;Very Low;52.84;Moderate;115.99;Low;113.09;15.777777777777779
+820;Corpus Christi, TX;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+821;Uberlandia;Brazil;BR;3.0;6.0;1.0;1.0;13.0;146.0;35.36;Low;94.31;Very High;27.14;Very Low;52.84;Moderate;115.99;Low;113.09;15.777777777777779
+823;Yinchuan;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+826;Nanning;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+827;Dahab;Egypt;EG;3.0;3.0;1.0;1.0;8.0;114.0;52.64;Moderate;91.98;Very High;19.46;Very Low;82.67;Very High;85.41;Very Low;39.97;14.0
+828;San Ignacio;Belize;BZ;5.0;7.0;2.0;4.0;17.0;312.0;47.47;Moderate;0.0;;0.0;;52.8;Moderate;0.0;;;1.0
+829;Chachapoyas;Peru;PE;3.0;5.0;2.0;2.0;15.0;323.0;32.77;Low;97.69;Very High;29.43;Very Low;82.19;Very High;85.92;Very Low;58.73;57.0
+830;Porterville, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+831;Grand Junction, CO;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+832;St. Cloud, MN;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+833;Jackson, TN;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+834;Waterloo, IA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+835;Merced, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+836;Cozumel;Mexico;MX;3.0;6.0;1.0;3.0;15.0;516.0;46.47;Moderate;87.51;Very High;35.0;Very Low;58.46;Moderate;127.02;Moderate;54.88;6.0
+837;Tracy, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+838;Lawrence, KS;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+839;Darwin;Australia;AU;14.0;10.0;4.0;3.0;41.0;1013.0;52.71;Moderate;93.8;Very High;64.5;Moderate;26.8;Low;190.69;Very High;82.73;6.0
+840;Norfolk, VA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+841;San Jose;Costa Rica;CR;18.0;9.0;2.0;5.0;86.0;2354.0;46.04;Moderate;99.48;Very High;50.18;Low;42.39;Moderate;129.35;Moderate;56.39;65.0
+842;Milwaukee, WI;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+843;Zaria;Nigeria;NG;2.0;5.0;1.0;1.0;18.0;749.0;33.51;Low;60.75;High;27.29;Very Low;87.91;Very High;41.24;Very Low;17.65;17.0
+844;Oran;Algeria;DZ;2.0;3.0;1.0;1.0;8.0;147.0;47.54;Moderate;94.82;Very High;25.31;Very Low;63.87;High;98.83;Very Low;10.43;1.0
+846;Zhuzhou;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+847;Kitakyushu;Japan;JP;6.0;5.0;2.0;3.0;73.0;580.0;77.07;High;85.26;Very High;46.99;Low;38.55;Low;184.32;Very High;178.76;39.666666666666664
+848;Mysore;India;IN;1.0;4.0;1.0;2.0;8.0;117.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;9.0
+849;Meerut;India;IN;2.0;4.0;2.0;2.0;4.0;59.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;9.0
+850;Linyi;China;CN;3.0;4.0;1.0;3.0;12.0;204.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+851;Zhongshan;China;CN;3.0;4.0;1.0;3.0;20.0;244.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+854;Ankara;Turkey;TR;4.0;4.0;1.0;2.0;18.0;270.0;58.74;Moderate;93.26;Very High;35.37;Very Low;64.29;High;130.42;Moderate;43.48;3.0
+856;Intag Valley;Ecuador;EC;3.0;6.0;1.0;2.0;20.0;360.0;37.57;Low;94.51;Very High;30.28;Very Low;59.05;Moderate;125.58;Moderate;39.07;12.8
+857;La Crosse, WI;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+858;Normal, IL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+859;Janesville, WI;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+860;Lodi, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+861;Jacksonville, NC;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+862;Lake Charles, LA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+863;Manteca, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+864;Pharr, TX;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+865;Spokane Valley, WA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+866;Cedar Rapids, IA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+867;Oshawa;Canada;CA;16.0;8.0;3.0;3.0;85.0;1160.0;54.34;Moderate;55.41;Moderate;60.55;Moderate;29.8;Low;164.54;Very High;183.81;21.304347826086957
+868;Tallahassee, FL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+869;Huntsville, AL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+870;Shreveport, LA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+871;Aurora, IL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+872;Antofagasta;Chile;CL;6.0;5.0;2.0;4.0;56.0;493.0;39.55;Low;90.21;Very High;36.29;Very Low;77.51;High;106.49;Low;217.6;2.0
+873;Nha Trang;Vietnam;VN;3.0;4.0;1.0;2.0;11.0;316.0;59.0;Moderate;71.24;High;26.85;Very Low;84.19;Very High;97.18;Very Low;78.34;22.0
+874;Leicester;United Kingdom;GB;16.0;7.0;2.0;3.0;63.0;879.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;3.0
+875;Detroit, MI;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.0
+876;Yangzhou;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+877;Nantong;China;CN;3.0;4.0;1.0;3.0;30.0;602.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+878;Guilin;China;CN;4.0;4.0;1.0;2.0;27.0;136.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;4.0
+879;Xining;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;2.0
+881;Adelaide;Australia;AU;12.0;8.0;4.0;3.0;68.0;1065.0;52.71;Moderate;93.8;Very High;64.5;Moderate;26.8;Low;190.69;Very High;82.73;18.0
+882;Kalyan;India;IN;4.0;4.0;2.0;2.0;4.0;150.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;9.0
+883;Zhanjiang;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+884;Ludhiana;India;IN;4.0;4.0;2.0;2.0;7.0;126.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;9.0
+885;Madurai;India;IN;1.0;4.0;1.0;1.0;9.0;84.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;1.0
+886;Lucknow;India;IN;3.0;3.0;2.0;2.0;12.0;117.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;1.0
+887;Ahmedabad;India;IN;2.0;4.0;2.0;2.0;6.0;440.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;5.0
+888;Boracay;Philippines;PH;3.0;3.0;1.0;2.0;12.0;298.0;56.92;Moderate;61.23;High;28.77;Very Low;72.38;High;96.95;Very Low;71.85;16.0
+889;Logan, UT;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+890;Casa Grande, AZ;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+891;Auburn, AL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+892;Flagstaff, AZ;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+893;Muncie, IN;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+894;Bismarck, ND;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+895;Apple Valley, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+896;Medford, OR;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+897;Edinburg, TX;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+898;Fort Smith, AR;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+899;Sihanoukville;Cambodia;KH;3.0;6.0;1.0;2.0;41.0;374.0;48.19;Moderate;59.43;Moderate;34.38;Very Low;77.77;High;78.92;Very Low;28.32;12.0
+900;Yakima, WA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+901;Flint, MI;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+902;Billings, MT;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+903;Rochester, MN;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+904;Fairfield, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+905;Springfield, IL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+906;Beaumont, TX;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+907;Ibiza;Spain;ES;13.0;9.0;1.0;2.0;70.0;1205.0;63.51;High;94.04;Very High;44.41;Low;35.7;Low;184.67;Very High;201.47;23.0
+908;Rochester, NY;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+909;Bergen;Norway;NO;18.0;12.0;3.0;4.0;74.0;1032.0;67.05;High;68.5;High;71.27;Moderate;18.32;Very Low;194.48;Very High;168.25;22.0
+910;Wichita, KS;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+911;Shaoxing;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;1.0
+912;Xiangtan;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+913;San Pedro Sula;Honduras;HN;6.0;6.0;1.0;3.0;42.0;242.0;27.75;Low;0.0;;34.39;Very Low;75.52;High;0.0;;26.93;1.0
+914;Hermosillo;Mexico;MX;7.0;6.0;1.0;3.0;12.0;291.0;46.47;Moderate;87.51;Very High;35.0;Very Low;58.46;Moderate;127.02;Moderate;54.88;1.0
+915;Zhangjiakou;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+916;Hubli;India;IN;3.0;2.0;3.0;2.0;15.0;73.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;9.0
+917;Bareilly;India;IN;2.0;4.0;2.0;1.0;8.0;117.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;1.0
+918;Wenling;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+919;Maracaibo;Venezuela;VE;8.0;8.0;1.0;1.0;57.0;214.0;19.26;Very Low;0.0;;35.85;Very Low;75.3;High;0.0;;23.92;2.0
+920;Xuzhou;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+921;Douala;Cameroon;CM;3.0;3.0;1.0;1.0;4.0;174.0;34.53;Low;0.0;;37.61;Very Low;93.71;Very High;0.0;;13.94;1.0
+922;Zibo;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+923;Kokomo, IN;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+924;Great Falls, MT;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+925;Champaign, IL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+926;Palm Bay, FL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+927;Wilmington, NC;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+928;Columbia, MO;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+929;Abilene, TX;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+930;Clarksville, TN;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+932;Tebessa;Algeria;DZ;2.0;2.0;1.0;0.0;0.0;110.0;47.54;Moderate;94.82;Very High;25.31;Very Low;63.87;High;98.83;Very Low;10.43;1.0
+933;El Jadida;Morocco;MA;3.0;5.0;2.0;1.0;14.0;238.0;52.34;Moderate;86.09;Very High;27.76;Very Low;68.66;High;110.96;Low;27.21;1.0
+934;Padova;Italy;IT;15.0;8.0;1.0;2.0;37.0;644.0;53.03;Moderate;90.78;Very High;52.12;Low;53.67;Moderate;151.06;High;104.09;3.0
+935;Northampton;United Kingdom;GB;18.0;7.0;3.0;3.0;66.0;996.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;2.0
+936;Portsmouth;United Kingdom;GB;14.0;6.0;2.0;3.0;73.0;800.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;4.0
+937;Durg;India;IN;2.0;4.0;2.0;1.0;8.0;117.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;9.0
+938;Orlando, FL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;3.0
+939;Bilbao;Spain;ES;13.0;8.0;1.0;2.0;40.0;910.0;63.51;High;94.04;Very High;44.41;Low;35.7;Low;184.67;Very High;201.47;24.0
+940;Kannur;India;IN;2.0;4.0;2.0;1.0;8.0;117.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;1.0
+941;Bologna;Italy;IT;17.0;8.0;2.0;2.0;36.0;766.0;53.03;Moderate;90.78;Very High;52.12;Low;53.67;Moderate;151.06;High;104.09;21.0
+942;Port Said;Egypt;EG;3.0;3.0;1.0;1.0;16.0;181.0;52.64;Moderate;91.98;Very High;19.46;Very Low;82.67;Very High;85.41;Very Low;39.97;10.25
+943;Baltimore, MD;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+944;Varanasi;India;IN;3.0;3.0;2.0;2.0;3.0;172.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;9.0
+945;Onitsha;Nigeria;NG;2.0;5.0;1.0;1.0;18.0;749.0;33.51;Low;60.75;High;27.29;Very Low;87.91;Very High;41.24;Very Low;17.65;17.0
+946;Kollam;India;IN;2.0;4.0;2.0;1.0;8.0;117.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;1.0
+947;Gwalior;India;IN;2.0;4.0;2.0;1.0;8.0;117.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;9.0
+948;Soweto;South Africa;ZA;8.0;4.0;1.0;2.0;32.0;344.0;25.36;Low;95.25;Very High;31.3;Very Low;56.56;Moderate;155.84;High;54.75;25.6
+949;Qiqihar;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+950;Jamshedpur;India;IN;2.0;4.0;2.0;1.0;8.0;117.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;9.0
+951;Weifang;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+952;Luoyang;China;CN;2.0;5.0;0.0;4.0;41.0;149.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+953;Quito;Ecuador;EC;4.0;7.0;1.0;2.0;20.0;425.0;37.57;Low;94.51;Very High;30.28;Very Low;59.05;Moderate;125.58;Moderate;39.07;29.0
+954;Tangshan;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+955;Pyongyang;North Korea;KP;;;;;;;46.53;Moderate;0.0;;33.59;Very Low;72.41;High;0.0;;;6.0
+956;San Luis Potosi;Mexico;MX;9.0;7.0;2.0;2.0;21.0;295.0;46.47;Moderate;87.51;Very High;35.0;Very Low;58.46;Moderate;127.02;Moderate;54.88;26.47826086956522
+957;Cavtat;Croatia;HR;7.0;6.0;1.0;1.0;33.0;346.0;74.54;High;89.23;Very High;43.23;Low;31.1;Low;176.02;Very High;69.09;7.0
+959;Ashland, OR;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+960;Minot, ND;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+961;Brentwood, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+962;Tulare, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+963;Hemet, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+964;Modesto, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+965;Thrissur;India;IN;2.0;4.0;2.0;1.0;8.0;117.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;9.0
+966;Lexington, KY;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+967;Raleigh, NC;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+968;Raipur;India;IN;1.0;4.0;2.0;1.0;3.0;132.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;9.0
+969;Dhanbad;India;IN;4.0;3.0;2.0;1.0;25.0;47.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;9.0
+970;Jabalpur;India;IN;3.0;3.0;3.0;2.0;6.0;119.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;9.0
+971;Bridgeton, MO;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+972;Grand Island, NE;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+973;Terre Haute, IN;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+974;Greenville, SC;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+975;Weston, FL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+976;Pasco, WA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+977;Turlock, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+978;Bloomington, IN;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+979;Waterloo;Canada;CA;12.0;8.0;2.0;3.0;64.0;1166.0;54.34;Moderate;55.41;Moderate;60.55;Moderate;29.8;Low;164.54;Very High;183.81;21.304347826086957
+981;Zwolle;Netherlands;NL;15.0;8.0;1.0;3.0;105.0;837.0;73.36;High;87.42;Very High;61.41;Moderate;21.14;Low;211.85;Very High;165.0;3.0
+982;Bern;Switzerland;CH;25.0;15.0;2.0;5.0;80.0;1209.0;73.69;High;79.24;High;101.18;Very High;23.06;Low;204.91;Very High;229.96;15.0
+983;Huddersfield;United Kingdom;GB;12.0;6.0;1.0;3.0;64.0;498.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;40.51428571428571
+984;Cascais;Portugal;PT;10.0;7.0;1.0;2.0;40.0;1062.0;68.17;High;97.31;Very High;41.72;Low;28.8;Low;168.85;Very High;162.55;4.0
+985;Greensboro, NC;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+986;Zhoukou;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+987;Canberra;Australia;AU;15.0;9.0;3.0;3.0;68.0;1464.0;52.71;Moderate;93.8;Very High;64.5;Moderate;26.8;Low;190.69;Very High;82.73;6.0
+988;Wuhu;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;1.0
+989;Aguascalientes;Mexico;MX;6.0;6.0;1.0;2.0;11.0;227.0;46.47;Moderate;87.51;Very High;35.0;Very Low;58.46;Moderate;127.02;Moderate;54.88;26.47826086956522
+990;Qinhuangdao;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+991;Moradabad;India;IN;2.0;5.0;2.0;2.0;15.0;111.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;9.0
+992;Philadelphia, PA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+993;Kano;Nigeria;NG;2.0;5.0;1.0;1.0;18.0;749.0;33.51;Low;60.75;High;27.29;Very Low;87.91;Very High;41.24;Very Low;17.65;17.0
+994;Sandpoint, ID;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+995;Beacon, NY;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+996;Vang Vieng;Laos;LA;3.0;5.0;1.0;2.0;6.0;486.0;63.72;High;0.0;;32.57;Very Low;78.51;High;0.0;;48.16;7.0
+997;Kearney, NE;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+998;Arendal;Norway;NO;17.0;12.0;3.0;4.0;59.0;915.0;67.05;High;68.5;High;71.27;Moderate;18.32;Very Low;194.48;Very High;168.25;1.0
+999;Enid, OK;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1000;Elkhart, IN;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1001;Scheveningen;Netherlands;NL;16.0;9.0;1.0;3.0;109.0;1053.0;73.36;High;87.42;Very High;61.41;Moderate;21.14;Low;211.85;Very High;165.0;28.352941176470587
+1002;Corvallis, OR;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1003;Johnson City, TN;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1004;Frederick, MD;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1005;Bloomington, IL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1006;Lynchburg, VA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1007;Lawton, OK;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1008;Luxembourg;Luxembourg;LU;20.0;10.0;2.0;4.0;0.0;1684.0;64.68;High;82.62;Very High;63.72;Moderate;23.27;Low;224.31;Very High;172.05;24.0
+1009;Guelph;Canada;CA;13.0;7.0;2.0;3.0;57.0;1203.0;54.34;Moderate;55.41;Moderate;60.55;Moderate;29.8;Low;164.54;Very High;183.81;2.0
+1010;Male;Maldives;MV;5.0;9.0;2.0;2.0;21.0;821.0;45.91;Moderate;0.0;;45.85;Low;74.55;High;0.0;;27.42;12.0
+1011;Mobile, AL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1012;York;United Kingdom;GB;15.0;7.0;2.0;3.0;67.0;1048.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;6.0
+1013;Birmingham, AL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1014;Stockton, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1016;Putian;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+1017;Aligarh;India;IN;2.0;4.0;2.0;1.0;8.0;117.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;9.0
+1018;Zunyi;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+1019;Kota;India;IN;1.0;2.0;2.0;1.0;6.0;59.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;9.0
+1022;Rajkot;India;IN;3.0;4.0;1.0;1.0;9.0;88.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;9.0
+1023;Indore;India;IN;3.0;4.0;2.0;1.0;6.0;122.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;9.0
+1024;Thiruvananthapuram;India;IN;2.0;4.0;1.0;2.0;9.0;105.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;3.0
+1025;Malappuram;India;IN;2.0;4.0;2.0;1.0;8.0;117.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;9.0
+1026;Multan;Pakistan;PK;1.0;3.0;1.0;1.0;4.0;52.0;56.31;Moderate;71.93;High;17.9;Very Low;73.31;High;104.14;Low;13.84;1.0
+1027;Kozhikode;India;IN;2.0;4.0;2.0;1.0;8.0;117.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;1.0
+1028;Faisalabad;Pakistan;PK;1.0;3.0;1.0;1.0;9.0;80.0;56.31;Moderate;71.93;High;17.9;Very Low;73.31;High;104.14;Low;13.84;1.0
+1029;Key West, FL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1030;Kuwait City;Kuwait;KW;6.0;6.0;1.0;4.0;39.0;886.0;67.19;High;20.22;Moderate;40.82;Low;69.37;High;159.55;High;149.37;1.0
+1032;Port of Spain;Trinidad and Tobago;TT;11.0;7.0;2.0;3.0;56.0;501.0;29.01;Low;67.55;High;49.01;Low;67.14;High;84.52;Very Low;85.8;1.0
+1033;Richland, WA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1034;Dubuque, IA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1035;Rogers, AR;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1036;Yuba City, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1037;Gulfport, MS;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1038;Temple, TX;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1039;New Haven, CT;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1040;St. Catharines;Canada;CA;16.0;8.0;1.0;3.0;65.0;1107.0;54.34;Moderate;55.41;Moderate;60.55;Moderate;29.8;Low;164.54;Very High;183.81;21.304347826086957
+1041;Rockford, IL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1042;Cagliari;Italy;IT;15.0;8.0;1.0;2.0;35.0;628.0;53.03;Moderate;90.78;Very High;52.12;Low;53.67;Moderate;151.06;High;104.09;4.0
+1043;Sioux Falls, SD;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1044;Richmond, VA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1045;Wonsan;North Korea;KP;;;;;;;46.53;Moderate;0.0;;33.59;Very Low;72.41;High;0.0;;;2.6666666666666665
+1046;Yichang;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+1047;Zhucheng;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+1048;Peshawar;Pakistan;PK;1.0;3.0;1.0;1.0;7.0;50.0;56.31;Moderate;71.93;High;17.9;Very Low;73.31;High;104.14;Low;13.84;1.0
+1049;Gujranwala;Pakistan;PK;1.0;3.0;1.0;1.0;3.0;65.0;56.31;Moderate;71.93;High;17.9;Very Low;73.31;High;104.14;Low;13.84;1.0
+1050;Torshavn, Faroe Islands;Denmark;DK;17.0;11.0;2.0;5.0;71.0;934.0;73.81;High;82.47;Very High;68.9;Moderate;20.75;Low;208.65;Very High;227.91;53.333333333333336
+1051;Kotor;Montenegro;ME;7.0;4.0;1.0;2.0;29.0;432.0;64.59;High;89.02;Very High;37.37;Very Low;43.7;Moderate;147.33;High;60.03;19.0
+1052;Varkala;India;IN;2.0;4.0;2.0;1.0;8.0;117.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;4.0
+1053;Lake Havasu City, AZ;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1054;Pocatello, ID;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1055;Anderson, IN;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1056;Waukegan, IL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1057;Peoria, IL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1058;Odessa, TX;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1059;Stamford, CT;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1060;Ferrara;Italy;IT;13.0;8.0;1.0;1.0;30.0;578.0;53.03;Moderate;90.78;Very High;52.12;Low;53.67;Moderate;151.06;High;104.09;3.0
+1061;Ube;Japan;JP;6.0;5.0;2.0;3.0;73.0;580.0;77.07;High;85.26;Very High;46.99;Low;38.55;Low;184.32;Very High;178.76;1.0
+1062;Kigali;Rwanda;RW;2.0;7.0;1.0;2.0;12.0;415.0;72.81;High;99.74;Very High;37.05;Very Low;39.22;Low;0.0;Very Low;;5.0
+1063;San Jose, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.0
+1064;Vasai;India;IN;2.0;4.0;2.0;1.0;8.0;117.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;9.0
+1065;Kanpur;India;IN;2.0;4.0;2.0;1.0;8.0;117.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;1.0
+1066;Cody, WY;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1067;Monterey, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1069;Manhattan, KS;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1070;Rocky Mount, NC;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1071;Fort Myers, FL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1072;Kennewick, WA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1073;Melbourne, FL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1074;Bryan, TX;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1075;Davenport, IA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1076;College Station, TX;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1078;Guwahati;India;IN;2.0;5.0;2.0;1.0;12.0;113.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;2.0
+1079;Bhopal;India;IN;2.0;4.0;1.0;1.0;6.0;65.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;9.0
+1080;Phoenix, AZ;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1081;Yantai;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+1083;Ko Lipe;Thailand;TH;2.0;5.0;2.0;2.0;20.0;252.0;62.49;High;69.76;High;33.88;Very Low;75.65;High;105.37;Low;225.17;6.0
+1084;Belize City;Belize;BZ;8.0;7.0;2.0;4.0;19.0;316.0;47.47;Moderate;0.0;;0.0;;52.8;Moderate;0.0;;;9.0
+1085;Utica, NY;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1086;Cheyenne, WY;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1087;Moncton;Canada;CA;17.0;7.0;3.0;4.0;49.0;799.0;54.34;Moderate;55.41;Moderate;60.55;Moderate;29.8;Low;164.54;Very High;183.81;2.0
+1088;Treviso;Italy;IT;15.0;8.0;1.0;1.0;37.0;660.0;53.03;Moderate;90.78;Very High;52.12;Low;53.67;Moderate;151.06;High;104.09;2.0
+1089;Sparks, NV;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1090;Wichita Falls, TX;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1091;Monza;Italy;IT;17.0;10.0;2.0;1.0;45.0;713.0;53.03;Moderate;90.78;Very High;52.12;Low;53.67;Moderate;151.06;High;104.09;23.6
+1092;Savannah, GA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1093;Spokane, WA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1094;Baton Rouge, LA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1095;Scottsdale, AZ;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1096;Sialkot;Pakistan;PK;1.0;3.0;1.0;1.0;7.0;72.0;56.31;Moderate;71.93;High;17.9;Very Low;73.31;High;104.14;Low;13.84;1.0
+1097;Bahawalpur;Pakistan;PK;1.0;3.0;1.0;1.0;9.0;42.0;56.31;Moderate;71.93;High;17.9;Very Low;73.31;High;104.14;Low;13.84;1.0
+1098;Vijayawada;India;IN;2.0;4.0;2.0;1.0;8.0;117.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;9.0
+1099;Coimbatore;India;IN;2.0;4.0;2.0;1.0;10.0;150.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;9.0
+1100;Ranchi;India;IN;2.0;6.0;2.0;2.0;4.0;137.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;9.0
+1101;Byron Bay;Australia;AU;13.0;9.0;4.0;3.0;75.0;1167.0;52.71;Moderate;93.8;Very High;64.5;Moderate;26.8;Low;190.69;Very High;82.73;15.0
+1103;Avellino;Italy;IT;6.0;5.0;1.0;1.0;35.0;452.0;53.03;Moderate;90.78;Very High;52.12;Low;53.67;Moderate;151.06;High;104.09;23.6
+1104;Schenectady, NY;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1105;Beaverton, OR;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1106;High Point, NC;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1107;Centennial, CO;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1108;Ann Arbor, MI;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1109;Topeka, KS;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1110;Joliet, IL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1111;Little Rock, AR;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1112;Coventry;United Kingdom;GB;12.0;7.0;2.0;3.0;59.0;963.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;2.0
+1113;Bakersfield, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1114;Maracay;Venezuela;VE;6.0;7.0;1.0;1.0;9.0;167.0;19.26;Very Low;0.0;;35.85;Very Low;75.3;High;0.0;;23.92;2.0
+1116;Bhubaneswar;India;IN;2.0;4.0;2.0;1.0;8.0;117.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;1.0
+1117;Charlotte, NC;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1118;Fairfax, VA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1119;Quetta;Pakistan;PK;1.0;3.0;1.0;1.0;2.0;57.0;56.31;Moderate;71.93;High;17.9;Very Low;73.31;High;104.14;Low;13.84;1.0
+1120;Dhaka;Bangladesh;BD;2.0;5.0;2.0;2.0;18.0;135.0;38.79;Low;71.29;High;20.76;Very Low;85.31;Very High;74.51;Very Low;40.31;5.0
+1121;Princeton, NJ;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1122;Budva;Montenegro;ME;8.0;5.0;1.0;2.0;23.0;610.0;64.59;High;89.02;Very High;37.37;Very Low;43.7;Moderate;147.33;High;60.03;12.0
+1123;Zandvoort;Netherlands;NL;16.0;9.0;1.0;3.0;109.0;1053.0;73.36;High;87.42;Very High;61.41;Moderate;21.14;Low;211.85;Very High;165.0;28.352941176470587
+1124;Tsushima Island;Japan;JP;6.0;5.0;2.0;3.0;73.0;580.0;77.07;High;85.26;Very High;46.99;Low;38.55;Low;184.32;Very High;178.76;39.666666666666664
+1125;Joplin, MO;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1126;Albany, OR;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1127;Pensacola, FL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1128;Galway;Ireland;IE;13.0;9.0;3.0;4.0;60.0;1337.0;52.53;Moderate;87.83;Very High;60.85;Moderate;34.79;Low;166.37;Very High;122.55;11.0
+1129;San Angelo, TX;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1130;Midland, TX;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1131;Omaha, NE;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1132;Allahabad;India;IN;2.0;4.0;2.0;2.0;12.0;75.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;9.0
+1133;Chifeng;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+1134;Konya;Turkey;TR;2.0;3.0;2.0;1.0;13.0;113.0;58.74;Moderate;93.26;Very High;35.37;Very Low;64.29;High;130.42;Moderate;43.48;25.166666666666668
+1135;Changsha;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+1136;Karachi;Pakistan;PK;2.0;4.0;1.0;1.0;11.0;108.0;56.31;Moderate;71.93;High;17.9;Very Low;73.31;High;104.14;Low;13.84;1.0
+1137;Revelstoke;Canada;CA;15.0;8.0;2.0;3.0;64.0;1067.0;54.34;Moderate;55.41;Moderate;60.55;Moderate;29.8;Low;164.54;Very High;183.81;2.0
+1138;Nago, Okinawa;Japan;JP;6.0;5.0;2.0;3.0;73.0;580.0;77.07;High;85.26;Very High;46.99;Low;38.55;Low;184.32;Very High;178.76;39.666666666666664
+1139;Bowling Green, KY;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1140;Marysville, WA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1141;Kauai, Hawaii;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1142;Rapid City, SD;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1143;Decatur, IL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1144;Leuven;Belgium;BE;15.0;9.0;1.0;3.0;37.0;815.0;50.42;Moderate;86.03;Very High;57.41;Low;49.45;Moderate;168.52;Very High;125.12;2.0
+1145;Bellevue, NE;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1146;Verona;Italy;IT;15.0;8.0;1.0;2.0;37.0;787.0;53.03;Moderate;90.78;Very High;52.12;Low;53.67;Moderate;151.06;High;104.09;17.0
+1147;Wollongong;Australia;AU;12.0;8.0;3.0;3.0;47.0;2051.0;52.71;Moderate;93.8;Very High;64.5;Moderate;26.8;Low;190.69;Very High;82.73;1.0
+1148;Kaechon;North Korea;KP;;;;;;;46.53;Moderate;0.0;;33.59;Very Low;72.41;High;0.0;;;2.6666666666666665
+1149;Chongjin;North Korea;KP;;;;;;;46.53;Moderate;0.0;;33.59;Very Low;72.41;High;0.0;;;2.6666666666666665
+1150;Taichung;Taiwan;TW;3.0;5.0;2.0;3.0;39.0;359.0;82.89;Very High;84.38;Very High;44.79;Low;64.31;High;160.18;Very High;152.01;10.0
+1151;Ao Nang;Thailand;TH;2.0;5.0;2.0;2.0;20.0;252.0;62.49;High;69.76;High;33.88;Very Low;75.65;High;105.37;Low;225.17;36.0
+1152;Oshkosh, WI;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1153;Missoula, MT;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1154;Mountain View, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1155;Temecula, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1156;Carlsbad, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1157;Reading;United Kingdom;GB;23.0;7.0;2.0;4.0;70.0;1217.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;1.0
+1158;Henderson, NV;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1159;Tirupur;India;IN;2.0;4.0;2.0;1.0;8.0;117.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;9.0
+1160;Guadalajara;Mexico;MX;7.0;6.0;1.0;2.0;17.0;506.0;46.47;Moderate;87.51;Very High;35.0;Very Low;58.46;Moderate;127.02;Moderate;54.88;32.0
+1162;Ithaca, NY;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1163;Hilo, Hawaii;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1164;Harrisonburg, VA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1165;Bradenton, FL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1166;Lugano;Switzerland;CH;31.0;15.0;2.0;4.0;81.0;1658.0;73.69;High;79.24;High;101.18;Very High;23.06;Low;204.91;Very High;229.96;3.0
+1167;Conway, AR;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1168;Iowa City, IA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1169;Lelystad;Netherlands;NL;16.0;9.0;1.0;3.0;109.0;1053.0;73.36;High;87.42;Very High;61.41;Moderate;21.14;Low;211.85;Very High;165.0;28.352941176470587
+1170;Murrieta, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1171;Jyvaskyla;Finland;FI;10.0;8.0;3.0;4.0;54.0;683.0;73.57;High;58.87;Moderate;60.04;Moderate;11.83;Very Low;203.06;Very High;135.05;1.0
+1172;Haarlem;Netherlands;NL;18.0;12.0;1.0;3.0;109.0;1512.0;73.36;High;87.42;Very High;61.41;Moderate;21.14;Low;211.85;Very High;165.0;8.0
+1173;Fort Wayne, IN;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1174;Jiaxing;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+1175;Zhangjiagang;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+1176;Asansol;India;IN;2.0;4.0;2.0;1.0;8.0;117.0;55.67;Moderate;64.1;High;19.93;Very Low;72.89;High;124.7;Moderate;64.03;9.0
+1177;Milan;Italy;IT;20.0;10.0;1.0;2.0;39.0;1273.0;53.03;Moderate;90.78;Very High;52.12;Low;53.67;Moderate;151.06;High;104.09;115.0
+1178;Wenzhou;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+1179;Caracas;Venezuela;VE;10.0;10.0;1.0;2.0;29.0;365.0;19.26;Very Low;0.0;;35.85;Very Low;75.3;High;0.0;;23.92;2.0
+1180;Casablanca;Morocco;MA;3.0;6.0;2.0;2.0;21.0;406.0;52.34;Moderate;86.09;Very High;27.76;Very Low;68.66;High;110.96;Low;27.21;24.0
+1183;Delano, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1184;Fredericton;Canada;CA;18.0;8.0;3.0;3.0;57.0;821.0;54.34;Moderate;55.41;Moderate;60.55;Moderate;29.8;Low;164.54;Very High;183.81;21.304347826086957
+1186;San Mateo, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1187;Chatham;Canada;CA;15.0;8.0;2.0;3.0;64.0;1067.0;54.34;Moderate;55.41;Moderate;60.55;Moderate;29.8;Low;164.54;Very High;183.81;21.304347826086957
+1188;Trento;Italy;IT;14.0;8.0;1.0;2.0;33.0;703.0;53.03;Moderate;90.78;Very High;52.12;Low;53.67;Moderate;151.06;High;104.09;2.0
+1189;Barrie;Canada;CA;14.0;9.0;2.0;3.0;73.0;1311.0;54.34;Moderate;55.41;Moderate;60.55;Moderate;29.8;Low;164.54;Very High;183.81;21.304347826086957
+1190;Palmdale, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1191;Port St. Lucie, FL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1192;Menlo Park, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1193;Sarasota, FL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1194;Petaluma, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1195;Appleton, WI;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1196;West Palm Beach, FL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;1.0
+1197;Charleston, SC;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1198;Tanchon;North Korea;KP;;;;;;;46.53;Moderate;0.0;;33.59;Very Low;72.41;High;0.0;;;2.6666666666666665
+1199;Copan;Honduras;HN;4.0;6.0;1.0;2.0;39.0;303.0;27.75;Low;0.0;;34.39;Very Low;75.52;High;0.0;;26.93;1.0
+1200;Juarez;Mexico;MX;5.0;5.0;1.0;2.0;12.0;430.0;46.47;Moderate;87.51;Very High;35.0;Very Low;58.46;Moderate;127.02;Moderate;54.88;26.47826086956522
+1201;Anshan;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+1202;Comporta;Portugal;PT;8.0;6.0;1.0;1.0;36.0;625.0;68.17;High;97.31;Very High;41.72;Low;28.8;Low;168.85;Very High;162.55;39.0
+1203;Road Town;British Virgin Islands;VG;19.0;14.0;5.0;5.0;0.0;1747.0;59.31;Moderate;0.0;;0.0;;68.1;High;0.0;;;1.0
+1204;Punta Cana;Dominican Republic;DO;6.0;6.0;2.0;2.0;46.0;410.0;39.4;Low;67.82;High;34.75;Very Low;72.8;High;89.09;Very Low;32.26;3.0
+1205;Kenosha, WI;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1206;Vista, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1207;Mexicali;Mexico;MX;8.0;5.0;1.0;2.0;22.0;279.0;46.47;Moderate;87.51;Very High;35.0;Very Low;58.46;Moderate;127.02;Moderate;54.88;26.47826086956522
+1208;Puning;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+1209;Rawalpindi;Pakistan;PK;1.0;3.0;2.0;2.0;7.0;90.0;56.31;Moderate;71.93;High;17.9;Very Low;73.31;High;104.14;Low;13.84;1.0
+1210;Hamilton;Bermuda;BM;13.0;8.0;2.0;3.0;78.0;1137.0;63.7;High;0.0;;124.77;Very High;14.95;Very Low;0.0;;;10.0
+1210;Hamilton;Bermuda;BM;28.0;14.0;5.0;5.0;66.0;3098.0;63.7;High;0.0;;124.77;Very High;14.95;Very Low;0.0;;;10.0
+1211;Kamiyama;Japan;JP;6.0;5.0;2.0;3.0;73.0;580.0;77.07;High;85.26;Very High;46.99;Low;38.55;Low;184.32;Very High;178.76;39.666666666666664
+1212;Olympia, WA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1213;Bridgetown;Barbados;BB;19.0;8.0;2.0;4.0;34.0;465.0;55.14;Moderate;0.0;;70.6;Moderate;24.39;Low;0.0;;;3.0
+1214;Hamamatsu;Japan;JP;5.0;4.0;2.0;3.0;57.0;390.0;77.07;High;85.26;Very High;46.99;Low;38.55;Low;184.32;Very High;178.76;3.0
+1215;Havana;Cuba;CU;10.0;7.0;1.0;2.0;19.0;508.0;66.02;High;0.0;;41.1;Low;65.82;High;0.0;;4.01;48.0
+1219;Verdi, NV;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1220;Taos, NM;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1221;Park City, UT;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1223;Shrewsbury;United Kingdom;GB;13.0;6.0;2.0;3.0;82.0;586.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;2.0
+1224;Duluth, MN;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1225;Green Bay, WI;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1226;Santa Maria, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1227;Bridgeport, CT;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1228;Vientiane;Laos;LA;3.0;5.0;1.0;2.0;6.0;486.0;63.72;High;0.0;;32.57;Very Low;78.51;High;0.0;;48.16;35.0
+1229;Toluca;Mexico;MX;7.0;6.0;1.0;2.0;29.0;268.0;46.47;Moderate;87.51;Very High;35.0;Very Low;58.46;Moderate;127.02;Moderate;54.88;1.0
+1230;Zhangzhou;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+1231;Cartagena;Colombia;CO;10.0;7.0;1.0;1.0;20.0;452.0;39.14;Low;96.69;Very High;25.48;Very Low;62.47;High;107.9;Low;72.19;76.0
+1231;Cartagena;Colombia;CO;2.0;4.0;1.0;1.0;20.0;457.0;39.14;Low;96.69;Very High;25.48;Very Low;62.47;High;107.9;Low;72.19;76.0
+1232;Rui'an;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+1233;San Clemente, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1234;Ajaccio, Corsica;France;FR;14.0;9.0;2.0;3.0;48.0;680.0;44.56;Moderate;89.71;Very High;59.48;Low;43.56;Moderate;165.08;Very High;214.04;32.94736842105263
+1235;Cheltenham;United Kingdom;GB;18.0;6.0;2.0;4.0;63.0;873.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;2.0
+1236;Eugene, OR;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;1.0
+1237;Oceanside, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1238;Accra;Ghana;GH;2.0;4.0;1.0;1.0;17.0;562.0;54.65;Moderate;67.03;High;30.49;Very Low;86.91;Very High;17.47;Very Low;52.1;2.0
+1239;Palm Desert, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1240;Bonita Springs, FL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1241;Cathedral City, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1242;Port Orange, FL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1243;Pueblo, CO;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1244;Arnhem;Netherlands;NL;17.0;9.0;1.0;3.0;100.0;919.0;73.36;High;87.42;Very High;61.41;Moderate;21.14;Low;211.85;Very High;165.0;2.0
+1245;Breda;Netherlands;NL;20.0;9.0;1.0;3.0;129.0;913.0;73.36;High;87.42;Very High;61.41;Moderate;21.14;Low;211.85;Very High;165.0;1.0
+1246;Augusta, GA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1247;Bozeman, MT;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1248;Galveston, TX;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1249;St. Gallen;Switzerland;CH;24.0;15.0;2.0;5.0;92.0;1481.0;73.69;High;79.24;High;101.18;Very High;23.06;Low;204.91;Very High;229.96;3.0
+1250;Indio, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1251;Nashua, NH;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1252;Plantation, FL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1254;Hamhung;North Korea;KP;;;;;;;46.53;Moderate;0.0;;33.59;Very Low;72.41;High;0.0;;;2.6666666666666665
+1256;Ocala, FL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1257;Hua Hin;Thailand;TH;3.0;5.0;1.0;2.0;11.0;336.0;62.49;High;69.76;High;33.88;Very Low;75.65;High;105.37;Low;225.17;12.0
+1258;Vineland, NJ;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1259;Cape Coral, FL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1260;Xiangyang;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+1261;Fort McMurray;Canada;CA;15.0;8.0;2.0;3.0;64.0;1067.0;54.34;Moderate;55.41;Moderate;60.55;Moderate;29.8;Low;164.54;Very High;183.81;21.304347826086957
+1262;Tuscaloosa, AL;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1263;Kuta, Bali;Indonesia;ID;2.0;3.0;2.0;2.0;10.0;210.0;54.11;Moderate;63.76;High;25.31;Very Low;67.99;High;99.98;Very Low;27.83;10.692307692307692
+1264;Salem, MA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1267;Siena;Italy;IT;18.0;9.0;1.0;1.0;37.0;720.0;53.03;Moderate;90.78;Very High;52.12;Low;53.67;Moderate;151.06;High;104.09;5.0
+1268;Carson City, NV;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1269;Huzhou;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+1270;Tengzhou;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+1271;Whistler;Canada;CA;14.0;8.0;4.0;4.0;35.0;1890.0;54.34;Moderate;55.41;Moderate;60.55;Moderate;29.8;Low;164.54;Very High;183.81;10.0
+1272;Tulum;Mexico;MX;7.0;6.0;1.0;2.0;19.0;377.0;46.47;Moderate;87.51;Very High;35.0;Very Low;58.46;Moderate;127.02;Moderate;54.88;40.0
+1273;Brighton;United Kingdom;GB;18.0;7.0;3.0;4.0;96.0;1339.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;22.0
+1274;Santa Teresa;Costa Rica;CR;6.0;7.0;2.0;3.0;48.0;362.0;46.04;Moderate;99.48;Very High;50.18;Low;42.39;Moderate;129.35;Moderate;56.39;4.0
+1275;Incline Village, NV;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1276;Tarifa;Spain;ES;11.0;8.0;1.0;2.0;36.0;634.0;63.51;High;94.04;Very High;44.41;Low;35.7;Low;184.67;Very High;201.47;15.0
+1277;Helena, MT;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1278;Dorobo;Japan;JP;6.0;5.0;2.0;3.0;73.0;580.0;77.07;High;85.26;Very High;46.99;Low;38.55;Low;184.32;Very High;178.76;39.666666666666664
+1279;Sariwon;North Korea;KP;;;;;;;46.53;Moderate;0.0;;33.59;Very Low;72.41;High;0.0;;;2.6666666666666665
+1280;Nampo;North Korea;KP;;;;;;;46.53;Moderate;0.0;;33.59;Very Low;72.41;High;0.0;;;2.6666666666666665
+1281;Grand Forks, ND;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
+1282;Sayulita;Mexico;MX;7.0;6.0;1.0;2.0;19.0;377.0;46.47;Moderate;87.51;Very High;35.0;Very Low;58.46;Moderate;127.02;Moderate;54.88;17.0
+1285;Okayama;Japan;JP;6.0;5.0;2.0;3.0;73.0;580.0;77.07;High;85.26;Very High;46.99;Low;38.55;Low;184.32;Very High;178.76;4.0
+1286;Exeter;United Kingdom;GB;14.0;8.0;2.0;4.0;70.0;882.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;1.0
+1288;Huambo;Angola;AO;7.0;10.0;1.0;4.0;30.0;210.0;33.71;Low;0.0;;42.57;Low;92.07;Very High;0.0;;14.86;2.0
+1289;Nuuk;Greenland;GL;16.0;15.0;4.0;6.0;75.0;946.0;62.16;High;0.0;;83.09;High;77.11;High;0.0;;;1.0
+1290;Medina;Saudi Arabia;SA;8.0;7.0;2.0;4.0;89.0;335.0;76.23;High;45.98;Moderate;42.06;Low;62.46;High;173.2;Very High;94.64;1.75
+1292;Martinique;Martinique;MQ;10.0;10.0;2.0;4.0;45.0;626.0;37.14;Low;0.0;;60.67;Moderate;62.59;High;0.0;;;1.0
+1294;Doha;Qatar;QA;8.0;7.0;2.0;5.0;39.0;1749.0;84.05;Very High;36.03;Moderate;48.27;Low;60.0;High;192.73;Very High;113.88;32.0
+1295;Weihai;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
+1296;Dammam;Saudi Arabia;SA;7.0;7.0;2.0;4.0;41.0;360.0;76.23;High;45.98;Moderate;42.06;Low;62.46;High;173.2;Very High;94.64;1.0
+1297;Kaesong;North Korea;KP;;;;;;;46.53;Moderate;0.0;;33.59;Very Low;72.41;High;0.0;;;1.0
+1299;Cabo San Lucas;Mexico;MX;7.0;6.0;1.0;2.0;19.0;377.0;46.47;Moderate;87.51;Very High;35.0;Very Low;58.46;Moderate;127.02;Moderate;54.88;14.0
+1300;Mecca;Saudi Arabia;SA;6.0;8.0;1.0;4.0;25.0;292.0;76.23;High;45.98;Moderate;42.06;Low;62.46;High;173.2;Very High;94.64;1.0
+1301;El Calafate;Argentina;AR;6.0;5.0;1.0;2.0;19.0;218.0;36.36;Low;98.28;Very High;32.65;Very Low;50.81;Moderate;115.06;Low;58.87;5.0
+1302;Tabarana do Norte;Brazil;BR;5.0;6.0;1.0;1.0;37.0;251.0;35.36;Low;94.31;Very High;27.14;Very Low;52.84;Moderate;115.99;Low;113.09;15.777777777777779
+1304;Obninsk;Russia;RU;10.0;6.0;1.0;2.0;23.0;395.0;61.3;High;43.6;Moderate;25.25;Very Low;59.13;Moderate;113.56;Low;95.96;9.68421052631579
+1306;Novocherkassk;Russia;RU;10.0;6.0;1.0;2.0;23.0;395.0;61.3;High;43.6;Moderate;25.25;Very Low;59.13;Moderate;113.56;Low;95.96;1.0
+1307;Beersheba;Israel;IL;15.0;17.0;2.0;3.0;34.0;615.0;68.25;High;93.78;Very High;63.19;Moderate;56.84;Moderate;161.76;Very High;162.66;34.666666666666664
+1308;Juba;South Sudan;SS;7.0;6.0;1.0;1.0;57.0;2240.0;18.57;Very Low;0.0;;0.0;;56.47;Moderate;0.0;;;1.0
+1309;Ivano-Frankivsk;Ukraine;UA;3.0;3.0;1.0;1.0;6.0;236.0;53.13;Moderate;70.69;High;24.38;Very Low;62.16;High;114.78;Low;76.82;8.666666666666666
+1310;Haifa;Israel;IL;17.0;15.0;2.0;4.0;61.0;701.0;68.25;High;93.78;Very High;63.19;Moderate;56.84;Moderate;161.76;Very High;162.66;4.0
+1311;Sochi;Russia;RU;15.0;7.0;1.0;3.0;20.0;717.0;61.3;High;43.6;Moderate;25.25;Very Low;59.13;Moderate;113.56;Low;95.96;6.0
+1312;Tel Aviv;Israel;IL;18.0;15.0;2.0;3.0;57.0;986.0;68.25;High;93.78;Very High;63.19;Moderate;56.84;Moderate;161.76;Very High;162.66;75.0
+1313;Kaliningrad;Russia;RU;10.0;6.0;1.0;2.0;23.0;376.0;61.3;High;43.6;Moderate;25.25;Very Low;59.13;Moderate;113.56;Low;95.96;2.0
+1314;Beirut;Lebanon;LB;10.0;6.0;1.0;3.0;76.0;685.0;53.16;Moderate;94.74;Very High;38.99;Very Low;89.41;Very High;98.43;Very Low;18.22;11.0
+1315;Tomsk;Russia;RU;8.0;6.0;1.0;2.0;28.0;396.0;61.3;High;43.6;Moderate;25.25;Very Low;59.13;Moderate;113.56;Low;95.96;1.0
+1316;Vladivostok;Russia;RU;8.0;5.0;1.0;3.0;15.0;686.0;61.3;High;43.6;Moderate;25.25;Very Low;59.13;Moderate;113.56;Low;95.96;3.0
+1317;Ulyanovsk;Russia;RU;8.0;4.0;1.0;2.0;11.0;348.0;61.3;High;43.6;Moderate;25.25;Very Low;59.13;Moderate;113.56;Low;95.96;1.0
+1318;Izhevsk;Russia;RU;8.0;5.0;1.0;2.0;20.0;274.0;61.3;High;43.6;Moderate;25.25;Very Low;59.13;Moderate;113.56;Low;95.96;9.68421052631579
+1320;Krivoy-Rog;Ukraine;UA;4.0;3.0;1.0;1.0;7.0;216.0;53.13;Moderate;70.69;High;24.38;Very Low;62.16;High;114.78;Low;76.82;8.666666666666666
+1323;Lviv;Ukraine;UA;4.0;4.0;1.0;1.0;6.0;363.0;53.13;Moderate;70.69;High;24.38;Very Low;62.16;High;114.78;Low;76.82;18.0
+1325;Krasnodar;Russia;RU;14.0;6.0;1.0;2.0;21.0;367.0;61.3;High;43.6;Moderate;25.25;Very Low;59.13;Moderate;113.56;Low;95.96;4.0
+1328;Saratov;Russia;RU;8.0;6.0;1.0;2.0;15.0;311.0;61.3;High;43.6;Moderate;25.25;Very Low;59.13;Moderate;113.56;Low;95.96;1.0
+1330;Jerusalem;Israel;IL;17.0;15.0;3.0;3.0;60.0;1231.0;68.25;High;93.78;Very High;63.19;Moderate;56.84;Moderate;161.76;Very High;162.66;25.0
+1331;Naypyidaw;Myanmar;MM;3.0;5.0;1.0;2.0;23.0;317.0;49.14;Moderate;0.0;;35.88;Very Low;89.79;Very High;0.0;;20.69;26.0
+1332;Dnipro;Ukraine;UA;6.0;4.0;1.0;1.0;11.0;303.0;53.13;Moderate;70.69;High;24.38;Very Low;62.16;High;114.78;Low;76.82;2.0
+1333;Odessa;Ukraine;UA;15.0;9.0;2.0;3.0;35.0;1960.0;53.13;Moderate;70.69;High;24.38;Very Low;62.16;High;114.78;Low;76.82;8.666666666666666
+1334;Krasnoyarsk;Russia;RU;8.0;5.0;1.0;2.0;23.0;361.0;61.3;High;43.6;Moderate;25.25;Very Low;59.13;Moderate;113.56;Low;95.96;9.68421052631579
+1335;Volgograd;Russia;RU;7.0;5.0;1.0;2.0;18.0;290.0;61.3;High;43.6;Moderate;25.25;Very Low;59.13;Moderate;113.56;Low;95.96;2.0
+1336;Ufa;Russia;RU;8.0;5.0;1.0;2.0;15.0;409.0;61.3;High;43.6;Moderate;25.25;Very Low;59.13;Moderate;113.56;Low;95.96;1.0
+1337;Rostov-on-Don;Russia;RU;10.0;6.0;1.0;2.0;23.0;395.0;61.3;High;43.6;Moderate;25.25;Very Low;59.13;Moderate;113.56;Low;95.96;3.0
+1338;Ahvaz;Iran;IR;6.0;3.0;0.0;1.0;19.0;260.0;49.67;Moderate;70.99;High;24.03;Very Low;75.24;High;85.42;Very Low;21.36;5.333333333333333
+1339;Chelyabinsk;Russia;RU;12.0;5.0;1.0;2.0;26.0;282.0;61.3;High;43.6;Moderate;25.25;Very Low;59.13;Moderate;113.56;Low;95.96;1.0
+1340;Omsk;Russia;RU;8.0;6.0;1.0;2.0;31.0;310.0;61.3;High;43.6;Moderate;25.25;Very Low;59.13;Moderate;113.56;Low;95.96;9.68421052631579
+1341;Kazan;Russia;RU;8.0;6.0;1.0;2.0;23.0;492.0;61.3;High;43.6;Moderate;25.25;Very Low;59.13;Moderate;113.56;Low;95.96;6.0
+1342;Samara;Russia;RU;9.0;6.0;1.0;2.0;30.0;338.0;61.3;High;43.6;Moderate;25.25;Very Low;59.13;Moderate;113.56;Low;95.96;4.0
+1343;Maputo;Mozambique;MZ;16.0;4.0;1.0;2.0;13.0;943.0;38.05;Low;0.0;;39.14;Very Low;71.57;High;0.0;;9.27;1.0
+1344;Qom;Iran;IR;4.0;4.0;1.0;2.0;14.0;1127.0;49.67;Moderate;70.99;High;24.03;Very Low;75.24;High;85.42;Very Low;21.36;5.333333333333333
+1345;Mandalay;Myanmar;MM;3.0;5.0;1.0;2.0;23.0;317.0;49.14;Moderate;0.0;;35.88;Very Low;89.79;Very High;0.0;;20.69;12.0
+1346;Nizhny;Russia;RU;10.0;6.0;1.0;2.0;23.0;395.0;61.3;High;43.6;Moderate;25.25;Very Low;59.13;Moderate;113.56;Low;95.96;1.0
+1348;Kharkiv;Ukraine;UA;4.0;3.0;1.0;1.0;6.0;323.0;53.13;Moderate;70.69;High;24.38;Very Low;62.16;High;114.78;Low;76.82;6.0
+1349;Yekaterinburg;Russia;RU;9.0;5.0;1.0;3.0;31.0;437.0;61.3;High;43.6;Moderate;25.25;Very Low;59.13;Moderate;113.56;Low;95.96;4.0
+1350;Novosibirsk;Russia;RU;9.0;6.0;1.0;3.0;37.0;436.0;61.3;High;43.6;Moderate;25.25;Very Low;59.13;Moderate;113.56;Low;95.96;2.0
+1351;Tabriz;Iran;IR;14.0;12.0;2.0;4.0;11.0;616.0;49.67;Moderate;70.99;High;24.03;Very Low;75.24;High;85.42;Very Low;21.36;5.333333333333333
+1352;Shiraz;Iran;IR;3.0;3.0;1.0;2.0;13.0;316.0;49.67;Moderate;70.99;High;24.03;Very Low;75.24;High;85.42;Very Low;21.36;2.0
+1355;Isfahan;Iran;IR;4.0;4.0;1.0;2.0;14.0;1127.0;49.67;Moderate;70.99;High;24.03;Very Low;75.24;High;85.42;Very Low;21.36;3.0
+1356;Minsk;Belarus;BY;9.0;5.0;1.0;2.0;18.0;383.0;49.99;Moderate;64.37;High;25.11;Very Low;44.94;Moderate;127.48;Moderate;69.41;19.0
+1359;Addis Ababa;Ethiopia;ET;7.0;4.0;1.0;1.0;11.0;445.0;49.1;Moderate;96.82;Very High;43.89;Low;73.24;High;48.88;Very Low;14.17;7.0
+1360;Kyiv;Ukraine;UA;6.0;3.0;1.0;1.0;9.0;451.0;53.13;Moderate;70.69;High;24.38;Very Low;62.16;High;114.78;Low;76.82;8.666666666666666
+1361;Kabul;Afghanistan;AF;2.0;3.0;1.0;1.0;15.0;104.0;25.33;Low;0.0;;21.08;Very Low;84.44;Very High;0.0;;8.26;1.0
+1362;Mashhad;Iran;IR;2.0;4.0;0.0;1.0;10.0;481.0;49.67;Moderate;70.99;High;24.03;Very Low;75.24;High;85.42;Very Low;21.36;5.333333333333333
+1364;Dar es Salaam;Tanzania;TZ;2.0;6.0;1.0;2.0;5.0;318.0;46.46;Moderate;71.28;High;25.31;Very Low;62.48;High;0.0;Very Low;19.77;12.0
+1365;Saint Petersburg;Russia;RU;10.0;6.0;1.0;2.0;23.0;395.0;61.3;High;43.6;Moderate;25.25;Very Low;59.13;Moderate;113.56;Low;95.96;57.0
+1366;Yangon;Myanmar;MM;3.0;5.0;1.0;2.0;23.0;317.0;49.14;Moderate;0.0;;35.88;Very Low;89.79;Very High;0.0;;20.69;40.0
+1368;Tehran;Iran;IR;4.0;5.0;0.0;1.0;16.0;516.0;49.67;Moderate;70.99;High;24.03;Very Low;75.24;High;85.42;Very Low;21.36;11.0
+1369;Moscow;Russia;RU;12.0;6.0;1.0;3.0;37.0;1088.0;61.3;High;43.6;Moderate;25.25;Very Low;59.13;Moderate;113.56;Low;95.96;84.0
