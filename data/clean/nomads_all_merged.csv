@@ -65,8 +65,8 @@ rank;city;country;country_code;meal;mcdonalds;beer;coffee;monthly_pass;monthly_r
 64;Copenhagen;Denmark;DK;19.0;11.0;2.0;6.0;70.0;1682.0;73.81;High;82.47;Very High;68.9;Moderate;20.75;Low;208.65;Very High;227.91;150.0
 65;Cancun;Mexico;MX;9.0;6.0;1.0;2.0;26.0;546.0;46.47;Moderate;87.51;Very High;35.0;Very Low;58.46;Moderate;127.02;Moderate;54.88;49.0
 66;Austin, TX;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.0
-67;Barcelona;Spain;ES;10.0;7.0;1.0;2.0;10.0;191.0;63.51;High;94.04;Very High;44.41;Low;35.7;Low;184.67;Very High;201.47;406.0
 67;Barcelona;Spain;ES;14.0;9.0;1.0;2.0;40.0;1033.0;63.51;High;94.04;Very High;44.41;Low;35.7;Low;184.67;Very High;201.47;406.0
+67;Barcelona;Spain;ES;10.0;7.0;1.0;2.0;10.0;191.0;63.51;High;94.04;Very High;44.41;Low;35.7;Low;184.67;Very High;201.47;406.0
 68;Suva;Fiji;FJ;3.0;6.0;2.0;3.0;35.0;537.0;43.44;Moderate;71.89;High;33.42;Very Low;53.44;Moderate;122.12;Moderate;20.76;3.0
 69;Burgas;Bulgaria;BG;8.0;7.0;1.0;2.0;23.0;314.0;63.73;High;82.76;Very High;35.86;Very Low;62.94;High;144.49;Moderate;86.75;1.0
 70;Poznan;Poland;PL;6.0;5.0;1.0;2.0;26.0;495.0;70.99;High;75.9;High;39.35;Very Low;55.51;Moderate;153.6;High;156.33;15.0
@@ -90,8 +90,8 @@ rank;city;country;country_code;meal;mcdonalds;beer;coffee;monthly_pass;monthly_r
 88;Alexandria;Egypt;EG;4.0;3.0;1.0;1.0;9.0;136.0;52.64;Moderate;91.98;Very High;19.46;Very Low;82.67;Very High;85.41;Very Low;39.97;10.25
 89;Mostar;Bosnia;BA;5.0;5.0;1.0;1.0;29.0;200.0;58.3;Moderate;80.48;Very High;32.01;Very Low;59.68;Moderate;134.51;Moderate;48.51;11.0
 90;Kingston;Jamaica;JM;6.0;6.0;2.0;3.0;31.0;605.0;32.61;Low;71.58;High;49.56;Low;66.31;High;83.92;Very Low;37.84;7.0
-91;Cordoba;Argentina;AR;9.0;7.0;1.0;1.0;31.0;619.0;36.36;Low;98.28;Very High;32.65;Very Low;50.81;Moderate;115.06;Low;58.87;28.0
 91;Cordoba;Argentina;AR;5.0;5.0;1.0;1.0;25.0;205.0;36.36;Low;98.28;Very High;32.65;Very Low;50.81;Moderate;115.06;Low;58.87;28.0
+91;Cordoba;Argentina;AR;9.0;7.0;1.0;1.0;31.0;619.0;36.36;Low;98.28;Very High;32.65;Very Low;50.81;Moderate;115.06;Low;58.87;28.0
 92;Sofia;Bulgaria;BG;10.0;6.0;1.0;2.0;25.0;425.0;63.73;High;82.76;Very High;35.86;Very Low;62.94;High;144.49;Moderate;86.75;76.0
 93;Taipei;Taiwan;TW;6.0;5.0;2.0;3.0;40.0;648.0;82.89;Very High;84.38;Very High;44.79;Low;64.31;High;160.18;Very High;152.01;142.0
 94;La Paz;Bolivia;BO;3.0;6.0;2.0;2.0;30.0;262.0;35.0;Low;0.0;;25.28;Very Low;71.92;High;0.0;;27.8;30.0
@@ -366,10 +366,10 @@ rank;city;country;country_code;meal;mcdonalds;beer;coffee;monthly_pass;monthly_r
 366;Amsterdam;Netherlands;NL;19.0;10.0;2.0;3.0;100.0;1715.0;73.36;High;87.42;Very High;61.41;Moderate;21.14;Low;211.85;Very High;165.0;351.0
 367;Chengdu;China;CN;3.0;5.0;1.0;4.0;25.0;418.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;14.0
 368;Beijing;China;CN;4.0;5.0;1.0;4.0;41.0;1143.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;83.0
-369;Victoria;Seychelles;SC;15.0;6.0;3.0;5.0;22.0;834.0;55.01;Moderate;0.0;;59.88;Low;36.71;Low;0.0;;;16.0
 369;Victoria;Seychelles;SC;18.0;8.0;2.0;4.0;60.0;1419.0;55.01;Moderate;0.0;;59.88;Low;36.71;Low;0.0;;;16.0
-370;Victoria;Canada;CA;15.0;6.0;3.0;5.0;22.0;834.0;54.34;Moderate;55.41;Moderate;60.55;Moderate;29.8;Low;164.54;Very High;183.81;16.0
+369;Victoria;Seychelles;SC;15.0;6.0;3.0;5.0;22.0;834.0;55.01;Moderate;0.0;;59.88;Low;36.71;Low;0.0;;;16.0
 370;Victoria;Canada;CA;18.0;8.0;2.0;4.0;60.0;1419.0;54.34;Moderate;55.41;Moderate;60.55;Moderate;29.8;Low;164.54;Very High;183.81;16.0
+370;Victoria;Canada;CA;15.0;6.0;3.0;5.0;22.0;834.0;54.34;Moderate;55.41;Moderate;60.55;Moderate;29.8;Low;164.54;Very High;183.81;16.0
 371;Newport Beach, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
 372;Madeira;Portugal;PT;8.0;6.0;1.0;1.0;36.0;625.0;68.17;High;97.31;Very High;41.72;Low;28.8;Low;168.85;Very High;162.55;6.0
 373;Siem Reap;Cambodia;KH;2.0;6.0;1.0;2.0;71.0;226.0;48.19;Moderate;59.43;Moderate;34.38;Very Low;77.77;High;78.92;Very Low;28.32;141.0
@@ -435,8 +435,8 @@ rank;city;country;country_code;meal;mcdonalds;beer;coffee;monthly_pass;monthly_r
 435;Portland, ME;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
 436;Bruges;Belgium;BE;15.0;7.0;2.0;3.0;20.0;649.0;50.42;Moderate;86.03;Very High;57.41;Low;49.45;Moderate;168.52;Very High;125.12;19.0
 437;Okinawa City, Okinawa;Japan;JP;6.0;5.0;2.0;3.0;73.0;580.0;77.07;High;85.26;Very High;46.99;Low;38.55;Low;184.32;Very High;178.76;39.666666666666664
-438;Santiago;Chile;CL;4.0;5.0;1.0;3.0;29.0;286.0;39.55;Low;90.21;Very High;36.29;Very Low;77.51;High;106.49;Low;217.6;92.0
 438;Santiago;Chile;CL;9.0;6.0;1.0;2.0;43.0;435.0;39.55;Low;90.21;Very High;36.29;Very Low;77.51;High;106.49;Low;217.6;92.0
+438;Santiago;Chile;CL;4.0;5.0;1.0;3.0;29.0;286.0;39.55;Low;90.21;Very High;36.29;Very Low;77.51;High;106.49;Low;217.6;92.0
 440;Essaouira;Morocco;MA;3.0;5.0;2.0;1.0;14.0;238.0;52.34;Moderate;86.09;Very High;27.76;Very Low;68.66;High;110.96;Low;27.21;10.0
 441;Szczecin;Poland;PL;7.0;5.0;1.0;2.0;21.0;484.0;70.99;High;75.9;High;39.35;Very Low;55.51;Moderate;153.6;High;156.33;2.0
 442;Cologne;Germany;DE;13.0;9.0;1.0;3.0;96.0;878.0;60.77;High;83.3;Very High;59.56;Low;28.81;Low;189.75;Very High;136.66;53.0
@@ -658,8 +658,8 @@ rank;city;country;country_code;meal;mcdonalds;beer;coffee;monthly_pass;monthly_r
 663;Regina;Canada;CA;12.0;9.0;2.0;3.0;62.0;677.0;54.34;Moderate;55.41;Moderate;60.55;Moderate;29.8;Low;164.54;Very High;183.81;2.0
 664;Laredo, TX;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
 665;Hull;United Kingdom;GB;16.0;7.0;2.0;3.0;86.0;975.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;1.0
-667;Cordoba;Spain;ES;9.0;7.0;1.0;1.0;31.0;619.0;63.51;High;94.04;Very High;44.41;Low;35.7;Low;184.67;Very High;201.47;28.0
 667;Cordoba;Spain;ES;5.0;5.0;1.0;1.0;25.0;205.0;63.51;High;94.04;Very High;44.41;Low;35.7;Low;184.67;Very High;201.47;28.0
+667;Cordoba;Spain;ES;9.0;7.0;1.0;1.0;31.0;619.0;63.51;High;94.04;Very High;44.41;Low;35.7;Low;184.67;Very High;201.47;28.0
 668;Cleveland, OH;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
 669;Mataram, Lombok;Indonesia;ID;2.0;3.0;2.0;2.0;10.0;210.0;54.11;Moderate;63.76;High;25.31;Very Low;67.99;High;99.98;Very Low;27.83;10.692307692307692
 670;Surakarta;Indonesia;ID;1.0;3.0;2.0;1.0;9.0;202.0;54.11;Moderate;63.76;High;25.31;Very Low;67.99;High;99.98;Very Low;27.83;1.0
@@ -740,8 +740,8 @@ rank;city;country;country_code;meal;mcdonalds;beer;coffee;monthly_pass;monthly_r
 750;Bielefeld;Germany;DE;10.0;9.0;1.0;3.0;90.0;562.0;60.77;High;83.3;Very High;59.56;Low;28.81;Low;189.75;Very High;136.66;3.0
 751;Brampton;Canada;CA;11.0;7.0;2.0;2.0;85.0;1359.0;54.34;Moderate;55.41;Moderate;60.55;Moderate;29.8;Low;164.54;Very High;183.81;21.304347826086957
 752;Dongying;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
-753;Birmingham;United Kingdom;GB;13.0;7.0;2.0;3.0;64.0;946.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;26.0
 753;Birmingham;United Kingdom;GB;15.0;8.0;3.0;5.0;52.0;1239.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;26.0
+753;Birmingham;United Kingdom;GB;13.0;7.0;2.0;3.0;64.0;946.0;51.88;Moderate;87.41;Very High;59.67;Low;40.47;Moderate;175.2;Very High;102.24;26.0
 754;Jilin;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
 755;Dalian;China;CN;3.0;5.0;1.0;4.0;24.0;390.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;1.0
 756;Zhengzhou;China;CN;2.0;4.0;1.0;3.0;6.0;254.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;2.0
@@ -1171,8 +1171,8 @@ rank;city;country;country_code;meal;mcdonalds;beer;coffee;monthly_pass;monthly_r
 1207;Mexicali;Mexico;MX;8.0;5.0;1.0;2.0;22.0;279.0;46.47;Moderate;87.51;Very High;35.0;Very Low;58.46;Moderate;127.02;Moderate;54.88;26.47826086956522
 1208;Puning;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
 1209;Rawalpindi;Pakistan;PK;1.0;3.0;2.0;2.0;7.0;90.0;56.31;Moderate;71.93;High;17.9;Very Low;73.31;High;104.14;Low;13.84;1.0
-1210;Hamilton;Bermuda;BM;13.0;8.0;2.0;3.0;78.0;1137.0;63.7;High;0.0;;124.77;Very High;14.95;Very Low;0.0;;;10.0
 1210;Hamilton;Bermuda;BM;28.0;14.0;5.0;5.0;66.0;3098.0;63.7;High;0.0;;124.77;Very High;14.95;Very Low;0.0;;;10.0
+1210;Hamilton;Bermuda;BM;13.0;8.0;2.0;3.0;78.0;1137.0;63.7;High;0.0;;124.77;Very High;14.95;Very Low;0.0;;;10.0
 1211;Kamiyama;Japan;JP;6.0;5.0;2.0;3.0;73.0;580.0;77.07;High;85.26;Very High;46.99;Low;38.55;Low;184.32;Very High;178.76;39.666666666666664
 1212;Olympia, WA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
 1213;Bridgetown;Barbados;BB;19.0;8.0;2.0;4.0;34.0;465.0;55.14;Moderate;0.0;;70.6;Moderate;24.39;Low;0.0;;;3.0
@@ -1189,8 +1189,8 @@ rank;city;country;country_code;meal;mcdonalds;beer;coffee;monthly_pass;monthly_r
 1228;Vientiane;Laos;LA;3.0;5.0;1.0;2.0;6.0;486.0;63.72;High;0.0;;32.57;Very Low;78.51;High;0.0;;48.16;35.0
 1229;Toluca;Mexico;MX;7.0;6.0;1.0;2.0;29.0;268.0;46.47;Moderate;87.51;Very High;35.0;Very Low;58.46;Moderate;127.02;Moderate;54.88;1.0
 1230;Zhangzhou;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
-1231;Cartagena;Colombia;CO;10.0;7.0;1.0;1.0;20.0;452.0;39.14;Low;96.69;Very High;25.48;Very Low;62.47;High;107.9;Low;72.19;76.0
 1231;Cartagena;Colombia;CO;2.0;4.0;1.0;1.0;20.0;457.0;39.14;Low;96.69;Very High;25.48;Very Low;62.47;High;107.9;Low;72.19;76.0
+1231;Cartagena;Colombia;CO;10.0;7.0;1.0;1.0;20.0;452.0;39.14;Low;96.69;Very High;25.48;Very Low;62.47;High;107.9;Low;72.19;76.0
 1232;Rui'an;China;CN;3.0;5.0;1.0;3.0;22.0;371.0;75.82;High;79.61;High;31.23;Very Low;77.3;High;120.52;Moderate;196.57;10.666666666666666
 1233;San Clemente, CA;United States;US;16.0;8.0;2.0;4.0;58.0;1470.0;50.74;Moderate;79.14;High;65.69;Moderate;36.61;Low;189.14;Very High;203.81;2.4615384615384617
 1234;Ajaccio, Corsica;France;FR;14.0;9.0;2.0;3.0;48.0;680.0;44.56;Moderate;89.71;Very High;59.48;Low;43.56;Moderate;165.08;Very High;214.04;32.94736842105263

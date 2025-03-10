@@ -18,4 +18,5 @@ dependencies = [
     "pymysql>=1.1.1",
     "seaborn>=0.13.2",
     "sqlalchemy>=2.0.38",
+    "xlsxwriter>=3.2.2",
 ]
