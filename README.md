@@ -196,7 +196,7 @@ coworking_potential_score = (
 ## 📊 Tableau Dashboard
 
 **Interactive dashboard built with Tableau**
-![Nomad Dashboard](slide/img/dashboard.png.png)
+![Nomad Dashboard](slide/img/dashboard.png)
 **Features:**
 - Compare nomad metrics and coworking scores
 - Visualize global coworking opportunity cities
