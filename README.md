@@ -196,7 +196,7 @@ coworking_potential_score = (
 ## 📊 Tableau Dashboard
 
 **Interactive dashboard built with Tableau**
-
+![Nomad Dashboard](slide/img/dashboard.png.png)
 **Features:**
 - Compare nomad metrics and coworking scores
 - Visualize global coworking opportunity cities
@@ -225,6 +225,11 @@ coworking_potential_score = (
 
 Tasks were managed using a Jira board
 (https://rebeccaaawoo.atlassian.net/jira/software/projects/DAP/boards/1?atlOrigin=eyJpIjoiMDE2YWFiNDIyNTFmNDZkZTgzMTM1OTRjNmU0NjQyMmEiLCJwIjoiaiJ9)
+
+---
+
+## Presentation (Canva)
+(https://www.canva.com/design/DAGhaH3yF4E/RsY9lXTLT7EKUzRusN7ocw/edit?utm_content=DAGhaH3yF4E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
